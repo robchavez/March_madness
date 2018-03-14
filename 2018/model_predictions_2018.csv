@@ -1,0 +1,4625 @@
+,Team1,Team2,predicted_winner,probability_difference
+1,Alabama,Arizona St,Arizona St,0
+2,Alabama,Arizona,Arizona,4
+3,Alabama,Arkansas,Arkansas,7.6
+4,Alabama,Auburn,Auburn,4
+5,Alabama,Bucknell,Alabama,6
+6,Alabama,Buffalo,Buffalo,1.4
+7,Alabama,Butler,Alabama,0.2
+8,Alabama,CS Fullerton,Alabama,4
+9,Alabama,Charleston So,Alabama,0.2
+10,Alabama,Cincinnati,Cincinnati,2.8
+11,Alabama,Clemson,Alabama,2
+12,Alabama,Creighton,Creighton,5.4
+13,Alabama,Davidson,Davidson,0.2
+14,Alabama,Duke,Duke,2.2
+15,Alabama,Florida St,Florida St,3.2
+16,Alabama,Florida,Florida,0
+17,Alabama,Georgia St,Alabama,8.4
+18,Alabama,Gonzaga,Gonzaga,4.2
+19,Alabama,Houston,Alabama,3.2
+20,Alabama,Iona,Alabama,3.4
+21,Alabama,Kansas St,Kansas St,0.2
+22,Alabama,Kansas,Kansas,13.8
+23,Alabama,Kentucky,Kentucky,4.4
+24,Alabama,Lipscomb,Lipscomb,4.6
+25,Alabama,Long Island,Alabama,0.4
+26,Alabama,Loyola-Chicago,Alabama,4.6
+27,Alabama,Marshall,Marshall,8.6
+28,Alabama,UMBC,UMBC,5.6
+29,Alabama,Miami FL,Alabama,2.8
+30,Alabama,Michigan St,Michigan St,8
+31,Alabama,Michigan,Michigan,1.6
+32,Alabama,Missouri,Alabama,1.6
+33,Alabama,Montana,Alabama,5.8
+34,Alabama,Murray St,Alabama,4
+35,Alabama,Nevada,Nevada,1.8
+36,Alabama,New Mexico St,New Mexico St,1
+37,Alabama,NC Central,Alabama,0.6
+38,Alabama,UNC Greensboro,Alabama,2.8
+39,Alabama,NC State,NC State,2.4
+40,Alabama,North Carolina,North Carolina,16.8
+41,Alabama,Ohio St,Ohio St,0.2
+42,Alabama,Oklahoma,Oklahoma,1.4
+43,Alabama,Penn,Penn,1.4
+44,Alabama,Providence,Providence,1.6
+45,Alabama,Purdue,Purdue,1.4
+46,Alabama,Radford,Alabama,2.6
+47,Alabama,Rhode Island,Alabama,4.6
+48,Alabama,San Diego St,San Diego St,2.6
+49,Alabama,Seton Hall,Seton Hall,0.4
+50,Alabama,S Dakota St,Alabama,2.8
+51,Alabama,St Bonaventure,Alabama,3.6
+52,Alabama,SF Austin,Alabama,0.2
+53,Alabama,Syracuse,Syracuse,3.8
+54,Alabama,Tennessee,Tennessee,5.2
+55,Alabama,Texas A&M,Texas A&M,3.2
+56,Alabama,TCU,TCU,3.6
+57,Alabama,TX Southern,Alabama,1
+58,Alabama,Texas Tech,Alabama,6
+59,Alabama,Texas,Texas,1.8
+60,Alabama,UCLA,UCLA,5.8
+61,Alabama,Villanova,Villanova,9.8
+62,Alabama,Virginia Tech,Virginia Tech,2
+63,Alabama,Virginia,Virginia,1
+64,Alabama,West Virginia,West Virginia,6.6
+65,Alabama,Wichita St,Wichita St,1
+66,Alabama,Wright St,Alabama,5
+67,Alabama,Xavier,Xavier,7
+68,Alabama,Middle Tenn St,Alabama,0.4
+69,Arizona St,Alabama,Alabama,0
+70,Arizona St,Arizona,Arizona,1.4
+71,Arizona St,Arkansas,Arkansas,6.6
+72,Arizona St,Auburn,Arizona St,1.2
+73,Arizona St,Bucknell,Arizona St,3.6
+74,Arizona St,Buffalo,Buffalo,0.8
+75,Arizona St,Butler,Butler,3
+76,Arizona St,CS Fullerton,Arizona St,7.6
+77,Arizona St,Charleston So,Arizona St,2
+78,Arizona St,Cincinnati,Cincinnati,4.4
+79,Arizona St,Clemson,Clemson,1.8
+80,Arizona St,Creighton,Creighton,3.8
+81,Arizona St,Davidson,Davidson,4.4
+82,Arizona St,Duke,Duke,1.4
+83,Arizona St,Florida St,Florida St,1.4
+84,Arizona St,Florida,Arizona St,0.2
+85,Arizona St,Georgia St,Arizona St,9.2
+86,Arizona St,Gonzaga,Gonzaga,4.4
+87,Arizona St,Houston,Houston,0.2
+88,Arizona St,Iona,Arizona St,3
+89,Arizona St,Kansas St,Kansas St,0.8
+90,Arizona St,Kansas,Kansas,11.6
+91,Arizona St,Kentucky,Kentucky,4.8
+92,Arizona St,Lipscomb,Lipscomb,3.4
+93,Arizona St,Long Island,Arizona St,3.2
+94,Arizona St,Loyola-Chicago,Arizona St,7.8
+95,Arizona St,Marshall,Marshall,3
+96,Arizona St,UMBC,Arizona St,0.2
+97,Arizona St,Miami FL,Miami FL,2.6
+98,Arizona St,Michigan St,Michigan St,9.8
+99,Arizona St,Michigan,Michigan,0.8
+100,Arizona St,Missouri,Arizona St,8
+101,Arizona St,Montana,Arizona St,7.4
+102,Arizona St,Murray St,Arizona St,3.8
+103,Arizona St,Nevada,Nevada,6
+104,Arizona St,New Mexico St,Arizona St,1.8
+105,Arizona St,NC Central,Arizona St,2.6
+106,Arizona St,UNC Greensboro,Arizona St,1
+107,Arizona St,NC State,NC State,3.6
+108,Arizona St,North Carolina,North Carolina,12.6
+109,Arizona St,Ohio St,Ohio St,2.4
+110,Arizona St,Oklahoma,Oklahoma,4.2
+111,Arizona St,Penn,Arizona St,4.2
+112,Arizona St,Providence,Providence,3.4
+113,Arizona St,Purdue,Purdue,5
+114,Arizona St,Radford,Arizona St,2.8
+115,Arizona St,Rhode Island,Arizona St,6.2
+116,Arizona St,San Diego St,San Diego St,2.4
+117,Arizona St,Seton Hall,Seton Hall,1.8
+118,Arizona St,S Dakota St,Arizona St,1.6
+119,Arizona St,St Bonaventure,Arizona St,3.2
+120,Arizona St,SF Austin,SF Austin,0.2
+121,Arizona St,Syracuse,Syracuse,1.4
+122,Arizona St,Tennessee,Tennessee,0
+123,Arizona St,Texas A&M,Texas A&M,2.8
+124,Arizona St,TCU,Arizona St,0.8
+125,Arizona St,TX Southern,Arizona St,2.4
+126,Arizona St,Texas Tech,Arizona St,3.4
+127,Arizona St,Texas,Texas,0.2
+128,Arizona St,UCLA,UCLA,3
+129,Arizona St,Villanova,Villanova,12
+130,Arizona St,Virginia Tech,Virginia Tech,0.6
+131,Arizona St,Virginia,Virginia,0.2
+132,Arizona St,West Virginia,West Virginia,0.4
+133,Arizona St,Wichita St,Arizona St,4.4
+134,Arizona St,Wright St,Arizona St,3.8
+135,Arizona St,Xavier,Xavier,4.4
+136,Arizona St,Middle Tenn St,Arizona St,1
+137,Arizona,Alabama,Arizona,4
+138,Arizona,Arizona St,Arizona,1.4
+139,Arizona,Arkansas,Arkansas,4.8
+140,Arizona,Auburn,Arizona,5.6
+141,Arizona,Bucknell,Arizona,7.6
+142,Arizona,Buffalo,Arizona,1.4
+143,Arizona,Butler,Arizona,4.2
+144,Arizona,CS Fullerton,Arizona,16.8
+145,Arizona,Charleston So,Arizona,16.2
+146,Arizona,Cincinnati,Cincinnati,2
+147,Arizona,Clemson,Arizona,7.4
+148,Arizona,Creighton,Creighton,3.6
+149,Arizona,Davidson,Davidson,3
+150,Arizona,Duke,Duke,2
+151,Arizona,Florida St,Florida St,1.4
+152,Arizona,Florida,Arizona,1.4
+153,Arizona,Georgia St,Arizona,14.6
+154,Arizona,Gonzaga,Gonzaga,0.4
+155,Arizona,Houston,Arizona,1.6
+156,Arizona,Iona,Arizona,0.4
+157,Arizona,Kansas St,Arizona,2.4
+158,Arizona,Kansas,Kansas,7.4
+159,Arizona,Kentucky,Kentucky,5.2
+160,Arizona,Lipscomb,Arizona,3.2
+161,Arizona,Long Island,Arizona,2.4
+162,Arizona,Loyola-Chicago,Arizona,16.8
+163,Arizona,Marshall,Marshall,5.8
+164,Arizona,UMBC,Arizona,10
+165,Arizona,Miami FL,Arizona,4
+166,Arizona,Michigan St,Michigan St,3.4
+167,Arizona,Michigan,Arizona,0.8
+168,Arizona,Missouri,Arizona,12.8
+169,Arizona,Montana,Arizona,6.4
+170,Arizona,Murray St,Arizona,12.6
+171,Arizona,Nevada,Arizona,3.2
+172,Arizona,New Mexico St,New Mexico St,0.4
+173,Arizona,NC Central,Arizona,14.6
+174,Arizona,UNC Greensboro,Arizona,11
+175,Arizona,NC State,Arizona,4.8
+176,Arizona,North Carolina,North Carolina,5.6
+177,Arizona,Ohio St,Ohio St,1.2
+178,Arizona,Oklahoma,Arizona,1
+179,Arizona,Penn,Arizona,17.6
+180,Arizona,Providence,Providence,4.6
+181,Arizona,Purdue,Purdue,1.2
+182,Arizona,Radford,Arizona,10.4
+183,Arizona,Rhode Island,Arizona,9.6
+184,Arizona,San Diego St,San Diego St,2.4
+185,Arizona,Seton Hall,Seton Hall,3.6
+186,Arizona,S Dakota St,Arizona,6.6
+187,Arizona,St Bonaventure,Arizona,6
+188,Arizona,SF Austin,SF Austin,2
+189,Arizona,Syracuse,Syracuse,3.6
+190,Arizona,Tennessee,Tennessee,0.8
+191,Arizona,Texas A&M,Texas A&M,4.4
+192,Arizona,TCU,Arizona,6.2
+193,Arizona,TX Southern,Arizona,7.8
+194,Arizona,Texas Tech,Arizona,5
+195,Arizona,Texas,Arizona,1.4
+196,Arizona,UCLA,Arizona,2.4
+197,Arizona,Villanova,Villanova,8.6
+198,Arizona,Virginia Tech,Arizona,4.6
+199,Arizona,Virginia,Arizona,1
+200,Arizona,West Virginia,Arizona,0.8
+201,Arizona,Wichita St,Wichita St,1.6
+202,Arizona,Wright St,Arizona,6
+203,Arizona,Xavier,Xavier,3.6
+204,Arizona,Middle Tenn St,Arizona,1.8
+205,Arkansas,Alabama,Arkansas,7.6
+206,Arkansas,Arizona St,Arkansas,6.6
+207,Arkansas,Arizona,Arkansas,4.8
+208,Arkansas,Auburn,Arkansas,6.6
+209,Arkansas,Bucknell,Arkansas,7.6
+210,Arkansas,Buffalo,Arkansas,4.6
+211,Arkansas,Butler,Arkansas,1
+212,Arkansas,CS Fullerton,Arkansas,7.2
+213,Arkansas,Charleston So,Arkansas,8.2
+214,Arkansas,Cincinnati,Arkansas,4
+215,Arkansas,Clemson,Arkansas,4.8
+216,Arkansas,Creighton,Arkansas,1.6
+217,Arkansas,Davidson,Arkansas,0.4
+218,Arkansas,Duke,Duke,1.4
+219,Arkansas,Florida St,Arkansas,2
+220,Arkansas,Florida,Arkansas,6.8
+221,Arkansas,Georgia St,Arkansas,14.4
+222,Arkansas,Gonzaga,Arkansas,2.4
+223,Arkansas,Houston,Arkansas,10.4
+224,Arkansas,Iona,Arkansas,3.8
+225,Arkansas,Kansas St,Arkansas,3.8
+226,Arkansas,Kansas,Kansas,6
+227,Arkansas,Kentucky,Kentucky,4.4
+228,Arkansas,Lipscomb,Arkansas,0.2
+229,Arkansas,Long Island,Arkansas,4.8
+230,Arkansas,Loyola-Chicago,Arkansas,8.6
+231,Arkansas,Marshall,Marshall,2
+232,Arkansas,UMBC,UMBC,0
+233,Arkansas,Miami FL,Arkansas,2
+234,Arkansas,Michigan St,Michigan St,2.8
+235,Arkansas,Michigan,Arkansas,4
+236,Arkansas,Missouri,Arkansas,6.2
+237,Arkansas,Montana,Arkansas,10.4
+238,Arkansas,Murray St,Arkansas,9.2
+239,Arkansas,Nevada,Nevada,1.6
+240,Arkansas,New Mexico St,Arkansas,2.6
+241,Arkansas,NC Central,Arkansas,7.6
+242,Arkansas,UNC Greensboro,Arkansas,9.8
+243,Arkansas,NC State,Arkansas,4.2
+244,Arkansas,North Carolina,North Carolina,15.2
+245,Arkansas,Ohio St,Arkansas,8.4
+246,Arkansas,Oklahoma,Arkansas,1.8
+247,Arkansas,Penn,Arkansas,4.8
+248,Arkansas,Providence,Arkansas,2.6
+249,Arkansas,Purdue,Purdue,0
+250,Arkansas,Radford,Arkansas,6.8
+251,Arkansas,Rhode Island,Arkansas,12.8
+252,Arkansas,San Diego St,San Diego St,1.6
+253,Arkansas,Seton Hall,Arkansas,5.2
+254,Arkansas,S Dakota St,Arkansas,6.8
+255,Arkansas,St Bonaventure,Arkansas,5.6
+256,Arkansas,SF Austin,SF Austin,3.2
+257,Arkansas,Syracuse,Arkansas,6.4
+258,Arkansas,Tennessee,Arkansas,3.4
+259,Arkansas,Texas A&M,Texas A&M,3.6
+260,Arkansas,TCU,Arkansas,5.4
+261,Arkansas,TX Southern,Arkansas,6.8
+262,Arkansas,Texas Tech,Arkansas,3.2
+263,Arkansas,Texas,Arkansas,4
+264,Arkansas,UCLA,Arkansas,0.4
+265,Arkansas,Villanova,Villanova,9.8
+266,Arkansas,Virginia Tech,Arkansas,3.8
+267,Arkansas,Virginia,Arkansas,1.6
+268,Arkansas,West Virginia,West Virginia,0.8
+269,Arkansas,Wichita St,Arkansas,1
+270,Arkansas,Wright St,Arkansas,9.2
+271,Arkansas,Xavier,Arkansas,4.4
+272,Arkansas,Middle Tenn St,Arkansas,6.4
+273,Auburn,Alabama,Auburn,4
+274,Auburn,Arizona St,Arizona St,1.2
+275,Auburn,Arizona,Arizona,5.6
+276,Auburn,Arkansas,Arkansas,6.6
+277,Auburn,Bucknell,Auburn,4
+278,Auburn,Buffalo,Buffalo,5.2
+279,Auburn,Butler,Butler,5
+280,Auburn,CS Fullerton,Auburn,6.2
+281,Auburn,Charleston So,Auburn,4.6
+282,Auburn,Cincinnati,Cincinnati,5.2
+283,Auburn,Clemson,Auburn,1.4
+284,Auburn,Creighton,Creighton,2.6
+285,Auburn,Davidson,Davidson,0.8
+286,Auburn,Duke,Duke,6.2
+287,Auburn,Florida St,Florida St,6.2
+288,Auburn,Florida,Florida,4
+289,Auburn,Georgia St,Auburn,12.6
+290,Auburn,Gonzaga,Gonzaga,6.4
+291,Auburn,Houston,Houston,2.2
+292,Auburn,Iona,Iona,1.4
+293,Auburn,Kansas St,Kansas St,0.4
+294,Auburn,Kansas,Kansas,15.6
+295,Auburn,Kentucky,Kentucky,9.8
+296,Auburn,Lipscomb,Lipscomb,3.2
+297,Auburn,Long Island,Long Island,0.8
+298,Auburn,Loyola-Chicago,Auburn,9.8
+299,Auburn,Marshall,Marshall,8.4
+300,Auburn,UMBC,UMBC,2
+301,Auburn,Miami FL,Miami FL,0.2
+302,Auburn,Michigan St,Michigan St,9.4
+303,Auburn,Michigan,Michigan,5.2
+304,Auburn,Missouri,Auburn,5.2
+305,Auburn,Montana,Auburn,0.8
+306,Auburn,Murray St,Auburn,5.2
+307,Auburn,Nevada,Nevada,2.6
+308,Auburn,New Mexico St,New Mexico St,4.6
+309,Auburn,NC Central,Auburn,2.8
+310,Auburn,UNC Greensboro,Auburn,4
+311,Auburn,NC State,NC State,4.8
+312,Auburn,North Carolina,North Carolina,15.6
+313,Auburn,Ohio St,Ohio St,2.4
+314,Auburn,Oklahoma,Oklahoma,5
+315,Auburn,Penn,Auburn,1.6
+316,Auburn,Providence,Providence,4.8
+317,Auburn,Purdue,Purdue,5.8
+318,Auburn,Radford,Auburn,6.6
+319,Auburn,Rhode Island,Auburn,7.8
+320,Auburn,San Diego St,San Diego St,5.8
+321,Auburn,Seton Hall,Seton Hall,3.2
+322,Auburn,S Dakota St,S Dakota St,4.2
+323,Auburn,St Bonaventure,Auburn,0.2
+324,Auburn,SF Austin,SF Austin,1.6
+325,Auburn,Syracuse,Syracuse,0.2
+326,Auburn,Tennessee,Tennessee,1.6
+327,Auburn,Texas A&M,Texas A&M,10.2
+328,Auburn,TCU,Auburn,2
+329,Auburn,TX Southern,TX Southern,3.6
+330,Auburn,Texas Tech,Auburn,5.2
+331,Auburn,Texas,Texas,3
+332,Auburn,UCLA,UCLA,4.6
+333,Auburn,Villanova,Villanova,11.2
+334,Auburn,Virginia Tech,Auburn,0.4
+335,Auburn,Virginia,Virginia,2.2
+336,Auburn,West Virginia,West Virginia,7.6
+337,Auburn,Wichita St,Auburn,0.2
+338,Auburn,Wright St,Wright St,0.4
+339,Auburn,Xavier,Xavier,4.8
+340,Auburn,Middle Tenn St,Middle Tenn St,1.8
+341,Bucknell,Alabama,Alabama,6
+342,Bucknell,Arizona St,Arizona St,3.6
+343,Bucknell,Arizona,Arizona,7.6
+344,Bucknell,Arkansas,Arkansas,7.6
+345,Bucknell,Auburn,Auburn,4
+346,Bucknell,Buffalo,Buffalo,9.6
+347,Bucknell,Butler,Butler,4
+348,Bucknell,CS Fullerton,Bucknell,2.8
+349,Bucknell,Charleston So,Charleston So,1.6
+350,Bucknell,Cincinnati,Cincinnati,2
+351,Bucknell,Clemson,Clemson,1
+352,Bucknell,Creighton,Creighton,11.2
+353,Bucknell,Davidson,Davidson,5.6
+354,Bucknell,Duke,Duke,11.2
+355,Bucknell,Florida St,Florida St,9.4
+356,Bucknell,Florida,Florida,6.6
+357,Bucknell,Georgia St,Bucknell,5.6
+358,Bucknell,Gonzaga,Gonzaga,13.4
+359,Bucknell,Houston,Bucknell,1
+360,Bucknell,Iona,Iona,11.4
+361,Bucknell,Kansas St,Kansas St,0.4
+362,Bucknell,Kansas,Kansas,12.4
+363,Bucknell,Kentucky,Kentucky,10.2
+364,Bucknell,Lipscomb,Lipscomb,8
+365,Bucknell,Long Island,Bucknell,0.4
+366,Bucknell,Loyola-Chicago,Bucknell,5.6
+367,Bucknell,Marshall,Marshall,6.6
+368,Bucknell,UMBC,UMBC,3.2
+369,Bucknell,Miami FL,Miami FL,1.4
+370,Bucknell,Michigan St,Michigan St,9
+371,Bucknell,Michigan,Michigan,6.8
+372,Bucknell,Missouri,Bucknell,2.6
+373,Bucknell,Montana,Bucknell,3.2
+374,Bucknell,Murray St,Bucknell,0.2
+375,Bucknell,Nevada,Nevada,2
+376,Bucknell,New Mexico St,New Mexico St,4.4
+377,Bucknell,NC Central,NC Central,0
+378,Bucknell,UNC Greensboro,UNC Greensboro,5.8
+379,Bucknell,NC State,NC State,7.2
+380,Bucknell,North Carolina,North Carolina,19.6
+381,Bucknell,Ohio St,Ohio St,2.8
+382,Bucknell,Oklahoma,Oklahoma,8.2
+383,Bucknell,Penn,Bucknell,4.6
+384,Bucknell,Providence,Providence,7
+385,Bucknell,Purdue,Purdue,11
+386,Bucknell,Radford,Radford,0.6
+387,Bucknell,Rhode Island,Bucknell,5.8
+388,Bucknell,San Diego St,San Diego St,11.4
+389,Bucknell,Seton Hall,Seton Hall,3
+390,Bucknell,S Dakota St,S Dakota St,4.4
+391,Bucknell,St Bonaventure,St Bonaventure,3.2
+392,Bucknell,SF Austin,SF Austin,10.2
+393,Bucknell,Syracuse,Syracuse,2.8
+394,Bucknell,Tennessee,Tennessee,8.8
+395,Bucknell,Texas A&M,Texas A&M,10.6
+396,Bucknell,TCU,TCU,3.6
+397,Bucknell,TX Southern,TX Southern,1.4
+398,Bucknell,Texas Tech,Bucknell,1
+399,Bucknell,Texas,Texas,4.2
+400,Bucknell,UCLA,UCLA,9.4
+401,Bucknell,Villanova,Villanova,16.2
+402,Bucknell,Virginia Tech,Virginia Tech,2
+403,Bucknell,Virginia,Virginia,0.4
+404,Bucknell,West Virginia,West Virginia,8.2
+405,Bucknell,Wichita St,Wichita St,1.4
+406,Bucknell,Wright St,Wright St,4
+407,Bucknell,Xavier,Xavier,12
+408,Bucknell,Middle Tenn St,Middle Tenn St,7.2
+409,Buffalo,Alabama,Buffalo,1.4
+410,Buffalo,Arizona St,Buffalo,0.8
+411,Buffalo,Arizona,Arizona,1.4
+412,Buffalo,Arkansas,Arkansas,4.6
+413,Buffalo,Auburn,Buffalo,5.2
+414,Buffalo,Bucknell,Buffalo,9.6
+415,Buffalo,Butler,Buffalo,1
+416,Buffalo,CS Fullerton,Buffalo,8.8
+417,Buffalo,Charleston So,Buffalo,6.8
+418,Buffalo,Cincinnati,Cincinnati,3
+419,Buffalo,Clemson,Buffalo,1.4
+420,Buffalo,Creighton,Creighton,0.6
+421,Buffalo,Davidson,Davidson,7.6
+422,Buffalo,Duke,Duke,2.4
+423,Buffalo,Florida St,Florida St,2.6
+424,Buffalo,Florida,Florida,3.2
+425,Buffalo,Georgia St,Buffalo,8.2
+426,Buffalo,Gonzaga,Gonzaga,3.2
+427,Buffalo,Houston,Buffalo,5
+428,Buffalo,Iona,Iona,5.6
+429,Buffalo,Kansas St,Buffalo,3.8
+430,Buffalo,Kansas,Kansas,10.6
+431,Buffalo,Kentucky,Kentucky,3.2
+432,Buffalo,Lipscomb,Lipscomb,6.2
+433,Buffalo,Long Island,Buffalo,1.8
+434,Buffalo,Loyola-Chicago,Buffalo,7.2
+435,Buffalo,Marshall,Marshall,6.6
+436,Buffalo,UMBC,Buffalo,5.8
+437,Buffalo,Miami FL,Buffalo,2
+438,Buffalo,Michigan St,Michigan St,6.4
+439,Buffalo,Michigan,Michigan,1.2
+440,Buffalo,Missouri,Buffalo,3.2
+441,Buffalo,Montana,Buffalo,9.2
+442,Buffalo,Murray St,Buffalo,9.2
+443,Buffalo,Nevada,Nevada,2.6
+444,Buffalo,New Mexico St,Buffalo,3
+445,Buffalo,NC Central,Buffalo,6.6
+446,Buffalo,UNC Greensboro,Buffalo,6.8
+447,Buffalo,NC State,Buffalo,2.2
+448,Buffalo,North Carolina,North Carolina,11
+449,Buffalo,Ohio St,Buffalo,0.2
+450,Buffalo,Oklahoma,Oklahoma,1.4
+451,Buffalo,Penn,Buffalo,6.6
+452,Buffalo,Providence,Providence,5.2
+453,Buffalo,Purdue,Purdue,4.2
+454,Buffalo,Radford,Buffalo,5.8
+455,Buffalo,Rhode Island,Buffalo,7.4
+456,Buffalo,San Diego St,San Diego St,1.4
+457,Buffalo,Seton Hall,Buffalo,3.4
+458,Buffalo,S Dakota St,Buffalo,2
+459,Buffalo,St Bonaventure,Buffalo,1.8
+460,Buffalo,SF Austin,SF Austin,4.6
+461,Buffalo,Syracuse,Buffalo,2.4
+462,Buffalo,Tennessee,Buffalo,0.8
+463,Buffalo,Texas A&M,Texas A&M,4.2
+464,Buffalo,TCU,Buffalo,2.2
+465,Buffalo,TX Southern,Buffalo,3.2
+466,Buffalo,Texas Tech,Buffalo,1.4
+467,Buffalo,Texas,Texas,3
+468,Buffalo,UCLA,UCLA,2.2
+469,Buffalo,Villanova,Villanova,12
+470,Buffalo,Virginia Tech,Buffalo,2.2
+471,Buffalo,Virginia,Buffalo,2.6
+472,Buffalo,West Virginia,West Virginia,3
+473,Buffalo,Wichita St,Wichita St,1
+474,Buffalo,Wright St,Buffalo,3
+475,Buffalo,Xavier,Buffalo,1.8
+476,Buffalo,Middle Tenn St,Buffalo,1.4
+477,Butler,Alabama,Alabama,0.2
+478,Butler,Arizona St,Butler,3
+479,Butler,Arizona,Arizona,4.2
+480,Butler,Arkansas,Arkansas,1
+481,Butler,Auburn,Butler,5
+482,Butler,Bucknell,Butler,4
+483,Butler,Buffalo,Buffalo,1
+484,Butler,CS Fullerton,Butler,7.2
+485,Butler,Charleston So,Butler,3.4
+486,Butler,Cincinnati,Cincinnati,1.4
+487,Butler,Clemson,Butler,1.4
+488,Butler,Creighton,Creighton,5.4
+489,Butler,Davidson,Davidson,3.2
+490,Butler,Duke,Duke,3.2
+491,Butler,Florida St,Florida St,1.4
+492,Butler,Florida,Florida,0.2
+493,Butler,Georgia St,Butler,8.4
+494,Butler,Gonzaga,Gonzaga,4.8
+495,Butler,Houston,Houston,1
+496,Butler,Iona,Butler,3
+497,Butler,Kansas St,Butler,4.6
+498,Butler,Kansas,Kansas,6.8
+499,Butler,Kentucky,Kentucky,8.2
+500,Butler,Lipscomb,Butler,1
+501,Butler,Long Island,Butler,2.6
+502,Butler,Loyola-Chicago,Butler,7.2
+503,Butler,Marshall,Marshall,6.2
+504,Butler,UMBC,Butler,1.2
+505,Butler,Miami FL,Butler,1
+506,Butler,Michigan St,Michigan St,5
+507,Butler,Michigan,Michigan,0
+508,Butler,Missouri,Butler,6
+509,Butler,Montana,Butler,8.4
+510,Butler,Murray St,Butler,6.8
+511,Butler,Nevada,Butler,3
+512,Butler,New Mexico St,Butler,4.2
+513,Butler,NC Central,Butler,6
+514,Butler,UNC Greensboro,Butler,5
+515,Butler,NC State,NC State,0.4
+516,Butler,North Carolina,North Carolina,13.6
+517,Butler,Ohio St,Ohio St,2.2
+518,Butler,Oklahoma,Oklahoma,1.6
+519,Butler,Penn,Butler,7.2
+520,Butler,Providence,Butler,0.4
+521,Butler,Purdue,Purdue,7.4
+522,Butler,Radford,Butler,4.8
+523,Butler,Rhode Island,Butler,6
+524,Butler,San Diego St,San Diego St,3.4
+525,Butler,Seton Hall,Butler,4.6
+526,Butler,S Dakota St,Butler,1.6
+527,Butler,St Bonaventure,Butler,4.2
+528,Butler,SF Austin,SF Austin,0.2
+529,Butler,Syracuse,Butler,1
+530,Butler,Tennessee,Tennessee,1.6
+531,Butler,Texas A&M,Texas A&M,4.6
+532,Butler,TCU,Butler,2
+533,Butler,TX Southern,Butler,5.6
+534,Butler,Texas Tech,Butler,5
+535,Butler,Texas,Texas,2
+536,Butler,UCLA,UCLA,2.2
+537,Butler,Villanova,Villanova,7.2
+538,Butler,Virginia Tech,Butler,1
+539,Butler,Virginia,Virginia,2
+540,Butler,West Virginia,West Virginia,3.8
+541,Butler,Wichita St,Wichita St,2.4
+542,Butler,Wright St,Butler,1.6
+543,Butler,Xavier,Xavier,4.6
+544,Butler,Middle Tenn St,Butler,1.4
+545,CS Fullerton,Alabama,Alabama,4
+546,CS Fullerton,Arizona St,Arizona St,7.6
+547,CS Fullerton,Arizona,Arizona,16.8
+548,CS Fullerton,Arkansas,Arkansas,7.2
+549,CS Fullerton,Auburn,Auburn,6.2
+550,CS Fullerton,Bucknell,Bucknell,2.8
+551,CS Fullerton,Buffalo,Buffalo,8.8
+552,CS Fullerton,Butler,Butler,7.2
+553,CS Fullerton,Charleston So,Charleston So,3.2
+554,CS Fullerton,Cincinnati,Cincinnati,6.2
+555,CS Fullerton,Clemson,Clemson,0.8
+556,CS Fullerton,Creighton,Creighton,10.2
+557,CS Fullerton,Davidson,Davidson,7.6
+558,CS Fullerton,Duke,Duke,9.4
+559,CS Fullerton,Florida St,Florida St,9.2
+560,CS Fullerton,Florida,Florida,9.8
+561,CS Fullerton,Georgia St,CS Fullerton,4.4
+562,CS Fullerton,Gonzaga,Gonzaga,18
+563,CS Fullerton,Houston,Houston,5.8
+564,CS Fullerton,Iona,Iona,8.4
+565,CS Fullerton,Kansas St,Kansas St,3.2
+566,CS Fullerton,Kansas,Kansas,15.6
+567,CS Fullerton,Kentucky,Kentucky,13.6
+568,CS Fullerton,Lipscomb,Lipscomb,7
+569,CS Fullerton,Long Island,Long Island,2.4
+570,CS Fullerton,Loyola-Chicago,CS Fullerton,0.6
+571,CS Fullerton,Marshall,Marshall,13.4
+572,CS Fullerton,UMBC,UMBC,6.6
+573,CS Fullerton,Miami FL,Miami FL,4
+574,CS Fullerton,Michigan St,Michigan St,12.2
+575,CS Fullerton,Michigan,Michigan,10.2
+576,CS Fullerton,Missouri,Missouri,1
+577,CS Fullerton,Montana,Montana,2.8
+578,CS Fullerton,Murray St,Murray St,4.2
+579,CS Fullerton,Nevada,Nevada,3.4
+580,CS Fullerton,New Mexico St,New Mexico St,8.6
+581,CS Fullerton,NC Central,NC Central,3.4
+582,CS Fullerton,UNC Greensboro,UNC Greensboro,4.2
+583,CS Fullerton,NC State,NC State,9.2
+584,CS Fullerton,North Carolina,North Carolina,18.8
+585,CS Fullerton,Ohio St,Ohio St,4.6
+586,CS Fullerton,Oklahoma,Oklahoma,11
+587,CS Fullerton,Penn,Penn,0.4
+588,CS Fullerton,Providence,Providence,6.4
+589,CS Fullerton,Purdue,Purdue,14.6
+590,CS Fullerton,Radford,CS Fullerton,1.4
+591,CS Fullerton,Rhode Island,Rhode Island,0
+592,CS Fullerton,San Diego St,San Diego St,7.4
+593,CS Fullerton,Seton Hall,Seton Hall,7.8
+594,CS Fullerton,S Dakota St,S Dakota St,10.8
+595,CS Fullerton,St Bonaventure,St Bonaventure,6.6
+596,CS Fullerton,SF Austin,SF Austin,7.2
+597,CS Fullerton,Syracuse,Syracuse,3.4
+598,CS Fullerton,Tennessee,Tennessee,9.2
+599,CS Fullerton,Texas A&M,Texas A&M,8
+600,CS Fullerton,TCU,TCU,1.4
+601,CS Fullerton,TX Southern,TX Southern,7.4
+602,CS Fullerton,Texas Tech,Texas Tech,1.4
+603,CS Fullerton,Texas,Texas,1.8
+604,CS Fullerton,UCLA,UCLA,12.4
+605,CS Fullerton,Villanova,Villanova,13
+606,CS Fullerton,Virginia Tech,Virginia Tech,6.2
+607,CS Fullerton,Virginia,Virginia,5.2
+608,CS Fullerton,West Virginia,West Virginia,14.2
+609,CS Fullerton,Wichita St,Wichita St,2.8
+610,CS Fullerton,Wright St,Wright St,9.6
+611,CS Fullerton,Xavier,Xavier,12.8
+612,CS Fullerton,Middle Tenn St,Middle Tenn St,8.8
+613,Charleston So,Alabama,Alabama,0.2
+614,Charleston So,Arizona St,Arizona St,2
+615,Charleston So,Arizona,Arizona,16.2
+616,Charleston So,Arkansas,Arkansas,8.2
+617,Charleston So,Auburn,Auburn,4.6
+618,Charleston So,Bucknell,Charleston So,1.6
+619,Charleston So,Buffalo,Buffalo,6.8
+620,Charleston So,Butler,Butler,3.4
+621,Charleston So,CS Fullerton,Charleston So,3.2
+622,Charleston So,Cincinnati,Cincinnati,6.8
+623,Charleston So,Clemson,Clemson,1.8
+624,Charleston So,Creighton,Creighton,5
+625,Charleston So,Davidson,Davidson,3.6
+626,Charleston So,Duke,Duke,7
+627,Charleston So,Florida St,Florida St,9
+628,Charleston So,Florida,Florida,5.4
+629,Charleston So,Georgia St,Charleston So,4.4
+630,Charleston So,Gonzaga,Gonzaga,12.4
+631,Charleston So,Houston,Houston,2.8
+632,Charleston So,Iona,Iona,4.2
+633,Charleston So,Kansas St,Charleston So,1.6
+634,Charleston So,Kansas,Kansas,15
+635,Charleston So,Kentucky,Kentucky,13.2
+636,Charleston So,Lipscomb,Lipscomb,4.6
+637,Charleston So,Long Island,Long Island,1.4
+638,Charleston So,Loyola-Chicago,Charleston So,1.2
+639,Charleston So,Marshall,Marshall,9.4
+640,Charleston So,UMBC,UMBC,3.2
+641,Charleston So,Miami FL,Miami FL,2.6
+642,Charleston So,Michigan St,Michigan St,12.6
+643,Charleston So,Michigan,Michigan,6.6
+644,Charleston So,Missouri,Charleston So,0.2
+645,Charleston So,Montana,Montana,3.4
+646,Charleston So,Murray St,Murray St,2
+647,Charleston So,Nevada,Nevada,0
+648,Charleston So,New Mexico St,New Mexico St,9.4
+649,Charleston So,NC Central,Charleston So,1
+650,Charleston So,UNC Greensboro,UNC Greensboro,0.6
+651,Charleston So,NC State,NC State,7.2
+652,Charleston So,North Carolina,North Carolina,13.2
+653,Charleston So,Ohio St,Ohio St,3.6
+654,Charleston So,Oklahoma,Oklahoma,8.6
+655,Charleston So,Penn,Charleston So,1.4
+656,Charleston So,Providence,Providence,5.4
+657,Charleston So,Purdue,Purdue,12.6
+658,Charleston So,Radford,Charleston So,1.8
+659,Charleston So,Rhode Island,Rhode Island,0.4
+660,Charleston So,San Diego St,San Diego St,5.8
+661,Charleston So,Seton Hall,Seton Hall,11
+662,Charleston So,S Dakota St,S Dakota St,6.2
+663,Charleston So,St Bonaventure,St Bonaventure,3
+664,Charleston So,SF Austin,SF Austin,5
+665,Charleston So,Syracuse,Syracuse,3.8
+666,Charleston So,Tennessee,Tennessee,5.4
+667,Charleston So,Texas A&M,Texas A&M,10.6
+668,Charleston So,TCU,Charleston So,1.4
+669,Charleston So,TX Southern,TX Southern,3.2
+670,Charleston So,Texas Tech,Texas Tech,0
+671,Charleston So,Texas,Texas,5.8
+672,Charleston So,UCLA,UCLA,13
+673,Charleston So,Villanova,Villanova,12
+674,Charleston So,Virginia Tech,Virginia Tech,2.6
+675,Charleston So,Virginia,Virginia,9.6
+676,Charleston So,West Virginia,West Virginia,10.6
+677,Charleston So,Wichita St,Wichita St,2.2
+678,Charleston So,Wright St,Wright St,3.8
+679,Charleston So,Xavier,Xavier,8.2
+680,Charleston So,Middle Tenn St,Middle Tenn St,8.8
+681,Cincinnati,Alabama,Cincinnati,2.8
+682,Cincinnati,Arizona St,Cincinnati,4.4
+683,Cincinnati,Arizona,Cincinnati,2
+684,Cincinnati,Arkansas,Arkansas,4
+685,Cincinnati,Auburn,Cincinnati,5.2
+686,Cincinnati,Bucknell,Cincinnati,2
+687,Cincinnati,Buffalo,Cincinnati,3
+688,Cincinnati,Butler,Cincinnati,1.4
+689,Cincinnati,CS Fullerton,Cincinnati,6.2
+690,Cincinnati,Charleston So,Cincinnati,6.8
+691,Cincinnati,Clemson,Cincinnati,2.8
+692,Cincinnati,Creighton,Creighton,2.2
+693,Cincinnati,Davidson,Davidson,0
+694,Cincinnati,Duke,Duke,1.2
+695,Cincinnati,Florida St,Florida St,0.8
+696,Cincinnati,Florida,Cincinnati,7.4
+697,Cincinnati,Georgia St,Cincinnati,9.8
+698,Cincinnati,Gonzaga,Cincinnati,3.2
+699,Cincinnati,Houston,Cincinnati,7
+700,Cincinnati,Iona,Cincinnati,9
+701,Cincinnati,Kansas St,Cincinnati,2.2
+702,Cincinnati,Kansas,Kansas,8.8
+703,Cincinnati,Kentucky,Kentucky,0.2
+704,Cincinnati,Lipscomb,Cincinnati,6.2
+705,Cincinnati,Long Island,Cincinnati,6.2
+706,Cincinnati,Loyola-Chicago,Cincinnati,4.6
+707,Cincinnati,Marshall,Cincinnati,3
+708,Cincinnati,UMBC,Cincinnati,2.8
+709,Cincinnati,Miami FL,Cincinnati,7.2
+710,Cincinnati,Michigan St,Cincinnati,0.4
+711,Cincinnati,Michigan,Cincinnati,2.6
+712,Cincinnati,Missouri,Cincinnati,1.2
+713,Cincinnati,Montana,Cincinnati,4.6
+714,Cincinnati,Murray St,Cincinnati,4.4
+715,Cincinnati,Nevada,Cincinnati,1.4
+716,Cincinnati,New Mexico St,Cincinnati,3
+717,Cincinnati,NC Central,Cincinnati,8.6
+718,Cincinnati,UNC Greensboro,Cincinnati,9.2
+719,Cincinnati,NC State,NC State,0.4
+720,Cincinnati,North Carolina,North Carolina,12.8
+721,Cincinnati,Ohio St,Cincinnati,2.2
+722,Cincinnati,Oklahoma,Oklahoma,0.4
+723,Cincinnati,Penn,Cincinnati,8.6
+724,Cincinnati,Providence,Providence,1.6
+725,Cincinnati,Purdue,Purdue,0.4
+726,Cincinnati,Radford,Cincinnati,8.6
+727,Cincinnati,Rhode Island,Cincinnati,9.6
+728,Cincinnati,San Diego St,Cincinnati,4.6
+729,Cincinnati,Seton Hall,Cincinnati,9.4
+730,Cincinnati,S Dakota St,Cincinnati,2.4
+731,Cincinnati,St Bonaventure,Cincinnati,3.6
+732,Cincinnati,SF Austin,Cincinnati,4
+733,Cincinnati,Syracuse,Cincinnati,1.4
+734,Cincinnati,Tennessee,Cincinnati,5
+735,Cincinnati,Texas A&M,Cincinnati,0.2
+736,Cincinnati,TCU,Cincinnati,2.4
+737,Cincinnati,TX Southern,Cincinnati,9
+738,Cincinnati,Texas Tech,Texas Tech,0.2
+739,Cincinnati,Texas,Cincinnati,6.8
+740,Cincinnati,UCLA,Cincinnati,0.8
+741,Cincinnati,Villanova,Villanova,8.4
+742,Cincinnati,Virginia Tech,Cincinnati,4.6
+743,Cincinnati,Virginia,Cincinnati,6.6
+744,Cincinnati,West Virginia,Cincinnati,1.2
+745,Cincinnati,Wichita St,Cincinnati,8.6
+746,Cincinnati,Wright St,Wright St,0.4
+747,Cincinnati,Xavier,Cincinnati,3.8
+748,Cincinnati,Middle Tenn St,Middle Tenn St,0.8
+749,Clemson,Alabama,Alabama,2
+750,Clemson,Arizona St,Clemson,1.8
+751,Clemson,Arizona,Arizona,7.4
+752,Clemson,Arkansas,Arkansas,4.8
+753,Clemson,Auburn,Auburn,1.4
+754,Clemson,Bucknell,Clemson,1
+755,Clemson,Buffalo,Buffalo,1.4
+756,Clemson,Butler,Butler,1.4
+757,Clemson,CS Fullerton,Clemson,0.8
+758,Clemson,Charleston So,Clemson,1.8
+759,Clemson,Cincinnati,Cincinnati,2.8
+760,Clemson,Creighton,Creighton,3.6
+761,Clemson,Davidson,Davidson,0
+762,Clemson,Duke,Duke,3.2
+763,Clemson,Florida St,Florida St,2.6
+764,Clemson,Florida,Florida,0.6
+765,Clemson,Georgia St,Clemson,6.4
+766,Clemson,Gonzaga,Gonzaga,2
+767,Clemson,Houston,Clemson,0.8
+768,Clemson,Iona,Clemson,5
+769,Clemson,Kansas St,Clemson,1.6
+770,Clemson,Kansas,Kansas,16.2
+771,Clemson,Kentucky,Kentucky,8.4
+772,Clemson,Lipscomb,Lipscomb,1.8
+773,Clemson,Long Island,Long Island,0.6
+774,Clemson,Loyola-Chicago,Clemson,1.4
+775,Clemson,Marshall,Marshall,2.6
+776,Clemson,UMBC,UMBC,6
+777,Clemson,Miami FL,Clemson,5
+778,Clemson,Michigan St,Michigan St,7.4
+779,Clemson,Michigan,Clemson,0.2
+780,Clemson,Missouri,Missouri,2.4
+781,Clemson,Montana,Clemson,2
+782,Clemson,Murray St,Murray St,0.2
+783,Clemson,Nevada,Nevada,3.6
+784,Clemson,New Mexico St,Clemson,1.8
+785,Clemson,NC Central,Clemson,2.4
+786,Clemson,UNC Greensboro,Clemson,3.8
+787,Clemson,NC State,NC State,5.8
+788,Clemson,North Carolina,North Carolina,17
+789,Clemson,Ohio St,Clemson,1.6
+790,Clemson,Oklahoma,Oklahoma,6.6
+791,Clemson,Penn,Clemson,1.2
+792,Clemson,Providence,Providence,0.2
+793,Clemson,Purdue,Purdue,6
+794,Clemson,Radford,Clemson,2.6
+795,Clemson,Rhode Island,Clemson,3.2
+796,Clemson,San Diego St,San Diego St,0
+797,Clemson,Seton Hall,Seton Hall,6.8
+798,Clemson,S Dakota St,S Dakota St,1.2
+799,Clemson,St Bonaventure,Clemson,2.6
+800,Clemson,SF Austin,SF Austin,6.6
+801,Clemson,Syracuse,Clemson,2.2
+802,Clemson,Tennessee,Tennessee,2.2
+803,Clemson,Texas A&M,Texas A&M,4.4
+804,Clemson,TCU,TCU,0.8
+805,Clemson,TX Southern,Clemson,2
+806,Clemson,Texas Tech,Clemson,0.4
+807,Clemson,Texas,Texas,2.8
+808,Clemson,UCLA,UCLA,3.8
+809,Clemson,Villanova,Villanova,13.4
+810,Clemson,Virginia Tech,Virginia Tech,3.2
+811,Clemson,Virginia,Virginia,2.6
+812,Clemson,West Virginia,West Virginia,10.8
+813,Clemson,Wichita St,Clemson,2.8
+814,Clemson,Wright St,Clemson,1.2
+815,Clemson,Xavier,Xavier,9.6
+816,Clemson,Middle Tenn St,Middle Tenn St,1.2
+817,Creighton,Alabama,Creighton,5.4
+818,Creighton,Arizona St,Creighton,3.8
+819,Creighton,Arizona,Creighton,3.6
+820,Creighton,Arkansas,Arkansas,1.6
+821,Creighton,Auburn,Creighton,2.6
+822,Creighton,Bucknell,Creighton,11.2
+823,Creighton,Buffalo,Creighton,0.6
+824,Creighton,Butler,Creighton,5.4
+825,Creighton,CS Fullerton,Creighton,10.2
+826,Creighton,Charleston So,Creighton,5
+827,Creighton,Cincinnati,Creighton,2.2
+828,Creighton,Clemson,Creighton,3.6
+829,Creighton,Davidson,Davidson,1.8
+830,Creighton,Duke,Creighton,1.6
+831,Creighton,Florida St,Creighton,4.6
+832,Creighton,Florida,Florida,0.6
+833,Creighton,Georgia St,Creighton,12.6
+834,Creighton,Gonzaga,Creighton,1.8
+835,Creighton,Houston,Creighton,6.8
+836,Creighton,Iona,Creighton,1.8
+837,Creighton,Kansas St,Creighton,2
+838,Creighton,Kansas,Kansas,2.8
+839,Creighton,Kentucky,Kentucky,1.4
+840,Creighton,Lipscomb,Lipscomb,5.2
+841,Creighton,Long Island,Creighton,3
+842,Creighton,Loyola-Chicago,Creighton,8.2
+843,Creighton,Marshall,Marshall,5.4
+844,Creighton,UMBC,Creighton,5.4
+845,Creighton,Miami FL,Creighton,2.8
+846,Creighton,Michigan St,Michigan St,0.4
+847,Creighton,Michigan,Creighton,4.2
+848,Creighton,Missouri,Creighton,11
+849,Creighton,Montana,Creighton,11.4
+850,Creighton,Murray St,Creighton,7.6
+851,Creighton,Nevada,Creighton,5
+852,Creighton,New Mexico St,Creighton,4.2
+853,Creighton,NC Central,Creighton,9.4
+854,Creighton,UNC Greensboro,Creighton,5.8
+855,Creighton,NC State,Creighton,5.2
+856,Creighton,North Carolina,North Carolina,8.2
+857,Creighton,Ohio St,Creighton,9.2
+858,Creighton,Oklahoma,Oklahoma,0.4
+859,Creighton,Penn,Creighton,8.4
+860,Creighton,Providence,Providence,0.6
+861,Creighton,Purdue,Creighton,1.4
+862,Creighton,Radford,Creighton,6.2
+863,Creighton,Rhode Island,Creighton,7
+864,Creighton,San Diego St,Creighton,1.4
+865,Creighton,Seton Hall,Creighton,5.2
+866,Creighton,S Dakota St,Creighton,5.2
+867,Creighton,St Bonaventure,Creighton,6
+868,Creighton,SF Austin,Creighton,2.2
+869,Creighton,Syracuse,Syracuse,1.8
+870,Creighton,Tennessee,Tennessee,3.2
+871,Creighton,Texas A&M,Texas A&M,1
+872,Creighton,TCU,Creighton,3.2
+873,Creighton,TX Southern,Creighton,4
+874,Creighton,Texas Tech,Creighton,8.2
+875,Creighton,Texas,Creighton,8.6
+876,Creighton,UCLA,UCLA,1.2
+877,Creighton,Villanova,Villanova,9.6
+878,Creighton,Virginia Tech,Creighton,3.8
+879,Creighton,Virginia,Creighton,4
+880,Creighton,West Virginia,Creighton,1.2
+881,Creighton,Wichita St,Creighton,4.4
+882,Creighton,Wright St,Creighton,7.8
+883,Creighton,Xavier,Creighton,3.4
+884,Creighton,Middle Tenn St,Creighton,6
+885,Davidson,Alabama,Davidson,0.2
+886,Davidson,Arizona St,Davidson,4.4
+887,Davidson,Arizona,Davidson,3
+888,Davidson,Arkansas,Arkansas,0.4
+889,Davidson,Auburn,Davidson,0.8
+890,Davidson,Bucknell,Davidson,5.6
+891,Davidson,Buffalo,Davidson,7.6
+892,Davidson,Butler,Davidson,3.2
+893,Davidson,CS Fullerton,Davidson,7.6
+894,Davidson,Charleston So,Davidson,3.6
+895,Davidson,Cincinnati,Cincinnati,0
+896,Davidson,Clemson,Clemson,0
+897,Davidson,Creighton,Davidson,1.8
+898,Davidson,Duke,Davidson,0.4
+899,Davidson,Florida St,Davidson,3.6
+900,Davidson,Florida,Davidson,4.8
+901,Davidson,Georgia St,Davidson,9.2
+902,Davidson,Gonzaga,Davidson,0.2
+903,Davidson,Houston,Houston,0.6
+904,Davidson,Iona,Davidson,0.8
+905,Davidson,Kansas St,Davidson,2
+906,Davidson,Kansas,Kansas,2.4
+907,Davidson,Kentucky,Kentucky,2.4
+908,Davidson,Lipscomb,Lipscomb,0.8
+909,Davidson,Long Island,Davidson,0.4
+910,Davidson,Loyola-Chicago,Davidson,4.2
+911,Davidson,Marshall,Marshall,5.4
+912,Davidson,UMBC,Davidson,4.2
+913,Davidson,Miami FL,Davidson,0.4
+914,Davidson,Michigan St,Michigan St,2.8
+915,Davidson,Michigan,Davidson,2.6
+916,Davidson,Missouri,Davidson,2.8
+917,Davidson,Montana,Davidson,9.4
+918,Davidson,Murray St,Davidson,3
+919,Davidson,Nevada,Nevada,3
+920,Davidson,New Mexico St,Davidson,2.8
+921,Davidson,NC Central,Davidson,6.2
+922,Davidson,UNC Greensboro,Davidson,6.6
+923,Davidson,NC State,Davidson,3.6
+924,Davidson,North Carolina,North Carolina,6.2
+925,Davidson,Ohio St,Davidson,4.2
+926,Davidson,Oklahoma,Oklahoma,0.4
+927,Davidson,Penn,Davidson,6.6
+928,Davidson,Providence,Davidson,3.6
+929,Davidson,Purdue,Purdue,3
+930,Davidson,Radford,Davidson,2.4
+931,Davidson,Rhode Island,Davidson,6
+932,Davidson,San Diego St,San Diego St,0
+933,Davidson,Seton Hall,Davidson,1.8
+934,Davidson,S Dakota St,Davidson,7.4
+935,Davidson,St Bonaventure,Davidson,5.6
+936,Davidson,SF Austin,SF Austin,1.2
+937,Davidson,Syracuse,Davidson,0.8
+938,Davidson,Tennessee,Davidson,4.6
+939,Davidson,Texas A&M,Davidson,1.4
+940,Davidson,TCU,Davidson,3.4
+941,Davidson,TX Southern,Davidson,4.4
+942,Davidson,Texas Tech,Davidson,5.8
+943,Davidson,Texas,Davidson,3.4
+944,Davidson,UCLA,UCLA,0.4
+945,Davidson,Villanova,Villanova,4.4
+946,Davidson,Virginia Tech,Davidson,3.2
+947,Davidson,Virginia,Davidson,2.6
+948,Davidson,West Virginia,West Virginia,0.6
+949,Davidson,Wichita St,Davidson,6.8
+950,Davidson,Wright St,Davidson,4.4
+951,Davidson,Xavier,Davidson,3
+952,Davidson,Middle Tenn St,Davidson,1.4
+953,Duke,Alabama,Duke,2.2
+954,Duke,Arizona St,Duke,1.4
+955,Duke,Arizona,Duke,2
+956,Duke,Arkansas,Duke,1.4
+957,Duke,Auburn,Duke,6.2
+958,Duke,Bucknell,Duke,11.2
+959,Duke,Buffalo,Duke,2.4
+960,Duke,Butler,Duke,3.2
+961,Duke,CS Fullerton,Duke,9.4
+962,Duke,Charleston So,Duke,7
+963,Duke,Cincinnati,Duke,1.2
+964,Duke,Clemson,Duke,3.2
+965,Duke,Creighton,Creighton,1.6
+966,Duke,Davidson,Davidson,0.4
+967,Duke,Florida St,Duke,2.2
+968,Duke,Florida,Florida,2.4
+969,Duke,Georgia St,Duke,8
+970,Duke,Gonzaga,Duke,4
+971,Duke,Houston,Duke,1.4
+972,Duke,Iona,Duke,9.6
+973,Duke,Kansas St,Duke,0.4
+974,Duke,Kansas,Kansas,5.2
+975,Duke,Kentucky,Kentucky,1.6
+976,Duke,Lipscomb,Duke,3.8
+977,Duke,Long Island,Duke,1.6
+978,Duke,Loyola-Chicago,Duke,5.8
+979,Duke,Marshall,Marshall,4.4
+980,Duke,UMBC,Duke,5.8
+981,Duke,Miami FL,Duke,1.4
+982,Duke,Michigan St,Michigan St,6
+983,Duke,Michigan,Duke,3.4
+984,Duke,Missouri,Duke,7.6
+985,Duke,Montana,Duke,9.4
+986,Duke,Murray St,Duke,7.6
+987,Duke,Nevada,Nevada,0.4
+988,Duke,New Mexico St,Duke,5.2
+989,Duke,NC Central,Duke,5.8
+990,Duke,UNC Greensboro,Duke,8
+991,Duke,NC State,Duke,0.8
+992,Duke,North Carolina,North Carolina,12.4
+993,Duke,Ohio St,Duke,4.4
+994,Duke,Oklahoma,Oklahoma,1.8
+995,Duke,Penn,Duke,8
+996,Duke,Providence,Duke,1.6
+997,Duke,Purdue,Purdue,2.8
+998,Duke,Radford,Duke,3.8
+999,Duke,Rhode Island,Duke,8.6
+1000,Duke,San Diego St,Duke,1.4
+1001,Duke,Seton Hall,Duke,0.8
+1002,Duke,S Dakota St,Duke,6.4
+1003,Duke,St Bonaventure,Duke,4.4
+1004,Duke,SF Austin,Duke,1.8
+1005,Duke,Syracuse,Duke,1.4
+1006,Duke,Tennessee,Tennessee,1
+1007,Duke,Texas A&M,Texas A&M,5.2
+1008,Duke,TCU,Duke,4.6
+1009,Duke,TX Southern,Duke,11.6
+1010,Duke,Texas Tech,Duke,2.6
+1011,Duke,Texas,Texas,0.6
+1012,Duke,UCLA,UCLA,0.4
+1013,Duke,Villanova,Villanova,8
+1014,Duke,Virginia Tech,Duke,1.6
+1015,Duke,Virginia,Virginia,3.4
+1016,Duke,West Virginia,Duke,0.4
+1017,Duke,Wichita St,Duke,1.8
+1018,Duke,Wright St,Duke,7.2
+1019,Duke,Xavier,Duke,0.6
+1020,Duke,Middle Tenn St,Duke,7
+1021,Florida St,Alabama,Florida St,3.2
+1022,Florida St,Arizona St,Florida St,1.4
+1023,Florida St,Arizona,Florida St,1.4
+1024,Florida St,Arkansas,Arkansas,2
+1025,Florida St,Auburn,Florida St,6.2
+1026,Florida St,Bucknell,Florida St,9.4
+1027,Florida St,Buffalo,Florida St,2.6
+1028,Florida St,Butler,Florida St,1.4
+1029,Florida St,CS Fullerton,Florida St,9.2
+1030,Florida St,Charleston So,Florida St,9
+1031,Florida St,Cincinnati,Florida St,0.8
+1032,Florida St,Clemson,Florida St,2.6
+1033,Florida St,Creighton,Creighton,4.6
+1034,Florida St,Davidson,Davidson,3.6
+1035,Florida St,Duke,Duke,2.2
+1036,Florida St,Florida,Florida,2
+1037,Florida St,Georgia St,Florida St,13.2
+1038,Florida St,Gonzaga,Gonzaga,1.6
+1039,Florida St,Houston,Florida St,9.4
+1040,Florida St,Iona,Florida St,7.2
+1041,Florida St,Kansas St,Florida St,1.4
+1042,Florida St,Kansas,Kansas,8.8
+1043,Florida St,Kentucky,Kentucky,5.8
+1044,Florida St,Lipscomb,Lipscomb,2.8
+1045,Florida St,Long Island,Florida St,3
+1046,Florida St,Loyola-Chicago,Florida St,5
+1047,Florida St,Marshall,Marshall,7.4
+1048,Florida St,UMBC,Florida St,3.4
+1049,Florida St,Miami FL,Florida St,2.4
+1050,Florida St,Michigan St,Michigan St,2
+1051,Florida St,Michigan,Florida St,6.6
+1052,Florida St,Missouri,Florida St,5.8
+1053,Florida St,Montana,Florida St,12
+1054,Florida St,Murray St,Florida St,9.8
+1055,Florida St,Nevada,Florida St,2.4
+1056,Florida St,New Mexico St,Florida St,5.4
+1057,Florida St,NC Central,Florida St,8
+1058,Florida St,UNC Greensboro,Florida St,7.2
+1059,Florida St,NC State,Florida St,4.2
+1060,Florida St,North Carolina,North Carolina,12
+1061,Florida St,Ohio St,Florida St,3
+1062,Florida St,Oklahoma,Florida St,1.8
+1063,Florida St,Penn,Florida St,7.4
+1064,Florida St,Providence,Florida St,2.2
+1065,Florida St,Purdue,Purdue,1.8
+1066,Florida St,Radford,Florida St,7.8
+1067,Florida St,Rhode Island,Florida St,6.8
+1068,Florida St,San Diego St,Florida St,0.8
+1069,Florida St,Seton Hall,Florida St,2.8
+1070,Florida St,S Dakota St,Florida St,2.4
+1071,Florida St,St Bonaventure,Florida St,4.4
+1072,Florida St,SF Austin,SF Austin,1.2
+1073,Florida St,Syracuse,Syracuse,1.8
+1074,Florida St,Tennessee,Florida St,0.4
+1075,Florida St,Texas A&M,Texas A&M,5
+1076,Florida St,TCU,Florida St,4
+1077,Florida St,TX Southern,Florida St,6.6
+1078,Florida St,Texas Tech,Florida St,2.6
+1079,Florida St,Texas,Florida St,0.8
+1080,Florida St,UCLA,UCLA,2.6
+1081,Florida St,Villanova,Villanova,10.4
+1082,Florida St,Virginia Tech,Florida St,0.8
+1083,Florida St,Virginia,Florida St,0.4
+1084,Florida St,West Virginia,West Virginia,5
+1085,Florida St,Wichita St,Florida St,2
+1086,Florida St,Wright St,Florida St,9
+1087,Florida St,Xavier,Xavier,0.6
+1088,Florida St,Middle Tenn St,Florida St,7.8
+1089,Florida,Alabama,Alabama,0
+1090,Florida,Arizona St,Arizona St,0.2
+1091,Florida,Arizona,Arizona,1.4
+1092,Florida,Arkansas,Arkansas,6.8
+1093,Florida,Auburn,Florida,4
+1094,Florida,Bucknell,Florida,6.6
+1095,Florida,Buffalo,Florida,3.2
+1096,Florida,Butler,Florida,0.2
+1097,Florida,CS Fullerton,Florida,9.8
+1098,Florida,Charleston So,Florida,5.4
+1099,Florida,Cincinnati,Cincinnati,7.4
+1100,Florida,Clemson,Florida,0.6
+1101,Florida,Creighton,Florida,0.6
+1102,Florida,Davidson,Davidson,4.8
+1103,Florida,Duke,Florida,2.4
+1104,Florida,Florida St,Florida,2
+1105,Florida,Georgia St,Florida,7.4
+1106,Florida,Gonzaga,Gonzaga,1.8
+1107,Florida,Houston,Florida,6.6
+1108,Florida,Iona,Florida,0.8
+1109,Florida,Kansas St,Florida,1.2
+1110,Florida,Kansas,Kansas,9.4
+1111,Florida,Kentucky,Kentucky,1.8
+1112,Florida,Lipscomb,Lipscomb,1
+1113,Florida,Long Island,Florida,5.2
+1114,Florida,Loyola-Chicago,Florida,4
+1115,Florida,Marshall,Marshall,1.4
+1116,Florida,UMBC,Florida,3.6
+1117,Florida,Miami FL,Florida,2
+1118,Florida,Michigan St,Michigan St,8.4
+1119,Florida,Michigan,Michigan,0.2
+1120,Florida,Missouri,Florida,5
+1121,Florida,Montana,Florida,1.6
+1122,Florida,Murray St,Florida,5.2
+1123,Florida,Nevada,Nevada,0.6
+1124,Florida,New Mexico St,New Mexico St,0.4
+1125,Florida,NC Central,Florida,6.2
+1126,Florida,UNC Greensboro,Florida,3.8
+1127,Florida,NC State,Florida,2.6
+1128,Florida,North Carolina,North Carolina,11.8
+1129,Florida,Ohio St,Florida,1
+1130,Florida,Oklahoma,Oklahoma,5.6
+1131,Florida,Penn,Florida,7.4
+1132,Florida,Providence,Providence,3.4
+1133,Florida,Purdue,Purdue,4.6
+1134,Florida,Radford,Florida,2.2
+1135,Florida,Rhode Island,Florida,7
+1136,Florida,San Diego St,San Diego St,2.2
+1137,Florida,Seton Hall,Florida,1
+1138,Florida,S Dakota St,Florida,3.2
+1139,Florida,St Bonaventure,St Bonaventure,1.4
+1140,Florida,SF Austin,SF Austin,3.4
+1141,Florida,Syracuse,Syracuse,4.4
+1142,Florida,Tennessee,Florida,0.2
+1143,Florida,Texas A&M,Texas A&M,1
+1144,Florida,TCU,Florida,3.8
+1145,Florida,TX Southern,Florida,2.4
+1146,Florida,Texas Tech,Florida,3.6
+1147,Florida,Texas,Texas,7.2
+1148,Florida,UCLA,Florida,1.4
+1149,Florida,Villanova,Villanova,10.2
+1150,Florida,Virginia Tech,Florida,3
+1151,Florida,Virginia,Virginia,5.6
+1152,Florida,West Virginia,Florida,1.4
+1153,Florida,Wichita St,Wichita St,0.8
+1154,Florida,Wright St,Wright St,2.2
+1155,Florida,Xavier,Xavier,1.6
+1156,Florida,Middle Tenn St,Florida,2.6
+1157,Georgia St,Alabama,Alabama,8.4
+1158,Georgia St,Arizona St,Arizona St,9.2
+1159,Georgia St,Arizona,Arizona,14.6
+1160,Georgia St,Arkansas,Arkansas,14.4
+1161,Georgia St,Auburn,Auburn,12.6
+1162,Georgia St,Bucknell,Bucknell,5.6
+1163,Georgia St,Buffalo,Buffalo,8.2
+1164,Georgia St,Butler,Butler,8.4
+1165,Georgia St,CS Fullerton,CS Fullerton,4.4
+1166,Georgia St,Charleston So,Charleston So,4.4
+1167,Georgia St,Cincinnati,Cincinnati,9.8
+1168,Georgia St,Clemson,Clemson,6.4
+1169,Georgia St,Creighton,Creighton,12.6
+1170,Georgia St,Davidson,Davidson,9.2
+1171,Georgia St,Duke,Duke,8
+1172,Georgia St,Florida St,Florida St,13.2
+1173,Georgia St,Florida,Florida,7.4
+1174,Georgia St,Gonzaga,Gonzaga,9.6
+1175,Georgia St,Houston,Houston,5.6
+1176,Georgia St,Iona,Iona,8.4
+1177,Georgia St,Kansas St,Kansas St,8.8
+1178,Georgia St,Kansas,Kansas,17
+1179,Georgia St,Kentucky,Kentucky,12.8
+1180,Georgia St,Lipscomb,Lipscomb,11
+1181,Georgia St,Long Island,Long Island,5.2
+1182,Georgia St,Loyola-Chicago,Loyola-Chicago,1.6
+1183,Georgia St,Marshall,Marshall,14.2
+1184,Georgia St,UMBC,UMBC,12
+1185,Georgia St,Miami FL,Miami FL,6
+1186,Georgia St,Michigan St,Michigan St,10.2
+1187,Georgia St,Michigan,Michigan,11
+1188,Georgia St,Missouri,Missouri,4.4
+1189,Georgia St,Montana,Montana,3.4
+1190,Georgia St,Murray St,Murray St,5
+1191,Georgia St,Nevada,Nevada,5.2
+1192,Georgia St,New Mexico St,New Mexico St,6
+1193,Georgia St,NC Central,NC Central,5.6
+1194,Georgia St,UNC Greensboro,UNC Greensboro,5.2
+1195,Georgia St,NC State,NC State,10.8
+1196,Georgia St,North Carolina,North Carolina,20
+1197,Georgia St,Ohio St,Ohio St,9.2
+1198,Georgia St,Oklahoma,Oklahoma,7.8
+1199,Georgia St,Penn,Penn,3
+1200,Georgia St,Providence,Providence,6.8
+1201,Georgia St,Purdue,Purdue,13
+1202,Georgia St,Radford,Radford,3.6
+1203,Georgia St,Rhode Island,Rhode Island,6.6
+1204,Georgia St,San Diego St,San Diego St,12
+1205,Georgia St,Seton Hall,Seton Hall,10.6
+1206,Georgia St,S Dakota St,S Dakota St,5.8
+1207,Georgia St,St Bonaventure,St Bonaventure,4.4
+1208,Georgia St,SF Austin,SF Austin,5.4
+1209,Georgia St,Syracuse,Syracuse,7.8
+1210,Georgia St,Tennessee,Tennessee,6.6
+1211,Georgia St,Texas A&M,Texas A&M,14.8
+1212,Georgia St,TCU,TCU,8.8
+1213,Georgia St,TX Southern,TX Southern,5
+1214,Georgia St,Texas Tech,Texas Tech,8.2
+1215,Georgia St,Texas,Texas,12
+1216,Georgia St,UCLA,UCLA,15
+1217,Georgia St,Villanova,Villanova,19.6
+1218,Georgia St,Virginia Tech,Virginia Tech,9.6
+1219,Georgia St,Virginia,Virginia,11
+1220,Georgia St,West Virginia,West Virginia,15.6
+1221,Georgia St,Wichita St,Wichita St,8.2
+1222,Georgia St,Wright St,Wright St,8.6
+1223,Georgia St,Xavier,Xavier,13
+1224,Georgia St,Middle Tenn St,Middle Tenn St,8.2
+1225,Gonzaga,Alabama,Gonzaga,4.2
+1226,Gonzaga,Arizona St,Gonzaga,4.4
+1227,Gonzaga,Arizona,Gonzaga,0.4
+1228,Gonzaga,Arkansas,Arkansas,2.4
+1229,Gonzaga,Auburn,Gonzaga,6.4
+1230,Gonzaga,Bucknell,Gonzaga,13.4
+1231,Gonzaga,Buffalo,Gonzaga,3.2
+1232,Gonzaga,Butler,Gonzaga,4.8
+1233,Gonzaga,CS Fullerton,Gonzaga,18
+1234,Gonzaga,Charleston So,Gonzaga,12.4
+1235,Gonzaga,Cincinnati,Cincinnati,3.2
+1236,Gonzaga,Clemson,Gonzaga,2
+1237,Gonzaga,Creighton,Creighton,1.8
+1238,Gonzaga,Davidson,Davidson,0.2
+1239,Gonzaga,Duke,Duke,4
+1240,Gonzaga,Florida St,Gonzaga,1.6
+1241,Gonzaga,Florida,Gonzaga,1.8
+1242,Gonzaga,Georgia St,Gonzaga,9.6
+1243,Gonzaga,Houston,Gonzaga,2.2
+1244,Gonzaga,Iona,Gonzaga,5.6
+1245,Gonzaga,Kansas St,Gonzaga,2.2
+1246,Gonzaga,Kansas,Kansas,4.2
+1247,Gonzaga,Kentucky,Kentucky,2
+1248,Gonzaga,Lipscomb,Gonzaga,1
+1249,Gonzaga,Long Island,Gonzaga,4.4
+1250,Gonzaga,Loyola-Chicago,Gonzaga,11.4
+1251,Gonzaga,Marshall,Gonzaga,3
+1252,Gonzaga,UMBC,Gonzaga,11.4
+1253,Gonzaga,Miami FL,Gonzaga,4.8
+1254,Gonzaga,Michigan St,Michigan St,0
+1255,Gonzaga,Michigan,Gonzaga,4.8
+1256,Gonzaga,Missouri,Gonzaga,8.8
+1257,Gonzaga,Montana,Gonzaga,13.4
+1258,Gonzaga,Murray St,Gonzaga,9
+1259,Gonzaga,Nevada,Gonzaga,4.4
+1260,Gonzaga,New Mexico St,Gonzaga,2.2
+1261,Gonzaga,NC Central,Gonzaga,12.6
+1262,Gonzaga,UNC Greensboro,Gonzaga,9.8
+1263,Gonzaga,NC State,Gonzaga,2
+1264,Gonzaga,North Carolina,North Carolina,4.2
+1265,Gonzaga,Ohio St,Gonzaga,0.2
+1266,Gonzaga,Oklahoma,Oklahoma,3.8
+1267,Gonzaga,Penn,Gonzaga,15
+1268,Gonzaga,Providence,Providence,4.6
+1269,Gonzaga,Purdue,Purdue,2.6
+1270,Gonzaga,Radford,Gonzaga,10
+1271,Gonzaga,Rhode Island,Gonzaga,8.4
+1272,Gonzaga,San Diego St,Gonzaga,2.2
+1273,Gonzaga,Seton Hall,Gonzaga,3.6
+1274,Gonzaga,S Dakota St,Gonzaga,7.4
+1275,Gonzaga,St Bonaventure,Gonzaga,11
+1276,Gonzaga,SF Austin,Gonzaga,2.4
+1277,Gonzaga,Syracuse,Syracuse,0.4
+1278,Gonzaga,Tennessee,Gonzaga,1.2
+1279,Gonzaga,Texas A&M,Gonzaga,2.2
+1280,Gonzaga,TCU,Gonzaga,10.4
+1281,Gonzaga,TX Southern,Gonzaga,10.2
+1282,Gonzaga,Texas Tech,Gonzaga,3.8
+1283,Gonzaga,Texas,Gonzaga,3.2
+1284,Gonzaga,UCLA,Gonzaga,2.2
+1285,Gonzaga,Villanova,Villanova,7.4
+1286,Gonzaga,Virginia Tech,Gonzaga,4.8
+1287,Gonzaga,Virginia,Gonzaga,2.8
+1288,Gonzaga,West Virginia,Gonzaga,2.6
+1289,Gonzaga,Wichita St,Gonzaga,0.8
+1290,Gonzaga,Wright St,Gonzaga,9.4
+1291,Gonzaga,Xavier,Gonzaga,0.4
+1292,Gonzaga,Middle Tenn St,Gonzaga,2.6
+1293,Houston,Alabama,Alabama,3.2
+1294,Houston,Arizona St,Houston,0.2
+1295,Houston,Arizona,Arizona,1.6
+1296,Houston,Arkansas,Arkansas,10.4
+1297,Houston,Auburn,Houston,2.2
+1298,Houston,Bucknell,Bucknell,1
+1299,Houston,Buffalo,Buffalo,5
+1300,Houston,Butler,Houston,1
+1301,Houston,CS Fullerton,Houston,5.8
+1302,Houston,Charleston So,Houston,2.8
+1303,Houston,Cincinnati,Cincinnati,7
+1304,Houston,Clemson,Clemson,0.8
+1305,Houston,Creighton,Creighton,6.8
+1306,Houston,Davidson,Houston,0.6
+1307,Houston,Duke,Duke,1.4
+1308,Houston,Florida St,Florida St,9.4
+1309,Houston,Florida,Florida,6.6
+1310,Houston,Georgia St,Houston,5.6
+1311,Houston,Gonzaga,Gonzaga,2.2
+1312,Houston,Iona,Iona,3.6
+1313,Houston,Kansas St,Kansas St,3
+1314,Houston,Kansas,Kansas,12.8
+1315,Houston,Kentucky,Kentucky,7.2
+1316,Houston,Lipscomb,Lipscomb,4
+1317,Houston,Long Island,Long Island,0.4
+1318,Houston,Loyola-Chicago,Houston,5.2
+1319,Houston,Marshall,Marshall,1.6
+1320,Houston,UMBC,UMBC,0.4
+1321,Houston,Miami FL,Houston,1.2
+1322,Houston,Michigan St,Michigan St,3.8
+1323,Houston,Michigan,Houston,0.2
+1324,Houston,Missouri,Houston,4
+1325,Houston,Montana,Houston,3.4
+1326,Houston,Murray St,Murray St,0.4
+1327,Houston,Nevada,Nevada,3
+1328,Houston,New Mexico St,Houston,1
+1329,Houston,NC Central,Houston,3.2
+1330,Houston,UNC Greensboro,Houston,1.8
+1331,Houston,NC State,NC State,2.8
+1332,Houston,North Carolina,North Carolina,12
+1333,Houston,Ohio St,Ohio St,2.2
+1334,Houston,Oklahoma,Oklahoma,5.6
+1335,Houston,Penn,Houston,6.2
+1336,Houston,Providence,Providence,3.4
+1337,Houston,Purdue,Purdue,5.6
+1338,Houston,Radford,Houston,8.4
+1339,Houston,Rhode Island,Rhode Island,0.2
+1340,Houston,San Diego St,San Diego St,3.2
+1341,Houston,Seton Hall,Seton Hall,3.6
+1342,Houston,S Dakota St,Houston,1.6
+1343,Houston,St Bonaventure,St Bonaventure,1.6
+1344,Houston,SF Austin,SF Austin,4.4
+1345,Houston,Syracuse,Syracuse,6.2
+1346,Houston,Tennessee,Houston,1.2
+1347,Houston,Texas A&M,Texas A&M,7
+1348,Houston,TCU,Houston,0.4
+1349,Houston,TX Southern,Houston,5
+1350,Houston,Texas Tech,Texas Tech,0.2
+1351,Houston,Texas,Texas,3.6
+1352,Houston,UCLA,UCLA,3.6
+1353,Houston,Villanova,Villanova,12.4
+1354,Houston,Virginia Tech,Virginia Tech,3.6
+1355,Houston,Virginia,Houston,1.4
+1356,Houston,West Virginia,West Virginia,6.6
+1357,Houston,Wichita St,Houston,3
+1358,Houston,Wright St,Houston,2
+1359,Houston,Xavier,Xavier,4.4
+1360,Houston,Middle Tenn St,Middle Tenn St,3.2
+1361,Iona,Alabama,Alabama,3.4
+1362,Iona,Arizona St,Arizona St,3
+1363,Iona,Arizona,Arizona,0.4
+1364,Iona,Arkansas,Arkansas,3.8
+1365,Iona,Auburn,Iona,1.4
+1366,Iona,Bucknell,Iona,11.4
+1367,Iona,Buffalo,Iona,5.6
+1368,Iona,Butler,Butler,3
+1369,Iona,CS Fullerton,Iona,8.4
+1370,Iona,Charleston So,Iona,4.2
+1371,Iona,Cincinnati,Cincinnati,9
+1372,Iona,Clemson,Clemson,5
+1373,Iona,Creighton,Creighton,1.8
+1374,Iona,Davidson,Davidson,0.8
+1375,Iona,Duke,Duke,9.6
+1376,Iona,Florida St,Florida St,7.2
+1377,Iona,Florida,Florida,0.8
+1378,Iona,Georgia St,Iona,8.4
+1379,Iona,Gonzaga,Gonzaga,5.6
+1380,Iona,Houston,Iona,3.6
+1381,Iona,Kansas St,Kansas St,2
+1382,Iona,Kansas,Kansas,13.4
+1383,Iona,Kentucky,Kentucky,8
+1384,Iona,Lipscomb,Iona,4.8
+1385,Iona,Long Island,Iona,5.2
+1386,Iona,Loyola-Chicago,Iona,5.4
+1387,Iona,Marshall,Marshall,2.2
+1388,Iona,UMBC,Iona,1.8
+1389,Iona,Miami FL,Miami FL,5.2
+1390,Iona,Michigan St,Michigan St,4.2
+1391,Iona,Michigan,Iona,0.6
+1392,Iona,Missouri,Iona,5.2
+1393,Iona,Montana,Iona,8.6
+1394,Iona,Murray St,Iona,5.2
+1395,Iona,Nevada,Nevada,4
+1396,Iona,New Mexico St,Iona,1.2
+1397,Iona,NC Central,Iona,7
+1398,Iona,UNC Greensboro,Iona,6
+1399,Iona,NC State,NC State,2.4
+1400,Iona,North Carolina,North Carolina,13.4
+1401,Iona,Ohio St,Iona,0.2
+1402,Iona,Oklahoma,Oklahoma,8.4
+1403,Iona,Penn,Iona,7
+1404,Iona,Providence,Providence,4.6
+1405,Iona,Purdue,Purdue,10.4
+1406,Iona,Radford,Iona,4
+1407,Iona,Rhode Island,Iona,4.6
+1408,Iona,San Diego St,Iona,1.6
+1409,Iona,Seton Hall,Seton Hall,3
+1410,Iona,S Dakota St,Iona,1
+1411,Iona,St Bonaventure,St Bonaventure,0.4
+1412,Iona,SF Austin,SF Austin,2
+1413,Iona,Syracuse,Syracuse,4.4
+1414,Iona,Tennessee,Tennessee,2.2
+1415,Iona,Texas A&M,Texas A&M,9
+1416,Iona,TCU,Iona,3.8
+1417,Iona,TX Southern,Iona,7.6
+1418,Iona,Texas Tech,Texas Tech,3.2
+1419,Iona,Texas,Texas,6.8
+1420,Iona,UCLA,Iona,0.2
+1421,Iona,Villanova,Villanova,9.2
+1422,Iona,Virginia Tech,Iona,6.2
+1423,Iona,Virginia,Virginia,5.6
+1424,Iona,West Virginia,West Virginia,1.8
+1425,Iona,Wichita St,Iona,1.4
+1426,Iona,Wright St,Iona,6.8
+1427,Iona,Xavier,Xavier,1.8
+1428,Iona,Middle Tenn St,Iona,1.4
+1429,Kansas St,Alabama,Kansas St,0.2
+1430,Kansas St,Arizona St,Kansas St,0.8
+1431,Kansas St,Arizona,Arizona,2.4
+1432,Kansas St,Arkansas,Arkansas,3.8
+1433,Kansas St,Auburn,Kansas St,0.4
+1434,Kansas St,Bucknell,Kansas St,0.4
+1435,Kansas St,Buffalo,Buffalo,3.8
+1436,Kansas St,Butler,Butler,4.6
+1437,Kansas St,CS Fullerton,Kansas St,3.2
+1438,Kansas St,Charleston So,Charleston So,1.6
+1439,Kansas St,Cincinnati,Cincinnati,2.2
+1440,Kansas St,Clemson,Clemson,1.6
+1441,Kansas St,Creighton,Creighton,2
+1442,Kansas St,Davidson,Davidson,2
+1443,Kansas St,Duke,Duke,0.4
+1444,Kansas St,Florida St,Florida St,1.4
+1445,Kansas St,Florida,Florida,1.2
+1446,Kansas St,Georgia St,Kansas St,8.8
+1447,Kansas St,Gonzaga,Gonzaga,2.2
+1448,Kansas St,Houston,Kansas St,3
+1449,Kansas St,Iona,Kansas St,2
+1450,Kansas St,Kansas,Kansas,9.2
+1451,Kansas St,Kentucky,Kentucky,8.2
+1452,Kansas St,Lipscomb,Lipscomb,3.4
+1453,Kansas St,Long Island,Long Island,1.6
+1454,Kansas St,Loyola-Chicago,Kansas St,2.6
+1455,Kansas St,Marshall,Marshall,7
+1456,Kansas St,UMBC,UMBC,4.4
+1457,Kansas St,Miami FL,Miami FL,3.8
+1458,Kansas St,Michigan St,Michigan St,8.2
+1459,Kansas St,Michigan,Michigan,0
+1460,Kansas St,Missouri,Kansas St,4.6
+1461,Kansas St,Montana,Kansas St,1.8
+1462,Kansas St,Murray St,Kansas St,2.6
+1463,Kansas St,Nevada,Nevada,0.4
+1464,Kansas St,New Mexico St,Kansas St,0.2
+1465,Kansas St,NC Central,NC Central,2
+1466,Kansas St,UNC Greensboro,UNC Greensboro,1.4
+1467,Kansas St,NC State,NC State,4.2
+1468,Kansas St,North Carolina,North Carolina,12.2
+1469,Kansas St,Ohio St,Kansas St,0.2
+1470,Kansas St,Oklahoma,Oklahoma,3.6
+1471,Kansas St,Penn,Kansas St,1.8
+1472,Kansas St,Providence,Providence,2.8
+1473,Kansas St,Purdue,Purdue,3.4
+1474,Kansas St,Radford,Radford,2
+1475,Kansas St,Rhode Island,Rhode Island,1.6
+1476,Kansas St,San Diego St,Kansas St,0.4
+1477,Kansas St,Seton Hall,Seton Hall,2
+1478,Kansas St,S Dakota St,Kansas St,0.2
+1479,Kansas St,St Bonaventure,St Bonaventure,0.8
+1480,Kansas St,SF Austin,Kansas St,1.6
+1481,Kansas St,Syracuse,Kansas St,0.6
+1482,Kansas St,Tennessee,Tennessee,5.8
+1483,Kansas St,Texas A&M,Texas A&M,3.8
+1484,Kansas St,TCU,Kansas St,0.2
+1485,Kansas St,TX Southern,TX Southern,1
+1486,Kansas St,Texas Tech,Kansas St,1.2
+1487,Kansas St,Texas,Texas,2.2
+1488,Kansas St,UCLA,UCLA,6
+1489,Kansas St,Villanova,Villanova,9
+1490,Kansas St,Virginia Tech,Virginia Tech,2.2
+1491,Kansas St,Virginia,Virginia,3.2
+1492,Kansas St,West Virginia,West Virginia,12.6
+1493,Kansas St,Wichita St,Kansas St,2.8
+1494,Kansas St,Wright St,Kansas St,3.4
+1495,Kansas St,Xavier,Xavier,5.6
+1496,Kansas St,Middle Tenn St,Middle Tenn St,4.6
+1497,Kansas,Alabama,Kansas,13.8
+1498,Kansas,Arizona St,Kansas,11.6
+1499,Kansas,Arizona,Kansas,7.4
+1500,Kansas,Arkansas,Kansas,6
+1501,Kansas,Auburn,Kansas,15.6
+1502,Kansas,Bucknell,Kansas,12.4
+1503,Kansas,Buffalo,Kansas,10.6
+1504,Kansas,Butler,Kansas,6.8
+1505,Kansas,CS Fullerton,Kansas,15.6
+1506,Kansas,Charleston So,Kansas,15
+1507,Kansas,Cincinnati,Kansas,8.8
+1508,Kansas,Clemson,Kansas,16.2
+1509,Kansas,Creighton,Kansas,2.8
+1510,Kansas,Davidson,Kansas,2.4
+1511,Kansas,Duke,Kansas,5.2
+1512,Kansas,Florida St,Kansas,8.8
+1513,Kansas,Florida,Kansas,9.4
+1514,Kansas,Georgia St,Kansas,17
+1515,Kansas,Gonzaga,Kansas,4.2
+1516,Kansas,Houston,Kansas,12.8
+1517,Kansas,Iona,Kansas,13.4
+1518,Kansas,Kansas St,Kansas,9.2
+1519,Kansas,Kentucky,Kansas,2.6
+1520,Kansas,Lipscomb,Kansas,6.4
+1521,Kansas,Long Island,Kansas,12
+1522,Kansas,Loyola-Chicago,Kansas,16.8
+1523,Kansas,Marshall,Kansas,2.8
+1524,Kansas,UMBC,Kansas,11.4
+1525,Kansas,Miami FL,Kansas,6.6
+1526,Kansas,Michigan St,Kansas,4
+1527,Kansas,Michigan,Kansas,3.6
+1528,Kansas,Missouri,Kansas,14.4
+1529,Kansas,Montana,Kansas,12.6
+1530,Kansas,Murray St,Kansas,16.6
+1531,Kansas,Nevada,Kansas,15
+1532,Kansas,New Mexico St,Kansas,10.2
+1533,Kansas,NC Central,Kansas,17.4
+1534,Kansas,UNC Greensboro,Kansas,12
+1535,Kansas,NC State,Kansas,12.6
+1536,Kansas,North Carolina,Kansas,1.6
+1537,Kansas,Ohio St,Kansas,11.4
+1538,Kansas,Oklahoma,Kansas,1
+1539,Kansas,Penn,Kansas,13.2
+1540,Kansas,Providence,Kansas,8.6
+1541,Kansas,Purdue,Kansas,5
+1542,Kansas,Radford,Kansas,16.4
+1543,Kansas,Rhode Island,Kansas,15.8
+1544,Kansas,San Diego St,Kansas,8.6
+1545,Kansas,Seton Hall,Kansas,9.6
+1546,Kansas,S Dakota St,Kansas,9.6
+1547,Kansas,St Bonaventure,Kansas,13.6
+1548,Kansas,SF Austin,Kansas,7.6
+1549,Kansas,Syracuse,Kansas,12
+1550,Kansas,Tennessee,Kansas,10.6
+1551,Kansas,Texas A&M,Kansas,3.8
+1552,Kansas,TCU,Kansas,14.8
+1553,Kansas,TX Southern,Kansas,13.6
+1554,Kansas,Texas Tech,Kansas,14.2
+1555,Kansas,Texas,Kansas,7.2
+1556,Kansas,UCLA,Kansas,7
+1557,Kansas,Villanova,Kansas,3.8
+1558,Kansas,Virginia Tech,Kansas,11.4
+1559,Kansas,Virginia,Kansas,3.2
+1560,Kansas,West Virginia,Kansas,6.4
+1561,Kansas,Wichita St,Kansas,4.6
+1562,Kansas,Wright St,Kansas,12.4
+1563,Kansas,Xavier,Kansas,4
+1564,Kansas,Middle Tenn St,Kansas,13.8
+1565,Kentucky,Alabama,Kentucky,4.4
+1566,Kentucky,Arizona St,Kentucky,4.8
+1567,Kentucky,Arizona,Kentucky,5.2
+1568,Kentucky,Arkansas,Kentucky,4.4
+1569,Kentucky,Auburn,Kentucky,9.8
+1570,Kentucky,Bucknell,Kentucky,10.2
+1571,Kentucky,Buffalo,Kentucky,3.2
+1572,Kentucky,Butler,Kentucky,8.2
+1573,Kentucky,CS Fullerton,Kentucky,13.6
+1574,Kentucky,Charleston So,Kentucky,13.2
+1575,Kentucky,Cincinnati,Kentucky,0.2
+1576,Kentucky,Clemson,Kentucky,8.4
+1577,Kentucky,Creighton,Kentucky,1.4
+1578,Kentucky,Davidson,Kentucky,2.4
+1579,Kentucky,Duke,Kentucky,1.6
+1580,Kentucky,Florida St,Kentucky,5.8
+1581,Kentucky,Florida,Kentucky,1.8
+1582,Kentucky,Georgia St,Kentucky,12.8
+1583,Kentucky,Gonzaga,Kentucky,2
+1584,Kentucky,Houston,Kentucky,7.2
+1585,Kentucky,Iona,Kentucky,8
+1586,Kentucky,Kansas St,Kentucky,8.2
+1587,Kentucky,Kansas,Kansas,2.6
+1588,Kentucky,Lipscomb,Kentucky,7.6
+1589,Kentucky,Long Island,Kentucky,8.2
+1590,Kentucky,Loyola-Chicago,Kentucky,14
+1591,Kentucky,Marshall,Marshall,3.8
+1592,Kentucky,UMBC,Kentucky,8.6
+1593,Kentucky,Miami FL,Kentucky,4.6
+1594,Kentucky,Michigan St,Kentucky,0.4
+1595,Kentucky,Michigan,Kentucky,2.6
+1596,Kentucky,Missouri,Kentucky,14.2
+1597,Kentucky,Montana,Kentucky,13.6
+1598,Kentucky,Murray St,Kentucky,11.6
+1599,Kentucky,Nevada,Kentucky,5
+1600,Kentucky,New Mexico St,Kentucky,8.8
+1601,Kentucky,NC Central,Kentucky,13.4
+1602,Kentucky,UNC Greensboro,Kentucky,13.6
+1603,Kentucky,NC State,Kentucky,2.6
+1604,Kentucky,North Carolina,North Carolina,2.6
+1605,Kentucky,Ohio St,Kentucky,5.8
+1606,Kentucky,Oklahoma,Oklahoma,3.2
+1607,Kentucky,Penn,Kentucky,10.6
+1608,Kentucky,Providence,Providence,1.4
+1609,Kentucky,Purdue,Kentucky,0.2
+1610,Kentucky,Radford,Kentucky,12.4
+1611,Kentucky,Rhode Island,Kentucky,10.6
+1612,Kentucky,San Diego St,Kentucky,5.6
+1613,Kentucky,Seton Hall,Kentucky,4.8
+1614,Kentucky,S Dakota St,Kentucky,12.4
+1615,Kentucky,St Bonaventure,Kentucky,7.4
+1616,Kentucky,SF Austin,Kentucky,1.6
+1617,Kentucky,Syracuse,Kentucky,5.8
+1618,Kentucky,Tennessee,Kentucky,2.8
+1619,Kentucky,Texas A&M,Kentucky,2.6
+1620,Kentucky,TCU,Kentucky,7.6
+1621,Kentucky,TX Southern,Kentucky,11.6
+1622,Kentucky,Texas Tech,Kentucky,9.8
+1623,Kentucky,Texas,Kentucky,4.2
+1624,Kentucky,UCLA,Kentucky,5.2
+1625,Kentucky,Villanova,Villanova,9
+1626,Kentucky,Virginia Tech,Kentucky,7.4
+1627,Kentucky,Virginia,Kentucky,1
+1628,Kentucky,West Virginia,Kentucky,1.4
+1629,Kentucky,Wichita St,Kentucky,1.8
+1630,Kentucky,Wright St,Kentucky,11.4
+1631,Kentucky,Xavier,Kentucky,1
+1632,Kentucky,Middle Tenn St,Kentucky,10.6
+1633,Lipscomb,Alabama,Lipscomb,4.6
+1634,Lipscomb,Arizona St,Lipscomb,3.4
+1635,Lipscomb,Arizona,Arizona,3.2
+1636,Lipscomb,Arkansas,Arkansas,0.2
+1637,Lipscomb,Auburn,Lipscomb,3.2
+1638,Lipscomb,Bucknell,Lipscomb,8
+1639,Lipscomb,Buffalo,Lipscomb,6.2
+1640,Lipscomb,Butler,Butler,1
+1641,Lipscomb,CS Fullerton,Lipscomb,7
+1642,Lipscomb,Charleston So,Lipscomb,4.6
+1643,Lipscomb,Cincinnati,Cincinnati,6.2
+1644,Lipscomb,Clemson,Lipscomb,1.8
+1645,Lipscomb,Creighton,Lipscomb,5.2
+1646,Lipscomb,Davidson,Lipscomb,0.8
+1647,Lipscomb,Duke,Duke,3.8
+1648,Lipscomb,Florida St,Lipscomb,2.8
+1649,Lipscomb,Florida,Lipscomb,1
+1650,Lipscomb,Georgia St,Lipscomb,11
+1651,Lipscomb,Gonzaga,Gonzaga,1
+1652,Lipscomb,Houston,Lipscomb,4
+1653,Lipscomb,Iona,Iona,4.8
+1654,Lipscomb,Kansas St,Lipscomb,3.4
+1655,Lipscomb,Kansas,Kansas,6.4
+1656,Lipscomb,Kentucky,Kentucky,7.6
+1657,Lipscomb,Long Island,Lipscomb,2.2
+1658,Lipscomb,Loyola-Chicago,Lipscomb,6.4
+1659,Lipscomb,Marshall,Marshall,5.6
+1660,Lipscomb,UMBC,Lipscomb,5.6
+1661,Lipscomb,Miami FL,Lipscomb,3.8
+1662,Lipscomb,Michigan St,Michigan St,5.6
+1663,Lipscomb,Michigan,Michigan,0.6
+1664,Lipscomb,Missouri,Lipscomb,1.8
+1665,Lipscomb,Montana,Lipscomb,8.8
+1666,Lipscomb,Murray St,Lipscomb,6.6
+1667,Lipscomb,Nevada,Nevada,1.6
+1668,Lipscomb,New Mexico St,New Mexico St,0.4
+1669,Lipscomb,NC Central,Lipscomb,6.2
+1670,Lipscomb,UNC Greensboro,Lipscomb,7.8
+1671,Lipscomb,NC State,Lipscomb,0.6
+1672,Lipscomb,North Carolina,North Carolina,9.8
+1673,Lipscomb,Ohio St,Lipscomb,1.2
+1674,Lipscomb,Oklahoma,Oklahoma,6.2
+1675,Lipscomb,Penn,Lipscomb,7.8
+1676,Lipscomb,Providence,Providence,4.2
+1677,Lipscomb,Purdue,Purdue,5.2
+1678,Lipscomb,Radford,Lipscomb,6.6
+1679,Lipscomb,Rhode Island,Lipscomb,10
+1680,Lipscomb,San Diego St,San Diego St,1.6
+1681,Lipscomb,Seton Hall,Lipscomb,4
+1682,Lipscomb,S Dakota St,Lipscomb,6
+1683,Lipscomb,St Bonaventure,Lipscomb,3.8
+1684,Lipscomb,SF Austin,SF Austin,1.4
+1685,Lipscomb,Syracuse,Syracuse,1.4
+1686,Lipscomb,Tennessee,Lipscomb,5.2
+1687,Lipscomb,Texas A&M,Texas A&M,6.8
+1688,Lipscomb,TCU,Lipscomb,3
+1689,Lipscomb,TX Southern,Lipscomb,4
+1690,Lipscomb,Texas Tech,Lipscomb,8.4
+1691,Lipscomb,Texas,Texas,0
+1692,Lipscomb,UCLA,Lipscomb,1.6
+1693,Lipscomb,Villanova,Villanova,8.2
+1694,Lipscomb,Virginia Tech,Lipscomb,7.2
+1695,Lipscomb,Virginia,Lipscomb,1.4
+1696,Lipscomb,West Virginia,West Virginia,2.8
+1697,Lipscomb,Wichita St,Lipscomb,3
+1698,Lipscomb,Wright St,Lipscomb,5.4
+1699,Lipscomb,Xavier,Xavier,2.6
+1700,Lipscomb,Middle Tenn St,Lipscomb,5.6
+1701,Long Island,Alabama,Alabama,0.4
+1702,Long Island,Arizona St,Arizona St,3.2
+1703,Long Island,Arizona,Arizona,2.4
+1704,Long Island,Arkansas,Arkansas,4.8
+1705,Long Island,Auburn,Long Island,0.8
+1706,Long Island,Bucknell,Bucknell,0.4
+1707,Long Island,Buffalo,Buffalo,1.8
+1708,Long Island,Butler,Butler,2.6
+1709,Long Island,CS Fullerton,Long Island,2.4
+1710,Long Island,Charleston So,Long Island,1.4
+1711,Long Island,Cincinnati,Cincinnati,6.2
+1712,Long Island,Clemson,Long Island,0.6
+1713,Long Island,Creighton,Creighton,3
+1714,Long Island,Davidson,Davidson,0.4
+1715,Long Island,Duke,Duke,1.6
+1716,Long Island,Florida St,Florida St,3
+1717,Long Island,Florida,Florida,5.2
+1718,Long Island,Georgia St,Long Island,5.2
+1719,Long Island,Gonzaga,Gonzaga,4.4
+1720,Long Island,Houston,Long Island,0.4
+1721,Long Island,Iona,Iona,5.2
+1722,Long Island,Kansas St,Long Island,1.6
+1723,Long Island,Kansas,Kansas,12
+1724,Long Island,Kentucky,Kentucky,8.2
+1725,Long Island,Lipscomb,Lipscomb,2.2
+1726,Long Island,Loyola-Chicago,Long Island,5.2
+1727,Long Island,Marshall,Marshall,6.8
+1728,Long Island,UMBC,Long Island,0.2
+1729,Long Island,Miami FL,Long Island,1.8
+1730,Long Island,Michigan St,Michigan St,10.8
+1731,Long Island,Michigan,Michigan,1
+1732,Long Island,Missouri,Long Island,0.4
+1733,Long Island,Montana,Long Island,3.6
+1734,Long Island,Murray St,Long Island,2.4
+1735,Long Island,Nevada,Nevada,2.8
+1736,Long Island,New Mexico St,New Mexico St,2.8
+1737,Long Island,NC Central,NC Central,0.8
+1738,Long Island,UNC Greensboro,UNC Greensboro,0.8
+1739,Long Island,NC State,NC State,3
+1740,Long Island,North Carolina,North Carolina,16.8
+1741,Long Island,Ohio St,Ohio St,3.2
+1742,Long Island,Oklahoma,Oklahoma,4.4
+1743,Long Island,Penn,Long Island,1
+1744,Long Island,Providence,Providence,1.2
+1745,Long Island,Purdue,Purdue,8.4
+1746,Long Island,Radford,Long Island,1.2
+1747,Long Island,Rhode Island,Long Island,2.4
+1748,Long Island,San Diego St,San Diego St,1.6
+1749,Long Island,Seton Hall,Long Island,2.4
+1750,Long Island,S Dakota St,Long Island,1.8
+1751,Long Island,St Bonaventure,Long Island,0.6
+1752,Long Island,SF Austin,SF Austin,2
+1753,Long Island,Syracuse,Syracuse,1.2
+1754,Long Island,Tennessee,Long Island,0.8
+1755,Long Island,Texas A&M,Texas A&M,7
+1756,Long Island,TCU,TCU,0.4
+1757,Long Island,TX Southern,Long Island,0.8
+1758,Long Island,Texas Tech,Long Island,3.4
+1759,Long Island,Texas,Long Island,2.8
+1760,Long Island,UCLA,UCLA,6.6
+1761,Long Island,Villanova,Villanova,15.2
+1762,Long Island,Virginia Tech,Long Island,1.8
+1763,Long Island,Virginia,Long Island,0.4
+1764,Long Island,West Virginia,West Virginia,5.6
+1765,Long Island,Wichita St,Wichita St,1.4
+1766,Long Island,Wright St,Wright St,1.4
+1767,Long Island,Xavier,Xavier,1.4
+1768,Long Island,Middle Tenn St,Middle Tenn St,3.8
+1769,Loyola-Chicago,Alabama,Alabama,4.6
+1770,Loyola-Chicago,Arizona St,Arizona St,7.8
+1771,Loyola-Chicago,Arizona,Arizona,16.8
+1772,Loyola-Chicago,Arkansas,Arkansas,8.6
+1773,Loyola-Chicago,Auburn,Auburn,9.8
+1774,Loyola-Chicago,Bucknell,Bucknell,5.6
+1775,Loyola-Chicago,Buffalo,Buffalo,7.2
+1776,Loyola-Chicago,Butler,Butler,7.2
+1777,Loyola-Chicago,CS Fullerton,CS Fullerton,0.6
+1778,Loyola-Chicago,Charleston So,Charleston So,1.2
+1779,Loyola-Chicago,Cincinnati,Cincinnati,4.6
+1780,Loyola-Chicago,Clemson,Clemson,1.4
+1781,Loyola-Chicago,Creighton,Creighton,8.2
+1782,Loyola-Chicago,Davidson,Davidson,4.2
+1783,Loyola-Chicago,Duke,Duke,5.8
+1784,Loyola-Chicago,Florida St,Florida St,5
+1785,Loyola-Chicago,Florida,Florida,4
+1786,Loyola-Chicago,Georgia St,Loyola-Chicago,1.6
+1787,Loyola-Chicago,Gonzaga,Gonzaga,11.4
+1788,Loyola-Chicago,Houston,Houston,5.2
+1789,Loyola-Chicago,Iona,Iona,5.4
+1790,Loyola-Chicago,Kansas St,Kansas St,2.6
+1791,Loyola-Chicago,Kansas,Kansas,16.8
+1792,Loyola-Chicago,Kentucky,Kentucky,14
+1793,Loyola-Chicago,Lipscomb,Lipscomb,6.4
+1794,Loyola-Chicago,Long Island,Long Island,5.2
+1795,Loyola-Chicago,Marshall,Marshall,10.6
+1796,Loyola-Chicago,UMBC,UMBC,8.6
+1797,Loyola-Chicago,Miami FL,Miami FL,3.6
+1798,Loyola-Chicago,Michigan St,Michigan St,12.4
+1799,Loyola-Chicago,Michigan,Michigan,8
+1800,Loyola-Chicago,Missouri,Missouri,4
+1801,Loyola-Chicago,Montana,Montana,5.4
+1802,Loyola-Chicago,Murray St,Murray St,6
+1803,Loyola-Chicago,Nevada,Nevada,3.2
+1804,Loyola-Chicago,New Mexico St,New Mexico St,4.2
+1805,Loyola-Chicago,NC Central,NC Central,2.4
+1806,Loyola-Chicago,UNC Greensboro,UNC Greensboro,1
+1807,Loyola-Chicago,NC State,NC State,4.8
+1808,Loyola-Chicago,North Carolina,North Carolina,17.6
+1809,Loyola-Chicago,Ohio St,Ohio St,2.8
+1810,Loyola-Chicago,Oklahoma,Oklahoma,9.4
+1811,Loyola-Chicago,Penn,Loyola-Chicago,0.8
+1812,Loyola-Chicago,Providence,Providence,4.2
+1813,Loyola-Chicago,Purdue,Purdue,12.6
+1814,Loyola-Chicago,Radford,Loyola-Chicago,2
+1815,Loyola-Chicago,Rhode Island,Loyola-Chicago,0.6
+1816,Loyola-Chicago,San Diego St,San Diego St,8.8
+1817,Loyola-Chicago,Seton Hall,Seton Hall,10.6
+1818,Loyola-Chicago,S Dakota St,S Dakota St,5.4
+1819,Loyola-Chicago,St Bonaventure,St Bonaventure,3.2
+1820,Loyola-Chicago,SF Austin,SF Austin,4.4
+1821,Loyola-Chicago,Syracuse,Syracuse,4.6
+1822,Loyola-Chicago,Tennessee,Tennessee,5
+1823,Loyola-Chicago,Texas A&M,Texas A&M,12.8
+1824,Loyola-Chicago,TCU,TCU,5
+1825,Loyola-Chicago,TX Southern,TX Southern,4.4
+1826,Loyola-Chicago,Texas Tech,Texas Tech,4.6
+1827,Loyola-Chicago,Texas,Texas,7.4
+1828,Loyola-Chicago,UCLA,UCLA,10.6
+1829,Loyola-Chicago,Villanova,Villanova,13.8
+1830,Loyola-Chicago,Virginia Tech,Virginia Tech,7.2
+1831,Loyola-Chicago,Virginia,Virginia,7.8
+1832,Loyola-Chicago,West Virginia,West Virginia,14.2
+1833,Loyola-Chicago,Wichita St,Wichita St,1.4
+1834,Loyola-Chicago,Wright St,Wright St,8.4
+1835,Loyola-Chicago,Xavier,Xavier,12.6
+1836,Loyola-Chicago,Middle Tenn St,Middle Tenn St,8.4
+1837,Marshall,Alabama,Marshall,8.6
+1838,Marshall,Arizona St,Marshall,3
+1839,Marshall,Arizona,Marshall,5.8
+1840,Marshall,Arkansas,Marshall,2
+1841,Marshall,Auburn,Marshall,8.4
+1842,Marshall,Bucknell,Marshall,6.6
+1843,Marshall,Buffalo,Marshall,6.6
+1844,Marshall,Butler,Marshall,6.2
+1845,Marshall,CS Fullerton,Marshall,13.4
+1846,Marshall,Charleston So,Marshall,9.4
+1847,Marshall,Cincinnati,Cincinnati,3
+1848,Marshall,Clemson,Marshall,2.6
+1849,Marshall,Creighton,Marshall,5.4
+1850,Marshall,Davidson,Marshall,5.4
+1851,Marshall,Duke,Marshall,4.4
+1852,Marshall,Florida St,Marshall,7.4
+1853,Marshall,Florida,Marshall,1.4
+1854,Marshall,Georgia St,Marshall,14.2
+1855,Marshall,Gonzaga,Gonzaga,3
+1856,Marshall,Houston,Marshall,1.6
+1857,Marshall,Iona,Marshall,2.2
+1858,Marshall,Kansas St,Marshall,7
+1859,Marshall,Kansas,Kansas,2.8
+1860,Marshall,Kentucky,Marshall,3.8
+1861,Marshall,Lipscomb,Marshall,5.6
+1862,Marshall,Long Island,Marshall,6.8
+1863,Marshall,Loyola-Chicago,Marshall,10.6
+1864,Marshall,UMBC,Marshall,5.4
+1865,Marshall,Miami FL,Marshall,1.2
+1866,Marshall,Michigan St,Marshall,0.6
+1867,Marshall,Michigan,Marshall,2.2
+1868,Marshall,Missouri,Marshall,13.4
+1869,Marshall,Montana,Marshall,7.8
+1870,Marshall,Murray St,Marshall,3.8
+1871,Marshall,Nevada,Marshall,4.8
+1872,Marshall,New Mexico St,Marshall,3.6
+1873,Marshall,NC Central,Marshall,10.4
+1874,Marshall,UNC Greensboro,Marshall,7
+1875,Marshall,NC State,Marshall,4.6
+1876,Marshall,North Carolina,Marshall,1.2
+1877,Marshall,Ohio St,Marshall,3.2
+1878,Marshall,Oklahoma,Oklahoma,0.8
+1879,Marshall,Penn,Marshall,8
+1880,Marshall,Providence,Providence,4
+1881,Marshall,Purdue,Marshall,2.8
+1882,Marshall,Radford,Marshall,6.4
+1883,Marshall,Rhode Island,Marshall,9
+1884,Marshall,San Diego St,Marshall,5.6
+1885,Marshall,Seton Hall,Marshall,6
+1886,Marshall,S Dakota St,Marshall,3.4
+1887,Marshall,St Bonaventure,Marshall,6
+1888,Marshall,SF Austin,SF Austin,0.8
+1889,Marshall,Syracuse,Marshall,1.6
+1890,Marshall,Tennessee,Marshall,9.4
+1891,Marshall,Texas A&M,Marshall,0.4
+1892,Marshall,TCU,Marshall,8
+1893,Marshall,TX Southern,Marshall,1.8
+1894,Marshall,Texas Tech,Marshall,7.4
+1895,Marshall,Texas,Marshall,2
+1896,Marshall,UCLA,Marshall,5.8
+1897,Marshall,Villanova,Villanova,1
+1898,Marshall,Virginia Tech,Marshall,7.4
+1899,Marshall,Virginia,Marshall,2.6
+1900,Marshall,West Virginia,Marshall,0.8
+1901,Marshall,Wichita St,Wichita St,0.4
+1902,Marshall,Wright St,Marshall,5.2
+1903,Marshall,Xavier,Marshall,1
+1904,Marshall,Middle Tenn St,Marshall,9
+1905,UMBC,Alabama,UMBC,5.6
+1906,UMBC,Arizona St,Arizona St,0.2
+1907,UMBC,Arizona,Arizona,10
+1908,UMBC,Arkansas,Arkansas,0
+1909,UMBC,Auburn,UMBC,2
+1910,UMBC,Bucknell,UMBC,3.2
+1911,UMBC,Buffalo,Buffalo,5.8
+1912,UMBC,Butler,Butler,1.2
+1913,UMBC,CS Fullerton,UMBC,6.6
+1914,UMBC,Charleston So,UMBC,3.2
+1915,UMBC,Cincinnati,Cincinnati,2.8
+1916,UMBC,Clemson,UMBC,6
+1917,UMBC,Creighton,Creighton,5.4
+1918,UMBC,Davidson,Davidson,4.2
+1919,UMBC,Duke,Duke,5.8
+1920,UMBC,Florida St,Florida St,3.4
+1921,UMBC,Florida,Florida,3.6
+1922,UMBC,Georgia St,UMBC,12
+1923,UMBC,Gonzaga,Gonzaga,11.4
+1924,UMBC,Houston,UMBC,0.4
+1925,UMBC,Iona,Iona,1.8
+1926,UMBC,Kansas St,UMBC,4.4
+1927,UMBC,Kansas,Kansas,11.4
+1928,UMBC,Kentucky,Kentucky,8.6
+1929,UMBC,Lipscomb,Lipscomb,5.6
+1930,UMBC,Long Island,Long Island,0.2
+1931,UMBC,Loyola-Chicago,UMBC,8.6
+1932,UMBC,Marshall,Marshall,5.4
+1933,UMBC,Miami FL,UMBC,0.2
+1934,UMBC,Michigan St,Michigan St,9.2
+1935,UMBC,Michigan,Michigan,5
+1936,UMBC,Missouri,UMBC,7.2
+1937,UMBC,Montana,UMBC,2.4
+1938,UMBC,Murray St,UMBC,1.8
+1939,UMBC,Nevada,Nevada,0.4
+1940,UMBC,New Mexico St,New Mexico St,8
+1941,UMBC,NC Central,UMBC,2.2
+1942,UMBC,UNC Greensboro,UNC Greensboro,0
+1943,UMBC,NC State,NC State,1.2
+1944,UMBC,North Carolina,North Carolina,17.8
+1945,UMBC,Ohio St,Ohio St,3.6
+1946,UMBC,Oklahoma,Oklahoma,5.6
+1947,UMBC,Penn,UMBC,5.4
+1948,UMBC,Providence,UMBC,1
+1949,UMBC,Purdue,Purdue,8.8
+1950,UMBC,Radford,UMBC,4.2
+1951,UMBC,Rhode Island,UMBC,9
+1952,UMBC,San Diego St,San Diego St,5.2
+1953,UMBC,Seton Hall,Seton Hall,6.6
+1954,UMBC,S Dakota St,S Dakota St,5.8
+1955,UMBC,St Bonaventure,St Bonaventure,1.8
+1956,UMBC,SF Austin,SF Austin,5.6
+1957,UMBC,Syracuse,UMBC,3.4
+1958,UMBC,Tennessee,Tennessee,2
+1959,UMBC,Texas A&M,Texas A&M,8.4
+1960,UMBC,TCU,UMBC,7.2
+1961,UMBC,TX Southern,UMBC,0.6
+1962,UMBC,Texas Tech,UMBC,5.6
+1963,UMBC,Texas,UMBC,2.2
+1964,UMBC,UCLA,UCLA,8
+1965,UMBC,Villanova,Villanova,13.8
+1966,UMBC,Virginia Tech,UMBC,2.8
+1967,UMBC,Virginia,Virginia,2.8
+1968,UMBC,West Virginia,West Virginia,10
+1969,UMBC,Wichita St,Wichita St,3
+1970,UMBC,Wright St,Wright St,2.4
+1971,UMBC,Xavier,Xavier,5.8
+1972,UMBC,Middle Tenn St,Middle Tenn St,4.2
+1973,Miami FL,Alabama,Alabama,2.8
+1974,Miami FL,Arizona St,Miami FL,2.6
+1975,Miami FL,Arizona,Arizona,4
+1976,Miami FL,Arkansas,Arkansas,2
+1977,Miami FL,Auburn,Miami FL,0.2
+1978,Miami FL,Bucknell,Miami FL,1.4
+1979,Miami FL,Buffalo,Buffalo,2
+1980,Miami FL,Butler,Butler,1
+1981,Miami FL,CS Fullerton,Miami FL,4
+1982,Miami FL,Charleston So,Miami FL,2.6
+1983,Miami FL,Cincinnati,Cincinnati,7.2
+1984,Miami FL,Clemson,Clemson,5
+1985,Miami FL,Creighton,Creighton,2.8
+1986,Miami FL,Davidson,Davidson,0.4
+1987,Miami FL,Duke,Duke,1.4
+1988,Miami FL,Florida St,Florida St,2.4
+1989,Miami FL,Florida,Florida,2
+1990,Miami FL,Georgia St,Miami FL,6
+1991,Miami FL,Gonzaga,Gonzaga,4.8
+1992,Miami FL,Houston,Houston,1.2
+1993,Miami FL,Iona,Miami FL,5.2
+1994,Miami FL,Kansas St,Miami FL,3.8
+1995,Miami FL,Kansas,Kansas,6.6
+1996,Miami FL,Kentucky,Kentucky,4.6
+1997,Miami FL,Lipscomb,Lipscomb,3.8
+1998,Miami FL,Long Island,Long Island,1.8
+1999,Miami FL,Loyola-Chicago,Miami FL,3.6
+2000,Miami FL,Marshall,Marshall,1.2
+2001,Miami FL,UMBC,UMBC,0.2
+2002,Miami FL,Michigan St,Michigan St,4.4
+2003,Miami FL,Michigan,Miami FL,1
+2004,Miami FL,Missouri,Miami FL,5
+2005,Miami FL,Montana,Miami FL,3.4
+2006,Miami FL,Murray St,Miami FL,3.6
+2007,Miami FL,Nevada,Nevada,2
+2008,Miami FL,New Mexico St,Miami FL,3.6
+2009,Miami FL,NC Central,Miami FL,1.8
+2010,Miami FL,UNC Greensboro,Miami FL,3.6
+2011,Miami FL,NC State,Miami FL,1.8
+2012,Miami FL,North Carolina,North Carolina,8.2
+2013,Miami FL,Ohio St,Miami FL,0.4
+2014,Miami FL,Oklahoma,Oklahoma,0.8
+2015,Miami FL,Penn,Miami FL,4.6
+2016,Miami FL,Providence,Providence,1.6
+2017,Miami FL,Purdue,Purdue,1.8
+2018,Miami FL,Radford,Miami FL,5.4
+2019,Miami FL,Rhode Island,Miami FL,3.4
+2020,Miami FL,San Diego St,San Diego St,1.8
+2021,Miami FL,Seton Hall,Seton Hall,2.8
+2022,Miami FL,S Dakota St,Miami FL,5.8
+2023,Miami FL,St Bonaventure,Miami FL,1.4
+2024,Miami FL,SF Austin,Miami FL,1.6
+2025,Miami FL,Syracuse,Syracuse,5.2
+2026,Miami FL,Tennessee,Tennessee,0.2
+2027,Miami FL,Texas A&M,Texas A&M,3.4
+2028,Miami FL,TCU,Miami FL,6
+2029,Miami FL,TX Southern,Miami FL,4.8
+2030,Miami FL,Texas Tech,Texas Tech,0
+2031,Miami FL,Texas,Texas,1.4
+2032,Miami FL,UCLA,Miami FL,0.6
+2033,Miami FL,Villanova,Villanova,7.4
+2034,Miami FL,Virginia Tech,Miami FL,2.2
+2035,Miami FL,Virginia,Miami FL,4
+2036,Miami FL,West Virginia,West Virginia,3.4
+2037,Miami FL,Wichita St,Miami FL,1.2
+2038,Miami FL,Wright St,Miami FL,1.8
+2039,Miami FL,Xavier,Xavier,8.2
+2040,Miami FL,Middle Tenn St,Miami FL,2.4
+2041,Michigan St,Alabama,Michigan St,8
+2042,Michigan St,Arizona St,Michigan St,9.8
+2043,Michigan St,Arizona,Michigan St,3.4
+2044,Michigan St,Arkansas,Michigan St,2.8
+2045,Michigan St,Auburn,Michigan St,9.4
+2046,Michigan St,Bucknell,Michigan St,9
+2047,Michigan St,Buffalo,Michigan St,6.4
+2048,Michigan St,Butler,Michigan St,5
+2049,Michigan St,CS Fullerton,Michigan St,12.2
+2050,Michigan St,Charleston So,Michigan St,12.6
+2051,Michigan St,Cincinnati,Cincinnati,0.4
+2052,Michigan St,Clemson,Michigan St,7.4
+2053,Michigan St,Creighton,Michigan St,0.4
+2054,Michigan St,Davidson,Michigan St,2.8
+2055,Michigan St,Duke,Michigan St,6
+2056,Michigan St,Florida St,Michigan St,2
+2057,Michigan St,Florida,Michigan St,8.4
+2058,Michigan St,Georgia St,Michigan St,10.2
+2059,Michigan St,Gonzaga,Gonzaga,0
+2060,Michigan St,Houston,Michigan St,3.8
+2061,Michigan St,Iona,Michigan St,4.2
+2062,Michigan St,Kansas St,Michigan St,8.2
+2063,Michigan St,Kansas,Kansas,4
+2064,Michigan St,Kentucky,Kentucky,0.4
+2065,Michigan St,Lipscomb,Michigan St,5.6
+2066,Michigan St,Long Island,Michigan St,10.8
+2067,Michigan St,Loyola-Chicago,Michigan St,12.4
+2068,Michigan St,Marshall,Marshall,0.6
+2069,Michigan St,UMBC,Michigan St,9.2
+2070,Michigan St,Miami FL,Michigan St,4.4
+2071,Michigan St,Michigan,Michigan St,4.2
+2072,Michigan St,Missouri,Michigan St,11
+2073,Michigan St,Montana,Michigan St,12.4
+2074,Michigan St,Murray St,Michigan St,11.6
+2075,Michigan St,Nevada,Michigan St,9.6
+2076,Michigan St,New Mexico St,Michigan St,2
+2077,Michigan St,NC Central,Michigan St,15
+2078,Michigan St,UNC Greensboro,Michigan St,12.8
+2079,Michigan St,NC State,Michigan St,6.4
+2080,Michigan St,North Carolina,North Carolina,3.2
+2081,Michigan St,Ohio St,Michigan St,6.6
+2082,Michigan St,Oklahoma,Oklahoma,1.2
+2083,Michigan St,Penn,Michigan St,10.2
+2084,Michigan St,Providence,Michigan St,3.4
+2085,Michigan St,Purdue,Michigan St,1.2
+2086,Michigan St,Radford,Michigan St,12.6
+2087,Michigan St,Rhode Island,Michigan St,10.6
+2088,Michigan St,San Diego St,Michigan St,5
+2089,Michigan St,Seton Hall,Michigan St,3.6
+2090,Michigan St,S Dakota St,Michigan St,5.6
+2091,Michigan St,St Bonaventure,Michigan St,8.4
+2092,Michigan St,SF Austin,Michigan St,4.6
+2093,Michigan St,Syracuse,Michigan St,7.4
+2094,Michigan St,Tennessee,Michigan St,7.8
+2095,Michigan St,Texas A&M,Texas A&M,1.4
+2096,Michigan St,TCU,Michigan St,12.4
+2097,Michigan St,TX Southern,Michigan St,9.8
+2098,Michigan St,Texas Tech,Michigan St,6.8
+2099,Michigan St,Texas,Michigan St,9.8
+2100,Michigan St,UCLA,Michigan St,2.4
+2101,Michigan St,Villanova,Villanova,2.2
+2102,Michigan St,Virginia Tech,Michigan St,9.8
+2103,Michigan St,Virginia,Michigan St,1.4
+2104,Michigan St,West Virginia,Michigan St,3.4
+2105,Michigan St,Wichita St,Michigan St,3.4
+2106,Michigan St,Wright St,Michigan St,5.4
+2107,Michigan St,Xavier,Michigan St,2
+2108,Michigan St,Middle Tenn St,Michigan St,3.2
+2109,Michigan,Alabama,Michigan,1.6
+2110,Michigan,Arizona St,Michigan,0.8
+2111,Michigan,Arizona,Arizona,0.8
+2112,Michigan,Arkansas,Arkansas,4
+2113,Michigan,Auburn,Michigan,5.2
+2114,Michigan,Bucknell,Michigan,6.8
+2115,Michigan,Buffalo,Michigan,1.2
+2116,Michigan,Butler,Butler,0
+2117,Michigan,CS Fullerton,Michigan,10.2
+2118,Michigan,Charleston So,Michigan,6.6
+2119,Michigan,Cincinnati,Cincinnati,2.6
+2120,Michigan,Clemson,Clemson,0.2
+2121,Michigan,Creighton,Creighton,4.2
+2122,Michigan,Davidson,Davidson,2.6
+2123,Michigan,Duke,Duke,3.4
+2124,Michigan,Florida St,Florida St,6.6
+2125,Michigan,Florida,Michigan,0.2
+2126,Michigan,Georgia St,Michigan,11
+2127,Michigan,Gonzaga,Gonzaga,4.8
+2128,Michigan,Houston,Houston,0.2
+2129,Michigan,Iona,Iona,0.6
+2130,Michigan,Kansas St,Kansas St,0
+2131,Michigan,Kansas,Kansas,3.6
+2132,Michigan,Kentucky,Kentucky,2.6
+2133,Michigan,Lipscomb,Michigan,0.6
+2134,Michigan,Long Island,Michigan,1
+2135,Michigan,Loyola-Chicago,Michigan,8
+2136,Michigan,Marshall,Marshall,2.2
+2137,Michigan,UMBC,Michigan,5
+2138,Michigan,Miami FL,Miami FL,1
+2139,Michigan,Michigan St,Michigan St,4.2
+2140,Michigan,Missouri,Michigan,8.6
+2141,Michigan,Montana,Michigan,6.8
+2142,Michigan,Murray St,Michigan,5
+2143,Michigan,Nevada,Michigan,2.8
+2144,Michigan,New Mexico St,New Mexico St,0.4
+2145,Michigan,NC Central,Michigan,7.6
+2146,Michigan,UNC Greensboro,Michigan,6.8
+2147,Michigan,NC State,NC State,1.2
+2148,Michigan,North Carolina,North Carolina,5.8
+2149,Michigan,Ohio St,Michigan,2.2
+2150,Michigan,Oklahoma,Oklahoma,4
+2151,Michigan,Penn,Michigan,7
+2152,Michigan,Providence,Providence,2.8
+2153,Michigan,Purdue,Purdue,3.8
+2154,Michigan,Radford,Michigan,1
+2155,Michigan,Rhode Island,Michigan,5.2
+2156,Michigan,San Diego St,Michigan,1.8
+2157,Michigan,Seton Hall,Seton Hall,4
+2158,Michigan,S Dakota St,Michigan,3.4
+2159,Michigan,St Bonaventure,Michigan,1.8
+2160,Michigan,SF Austin,SF Austin,4
+2161,Michigan,Syracuse,Syracuse,0.6
+2162,Michigan,Tennessee,Tennessee,0.4
+2163,Michigan,Texas A&M,Texas A&M,5
+2164,Michigan,TCU,Michigan,3
+2165,Michigan,TX Southern,Michigan,3.4
+2166,Michigan,Texas Tech,Michigan,1.8
+2167,Michigan,Texas,Texas,0
+2168,Michigan,UCLA,UCLA,3.2
+2169,Michigan,Villanova,Villanova,6.2
+2170,Michigan,Virginia Tech,Michigan,1.6
+2171,Michigan,Virginia,Virginia,2.2
+2172,Michigan,West Virginia,Michigan,0.8
+2173,Michigan,Wichita St,Wichita St,2.4
+2174,Michigan,Wright St,Michigan,4.6
+2175,Michigan,Xavier,Michigan,2.8
+2176,Michigan,Middle Tenn St,Michigan,1.4
+2177,Missouri,Alabama,Alabama,1.6
+2178,Missouri,Arizona St,Arizona St,8
+2179,Missouri,Arizona,Arizona,12.8
+2180,Missouri,Arkansas,Arkansas,6.2
+2181,Missouri,Auburn,Auburn,5.2
+2182,Missouri,Bucknell,Bucknell,2.6
+2183,Missouri,Buffalo,Buffalo,3.2
+2184,Missouri,Butler,Butler,6
+2185,Missouri,CS Fullerton,Missouri,1
+2186,Missouri,Charleston So,Charleston So,0.2
+2187,Missouri,Cincinnati,Cincinnati,1.2
+2188,Missouri,Clemson,Missouri,2.4
+2189,Missouri,Creighton,Creighton,11
+2190,Missouri,Davidson,Davidson,2.8
+2191,Missouri,Duke,Duke,7.6
+2192,Missouri,Florida St,Florida St,5.8
+2193,Missouri,Florida,Florida,5
+2194,Missouri,Georgia St,Missouri,4.4
+2195,Missouri,Gonzaga,Gonzaga,8.8
+2196,Missouri,Houston,Houston,4
+2197,Missouri,Iona,Iona,5.2
+2198,Missouri,Kansas St,Kansas St,4.6
+2199,Missouri,Kansas,Kansas,14.4
+2200,Missouri,Kentucky,Kentucky,14.2
+2201,Missouri,Lipscomb,Lipscomb,1.8
+2202,Missouri,Long Island,Long Island,0.4
+2203,Missouri,Loyola-Chicago,Missouri,4
+2204,Missouri,Marshall,Marshall,13.4
+2205,Missouri,UMBC,UMBC,7.2
+2206,Missouri,Miami FL,Miami FL,5
+2207,Missouri,Michigan St,Michigan St,11
+2208,Missouri,Michigan,Michigan,8.6
+2209,Missouri,Montana,Montana,2.4
+2210,Missouri,Murray St,Murray St,2
+2211,Missouri,Nevada,Nevada,3.4
+2212,Missouri,New Mexico St,New Mexico St,5.8
+2213,Missouri,NC Central,NC Central,1.6
+2214,Missouri,UNC Greensboro,Missouri,1
+2215,Missouri,NC State,NC State,4.8
+2216,Missouri,North Carolina,North Carolina,17.2
+2217,Missouri,Ohio St,Ohio St,2.8
+2218,Missouri,Oklahoma,Oklahoma,11
+2219,Missouri,Penn,Missouri,0.8
+2220,Missouri,Providence,Providence,8.4
+2221,Missouri,Purdue,Purdue,8.2
+2222,Missouri,Radford,Missouri,5.8
+2223,Missouri,Rhode Island,Missouri,2.6
+2224,Missouri,San Diego St,San Diego St,5
+2225,Missouri,Seton Hall,Seton Hall,4.8
+2226,Missouri,S Dakota St,S Dakota St,6.4
+2227,Missouri,St Bonaventure,St Bonaventure,6.6
+2228,Missouri,SF Austin,SF Austin,2.4
+2229,Missouri,Syracuse,Missouri,0.4
+2230,Missouri,Tennessee,Tennessee,6
+2231,Missouri,Texas A&M,Texas A&M,11
+2232,Missouri,TCU,TCU,3.6
+2233,Missouri,TX Southern,TX Southern,3.2
+2234,Missouri,Texas Tech,Texas Tech,1.6
+2235,Missouri,Texas,Texas,1.6
+2236,Missouri,UCLA,UCLA,10.6
+2237,Missouri,Villanova,Villanova,11
+2238,Missouri,Virginia Tech,Virginia Tech,4.6
+2239,Missouri,Virginia,Virginia,5.4
+2240,Missouri,West Virginia,West Virginia,12.4
+2241,Missouri,Wichita St,Wichita St,1.2
+2242,Missouri,Wright St,Wright St,4
+2243,Missouri,Xavier,Xavier,13
+2244,Missouri,Middle Tenn St,Middle Tenn St,4.6
+2245,Montana,Alabama,Alabama,5.8
+2246,Montana,Arizona St,Arizona St,7.4
+2247,Montana,Arizona,Arizona,6.4
+2248,Montana,Arkansas,Arkansas,10.4
+2249,Montana,Auburn,Auburn,0.8
+2250,Montana,Bucknell,Bucknell,3.2
+2251,Montana,Buffalo,Buffalo,9.2
+2252,Montana,Butler,Butler,8.4
+2253,Montana,CS Fullerton,Montana,2.8
+2254,Montana,Charleston So,Montana,3.4
+2255,Montana,Cincinnati,Cincinnati,4.6
+2256,Montana,Clemson,Clemson,2
+2257,Montana,Creighton,Creighton,11.4
+2258,Montana,Davidson,Davidson,9.4
+2259,Montana,Duke,Duke,9.4
+2260,Montana,Florida St,Florida St,12
+2261,Montana,Florida,Florida,1.6
+2262,Montana,Georgia St,Montana,3.4
+2263,Montana,Gonzaga,Gonzaga,13.4
+2264,Montana,Houston,Houston,3.4
+2265,Montana,Iona,Iona,8.6
+2266,Montana,Kansas St,Kansas St,1.8
+2267,Montana,Kansas,Kansas,12.6
+2268,Montana,Kentucky,Kentucky,13.6
+2269,Montana,Lipscomb,Lipscomb,8.8
+2270,Montana,Long Island,Long Island,3.6
+2271,Montana,Loyola-Chicago,Montana,5.4
+2272,Montana,Marshall,Marshall,7.8
+2273,Montana,UMBC,UMBC,2.4
+2274,Montana,Miami FL,Miami FL,3.4
+2275,Montana,Michigan St,Michigan St,12.4
+2276,Montana,Michigan,Michigan,6.8
+2277,Montana,Missouri,Montana,2.4
+2278,Montana,Murray St,Murray St,3.6
+2279,Montana,Nevada,Nevada,5.8
+2280,Montana,New Mexico St,New Mexico St,4.2
+2281,Montana,NC Central,Montana,0.8
+2282,Montana,UNC Greensboro,UNC Greensboro,2.6
+2283,Montana,NC State,NC State,8.2
+2284,Montana,North Carolina,North Carolina,18.6
+2285,Montana,Ohio St,Ohio St,2.8
+2286,Montana,Oklahoma,Oklahoma,11.4
+2287,Montana,Penn,Montana,6
+2288,Montana,Providence,Providence,8
+2289,Montana,Purdue,Purdue,11.6
+2290,Montana,Radford,Radford,1
+2291,Montana,Rhode Island,Montana,0.8
+2292,Montana,San Diego St,San Diego St,10.6
+2293,Montana,Seton Hall,Seton Hall,6
+2294,Montana,S Dakota St,S Dakota St,6.4
+2295,Montana,St Bonaventure,St Bonaventure,8.4
+2296,Montana,SF Austin,SF Austin,5
+2297,Montana,Syracuse,Syracuse,3
+2298,Montana,Tennessee,Tennessee,7
+2299,Montana,Texas A&M,Texas A&M,10.6
+2300,Montana,TCU,TCU,4.2
+2301,Montana,TX Southern,TX Southern,0.2
+2302,Montana,Texas Tech,Texas Tech,6.4
+2303,Montana,Texas,Texas,6
+2304,Montana,UCLA,UCLA,6.2
+2305,Montana,Villanova,Villanova,12.6
+2306,Montana,Virginia Tech,Virginia Tech,6.8
+2307,Montana,Virginia,Virginia,2.6
+2308,Montana,West Virginia,West Virginia,10.2
+2309,Montana,Wichita St,Wichita St,0.4
+2310,Montana,Wright St,Wright St,2
+2311,Montana,Xavier,Xavier,7.4
+2312,Montana,Middle Tenn St,Middle Tenn St,3.8
+2313,Murray St,Alabama,Alabama,4
+2314,Murray St,Arizona St,Arizona St,3.8
+2315,Murray St,Arizona,Arizona,12.6
+2316,Murray St,Arkansas,Arkansas,9.2
+2317,Murray St,Auburn,Auburn,5.2
+2318,Murray St,Bucknell,Bucknell,0.2
+2319,Murray St,Buffalo,Buffalo,9.2
+2320,Murray St,Butler,Butler,6.8
+2321,Murray St,CS Fullerton,Murray St,4.2
+2322,Murray St,Charleston So,Murray St,2
+2323,Murray St,Cincinnati,Cincinnati,4.4
+2324,Murray St,Clemson,Murray St,0.2
+2325,Murray St,Creighton,Creighton,7.6
+2326,Murray St,Davidson,Davidson,3
+2327,Murray St,Duke,Duke,7.6
+2328,Murray St,Florida St,Florida St,9.8
+2329,Murray St,Florida,Florida,5.2
+2330,Murray St,Georgia St,Murray St,5
+2331,Murray St,Gonzaga,Gonzaga,9
+2332,Murray St,Houston,Murray St,0.4
+2333,Murray St,Iona,Iona,5.2
+2334,Murray St,Kansas St,Kansas St,2.6
+2335,Murray St,Kansas,Kansas,16.6
+2336,Murray St,Kentucky,Kentucky,11.6
+2337,Murray St,Lipscomb,Lipscomb,6.6
+2338,Murray St,Long Island,Long Island,2.4
+2339,Murray St,Loyola-Chicago,Murray St,6
+2340,Murray St,Marshall,Marshall,3.8
+2341,Murray St,UMBC,UMBC,1.8
+2342,Murray St,Miami FL,Miami FL,3.6
+2343,Murray St,Michigan St,Michigan St,11.6
+2344,Murray St,Michigan,Michigan,5
+2345,Murray St,Missouri,Murray St,2
+2346,Murray St,Montana,Murray St,3.6
+2347,Murray St,Nevada,Nevada,3.6
+2348,Murray St,New Mexico St,New Mexico St,2.4
+2349,Murray St,NC Central,Murray St,2
+2350,Murray St,UNC Greensboro,UNC Greensboro,0.4
+2351,Murray St,NC State,NC State,6
+2352,Murray St,North Carolina,North Carolina,17
+2353,Murray St,Ohio St,Ohio St,0
+2354,Murray St,Oklahoma,Oklahoma,7.4
+2355,Murray St,Penn,Murray St,6
+2356,Murray St,Providence,Murray St,0.2
+2357,Murray St,Purdue,Purdue,11.6
+2358,Murray St,Radford,Murray St,0.8
+2359,Murray St,Rhode Island,Murray St,3.8
+2360,Murray St,San Diego St,San Diego St,3.8
+2361,Murray St,Seton Hall,Seton Hall,10
+2362,Murray St,S Dakota St,S Dakota St,1.8
+2363,Murray St,St Bonaventure,St Bonaventure,1
+2364,Murray St,SF Austin,SF Austin,6
+2365,Murray St,Syracuse,Syracuse,4.6
+2366,Murray St,Tennessee,Tennessee,0.6
+2367,Murray St,Texas A&M,Texas A&M,9.4
+2368,Murray St,TCU,TCU,6
+2369,Murray St,TX Southern,Murray St,0.6
+2370,Murray St,Texas Tech,Texas Tech,1.8
+2371,Murray St,Texas,Texas,1.8
+2372,Murray St,UCLA,UCLA,11.2
+2373,Murray St,Villanova,Villanova,13.2
+2374,Murray St,Virginia Tech,Virginia Tech,6.2
+2375,Murray St,Virginia,Virginia,5.8
+2376,Murray St,West Virginia,West Virginia,11.4
+2377,Murray St,Wichita St,Murray St,0.8
+2378,Murray St,Wright St,Murray St,1.2
+2379,Murray St,Xavier,Xavier,11.4
+2380,Murray St,Middle Tenn St,Middle Tenn St,4.8
+2381,Nevada,Alabama,Nevada,1.8
+2382,Nevada,Arizona St,Nevada,6
+2383,Nevada,Arizona,Arizona,3.2
+2384,Nevada,Arkansas,Nevada,1.6
+2385,Nevada,Auburn,Nevada,2.6
+2386,Nevada,Bucknell,Nevada,2
+2387,Nevada,Buffalo,Nevada,2.6
+2388,Nevada,Butler,Butler,3
+2389,Nevada,CS Fullerton,Nevada,3.4
+2390,Nevada,Charleston So,Charleston So,0
+2391,Nevada,Cincinnati,Cincinnati,1.4
+2392,Nevada,Clemson,Nevada,3.6
+2393,Nevada,Creighton,Creighton,5
+2394,Nevada,Davidson,Nevada,3
+2395,Nevada,Duke,Nevada,0.4
+2396,Nevada,Florida St,Florida St,2.4
+2397,Nevada,Florida,Nevada,0.6
+2398,Nevada,Georgia St,Nevada,5.2
+2399,Nevada,Gonzaga,Gonzaga,4.4
+2400,Nevada,Houston,Nevada,3
+2401,Nevada,Iona,Nevada,4
+2402,Nevada,Kansas St,Nevada,0.4
+2403,Nevada,Kansas,Kansas,15
+2404,Nevada,Kentucky,Kentucky,5
+2405,Nevada,Lipscomb,Nevada,1.6
+2406,Nevada,Long Island,Nevada,2.8
+2407,Nevada,Loyola-Chicago,Nevada,3.2
+2408,Nevada,Marshall,Marshall,4.8
+2409,Nevada,UMBC,Nevada,0.4
+2410,Nevada,Miami FL,Nevada,2
+2411,Nevada,Michigan St,Michigan St,9.6
+2412,Nevada,Michigan,Michigan,2.8
+2413,Nevada,Missouri,Nevada,3.4
+2414,Nevada,Montana,Nevada,5.8
+2415,Nevada,Murray St,Nevada,3.6
+2416,Nevada,New Mexico St,Nevada,3
+2417,Nevada,NC Central,Nevada,8.4
+2418,Nevada,UNC Greensboro,Nevada,4
+2419,Nevada,NC State,Nevada,0.2
+2420,Nevada,North Carolina,North Carolina,13.6
+2421,Nevada,Ohio St,Ohio St,0.4
+2422,Nevada,Oklahoma,Oklahoma,1.4
+2423,Nevada,Penn,Penn,0.2
+2424,Nevada,Providence,Providence,0.2
+2425,Nevada,Purdue,Purdue,7.8
+2426,Nevada,Radford,Nevada,5.4
+2427,Nevada,Rhode Island,Nevada,8
+2428,Nevada,San Diego St,San Diego St,4.4
+2429,Nevada,Seton Hall,Nevada,7
+2430,Nevada,S Dakota St,S Dakota St,1.2
+2431,Nevada,St Bonaventure,Nevada,2.6
+2432,Nevada,SF Austin,SF Austin,7.8
+2433,Nevada,Syracuse,Nevada,0.4
+2434,Nevada,Tennessee,Nevada,1.4
+2435,Nevada,Texas A&M,Texas A&M,3.6
+2436,Nevada,TCU,Nevada,3.4
+2437,Nevada,TX Southern,Nevada,3.8
+2438,Nevada,Texas Tech,Nevada,2.2
+2439,Nevada,Texas,Texas,1.8
+2440,Nevada,UCLA,Nevada,2.2
+2441,Nevada,Villanova,Villanova,14.6
+2442,Nevada,Virginia Tech,Nevada,0.2
+2443,Nevada,Virginia,Virginia,1.6
+2444,Nevada,West Virginia,West Virginia,7
+2445,Nevada,Wichita St,Nevada,1.6
+2446,Nevada,Wright St,Wright St,1
+2447,Nevada,Xavier,Xavier,3.8
+2448,Nevada,Middle Tenn St,Middle Tenn St,2
+2449,New Mexico St,Alabama,New Mexico St,1
+2450,New Mexico St,Arizona St,Arizona St,1.8
+2451,New Mexico St,Arizona,New Mexico St,0.4
+2452,New Mexico St,Arkansas,Arkansas,2.6
+2453,New Mexico St,Auburn,New Mexico St,4.6
+2454,New Mexico St,Bucknell,New Mexico St,4.4
+2455,New Mexico St,Buffalo,Buffalo,3
+2456,New Mexico St,Butler,Butler,4.2
+2457,New Mexico St,CS Fullerton,New Mexico St,8.6
+2458,New Mexico St,Charleston So,New Mexico St,9.4
+2459,New Mexico St,Cincinnati,Cincinnati,3
+2460,New Mexico St,Clemson,Clemson,1.8
+2461,New Mexico St,Creighton,Creighton,4.2
+2462,New Mexico St,Davidson,Davidson,2.8
+2463,New Mexico St,Duke,Duke,5.2
+2464,New Mexico St,Florida St,Florida St,5.4
+2465,New Mexico St,Florida,New Mexico St,0.4
+2466,New Mexico St,Georgia St,New Mexico St,6
+2467,New Mexico St,Gonzaga,Gonzaga,2.2
+2468,New Mexico St,Houston,Houston,1
+2469,New Mexico St,Iona,Iona,1.2
+2470,New Mexico St,Kansas St,Kansas St,0.2
+2471,New Mexico St,Kansas,Kansas,10.2
+2472,New Mexico St,Kentucky,Kentucky,8.8
+2473,New Mexico St,Lipscomb,New Mexico St,0.4
+2474,New Mexico St,Long Island,New Mexico St,2.8
+2475,New Mexico St,Loyola-Chicago,New Mexico St,4.2
+2476,New Mexico St,Marshall,Marshall,3.6
+2477,New Mexico St,UMBC,New Mexico St,8
+2478,New Mexico St,Miami FL,Miami FL,3.6
+2479,New Mexico St,Michigan St,Michigan St,2
+2480,New Mexico St,Michigan,New Mexico St,0.4
+2481,New Mexico St,Missouri,New Mexico St,5.8
+2482,New Mexico St,Montana,New Mexico St,4.2
+2483,New Mexico St,Murray St,New Mexico St,2.4
+2484,New Mexico St,Nevada,Nevada,3
+2485,New Mexico St,NC Central,New Mexico St,8.8
+2486,New Mexico St,UNC Greensboro,New Mexico St,8.4
+2487,New Mexico St,NC State,NC State,3.4
+2488,New Mexico St,North Carolina,North Carolina,9.4
+2489,New Mexico St,Ohio St,Ohio St,2.2
+2490,New Mexico St,Oklahoma,Oklahoma,8.2
+2491,New Mexico St,Penn,New Mexico St,10.2
+2492,New Mexico St,Providence,Providence,8.6
+2493,New Mexico St,Purdue,Purdue,7.8
+2494,New Mexico St,Radford,New Mexico St,11.8
+2495,New Mexico St,Rhode Island,New Mexico St,7.2
+2496,New Mexico St,San Diego St,San Diego St,9.8
+2497,New Mexico St,Seton Hall,Seton Hall,4.4
+2498,New Mexico St,S Dakota St,New Mexico St,0.6
+2499,New Mexico St,St Bonaventure,St Bonaventure,3.6
+2500,New Mexico St,SF Austin,SF Austin,5.6
+2501,New Mexico St,Syracuse,Syracuse,2.4
+2502,New Mexico St,Tennessee,Tennessee,1.8
+2503,New Mexico St,Texas A&M,Texas A&M,7.4
+2504,New Mexico St,TCU,New Mexico St,1.2
+2505,New Mexico St,TX Southern,New Mexico St,4
+2506,New Mexico St,Texas Tech,Texas Tech,0.2
+2507,New Mexico St,Texas,Texas,4.4
+2508,New Mexico St,UCLA,New Mexico St,1
+2509,New Mexico St,Villanova,Villanova,11.6
+2510,New Mexico St,Virginia Tech,Virginia Tech,2.8
+2511,New Mexico St,Virginia,Virginia,7.4
+2512,New Mexico St,West Virginia,West Virginia,5.4
+2513,New Mexico St,Wichita St,Wichita St,2.8
+2514,New Mexico St,Wright St,Wright St,1.8
+2515,New Mexico St,Xavier,Xavier,8
+2516,New Mexico St,Middle Tenn St,Middle Tenn St,0
+2517,NC Central,Alabama,Alabama,0.6
+2518,NC Central,Arizona St,Arizona St,2.6
+2519,NC Central,Arizona,Arizona,14.6
+2520,NC Central,Arkansas,Arkansas,7.6
+2521,NC Central,Auburn,Auburn,2.8
+2522,NC Central,Bucknell,Bucknell,0
+2523,NC Central,Buffalo,Buffalo,6.6
+2524,NC Central,Butler,Butler,6
+2525,NC Central,CS Fullerton,NC Central,3.4
+2526,NC Central,Charleston So,Charleston So,1
+2527,NC Central,Cincinnati,Cincinnati,8.6
+2528,NC Central,Clemson,Clemson,2.4
+2529,NC Central,Creighton,Creighton,9.4
+2530,NC Central,Davidson,Davidson,6.2
+2531,NC Central,Duke,Duke,5.8
+2532,NC Central,Florida St,Florida St,8
+2533,NC Central,Florida,Florida,6.2
+2534,NC Central,Georgia St,NC Central,5.6
+2535,NC Central,Gonzaga,Gonzaga,12.6
+2536,NC Central,Houston,Houston,3.2
+2537,NC Central,Iona,Iona,7
+2538,NC Central,Kansas St,NC Central,2
+2539,NC Central,Kansas,Kansas,17.4
+2540,NC Central,Kentucky,Kentucky,13.4
+2541,NC Central,Lipscomb,Lipscomb,6.2
+2542,NC Central,Long Island,NC Central,0.8
+2543,NC Central,Loyola-Chicago,NC Central,2.4
+2544,NC Central,Marshall,Marshall,10.4
+2545,NC Central,UMBC,UMBC,2.2
+2546,NC Central,Miami FL,Miami FL,1.8
+2547,NC Central,Michigan St,Michigan St,15
+2548,NC Central,Michigan,Michigan,7.6
+2549,NC Central,Missouri,NC Central,1.6
+2550,NC Central,Montana,Montana,0.8
+2551,NC Central,Murray St,Murray St,2
+2552,NC Central,Nevada,Nevada,8.4
+2553,NC Central,New Mexico St,New Mexico St,8.8
+2554,NC Central,UNC Greensboro,UNC Greensboro,0
+2555,NC Central,NC State,NC State,4.2
+2556,NC Central,North Carolina,North Carolina,18.4
+2557,NC Central,Ohio St,Ohio St,5.2
+2558,NC Central,Oklahoma,Oklahoma,6.4
+2559,NC Central,Penn,NC Central,3.2
+2560,NC Central,Providence,Providence,10.4
+2561,NC Central,Purdue,Purdue,11.8
+2562,NC Central,Radford,NC Central,1.2
+2563,NC Central,Rhode Island,NC Central,1.2
+2564,NC Central,San Diego St,San Diego St,5.8
+2565,NC Central,Seton Hall,Seton Hall,7.4
+2566,NC Central,S Dakota St,S Dakota St,9.4
+2567,NC Central,St Bonaventure,St Bonaventure,4.2
+2568,NC Central,SF Austin,SF Austin,11.4
+2569,NC Central,Syracuse,Syracuse,5.4
+2570,NC Central,Tennessee,Tennessee,4.8
+2571,NC Central,Texas A&M,Texas A&M,6.4
+2572,NC Central,TCU,NC Central,0.2
+2573,NC Central,TX Southern,TX Southern,3.8
+2574,NC Central,Texas Tech,NC Central,0.2
+2575,NC Central,Texas,Texas,1.4
+2576,NC Central,UCLA,UCLA,9.4
+2577,NC Central,Villanova,Villanova,16.6
+2578,NC Central,Virginia Tech,Virginia Tech,2.2
+2579,NC Central,Virginia,Virginia,2.6
+2580,NC Central,West Virginia,West Virginia,11.2
+2581,NC Central,Wichita St,Wichita St,4.8
+2582,NC Central,Wright St,Wright St,5
+2583,NC Central,Xavier,Xavier,10.2
+2584,NC Central,Middle Tenn St,Middle Tenn St,9.6
+2585,UNC Greensboro,Alabama,Alabama,2.8
+2586,UNC Greensboro,Arizona St,Arizona St,1
+2587,UNC Greensboro,Arizona,Arizona,11
+2588,UNC Greensboro,Arkansas,Arkansas,9.8
+2589,UNC Greensboro,Auburn,Auburn,4
+2590,UNC Greensboro,Bucknell,UNC Greensboro,5.8
+2591,UNC Greensboro,Buffalo,Buffalo,6.8
+2592,UNC Greensboro,Butler,Butler,5
+2593,UNC Greensboro,CS Fullerton,UNC Greensboro,4.2
+2594,UNC Greensboro,Charleston So,UNC Greensboro,0.6
+2595,UNC Greensboro,Cincinnati,Cincinnati,9.2
+2596,UNC Greensboro,Clemson,Clemson,3.8
+2597,UNC Greensboro,Creighton,Creighton,5.8
+2598,UNC Greensboro,Davidson,Davidson,6.6
+2599,UNC Greensboro,Duke,Duke,8
+2600,UNC Greensboro,Florida St,Florida St,7.2
+2601,UNC Greensboro,Florida,Florida,3.8
+2602,UNC Greensboro,Georgia St,UNC Greensboro,5.2
+2603,UNC Greensboro,Gonzaga,Gonzaga,9.8
+2604,UNC Greensboro,Houston,Houston,1.8
+2605,UNC Greensboro,Iona,Iona,6
+2606,UNC Greensboro,Kansas St,UNC Greensboro,1.4
+2607,UNC Greensboro,Kansas,Kansas,12
+2608,UNC Greensboro,Kentucky,Kentucky,13.6
+2609,UNC Greensboro,Lipscomb,Lipscomb,7.8
+2610,UNC Greensboro,Long Island,UNC Greensboro,0.8
+2611,UNC Greensboro,Loyola-Chicago,UNC Greensboro,1
+2612,UNC Greensboro,Marshall,Marshall,7
+2613,UNC Greensboro,UMBC,UMBC,0
+2614,UNC Greensboro,Miami FL,Miami FL,3.6
+2615,UNC Greensboro,Michigan St,Michigan St,12.8
+2616,UNC Greensboro,Michigan,Michigan,6.8
+2617,UNC Greensboro,Missouri,Missouri,1
+2618,UNC Greensboro,Montana,UNC Greensboro,2.6
+2619,UNC Greensboro,Murray St,UNC Greensboro,0.4
+2620,UNC Greensboro,Nevada,Nevada,4
+2621,UNC Greensboro,New Mexico St,New Mexico St,8.4
+2622,UNC Greensboro,NC Central,NC Central,0
+2623,UNC Greensboro,NC State,NC State,6.6
+2624,UNC Greensboro,North Carolina,North Carolina,15
+2625,UNC Greensboro,Ohio St,Ohio St,7
+2626,UNC Greensboro,Oklahoma,Oklahoma,10
+2627,UNC Greensboro,Penn,UNC Greensboro,0.6
+2628,UNC Greensboro,Providence,Providence,4.4
+2629,UNC Greensboro,Purdue,Purdue,12.8
+2630,UNC Greensboro,Radford,Radford,1.4
+2631,UNC Greensboro,Rhode Island,UNC Greensboro,1.2
+2632,UNC Greensboro,San Diego St,San Diego St,10.8
+2633,UNC Greensboro,Seton Hall,Seton Hall,10.2
+2634,UNC Greensboro,S Dakota St,S Dakota St,3.8
+2635,UNC Greensboro,St Bonaventure,St Bonaventure,2.8
+2636,UNC Greensboro,SF Austin,SF Austin,8.4
+2637,UNC Greensboro,Syracuse,Syracuse,1.6
+2638,UNC Greensboro,Tennessee,Tennessee,3.6
+2639,UNC Greensboro,Texas A&M,Texas A&M,10
+2640,UNC Greensboro,TCU,TCU,2.6
+2641,UNC Greensboro,TX Southern,UNC Greensboro,1
+2642,UNC Greensboro,Texas Tech,Texas Tech,2.4
+2643,UNC Greensboro,Texas,Texas,6.8
+2644,UNC Greensboro,UCLA,UCLA,8.8
+2645,UNC Greensboro,Villanova,Villanova,13.6
+2646,UNC Greensboro,Virginia Tech,Virginia Tech,4.2
+2647,UNC Greensboro,Virginia,Virginia,9
+2648,UNC Greensboro,West Virginia,West Virginia,11
+2649,UNC Greensboro,Wichita St,Wichita St,2.2
+2650,UNC Greensboro,Wright St,Wright St,1.6
+2651,UNC Greensboro,Xavier,Xavier,10
+2652,UNC Greensboro,Middle Tenn St,Middle Tenn St,4.6
+2653,NC State,Alabama,NC State,2.4
+2654,NC State,Arizona St,NC State,3.6
+2655,NC State,Arizona,Arizona,4.8
+2656,NC State,Arkansas,Arkansas,4.2
+2657,NC State,Auburn,NC State,4.8
+2658,NC State,Bucknell,NC State,7.2
+2659,NC State,Buffalo,Buffalo,2.2
+2660,NC State,Butler,NC State,0.4
+2661,NC State,CS Fullerton,NC State,9.2
+2662,NC State,Charleston So,NC State,7.2
+2663,NC State,Cincinnati,NC State,0.4
+2664,NC State,Clemson,NC State,5.8
+2665,NC State,Creighton,Creighton,5.2
+2666,NC State,Davidson,Davidson,3.6
+2667,NC State,Duke,Duke,0.8
+2668,NC State,Florida St,Florida St,4.2
+2669,NC State,Florida,Florida,2.6
+2670,NC State,Georgia St,NC State,10.8
+2671,NC State,Gonzaga,Gonzaga,2
+2672,NC State,Houston,NC State,2.8
+2673,NC State,Iona,NC State,2.4
+2674,NC State,Kansas St,NC State,4.2
+2675,NC State,Kansas,Kansas,12.6
+2676,NC State,Kentucky,Kentucky,2.6
+2677,NC State,Lipscomb,Lipscomb,0.6
+2678,NC State,Long Island,NC State,3
+2679,NC State,Loyola-Chicago,NC State,4.8
+2680,NC State,Marshall,Marshall,4.6
+2681,NC State,UMBC,NC State,1.2
+2682,NC State,Miami FL,Miami FL,1.8
+2683,NC State,Michigan St,Michigan St,6.4
+2684,NC State,Michigan,NC State,1.2
+2685,NC State,Missouri,NC State,4.8
+2686,NC State,Montana,NC State,8.2
+2687,NC State,Murray St,NC State,6
+2688,NC State,Nevada,Nevada,0.2
+2689,NC State,New Mexico St,NC State,3.4
+2690,NC State,NC Central,NC State,4.2
+2691,NC State,UNC Greensboro,NC State,6.6
+2692,NC State,North Carolina,North Carolina,14.2
+2693,NC State,Ohio St,Ohio St,2.2
+2694,NC State,Oklahoma,Oklahoma,1.4
+2695,NC State,Penn,NC State,8
+2696,NC State,Providence,Providence,6.2
+2697,NC State,Purdue,Purdue,3.4
+2698,NC State,Radford,NC State,4.8
+2699,NC State,Rhode Island,NC State,9.2
+2700,NC State,San Diego St,San Diego St,5
+2701,NC State,Seton Hall,Seton Hall,0
+2702,NC State,S Dakota St,NC State,2.8
+2703,NC State,St Bonaventure,NC State,1.4
+2704,NC State,SF Austin,SF Austin,6.2
+2705,NC State,Syracuse,NC State,1.8
+2706,NC State,Tennessee,Tennessee,0.8
+2707,NC State,Texas A&M,Texas A&M,7
+2708,NC State,TCU,NC State,0.8
+2709,NC State,TX Southern,NC State,3.6
+2710,NC State,Texas Tech,NC State,1.6
+2711,NC State,Texas,Texas,2
+2712,NC State,UCLA,UCLA,1.2
+2713,NC State,Villanova,Villanova,8.6
+2714,NC State,Virginia Tech,Virginia Tech,1.2
+2715,NC State,Virginia,Virginia,3.8
+2716,NC State,West Virginia,West Virginia,7.4
+2717,NC State,Wichita St,NC State,1
+2718,NC State,Wright St,NC State,5
+2719,NC State,Xavier,Xavier,3.4
+2720,NC State,Middle Tenn St,Middle Tenn St,0
+2721,North Carolina,Alabama,North Carolina,16.8
+2722,North Carolina,Arizona St,North Carolina,12.6
+2723,North Carolina,Arizona,North Carolina,5.6
+2724,North Carolina,Arkansas,North Carolina,15.2
+2725,North Carolina,Auburn,North Carolina,15.6
+2726,North Carolina,Bucknell,North Carolina,19.6
+2727,North Carolina,Buffalo,North Carolina,11
+2728,North Carolina,Butler,North Carolina,13.6
+2729,North Carolina,CS Fullerton,North Carolina,18.8
+2730,North Carolina,Charleston So,North Carolina,13.2
+2731,North Carolina,Cincinnati,North Carolina,12.8
+2732,North Carolina,Clemson,North Carolina,17
+2733,North Carolina,Creighton,North Carolina,8.2
+2734,North Carolina,Davidson,North Carolina,6.2
+2735,North Carolina,Duke,North Carolina,12.4
+2736,North Carolina,Florida St,North Carolina,12
+2737,North Carolina,Florida,North Carolina,11.8
+2738,North Carolina,Georgia St,North Carolina,20
+2739,North Carolina,Gonzaga,North Carolina,4.2
+2740,North Carolina,Houston,North Carolina,12
+2741,North Carolina,Iona,North Carolina,13.4
+2742,North Carolina,Kansas St,North Carolina,12.2
+2743,North Carolina,Kansas,Kansas,1.6
+2744,North Carolina,Kentucky,North Carolina,2.6
+2745,North Carolina,Lipscomb,North Carolina,9.8
+2746,North Carolina,Long Island,North Carolina,16.8
+2747,North Carolina,Loyola-Chicago,North Carolina,17.6
+2748,North Carolina,Marshall,Marshall,1.2
+2749,North Carolina,UMBC,North Carolina,17.8
+2750,North Carolina,Miami FL,North Carolina,8.2
+2751,North Carolina,Michigan St,North Carolina,3.2
+2752,North Carolina,Michigan,North Carolina,5.8
+2753,North Carolina,Missouri,North Carolina,17.2
+2754,North Carolina,Montana,North Carolina,18.6
+2755,North Carolina,Murray St,North Carolina,17
+2756,North Carolina,Nevada,North Carolina,13.6
+2757,North Carolina,New Mexico St,North Carolina,9.4
+2758,North Carolina,NC Central,North Carolina,18.4
+2759,North Carolina,UNC Greensboro,North Carolina,15
+2760,North Carolina,NC State,North Carolina,14.2
+2761,North Carolina,Ohio St,North Carolina,14.6
+2762,North Carolina,Oklahoma,North Carolina,5.2
+2763,North Carolina,Penn,North Carolina,15.4
+2764,North Carolina,Providence,North Carolina,9.4
+2765,North Carolina,Purdue,North Carolina,4
+2766,North Carolina,Radford,North Carolina,19.8
+2767,North Carolina,Rhode Island,North Carolina,17.4
+2768,North Carolina,San Diego St,North Carolina,8.6
+2769,North Carolina,Seton Hall,North Carolina,7.6
+2770,North Carolina,S Dakota St,North Carolina,14.4
+2771,North Carolina,St Bonaventure,North Carolina,15.8
+2772,North Carolina,SF Austin,North Carolina,6.6
+2773,North Carolina,Syracuse,North Carolina,14.2
+2774,North Carolina,Tennessee,North Carolina,9.4
+2775,North Carolina,Texas A&M,North Carolina,5.6
+2776,North Carolina,TCU,North Carolina,17.2
+2777,North Carolina,TX Southern,North Carolina,12.8
+2778,North Carolina,Texas Tech,North Carolina,17.2
+2779,North Carolina,Texas,North Carolina,11
+2780,North Carolina,UCLA,North Carolina,9.2
+2781,North Carolina,Villanova,Villanova,0
+2782,North Carolina,Virginia Tech,North Carolina,14.4
+2783,North Carolina,Virginia,North Carolina,4
+2784,North Carolina,West Virginia,North Carolina,7
+2785,North Carolina,Wichita St,North Carolina,8
+2786,North Carolina,Wright St,North Carolina,12.6
+2787,North Carolina,Xavier,North Carolina,5.8
+2788,North Carolina,Middle Tenn St,North Carolina,12.8
+2789,Ohio St,Alabama,Ohio St,0.2
+2790,Ohio St,Arizona St,Ohio St,2.4
+2791,Ohio St,Arizona,Ohio St,1.2
+2792,Ohio St,Arkansas,Arkansas,8.4
+2793,Ohio St,Auburn,Ohio St,2.4
+2794,Ohio St,Bucknell,Ohio St,2.8
+2795,Ohio St,Buffalo,Buffalo,0.2
+2796,Ohio St,Butler,Ohio St,2.2
+2797,Ohio St,CS Fullerton,Ohio St,4.6
+2798,Ohio St,Charleston So,Ohio St,3.6
+2799,Ohio St,Cincinnati,Cincinnati,2.2
+2800,Ohio St,Clemson,Clemson,1.6
+2801,Ohio St,Creighton,Creighton,9.2
+2802,Ohio St,Davidson,Davidson,4.2
+2803,Ohio St,Duke,Duke,4.4
+2804,Ohio St,Florida St,Florida St,3
+2805,Ohio St,Florida,Florida,1
+2806,Ohio St,Georgia St,Ohio St,9.2
+2807,Ohio St,Gonzaga,Gonzaga,0.2
+2808,Ohio St,Houston,Ohio St,2.2
+2809,Ohio St,Iona,Iona,0.2
+2810,Ohio St,Kansas St,Kansas St,0.2
+2811,Ohio St,Kansas,Kansas,11.4
+2812,Ohio St,Kentucky,Kentucky,5.8
+2813,Ohio St,Lipscomb,Lipscomb,1.2
+2814,Ohio St,Long Island,Ohio St,3.2
+2815,Ohio St,Loyola-Chicago,Ohio St,2.8
+2816,Ohio St,Marshall,Marshall,3.2
+2817,Ohio St,UMBC,Ohio St,3.6
+2818,Ohio St,Miami FL,Miami FL,0.4
+2819,Ohio St,Michigan St,Michigan St,6.6
+2820,Ohio St,Michigan,Michigan,2.2
+2821,Ohio St,Missouri,Ohio St,2.8
+2822,Ohio St,Montana,Ohio St,2.8
+2823,Ohio St,Murray St,Murray St,0
+2824,Ohio St,Nevada,Ohio St,0.4
+2825,Ohio St,New Mexico St,Ohio St,2.2
+2826,Ohio St,NC Central,Ohio St,5.2
+2827,Ohio St,UNC Greensboro,Ohio St,7
+2828,Ohio St,NC State,Ohio St,2.2
+2829,Ohio St,North Carolina,North Carolina,14.6
+2830,Ohio St,Oklahoma,Oklahoma,1.4
+2831,Ohio St,Penn,Ohio St,5.2
+2832,Ohio St,Providence,Providence,5.4
+2833,Ohio St,Purdue,Purdue,2
+2834,Ohio St,Radford,Ohio St,4.4
+2835,Ohio St,Rhode Island,Ohio St,4.6
+2836,Ohio St,San Diego St,San Diego St,3.6
+2837,Ohio St,Seton Hall,Ohio St,0.6
+2838,Ohio St,S Dakota St,S Dakota St,0.4
+2839,Ohio St,St Bonaventure,St Bonaventure,1.2
+2840,Ohio St,SF Austin,SF Austin,9
+2841,Ohio St,Syracuse,Syracuse,0.6
+2842,Ohio St,Tennessee,Tennessee,1.2
+2843,Ohio St,Texas A&M,Texas A&M,4.2
+2844,Ohio St,TCU,Ohio St,2
+2845,Ohio St,TX Southern,Ohio St,0.4
+2846,Ohio St,Texas Tech,Ohio St,4.4
+2847,Ohio St,Texas,Texas,3.6
+2848,Ohio St,UCLA,UCLA,4.2
+2849,Ohio St,Villanova,Villanova,12.4
+2850,Ohio St,Virginia Tech,Ohio St,0.6
+2851,Ohio St,Virginia,Virginia,1.6
+2852,Ohio St,West Virginia,Ohio St,1.6
+2853,Ohio St,Wichita St,Ohio St,3.6
+2854,Ohio St,Wright St,Wright St,3.4
+2855,Ohio St,Xavier,Xavier,4.4
+2856,Ohio St,Middle Tenn St,Middle Tenn St,3.6
+2857,Oklahoma,Alabama,Oklahoma,1.4
+2858,Oklahoma,Arizona St,Oklahoma,4.2
+2859,Oklahoma,Arizona,Arizona,1
+2860,Oklahoma,Arkansas,Arkansas,1.8
+2861,Oklahoma,Auburn,Oklahoma,5
+2862,Oklahoma,Bucknell,Oklahoma,8.2
+2863,Oklahoma,Buffalo,Oklahoma,1.4
+2864,Oklahoma,Butler,Oklahoma,1.6
+2865,Oklahoma,CS Fullerton,Oklahoma,11
+2866,Oklahoma,Charleston So,Oklahoma,8.6
+2867,Oklahoma,Cincinnati,Oklahoma,0.4
+2868,Oklahoma,Clemson,Oklahoma,6.6
+2869,Oklahoma,Creighton,Oklahoma,0.4
+2870,Oklahoma,Davidson,Oklahoma,0.4
+2871,Oklahoma,Duke,Oklahoma,1.8
+2872,Oklahoma,Florida St,Florida St,1.8
+2873,Oklahoma,Florida,Oklahoma,5.6
+2874,Oklahoma,Georgia St,Oklahoma,7.8
+2875,Oklahoma,Gonzaga,Oklahoma,3.8
+2876,Oklahoma,Houston,Oklahoma,5.6
+2877,Oklahoma,Iona,Oklahoma,8.4
+2878,Oklahoma,Kansas St,Oklahoma,3.6
+2879,Oklahoma,Kansas,Kansas,1
+2880,Oklahoma,Kentucky,Oklahoma,3.2
+2881,Oklahoma,Lipscomb,Oklahoma,6.2
+2882,Oklahoma,Long Island,Oklahoma,4.4
+2883,Oklahoma,Loyola-Chicago,Oklahoma,9.4
+2884,Oklahoma,Marshall,Oklahoma,0.8
+2885,Oklahoma,UMBC,Oklahoma,5.6
+2886,Oklahoma,Miami FL,Oklahoma,0.8
+2887,Oklahoma,Michigan St,Oklahoma,1.2
+2888,Oklahoma,Michigan,Oklahoma,4
+2889,Oklahoma,Missouri,Oklahoma,11
+2890,Oklahoma,Montana,Oklahoma,11.4
+2891,Oklahoma,Murray St,Oklahoma,7.4
+2892,Oklahoma,Nevada,Oklahoma,1.4
+2893,Oklahoma,New Mexico St,Oklahoma,8.2
+2894,Oklahoma,NC Central,Oklahoma,6.4
+2895,Oklahoma,UNC Greensboro,Oklahoma,10
+2896,Oklahoma,NC State,Oklahoma,1.4
+2897,Oklahoma,North Carolina,North Carolina,5.2
+2898,Oklahoma,Ohio St,Oklahoma,1.4
+2899,Oklahoma,Penn,Oklahoma,9.6
+2900,Oklahoma,Providence,Oklahoma,3.4
+2901,Oklahoma,Purdue,Oklahoma,4.6
+2902,Oklahoma,Radford,Oklahoma,8
+2903,Oklahoma,Rhode Island,Oklahoma,5
+2904,Oklahoma,San Diego St,Oklahoma,3.8
+2905,Oklahoma,Seton Hall,Oklahoma,2.4
+2906,Oklahoma,S Dakota St,Oklahoma,7.8
+2907,Oklahoma,St Bonaventure,Oklahoma,10.2
+2908,Oklahoma,SF Austin,Oklahoma,6.8
+2909,Oklahoma,Syracuse,Oklahoma,2.8
+2910,Oklahoma,Tennessee,Oklahoma,3
+2911,Oklahoma,Texas A&M,Oklahoma,0.8
+2912,Oklahoma,TCU,Oklahoma,6.4
+2913,Oklahoma,TX Southern,Oklahoma,11.8
+2914,Oklahoma,Texas Tech,Oklahoma,5.4
+2915,Oklahoma,Texas,Oklahoma,0.2
+2916,Oklahoma,UCLA,Oklahoma,0.2
+2917,Oklahoma,Villanova,Villanova,0
+2918,Oklahoma,Virginia Tech,Virginia Tech,0.2
+2919,Oklahoma,Virginia,Virginia,3.8
+2920,Oklahoma,West Virginia,Oklahoma,2.6
+2921,Oklahoma,Wichita St,Oklahoma,2
+2922,Oklahoma,Wright St,Oklahoma,7.4
+2923,Oklahoma,Xavier,Oklahoma,0.2
+2924,Oklahoma,Middle Tenn St,Oklahoma,6.2
+2925,Penn,Alabama,Penn,1.4
+2926,Penn,Arizona St,Arizona St,4.2
+2927,Penn,Arizona,Arizona,17.6
+2928,Penn,Arkansas,Arkansas,4.8
+2929,Penn,Auburn,Auburn,1.6
+2930,Penn,Bucknell,Bucknell,4.6
+2931,Penn,Buffalo,Buffalo,6.6
+2932,Penn,Butler,Butler,7.2
+2933,Penn,CS Fullerton,Penn,0.4
+2934,Penn,Charleston So,Charleston So,1.4
+2935,Penn,Cincinnati,Cincinnati,8.6
+2936,Penn,Clemson,Clemson,1.2
+2937,Penn,Creighton,Creighton,8.4
+2938,Penn,Davidson,Davidson,6.6
+2939,Penn,Duke,Duke,8
+2940,Penn,Florida St,Florida St,7.4
+2941,Penn,Florida,Florida,7.4
+2942,Penn,Georgia St,Penn,3
+2943,Penn,Gonzaga,Gonzaga,15
+2944,Penn,Houston,Houston,6.2
+2945,Penn,Iona,Iona,7
+2946,Penn,Kansas St,Kansas St,1.8
+2947,Penn,Kansas,Kansas,13.2
+2948,Penn,Kentucky,Kentucky,10.6
+2949,Penn,Lipscomb,Lipscomb,7.8
+2950,Penn,Long Island,Long Island,1
+2951,Penn,Loyola-Chicago,Loyola-Chicago,0.8
+2952,Penn,Marshall,Marshall,8
+2953,Penn,UMBC,UMBC,5.4
+2954,Penn,Miami FL,Miami FL,4.6
+2955,Penn,Michigan St,Michigan St,10.2
+2956,Penn,Michigan,Michigan,7
+2957,Penn,Missouri,Missouri,0.8
+2958,Penn,Montana,Montana,6
+2959,Penn,Murray St,Murray St,6
+2960,Penn,Nevada,Penn,0.2
+2961,Penn,New Mexico St,New Mexico St,10.2
+2962,Penn,NC Central,NC Central,3.2
+2963,Penn,UNC Greensboro,UNC Greensboro,0.6
+2964,Penn,NC State,NC State,8
+2965,Penn,North Carolina,North Carolina,15.4
+2966,Penn,Ohio St,Ohio St,5.2
+2967,Penn,Oklahoma,Oklahoma,9.6
+2968,Penn,Providence,Providence,8.8
+2969,Penn,Purdue,Purdue,13.8
+2970,Penn,Radford,Penn,1.2
+2971,Penn,Rhode Island,Rhode Island,1.8
+2972,Penn,San Diego St,San Diego St,7
+2973,Penn,Seton Hall,Seton Hall,13.4
+2974,Penn,S Dakota St,S Dakota St,11.6
+2975,Penn,St Bonaventure,St Bonaventure,6
+2976,Penn,SF Austin,SF Austin,5.6
+2977,Penn,Syracuse,Syracuse,0.2
+2978,Penn,Tennessee,Tennessee,6.8
+2979,Penn,Texas A&M,Texas A&M,9.8
+2980,Penn,TCU,Penn,2
+2981,Penn,TX Southern,TX Southern,4.4
+2982,Penn,Texas Tech,Texas Tech,0
+2983,Penn,Texas,Texas,5.4
+2984,Penn,UCLA,UCLA,11
+2985,Penn,Villanova,Villanova,13.8
+2986,Penn,Virginia Tech,Virginia Tech,6.6
+2987,Penn,Virginia,Virginia,10.2
+2988,Penn,West Virginia,West Virginia,14.6
+2989,Penn,Wichita St,Wichita St,6.2
+2990,Penn,Wright St,Wright St,7.6
+2991,Penn,Xavier,Xavier,15.6
+2992,Penn,Middle Tenn St,Middle Tenn St,10.2
+2993,Providence,Alabama,Providence,1.6
+2994,Providence,Arizona St,Providence,3.4
+2995,Providence,Arizona,Providence,4.6
+2996,Providence,Arkansas,Arkansas,2.6
+2997,Providence,Auburn,Providence,4.8
+2998,Providence,Bucknell,Providence,7
+2999,Providence,Buffalo,Providence,5.2
+3000,Providence,Butler,Butler,0.4
+3001,Providence,CS Fullerton,Providence,6.4
+3002,Providence,Charleston So,Providence,5.4
+3003,Providence,Cincinnati,Providence,1.6
+3004,Providence,Clemson,Providence,0.2
+3005,Providence,Creighton,Providence,0.6
+3006,Providence,Davidson,Davidson,3.6
+3007,Providence,Duke,Duke,1.6
+3008,Providence,Florida St,Florida St,2.2
+3009,Providence,Florida,Providence,3.4
+3010,Providence,Georgia St,Providence,6.8
+3011,Providence,Gonzaga,Providence,4.6
+3012,Providence,Houston,Providence,3.4
+3013,Providence,Iona,Providence,4.6
+3014,Providence,Kansas St,Providence,2.8
+3015,Providence,Kansas,Kansas,8.6
+3016,Providence,Kentucky,Providence,1.4
+3017,Providence,Lipscomb,Providence,4.2
+3018,Providence,Long Island,Providence,1.2
+3019,Providence,Loyola-Chicago,Providence,4.2
+3020,Providence,Marshall,Providence,4
+3021,Providence,UMBC,UMBC,1
+3022,Providence,Miami FL,Providence,1.6
+3023,Providence,Michigan St,Michigan St,3.4
+3024,Providence,Michigan,Providence,2.8
+3025,Providence,Missouri,Providence,8.4
+3026,Providence,Montana,Providence,8
+3027,Providence,Murray St,Murray St,0.2
+3028,Providence,Nevada,Providence,0.2
+3029,Providence,New Mexico St,Providence,8.6
+3030,Providence,NC Central,Providence,10.4
+3031,Providence,UNC Greensboro,Providence,4.4
+3032,Providence,NC State,Providence,6.2
+3033,Providence,North Carolina,North Carolina,9.4
+3034,Providence,Ohio St,Providence,5.4
+3035,Providence,Oklahoma,Oklahoma,3.4
+3036,Providence,Penn,Providence,8.8
+3037,Providence,Purdue,Providence,0.8
+3038,Providence,Radford,Providence,3.4
+3039,Providence,Rhode Island,Providence,8
+3040,Providence,San Diego St,Providence,6.2
+3041,Providence,Seton Hall,Providence,5.8
+3042,Providence,S Dakota St,Providence,6.6
+3043,Providence,St Bonaventure,Providence,2
+3044,Providence,SF Austin,SF Austin,0
+3045,Providence,Syracuse,Providence,1.4
+3046,Providence,Tennessee,Providence,6
+3047,Providence,Texas A&M,Texas A&M,2
+3048,Providence,TCU,Providence,4
+3049,Providence,TX Southern,Providence,8.6
+3050,Providence,Texas Tech,Providence,3.4
+3051,Providence,Texas,Providence,2
+3052,Providence,UCLA,Providence,2.2
+3053,Providence,Villanova,Villanova,9.8
+3054,Providence,Virginia Tech,Providence,2.6
+3055,Providence,Virginia,Providence,1.2
+3056,Providence,West Virginia,Providence,3.8
+3057,Providence,Wichita St,Providence,2.6
+3058,Providence,Wright St,Providence,0.6
+3059,Providence,Xavier,Providence,2.2
+3060,Providence,Middle Tenn St,Middle Tenn St,0
+3061,Purdue,Alabama,Purdue,1.4
+3062,Purdue,Arizona St,Purdue,5
+3063,Purdue,Arizona,Purdue,1.2
+3064,Purdue,Arkansas,Arkansas,0
+3065,Purdue,Auburn,Purdue,5.8
+3066,Purdue,Bucknell,Purdue,11
+3067,Purdue,Buffalo,Purdue,4.2
+3068,Purdue,Butler,Purdue,7.4
+3069,Purdue,CS Fullerton,Purdue,14.6
+3070,Purdue,Charleston So,Purdue,12.6
+3071,Purdue,Cincinnati,Purdue,0.4
+3072,Purdue,Clemson,Purdue,6
+3073,Purdue,Creighton,Creighton,1.4
+3074,Purdue,Davidson,Purdue,3
+3075,Purdue,Duke,Purdue,2.8
+3076,Purdue,Florida St,Purdue,1.8
+3077,Purdue,Florida,Purdue,4.6
+3078,Purdue,Georgia St,Purdue,13
+3079,Purdue,Gonzaga,Purdue,2.6
+3080,Purdue,Houston,Purdue,5.6
+3081,Purdue,Iona,Purdue,10.4
+3082,Purdue,Kansas St,Purdue,3.4
+3083,Purdue,Kansas,Kansas,5
+3084,Purdue,Kentucky,Kentucky,0.2
+3085,Purdue,Lipscomb,Purdue,5.2
+3086,Purdue,Long Island,Purdue,8.4
+3087,Purdue,Loyola-Chicago,Purdue,12.6
+3088,Purdue,Marshall,Marshall,2.8
+3089,Purdue,UMBC,Purdue,8.8
+3090,Purdue,Miami FL,Purdue,1.8
+3091,Purdue,Michigan St,Michigan St,1.2
+3092,Purdue,Michigan,Purdue,3.8
+3093,Purdue,Missouri,Purdue,8.2
+3094,Purdue,Montana,Purdue,11.6
+3095,Purdue,Murray St,Purdue,11.6
+3096,Purdue,Nevada,Purdue,7.8
+3097,Purdue,New Mexico St,Purdue,7.8
+3098,Purdue,NC Central,Purdue,11.8
+3099,Purdue,UNC Greensboro,Purdue,12.8
+3100,Purdue,NC State,Purdue,3.4
+3101,Purdue,North Carolina,North Carolina,4
+3102,Purdue,Ohio St,Purdue,2
+3103,Purdue,Oklahoma,Oklahoma,4.6
+3104,Purdue,Penn,Purdue,13.8
+3105,Purdue,Providence,Providence,0.8
+3106,Purdue,Radford,Purdue,12.6
+3107,Purdue,Rhode Island,Purdue,6
+3108,Purdue,San Diego St,Purdue,4
+3109,Purdue,Seton Hall,Purdue,1.2
+3110,Purdue,S Dakota St,Purdue,11
+3111,Purdue,St Bonaventure,Purdue,12.4
+3112,Purdue,SF Austin,Purdue,5.4
+3113,Purdue,Syracuse,Purdue,3.2
+3114,Purdue,Tennessee,Tennessee,0.6
+3115,Purdue,Texas A&M,Purdue,1.4
+3116,Purdue,TCU,Purdue,10.6
+3117,Purdue,TX Southern,Purdue,10.4
+3118,Purdue,Texas Tech,Purdue,8
+3119,Purdue,Texas,Purdue,3.2
+3120,Purdue,UCLA,Purdue,0.2
+3121,Purdue,Villanova,Villanova,2.4
+3122,Purdue,Virginia Tech,Purdue,4.2
+3123,Purdue,Virginia,Purdue,3.2
+3124,Purdue,West Virginia,Purdue,1.4
+3125,Purdue,Wichita St,Purdue,3.8
+3126,Purdue,Wright St,Purdue,8.8
+3127,Purdue,Xavier,Purdue,1.8
+3128,Purdue,Middle Tenn St,Purdue,7.4
+3129,Radford,Alabama,Alabama,2.6
+3130,Radford,Arizona St,Arizona St,2.8
+3131,Radford,Arizona,Arizona,10.4
+3132,Radford,Arkansas,Arkansas,6.8
+3133,Radford,Auburn,Auburn,6.6
+3134,Radford,Bucknell,Radford,0.6
+3135,Radford,Buffalo,Buffalo,5.8
+3136,Radford,Butler,Butler,4.8
+3137,Radford,CS Fullerton,CS Fullerton,1.4
+3138,Radford,Charleston So,Charleston So,1.8
+3139,Radford,Cincinnati,Cincinnati,8.6
+3140,Radford,Clemson,Clemson,2.6
+3141,Radford,Creighton,Creighton,6.2
+3142,Radford,Davidson,Davidson,2.4
+3143,Radford,Duke,Duke,3.8
+3144,Radford,Florida St,Florida St,7.8
+3145,Radford,Florida,Florida,2.2
+3146,Radford,Georgia St,Radford,3.6
+3147,Radford,Gonzaga,Gonzaga,10
+3148,Radford,Houston,Houston,8.4
+3149,Radford,Iona,Iona,4
+3150,Radford,Kansas St,Radford,2
+3151,Radford,Kansas,Kansas,16.4
+3152,Radford,Kentucky,Kentucky,12.4
+3153,Radford,Lipscomb,Lipscomb,6.6
+3154,Radford,Long Island,Long Island,1.2
+3155,Radford,Loyola-Chicago,Loyola-Chicago,2
+3156,Radford,Marshall,Marshall,6.4
+3157,Radford,UMBC,UMBC,4.2
+3158,Radford,Miami FL,Miami FL,5.4
+3159,Radford,Michigan St,Michigan St,12.6
+3160,Radford,Michigan,Michigan,1
+3161,Radford,Missouri,Missouri,5.8
+3162,Radford,Montana,Radford,1
+3163,Radford,Murray St,Murray St,0.8
+3164,Radford,Nevada,Nevada,5.4
+3165,Radford,New Mexico St,New Mexico St,11.8
+3166,Radford,NC Central,NC Central,1.2
+3167,Radford,UNC Greensboro,Radford,1.4
+3168,Radford,NC State,NC State,4.8
+3169,Radford,North Carolina,North Carolina,19.8
+3170,Radford,Ohio St,Ohio St,4.4
+3171,Radford,Oklahoma,Oklahoma,8
+3172,Radford,Penn,Penn,1.2
+3173,Radford,Providence,Providence,3.4
+3174,Radford,Purdue,Purdue,12.6
+3175,Radford,Rhode Island,Rhode Island,4
+3176,Radford,San Diego St,San Diego St,9.2
+3177,Radford,Seton Hall,Seton Hall,10.2
+3178,Radford,S Dakota St,S Dakota St,9
+3179,Radford,St Bonaventure,St Bonaventure,3.4
+3180,Radford,SF Austin,SF Austin,12.2
+3181,Radford,Syracuse,Syracuse,1.4
+3182,Radford,Tennessee,Tennessee,0.6
+3183,Radford,Texas A&M,Texas A&M,10.4
+3184,Radford,TCU,TCU,1.8
+3185,Radford,TX Southern,Radford,0.6
+3186,Radford,Texas Tech,Texas Tech,3
+3187,Radford,Texas,Texas,6.4
+3188,Radford,UCLA,UCLA,10.8
+3189,Radford,Villanova,Villanova,18.4
+3190,Radford,Virginia Tech,Virginia Tech,2.2
+3191,Radford,Virginia,Virginia,7.4
+3192,Radford,West Virginia,West Virginia,9.2
+3193,Radford,Wichita St,Wichita St,2.6
+3194,Radford,Wright St,Wright St,1.2
+3195,Radford,Xavier,Xavier,10.6
+3196,Radford,Middle Tenn St,Middle Tenn St,6.8
+3197,Rhode Island,Alabama,Alabama,4.6
+3198,Rhode Island,Arizona St,Arizona St,6.2
+3199,Rhode Island,Arizona,Arizona,9.6
+3200,Rhode Island,Arkansas,Arkansas,12.8
+3201,Rhode Island,Auburn,Auburn,7.8
+3202,Rhode Island,Bucknell,Bucknell,5.8
+3203,Rhode Island,Buffalo,Buffalo,7.4
+3204,Rhode Island,Butler,Butler,6
+3205,Rhode Island,CS Fullerton,CS Fullerton,0
+3206,Rhode Island,Charleston So,Rhode Island,0.4
+3207,Rhode Island,Cincinnati,Cincinnati,9.6
+3208,Rhode Island,Clemson,Clemson,3.2
+3209,Rhode Island,Creighton,Creighton,7
+3210,Rhode Island,Davidson,Davidson,6
+3211,Rhode Island,Duke,Duke,8.6
+3212,Rhode Island,Florida St,Florida St,6.8
+3213,Rhode Island,Florida,Florida,7
+3214,Rhode Island,Georgia St,Rhode Island,6.6
+3215,Rhode Island,Gonzaga,Gonzaga,8.4
+3216,Rhode Island,Houston,Rhode Island,0.2
+3217,Rhode Island,Iona,Iona,4.6
+3218,Rhode Island,Kansas St,Rhode Island,1.6
+3219,Rhode Island,Kansas,Kansas,15.8
+3220,Rhode Island,Kentucky,Kentucky,10.6
+3221,Rhode Island,Lipscomb,Lipscomb,10
+3222,Rhode Island,Long Island,Long Island,2.4
+3223,Rhode Island,Loyola-Chicago,Loyola-Chicago,0.6
+3224,Rhode Island,Marshall,Marshall,9
+3225,Rhode Island,UMBC,UMBC,9
+3226,Rhode Island,Miami FL,Miami FL,3.4
+3227,Rhode Island,Michigan St,Michigan St,10.6
+3228,Rhode Island,Michigan,Michigan,5.2
+3229,Rhode Island,Missouri,Missouri,2.6
+3230,Rhode Island,Montana,Montana,0.8
+3231,Rhode Island,Murray St,Murray St,3.8
+3232,Rhode Island,Nevada,Nevada,8
+3233,Rhode Island,New Mexico St,New Mexico St,7.2
+3234,Rhode Island,NC Central,NC Central,1.2
+3235,Rhode Island,UNC Greensboro,UNC Greensboro,1.2
+3236,Rhode Island,NC State,NC State,9.2
+3237,Rhode Island,North Carolina,North Carolina,17.4
+3238,Rhode Island,Ohio St,Ohio St,4.6
+3239,Rhode Island,Oklahoma,Oklahoma,5
+3240,Rhode Island,Penn,Rhode Island,1.8
+3241,Rhode Island,Providence,Providence,8
+3242,Rhode Island,Purdue,Purdue,6
+3243,Rhode Island,Radford,Rhode Island,4
+3244,Rhode Island,San Diego St,San Diego St,9.4
+3245,Rhode Island,Seton Hall,Seton Hall,9.2
+3246,Rhode Island,S Dakota St,S Dakota St,7
+3247,Rhode Island,St Bonaventure,St Bonaventure,4.2
+3248,Rhode Island,SF Austin,SF Austin,10
+3249,Rhode Island,Syracuse,Rhode Island,0.2
+3250,Rhode Island,Tennessee,Tennessee,4.6
+3251,Rhode Island,Texas A&M,Texas A&M,5.6
+3252,Rhode Island,TCU,TCU,2.8
+3253,Rhode Island,TX Southern,TX Southern,5.2
+3254,Rhode Island,Texas Tech,Texas Tech,0.2
+3255,Rhode Island,Texas,Texas,5.4
+3256,Rhode Island,UCLA,UCLA,7.2
+3257,Rhode Island,Villanova,Villanova,11.4
+3258,Rhode Island,Virginia Tech,Virginia Tech,5.6
+3259,Rhode Island,Virginia,Virginia,5.6
+3260,Rhode Island,West Virginia,West Virginia,8.2
+3261,Rhode Island,Wichita St,Wichita St,5.2
+3262,Rhode Island,Wright St,Wright St,2
+3263,Rhode Island,Xavier,Xavier,10
+3264,Rhode Island,Middle Tenn St,Middle Tenn St,5.8
+3265,San Diego St,Alabama,San Diego St,2.6
+3266,San Diego St,Arizona St,San Diego St,2.4
+3267,San Diego St,Arizona,San Diego St,2.4
+3268,San Diego St,Arkansas,San Diego St,1.6
+3269,San Diego St,Auburn,San Diego St,5.8
+3270,San Diego St,Bucknell,San Diego St,11.4
+3271,San Diego St,Buffalo,San Diego St,1.4
+3272,San Diego St,Butler,San Diego St,3.4
+3273,San Diego St,CS Fullerton,San Diego St,7.4
+3274,San Diego St,Charleston So,San Diego St,5.8
+3275,San Diego St,Cincinnati,Cincinnati,4.6
+3276,San Diego St,Clemson,Clemson,0
+3277,San Diego St,Creighton,Creighton,1.4
+3278,San Diego St,Davidson,Davidson,0
+3279,San Diego St,Duke,Duke,1.4
+3280,San Diego St,Florida St,Florida St,0.8
+3281,San Diego St,Florida,San Diego St,2.2
+3282,San Diego St,Georgia St,San Diego St,12
+3283,San Diego St,Gonzaga,Gonzaga,2.2
+3284,San Diego St,Houston,San Diego St,3.2
+3285,San Diego St,Iona,Iona,1.6
+3286,San Diego St,Kansas St,Kansas St,0.4
+3287,San Diego St,Kansas,Kansas,8.6
+3288,San Diego St,Kentucky,Kentucky,5.6
+3289,San Diego St,Lipscomb,San Diego St,1.6
+3290,San Diego St,Long Island,San Diego St,1.6
+3291,San Diego St,Loyola-Chicago,San Diego St,8.8
+3292,San Diego St,Marshall,Marshall,5.6
+3293,San Diego St,UMBC,San Diego St,5.2
+3294,San Diego St,Miami FL,San Diego St,1.8
+3295,San Diego St,Michigan St,Michigan St,5
+3296,San Diego St,Michigan,Michigan,1.8
+3297,San Diego St,Missouri,San Diego St,5
+3298,San Diego St,Montana,San Diego St,10.6
+3299,San Diego St,Murray St,San Diego St,3.8
+3300,San Diego St,Nevada,San Diego St,4.4
+3301,San Diego St,New Mexico St,San Diego St,9.8
+3302,San Diego St,NC Central,San Diego St,5.8
+3303,San Diego St,UNC Greensboro,San Diego St,10.8
+3304,San Diego St,NC State,San Diego St,5
+3305,San Diego St,North Carolina,North Carolina,8.6
+3306,San Diego St,Ohio St,San Diego St,3.6
+3307,San Diego St,Oklahoma,Oklahoma,3.8
+3308,San Diego St,Penn,San Diego St,7
+3309,San Diego St,Providence,Providence,6.2
+3310,San Diego St,Purdue,Purdue,4
+3311,San Diego St,Radford,San Diego St,9.2
+3312,San Diego St,Rhode Island,San Diego St,9.4
+3313,San Diego St,Seton Hall,San Diego St,3
+3314,San Diego St,S Dakota St,San Diego St,2.6
+3315,San Diego St,St Bonaventure,San Diego St,5.6
+3316,San Diego St,SF Austin,SF Austin,3.4
+3317,San Diego St,Syracuse,Syracuse,0
+3318,San Diego St,Tennessee,Tennessee,0.8
+3319,San Diego St,Texas A&M,Texas A&M,2
+3320,San Diego St,TCU,San Diego St,4.8
+3321,San Diego St,TX Southern,San Diego St,6
+3322,San Diego St,Texas Tech,San Diego St,3.4
+3323,San Diego St,Texas,Texas,2.4
+3324,San Diego St,UCLA,San Diego St,4.6
+3325,San Diego St,Villanova,Villanova,9
+3326,San Diego St,Virginia Tech,San Diego St,5.2
+3327,San Diego St,Virginia,San Diego St,2.4
+3328,San Diego St,West Virginia,West Virginia,2.4
+3329,San Diego St,Wichita St,San Diego St,1.4
+3330,San Diego St,Wright St,San Diego St,2.8
+3331,San Diego St,Xavier,Xavier,1.2
+3332,San Diego St,Middle Tenn St,San Diego St,1.2
+3333,Seton Hall,Alabama,Seton Hall,0.4
+3334,Seton Hall,Arizona St,Seton Hall,1.8
+3335,Seton Hall,Arizona,Seton Hall,3.6
+3336,Seton Hall,Arkansas,Arkansas,5.2
+3337,Seton Hall,Auburn,Seton Hall,3.2
+3338,Seton Hall,Bucknell,Seton Hall,3
+3339,Seton Hall,Buffalo,Buffalo,3.4
+3340,Seton Hall,Butler,Butler,4.6
+3341,Seton Hall,CS Fullerton,Seton Hall,7.8
+3342,Seton Hall,Charleston So,Seton Hall,11
+3343,Seton Hall,Cincinnati,Cincinnati,9.4
+3344,Seton Hall,Clemson,Seton Hall,6.8
+3345,Seton Hall,Creighton,Creighton,5.2
+3346,Seton Hall,Davidson,Davidson,1.8
+3347,Seton Hall,Duke,Duke,0.8
+3348,Seton Hall,Florida St,Florida St,2.8
+3349,Seton Hall,Florida,Florida,1
+3350,Seton Hall,Georgia St,Seton Hall,10.6
+3351,Seton Hall,Gonzaga,Gonzaga,3.6
+3352,Seton Hall,Houston,Seton Hall,3.6
+3353,Seton Hall,Iona,Seton Hall,3
+3354,Seton Hall,Kansas St,Seton Hall,2
+3355,Seton Hall,Kansas,Kansas,9.6
+3356,Seton Hall,Kentucky,Kentucky,4.8
+3357,Seton Hall,Lipscomb,Lipscomb,4
+3358,Seton Hall,Long Island,Long Island,2.4
+3359,Seton Hall,Loyola-Chicago,Seton Hall,10.6
+3360,Seton Hall,Marshall,Marshall,6
+3361,Seton Hall,UMBC,Seton Hall,6.6
+3362,Seton Hall,Miami FL,Seton Hall,2.8
+3363,Seton Hall,Michigan St,Michigan St,3.6
+3364,Seton Hall,Michigan,Seton Hall,4
+3365,Seton Hall,Missouri,Seton Hall,4.8
+3366,Seton Hall,Montana,Seton Hall,6
+3367,Seton Hall,Murray St,Seton Hall,10
+3368,Seton Hall,Nevada,Nevada,7
+3369,Seton Hall,New Mexico St,Seton Hall,4.4
+3370,Seton Hall,NC Central,Seton Hall,7.4
+3371,Seton Hall,UNC Greensboro,Seton Hall,10.2
+3372,Seton Hall,NC State,NC State,0
+3373,Seton Hall,North Carolina,North Carolina,7.6
+3374,Seton Hall,Ohio St,Ohio St,0.6
+3375,Seton Hall,Oklahoma,Oklahoma,2.4
+3376,Seton Hall,Penn,Seton Hall,13.4
+3377,Seton Hall,Providence,Providence,5.8
+3378,Seton Hall,Purdue,Purdue,1.2
+3379,Seton Hall,Radford,Seton Hall,10.2
+3380,Seton Hall,Rhode Island,Seton Hall,9.2
+3381,Seton Hall,San Diego St,San Diego St,3
+3382,Seton Hall,S Dakota St,Seton Hall,1.4
+3383,Seton Hall,St Bonaventure,St Bonaventure,0.6
+3384,Seton Hall,SF Austin,SF Austin,2
+3385,Seton Hall,Syracuse,Syracuse,1
+3386,Seton Hall,Tennessee,Tennessee,3.2
+3387,Seton Hall,Texas A&M,Texas A&M,2.6
+3388,Seton Hall,TCU,Seton Hall,1.2
+3389,Seton Hall,TX Southern,Seton Hall,4
+3390,Seton Hall,Texas Tech,Seton Hall,2.8
+3391,Seton Hall,Texas,Seton Hall,0.6
+3392,Seton Hall,UCLA,UCLA,0.2
+3393,Seton Hall,Villanova,Villanova,7.8
+3394,Seton Hall,Virginia Tech,Seton Hall,5.6
+3395,Seton Hall,Virginia,Virginia,1
+3396,Seton Hall,West Virginia,West Virginia,3.2
+3397,Seton Hall,Wichita St,Wichita St,1.4
+3398,Seton Hall,Wright St,Wright St,0.2
+3399,Seton Hall,Xavier,Xavier,0.2
+3400,Seton Hall,Middle Tenn St,Middle Tenn St,4.6
+3401,S Dakota St,Alabama,Alabama,2.8
+3402,S Dakota St,Arizona St,Arizona St,1.6
+3403,S Dakota St,Arizona,Arizona,6.6
+3404,S Dakota St,Arkansas,Arkansas,6.8
+3405,S Dakota St,Auburn,S Dakota St,4.2
+3406,S Dakota St,Bucknell,S Dakota St,4.4
+3407,S Dakota St,Buffalo,Buffalo,2
+3408,S Dakota St,Butler,Butler,1.6
+3409,S Dakota St,CS Fullerton,S Dakota St,10.8
+3410,S Dakota St,Charleston So,S Dakota St,6.2
+3411,S Dakota St,Cincinnati,Cincinnati,2.4
+3412,S Dakota St,Clemson,S Dakota St,1.2
+3413,S Dakota St,Creighton,Creighton,5.2
+3414,S Dakota St,Davidson,Davidson,7.4
+3415,S Dakota St,Duke,Duke,6.4
+3416,S Dakota St,Florida St,Florida St,2.4
+3417,S Dakota St,Florida,Florida,3.2
+3418,S Dakota St,Georgia St,S Dakota St,5.8
+3419,S Dakota St,Gonzaga,Gonzaga,7.4
+3420,S Dakota St,Houston,Houston,1.6
+3421,S Dakota St,Iona,Iona,1
+3422,S Dakota St,Kansas St,Kansas St,0.2
+3423,S Dakota St,Kansas,Kansas,9.6
+3424,S Dakota St,Kentucky,Kentucky,12.4
+3425,S Dakota St,Lipscomb,Lipscomb,6
+3426,S Dakota St,Long Island,Long Island,1.8
+3427,S Dakota St,Loyola-Chicago,S Dakota St,5.4
+3428,S Dakota St,Marshall,Marshall,3.4
+3429,S Dakota St,UMBC,S Dakota St,5.8
+3430,S Dakota St,Miami FL,Miami FL,5.8
+3431,S Dakota St,Michigan St,Michigan St,5.6
+3432,S Dakota St,Michigan,Michigan,3.4
+3433,S Dakota St,Missouri,S Dakota St,6.4
+3434,S Dakota St,Montana,S Dakota St,6.4
+3435,S Dakota St,Murray St,S Dakota St,1.8
+3436,S Dakota St,Nevada,S Dakota St,1.2
+3437,S Dakota St,New Mexico St,New Mexico St,0.6
+3438,S Dakota St,NC Central,S Dakota St,9.4
+3439,S Dakota St,UNC Greensboro,S Dakota St,3.8
+3440,S Dakota St,NC State,NC State,2.8
+3441,S Dakota St,North Carolina,North Carolina,14.4
+3442,S Dakota St,Ohio St,S Dakota St,0.4
+3443,S Dakota St,Oklahoma,Oklahoma,7.8
+3444,S Dakota St,Penn,S Dakota St,11.6
+3445,S Dakota St,Providence,Providence,6.6
+3446,S Dakota St,Purdue,Purdue,11
+3447,S Dakota St,Radford,S Dakota St,9
+3448,S Dakota St,Rhode Island,S Dakota St,7
+3449,S Dakota St,San Diego St,San Diego St,2.6
+3450,S Dakota St,Seton Hall,Seton Hall,1.4
+3451,S Dakota St,St Bonaventure,S Dakota St,1.8
+3452,S Dakota St,SF Austin,SF Austin,1.2
+3453,S Dakota St,Syracuse,Syracuse,8.2
+3454,S Dakota St,Tennessee,Tennessee,3.4
+3455,S Dakota St,Texas A&M,Texas A&M,7
+3456,S Dakota St,TCU,S Dakota St,6
+3457,S Dakota St,TX Southern,S Dakota St,5.4
+3458,S Dakota St,Texas Tech,Texas Tech,1
+3459,S Dakota St,Texas,Texas,0.8
+3460,S Dakota St,UCLA,UCLA,4.6
+3461,S Dakota St,Villanova,Villanova,10
+3462,S Dakota St,Virginia Tech,S Dakota St,5.2
+3463,S Dakota St,Virginia,Virginia,5.2
+3464,S Dakota St,West Virginia,West Virginia,4.2
+3465,S Dakota St,Wichita St,S Dakota St,5.8
+3466,S Dakota St,Wright St,S Dakota St,1.4
+3467,S Dakota St,Xavier,Xavier,1.2
+3468,S Dakota St,Middle Tenn St,Middle Tenn St,0.8
+3469,St Bonaventure,Alabama,Alabama,3.6
+3470,St Bonaventure,Arizona St,Arizona St,3.2
+3471,St Bonaventure,Arizona,Arizona,6
+3472,St Bonaventure,Arkansas,Arkansas,5.6
+3473,St Bonaventure,Auburn,Auburn,0.2
+3474,St Bonaventure,Bucknell,St Bonaventure,3.2
+3475,St Bonaventure,Buffalo,Buffalo,1.8
+3476,St Bonaventure,Butler,Butler,4.2
+3477,St Bonaventure,CS Fullerton,St Bonaventure,6.6
+3478,St Bonaventure,Charleston So,St Bonaventure,3
+3479,St Bonaventure,Cincinnati,Cincinnati,3.6
+3480,St Bonaventure,Clemson,Clemson,2.6
+3481,St Bonaventure,Creighton,Creighton,6
+3482,St Bonaventure,Davidson,Davidson,5.6
+3483,St Bonaventure,Duke,Duke,4.4
+3484,St Bonaventure,Florida St,Florida St,4.4
+3485,St Bonaventure,Florida,St Bonaventure,1.4
+3486,St Bonaventure,Georgia St,St Bonaventure,4.4
+3487,St Bonaventure,Gonzaga,Gonzaga,11
+3488,St Bonaventure,Houston,St Bonaventure,1.6
+3489,St Bonaventure,Iona,St Bonaventure,0.4
+3490,St Bonaventure,Kansas St,St Bonaventure,0.8
+3491,St Bonaventure,Kansas,Kansas,13.6
+3492,St Bonaventure,Kentucky,Kentucky,7.4
+3493,St Bonaventure,Lipscomb,Lipscomb,3.8
+3494,St Bonaventure,Long Island,Long Island,0.6
+3495,St Bonaventure,Loyola-Chicago,St Bonaventure,3.2
+3496,St Bonaventure,Marshall,Marshall,6
+3497,St Bonaventure,UMBC,St Bonaventure,1.8
+3498,St Bonaventure,Miami FL,Miami FL,1.4
+3499,St Bonaventure,Michigan St,Michigan St,8.4
+3500,St Bonaventure,Michigan,Michigan,1.8
+3501,St Bonaventure,Missouri,St Bonaventure,6.6
+3502,St Bonaventure,Montana,St Bonaventure,8.4
+3503,St Bonaventure,Murray St,St Bonaventure,1
+3504,St Bonaventure,Nevada,Nevada,2.6
+3505,St Bonaventure,New Mexico St,St Bonaventure,3.6
+3506,St Bonaventure,NC Central,St Bonaventure,4.2
+3507,St Bonaventure,UNC Greensboro,St Bonaventure,2.8
+3508,St Bonaventure,NC State,NC State,1.4
+3509,St Bonaventure,North Carolina,North Carolina,15.8
+3510,St Bonaventure,Ohio St,St Bonaventure,1.2
+3511,St Bonaventure,Oklahoma,Oklahoma,10.2
+3512,St Bonaventure,Penn,St Bonaventure,6
+3513,St Bonaventure,Providence,Providence,2
+3514,St Bonaventure,Purdue,Purdue,12.4
+3515,St Bonaventure,Radford,St Bonaventure,3.4
+3516,St Bonaventure,Rhode Island,St Bonaventure,4.2
+3517,St Bonaventure,San Diego St,San Diego St,5.6
+3518,St Bonaventure,Seton Hall,St Bonaventure,0.6
+3519,St Bonaventure,S Dakota St,S Dakota St,1.8
+3520,St Bonaventure,SF Austin,SF Austin,2.2
+3521,St Bonaventure,Syracuse,Syracuse,6.4
+3522,St Bonaventure,Tennessee,Tennessee,1.6
+3523,St Bonaventure,Texas A&M,Texas A&M,7.8
+3524,St Bonaventure,TCU,St Bonaventure,4.6
+3525,St Bonaventure,TX Southern,St Bonaventure,4.2
+3526,St Bonaventure,Texas Tech,Texas Tech,2
+3527,St Bonaventure,Texas,Texas,1.4
+3528,St Bonaventure,UCLA,UCLA,7.4
+3529,St Bonaventure,Villanova,Villanova,12.2
+3530,St Bonaventure,Virginia Tech,Virginia Tech,1.2
+3531,St Bonaventure,Virginia,Virginia,1.6
+3532,St Bonaventure,West Virginia,West Virginia,4
+3533,St Bonaventure,Wichita St,St Bonaventure,1.2
+3534,St Bonaventure,Wright St,St Bonaventure,1.4
+3535,St Bonaventure,Xavier,Xavier,6.4
+3536,St Bonaventure,Middle Tenn St,Middle Tenn St,3
+3537,SF Austin,Alabama,Alabama,0.2
+3538,SF Austin,Arizona St,SF Austin,0.2
+3539,SF Austin,Arizona,SF Austin,2
+3540,SF Austin,Arkansas,SF Austin,3.2
+3541,SF Austin,Auburn,SF Austin,1.6
+3542,SF Austin,Bucknell,SF Austin,10.2
+3543,SF Austin,Buffalo,SF Austin,4.6
+3544,SF Austin,Butler,SF Austin,0.2
+3545,SF Austin,CS Fullerton,SF Austin,7.2
+3546,SF Austin,Charleston So,SF Austin,5
+3547,SF Austin,Cincinnati,Cincinnati,4
+3548,SF Austin,Clemson,SF Austin,6.6
+3549,SF Austin,Creighton,Creighton,2.2
+3550,SF Austin,Davidson,SF Austin,1.2
+3551,SF Austin,Duke,Duke,1.8
+3552,SF Austin,Florida St,SF Austin,1.2
+3553,SF Austin,Florida,SF Austin,3.4
+3554,SF Austin,Georgia St,SF Austin,5.4
+3555,SF Austin,Gonzaga,Gonzaga,2.4
+3556,SF Austin,Houston,SF Austin,4.4
+3557,SF Austin,Iona,SF Austin,2
+3558,SF Austin,Kansas St,Kansas St,1.6
+3559,SF Austin,Kansas,Kansas,7.6
+3560,SF Austin,Kentucky,Kentucky,1.6
+3561,SF Austin,Lipscomb,SF Austin,1.4
+3562,SF Austin,Long Island,SF Austin,2
+3563,SF Austin,Loyola-Chicago,SF Austin,4.4
+3564,SF Austin,Marshall,SF Austin,0.8
+3565,SF Austin,UMBC,SF Austin,5.6
+3566,SF Austin,Miami FL,Miami FL,1.6
+3567,SF Austin,Michigan St,Michigan St,4.6
+3568,SF Austin,Michigan,SF Austin,4
+3569,SF Austin,Missouri,SF Austin,2.4
+3570,SF Austin,Montana,SF Austin,5
+3571,SF Austin,Murray St,SF Austin,6
+3572,SF Austin,Nevada,SF Austin,7.8
+3573,SF Austin,New Mexico St,SF Austin,5.6
+3574,SF Austin,NC Central,SF Austin,11.4
+3575,SF Austin,UNC Greensboro,SF Austin,8.4
+3576,SF Austin,NC State,SF Austin,6.2
+3577,SF Austin,North Carolina,North Carolina,6.6
+3578,SF Austin,Ohio St,SF Austin,9
+3579,SF Austin,Oklahoma,Oklahoma,6.8
+3580,SF Austin,Penn,SF Austin,5.6
+3581,SF Austin,Providence,Providence,0
+3582,SF Austin,Purdue,Purdue,5.4
+3583,SF Austin,Radford,SF Austin,12.2
+3584,SF Austin,Rhode Island,SF Austin,10
+3585,SF Austin,San Diego St,SF Austin,3.4
+3586,SF Austin,Seton Hall,SF Austin,2
+3587,SF Austin,S Dakota St,SF Austin,1.2
+3588,SF Austin,St Bonaventure,SF Austin,2.2
+3589,SF Austin,Syracuse,Syracuse,1.4
+3590,SF Austin,Tennessee,SF Austin,5.6
+3591,SF Austin,Texas A&M,Texas A&M,5.2
+3592,SF Austin,TCU,SF Austin,6
+3593,SF Austin,TX Southern,SF Austin,13.4
+3594,SF Austin,Texas Tech,SF Austin,1.6
+3595,SF Austin,Texas,SF Austin,1
+3596,SF Austin,UCLA,SF Austin,5.6
+3597,SF Austin,Villanova,Villanova,12.6
+3598,SF Austin,Virginia Tech,SF Austin,6.6
+3599,SF Austin,Virginia,Virginia,2.2
+3600,SF Austin,West Virginia,SF Austin,0.6
+3601,SF Austin,Wichita St,Wichita St,4.8
+3602,SF Austin,Wright St,SF Austin,6.6
+3603,SF Austin,Xavier,Xavier,7.2
+3604,SF Austin,Middle Tenn St,SF Austin,0.6
+3605,Syracuse,Alabama,Syracuse,3.8
+3606,Syracuse,Arizona St,Syracuse,1.4
+3607,Syracuse,Arizona,Syracuse,3.6
+3608,Syracuse,Arkansas,Arkansas,6.4
+3609,Syracuse,Auburn,Syracuse,0.2
+3610,Syracuse,Bucknell,Syracuse,2.8
+3611,Syracuse,Buffalo,Buffalo,2.4
+3612,Syracuse,Butler,Butler,1
+3613,Syracuse,CS Fullerton,Syracuse,3.4
+3614,Syracuse,Charleston So,Syracuse,3.8
+3615,Syracuse,Cincinnati,Cincinnati,1.4
+3616,Syracuse,Clemson,Clemson,2.2
+3617,Syracuse,Creighton,Syracuse,1.8
+3618,Syracuse,Davidson,Davidson,0.8
+3619,Syracuse,Duke,Duke,1.4
+3620,Syracuse,Florida St,Syracuse,1.8
+3621,Syracuse,Florida,Syracuse,4.4
+3622,Syracuse,Georgia St,Syracuse,7.8
+3623,Syracuse,Gonzaga,Syracuse,0.4
+3624,Syracuse,Houston,Syracuse,6.2
+3625,Syracuse,Iona,Syracuse,4.4
+3626,Syracuse,Kansas St,Kansas St,0.6
+3627,Syracuse,Kansas,Kansas,12
+3628,Syracuse,Kentucky,Kentucky,5.8
+3629,Syracuse,Lipscomb,Syracuse,1.4
+3630,Syracuse,Long Island,Syracuse,1.2
+3631,Syracuse,Loyola-Chicago,Syracuse,4.6
+3632,Syracuse,Marshall,Marshall,1.6
+3633,Syracuse,UMBC,UMBC,3.4
+3634,Syracuse,Miami FL,Syracuse,5.2
+3635,Syracuse,Michigan St,Michigan St,7.4
+3636,Syracuse,Michigan,Syracuse,0.6
+3637,Syracuse,Missouri,Missouri,0.4
+3638,Syracuse,Montana,Syracuse,3
+3639,Syracuse,Murray St,Syracuse,4.6
+3640,Syracuse,Nevada,Nevada,0.4
+3641,Syracuse,New Mexico St,Syracuse,2.4
+3642,Syracuse,NC Central,Syracuse,5.4
+3643,Syracuse,UNC Greensboro,Syracuse,1.6
+3644,Syracuse,NC State,NC State,1.8
+3645,Syracuse,North Carolina,North Carolina,14.2
+3646,Syracuse,Ohio St,Syracuse,0.6
+3647,Syracuse,Oklahoma,Oklahoma,2.8
+3648,Syracuse,Penn,Syracuse,0.2
+3649,Syracuse,Providence,Providence,1.4
+3650,Syracuse,Purdue,Purdue,3.2
+3651,Syracuse,Radford,Syracuse,1.4
+3652,Syracuse,Rhode Island,Rhode Island,0.2
+3653,Syracuse,San Diego St,San Diego St,0
+3654,Syracuse,Seton Hall,Syracuse,1
+3655,Syracuse,S Dakota St,Syracuse,8.2
+3656,Syracuse,St Bonaventure,Syracuse,6.4
+3657,Syracuse,SF Austin,Syracuse,1.4
+3658,Syracuse,Tennessee,Tennessee,2.8
+3659,Syracuse,Texas A&M,Texas A&M,3.2
+3660,Syracuse,TCU,Syracuse,0.4
+3661,Syracuse,TX Southern,Syracuse,1.8
+3662,Syracuse,Texas Tech,Syracuse,3.4
+3663,Syracuse,Texas,Texas,1.8
+3664,Syracuse,UCLA,UCLA,2
+3665,Syracuse,Villanova,Villanova,12
+3666,Syracuse,Virginia Tech,Virginia Tech,0.8
+3667,Syracuse,Virginia,Syracuse,2.4
+3668,Syracuse,West Virginia,West Virginia,3.4
+3669,Syracuse,Wichita St,Syracuse,7.8
+3670,Syracuse,Wright St,Syracuse,0.8
+3671,Syracuse,Xavier,Syracuse,0.4
+3672,Syracuse,Middle Tenn St,Syracuse,2
+3673,Tennessee,Alabama,Tennessee,5.2
+3674,Tennessee,Arizona St,Arizona St,0
+3675,Tennessee,Arizona,Tennessee,0.8
+3676,Tennessee,Arkansas,Arkansas,3.4
+3677,Tennessee,Auburn,Tennessee,1.6
+3678,Tennessee,Bucknell,Tennessee,8.8
+3679,Tennessee,Buffalo,Buffalo,0.8
+3680,Tennessee,Butler,Tennessee,1.6
+3681,Tennessee,CS Fullerton,Tennessee,9.2
+3682,Tennessee,Charleston So,Tennessee,5.4
+3683,Tennessee,Cincinnati,Cincinnati,5
+3684,Tennessee,Clemson,Tennessee,2.2
+3685,Tennessee,Creighton,Tennessee,3.2
+3686,Tennessee,Davidson,Davidson,4.6
+3687,Tennessee,Duke,Tennessee,1
+3688,Tennessee,Florida St,Florida St,0.4
+3689,Tennessee,Florida,Florida,0.2
+3690,Tennessee,Georgia St,Tennessee,6.6
+3691,Tennessee,Gonzaga,Gonzaga,1.2
+3692,Tennessee,Houston,Houston,1.2
+3693,Tennessee,Iona,Tennessee,2.2
+3694,Tennessee,Kansas St,Tennessee,5.8
+3695,Tennessee,Kansas,Kansas,10.6
+3696,Tennessee,Kentucky,Kentucky,2.8
+3697,Tennessee,Lipscomb,Lipscomb,5.2
+3698,Tennessee,Long Island,Long Island,0.8
+3699,Tennessee,Loyola-Chicago,Tennessee,5
+3700,Tennessee,Marshall,Marshall,9.4
+3701,Tennessee,UMBC,Tennessee,2
+3702,Tennessee,Miami FL,Tennessee,0.2
+3703,Tennessee,Michigan St,Michigan St,7.8
+3704,Tennessee,Michigan,Tennessee,0.4
+3705,Tennessee,Missouri,Tennessee,6
+3706,Tennessee,Montana,Tennessee,7
+3707,Tennessee,Murray St,Tennessee,0.6
+3708,Tennessee,Nevada,Nevada,1.4
+3709,Tennessee,New Mexico St,Tennessee,1.8
+3710,Tennessee,NC Central,Tennessee,4.8
+3711,Tennessee,UNC Greensboro,Tennessee,3.6
+3712,Tennessee,NC State,Tennessee,0.8
+3713,Tennessee,North Carolina,North Carolina,9.4
+3714,Tennessee,Ohio St,Tennessee,1.2
+3715,Tennessee,Oklahoma,Oklahoma,3
+3716,Tennessee,Penn,Tennessee,6.8
+3717,Tennessee,Providence,Providence,6
+3718,Tennessee,Purdue,Tennessee,0.6
+3719,Tennessee,Radford,Tennessee,0.6
+3720,Tennessee,Rhode Island,Tennessee,4.6
+3721,Tennessee,San Diego St,Tennessee,0.8
+3722,Tennessee,Seton Hall,Tennessee,3.2
+3723,Tennessee,S Dakota St,Tennessee,3.4
+3724,Tennessee,St Bonaventure,Tennessee,1.6
+3725,Tennessee,SF Austin,SF Austin,5.6
+3726,Tennessee,Syracuse,Tennessee,2.8
+3727,Tennessee,Texas A&M,Texas A&M,1.6
+3728,Tennessee,TCU,Tennessee,4.4
+3729,Tennessee,TX Southern,TX Southern,0.6
+3730,Tennessee,Texas Tech,Tennessee,3.2
+3731,Tennessee,Texas,Texas,3.4
+3732,Tennessee,UCLA,UCLA,2
+3733,Tennessee,Villanova,Villanova,6.8
+3734,Tennessee,Virginia Tech,Tennessee,1.6
+3735,Tennessee,Virginia,Virginia,3.2
+3736,Tennessee,West Virginia,West Virginia,0.4
+3737,Tennessee,Wichita St,Tennessee,3.2
+3738,Tennessee,Wright St,Tennessee,4.2
+3739,Tennessee,Xavier,Xavier,3.8
+3740,Tennessee,Middle Tenn St,Tennessee,0.4
+3741,Texas A&M,Alabama,Texas A&M,3.2
+3742,Texas A&M,Arizona St,Texas A&M,2.8
+3743,Texas A&M,Arizona,Texas A&M,4.4
+3744,Texas A&M,Arkansas,Texas A&M,3.6
+3745,Texas A&M,Auburn,Texas A&M,10.2
+3746,Texas A&M,Bucknell,Texas A&M,10.6
+3747,Texas A&M,Buffalo,Texas A&M,4.2
+3748,Texas A&M,Butler,Texas A&M,4.6
+3749,Texas A&M,CS Fullerton,Texas A&M,8
+3750,Texas A&M,Charleston So,Texas A&M,10.6
+3751,Texas A&M,Cincinnati,Cincinnati,0.2
+3752,Texas A&M,Clemson,Texas A&M,4.4
+3753,Texas A&M,Creighton,Texas A&M,1
+3754,Texas A&M,Davidson,Davidson,1.4
+3755,Texas A&M,Duke,Texas A&M,5.2
+3756,Texas A&M,Florida St,Texas A&M,5
+3757,Texas A&M,Florida,Texas A&M,1
+3758,Texas A&M,Georgia St,Texas A&M,14.8
+3759,Texas A&M,Gonzaga,Gonzaga,2.2
+3760,Texas A&M,Houston,Texas A&M,7
+3761,Texas A&M,Iona,Texas A&M,9
+3762,Texas A&M,Kansas St,Texas A&M,3.8
+3763,Texas A&M,Kansas,Kansas,3.8
+3764,Texas A&M,Kentucky,Kentucky,2.6
+3765,Texas A&M,Lipscomb,Texas A&M,6.8
+3766,Texas A&M,Long Island,Texas A&M,7
+3767,Texas A&M,Loyola-Chicago,Texas A&M,12.8
+3768,Texas A&M,Marshall,Marshall,0.4
+3769,Texas A&M,UMBC,Texas A&M,8.4
+3770,Texas A&M,Miami FL,Texas A&M,3.4
+3771,Texas A&M,Michigan St,Texas A&M,1.4
+3772,Texas A&M,Michigan,Texas A&M,5
+3773,Texas A&M,Missouri,Texas A&M,11
+3774,Texas A&M,Montana,Texas A&M,10.6
+3775,Texas A&M,Murray St,Texas A&M,9.4
+3776,Texas A&M,Nevada,Texas A&M,3.6
+3777,Texas A&M,New Mexico St,Texas A&M,7.4
+3778,Texas A&M,NC Central,Texas A&M,6.4
+3779,Texas A&M,UNC Greensboro,Texas A&M,10
+3780,Texas A&M,NC State,Texas A&M,7
+3781,Texas A&M,North Carolina,North Carolina,5.6
+3782,Texas A&M,Ohio St,Texas A&M,4.2
+3783,Texas A&M,Oklahoma,Oklahoma,0.8
+3784,Texas A&M,Penn,Texas A&M,9.8
+3785,Texas A&M,Providence,Texas A&M,2
+3786,Texas A&M,Purdue,Purdue,1.4
+3787,Texas A&M,Radford,Texas A&M,10.4
+3788,Texas A&M,Rhode Island,Texas A&M,5.6
+3789,Texas A&M,San Diego St,Texas A&M,2
+3790,Texas A&M,Seton Hall,Texas A&M,2.6
+3791,Texas A&M,S Dakota St,Texas A&M,7
+3792,Texas A&M,St Bonaventure,Texas A&M,7.8
+3793,Texas A&M,SF Austin,Texas A&M,5.2
+3794,Texas A&M,Syracuse,Texas A&M,3.2
+3795,Texas A&M,Tennessee,Texas A&M,1.6
+3796,Texas A&M,TCU,Texas A&M,10.4
+3797,Texas A&M,TX Southern,Texas A&M,4.8
+3798,Texas A&M,Texas Tech,Texas A&M,5
+3799,Texas A&M,Texas,Texas,0.6
+3800,Texas A&M,UCLA,Texas A&M,2.2
+3801,Texas A&M,Villanova,Villanova,2
+3802,Texas A&M,Virginia Tech,Texas A&M,9.2
+3803,Texas A&M,Virginia,Virginia,0.2
+3804,Texas A&M,West Virginia,Texas A&M,3.2
+3805,Texas A&M,Wichita St,Texas A&M,2.8
+3806,Texas A&M,Wright St,Texas A&M,6.4
+3807,Texas A&M,Xavier,Texas A&M,1.4
+3808,Texas A&M,Middle Tenn St,Texas A&M,6.4
+3809,TCU,Alabama,TCU,3.6
+3810,TCU,Arizona St,Arizona St,0.8
+3811,TCU,Arizona,Arizona,6.2
+3812,TCU,Arkansas,Arkansas,5.4
+3813,TCU,Auburn,Auburn,2
+3814,TCU,Bucknell,TCU,3.6
+3815,TCU,Buffalo,Buffalo,2.2
+3816,TCU,Butler,Butler,2
+3817,TCU,CS Fullerton,TCU,1.4
+3818,TCU,Charleston So,Charleston So,1.4
+3819,TCU,Cincinnati,Cincinnati,2.4
+3820,TCU,Clemson,TCU,0.8
+3821,TCU,Creighton,Creighton,3.2
+3822,TCU,Davidson,Davidson,3.4
+3823,TCU,Duke,Duke,4.6
+3824,TCU,Florida St,Florida St,4
+3825,TCU,Florida,Florida,3.8
+3826,TCU,Georgia St,TCU,8.8
+3827,TCU,Gonzaga,Gonzaga,10.4
+3828,TCU,Houston,Houston,0.4
+3829,TCU,Iona,Iona,3.8
+3830,TCU,Kansas St,Kansas St,0.2
+3831,TCU,Kansas,Kansas,14.8
+3832,TCU,Kentucky,Kentucky,7.6
+3833,TCU,Lipscomb,Lipscomb,3
+3834,TCU,Long Island,TCU,0.4
+3835,TCU,Loyola-Chicago,TCU,5
+3836,TCU,Marshall,Marshall,8
+3837,TCU,UMBC,UMBC,7.2
+3838,TCU,Miami FL,Miami FL,6
+3839,TCU,Michigan St,Michigan St,12.4
+3840,TCU,Michigan,Michigan,3
+3841,TCU,Missouri,TCU,3.6
+3842,TCU,Montana,TCU,4.2
+3843,TCU,Murray St,TCU,6
+3844,TCU,Nevada,Nevada,3.4
+3845,TCU,New Mexico St,New Mexico St,1.2
+3846,TCU,NC Central,NC Central,0.2
+3847,TCU,UNC Greensboro,TCU,2.6
+3848,TCU,NC State,NC State,0.8
+3849,TCU,North Carolina,North Carolina,17.2
+3850,TCU,Ohio St,Ohio St,2
+3851,TCU,Oklahoma,Oklahoma,6.4
+3852,TCU,Penn,Penn,2
+3853,TCU,Providence,Providence,4
+3854,TCU,Purdue,Purdue,10.6
+3855,TCU,Radford,TCU,1.8
+3856,TCU,Rhode Island,TCU,2.8
+3857,TCU,San Diego St,San Diego St,4.8
+3858,TCU,Seton Hall,Seton Hall,1.2
+3859,TCU,S Dakota St,S Dakota St,6
+3860,TCU,St Bonaventure,St Bonaventure,4.6
+3861,TCU,SF Austin,SF Austin,6
+3862,TCU,Syracuse,Syracuse,0.4
+3863,TCU,Tennessee,Tennessee,4.4
+3864,TCU,Texas A&M,Texas A&M,10.4
+3865,TCU,TX Southern,TX Southern,1
+3866,TCU,Texas Tech,TCU,4.4
+3867,TCU,Texas,Texas,0.6
+3868,TCU,UCLA,UCLA,4
+3869,TCU,Villanova,Villanova,12.4
+3870,TCU,Virginia Tech,Virginia Tech,1.4
+3871,TCU,Virginia,Virginia,2
+3872,TCU,West Virginia,West Virginia,9.2
+3873,TCU,Wichita St,TCU,0.4
+3874,TCU,Wright St,Wright St,0
+3875,TCU,Xavier,Xavier,5.8
+3876,TCU,Middle Tenn St,Middle Tenn St,4.4
+3877,TX Southern,Alabama,Alabama,1
+3878,TX Southern,Arizona St,Arizona St,2.4
+3879,TX Southern,Arizona,Arizona,7.8
+3880,TX Southern,Arkansas,Arkansas,6.8
+3881,TX Southern,Auburn,TX Southern,3.6
+3882,TX Southern,Bucknell,TX Southern,1.4
+3883,TX Southern,Buffalo,Buffalo,3.2
+3884,TX Southern,Butler,Butler,5.6
+3885,TX Southern,CS Fullerton,TX Southern,7.4
+3886,TX Southern,Charleston So,TX Southern,3.2
+3887,TX Southern,Cincinnati,Cincinnati,9
+3888,TX Southern,Clemson,Clemson,2
+3889,TX Southern,Creighton,Creighton,4
+3890,TX Southern,Davidson,Davidson,4.4
+3891,TX Southern,Duke,Duke,11.6
+3892,TX Southern,Florida St,Florida St,6.6
+3893,TX Southern,Florida,Florida,2.4
+3894,TX Southern,Georgia St,TX Southern,5
+3895,TX Southern,Gonzaga,Gonzaga,10.2
+3896,TX Southern,Houston,Houston,5
+3897,TX Southern,Iona,Iona,7.6
+3898,TX Southern,Kansas St,TX Southern,1
+3899,TX Southern,Kansas,Kansas,13.6
+3900,TX Southern,Kentucky,Kentucky,11.6
+3901,TX Southern,Lipscomb,Lipscomb,4
+3902,TX Southern,Long Island,Long Island,0.8
+3903,TX Southern,Loyola-Chicago,TX Southern,4.4
+3904,TX Southern,Marshall,Marshall,1.8
+3905,TX Southern,UMBC,UMBC,0.6
+3906,TX Southern,Miami FL,Miami FL,4.8
+3907,TX Southern,Michigan St,Michigan St,9.8
+3908,TX Southern,Michigan,Michigan,3.4
+3909,TX Southern,Missouri,TX Southern,3.2
+3910,TX Southern,Montana,TX Southern,0.2
+3911,TX Southern,Murray St,Murray St,0.6
+3912,TX Southern,Nevada,Nevada,3.8
+3913,TX Southern,New Mexico St,New Mexico St,4
+3914,TX Southern,NC Central,TX Southern,3.8
+3915,TX Southern,UNC Greensboro,UNC Greensboro,1
+3916,TX Southern,NC State,NC State,3.6
+3917,TX Southern,North Carolina,North Carolina,12.8
+3918,TX Southern,Ohio St,Ohio St,0.4
+3919,TX Southern,Oklahoma,Oklahoma,11.8
+3920,TX Southern,Penn,TX Southern,4.4
+3921,TX Southern,Providence,Providence,8.6
+3922,TX Southern,Purdue,Purdue,10.4
+3923,TX Southern,Radford,Radford,0.6
+3924,TX Southern,Rhode Island,TX Southern,5.2
+3925,TX Southern,San Diego St,San Diego St,6
+3926,TX Southern,Seton Hall,Seton Hall,4
+3927,TX Southern,S Dakota St,S Dakota St,5.4
+3928,TX Southern,St Bonaventure,St Bonaventure,4.2
+3929,TX Southern,SF Austin,SF Austin,13.4
+3930,TX Southern,Syracuse,Syracuse,1.8
+3931,TX Southern,Tennessee,TX Southern,0.6
+3932,TX Southern,Texas A&M,Texas A&M,4.8
+3933,TX Southern,TCU,TX Southern,1
+3934,TX Southern,Texas Tech,TX Southern,2.4
+3935,TX Southern,Texas,Texas,1.4
+3936,TX Southern,UCLA,UCLA,4
+3937,TX Southern,Villanova,Villanova,13.2
+3938,TX Southern,Virginia Tech,TX Southern,2.2
+3939,TX Southern,Virginia,Virginia,6
+3940,TX Southern,West Virginia,West Virginia,5.6
+3941,TX Southern,Wichita St,Wichita St,0.2
+3942,TX Southern,Wright St,Wright St,0.6
+3943,TX Southern,Xavier,Xavier,10.2
+3944,TX Southern,Middle Tenn St,Middle Tenn St,8
+3945,Texas Tech,Alabama,Alabama,6
+3946,Texas Tech,Arizona St,Arizona St,3.4
+3947,Texas Tech,Arizona,Arizona,5
+3948,Texas Tech,Arkansas,Arkansas,3.2
+3949,Texas Tech,Auburn,Auburn,5.2
+3950,Texas Tech,Bucknell,Bucknell,1
+3951,Texas Tech,Buffalo,Buffalo,1.4
+3952,Texas Tech,Butler,Butler,5
+3953,Texas Tech,CS Fullerton,Texas Tech,1.4
+3954,Texas Tech,Charleston So,Charleston So,0
+3955,Texas Tech,Cincinnati,Texas Tech,0.2
+3956,Texas Tech,Clemson,Clemson,0.4
+3957,Texas Tech,Creighton,Creighton,8.2
+3958,Texas Tech,Davidson,Davidson,5.8
+3959,Texas Tech,Duke,Duke,2.6
+3960,Texas Tech,Florida St,Florida St,2.6
+3961,Texas Tech,Florida,Florida,3.6
+3962,Texas Tech,Georgia St,Texas Tech,8.2
+3963,Texas Tech,Gonzaga,Gonzaga,3.8
+3964,Texas Tech,Houston,Texas Tech,0.2
+3965,Texas Tech,Iona,Texas Tech,3.2
+3966,Texas Tech,Kansas St,Kansas St,1.2
+3967,Texas Tech,Kansas,Kansas,14.2
+3968,Texas Tech,Kentucky,Kentucky,9.8
+3969,Texas Tech,Lipscomb,Lipscomb,8.4
+3970,Texas Tech,Long Island,Long Island,3.4
+3971,Texas Tech,Loyola-Chicago,Texas Tech,4.6
+3972,Texas Tech,Marshall,Marshall,7.4
+3973,Texas Tech,UMBC,UMBC,5.6
+3974,Texas Tech,Miami FL,Miami FL,0
+3975,Texas Tech,Michigan St,Michigan St,6.8
+3976,Texas Tech,Michigan,Michigan,1.8
+3977,Texas Tech,Missouri,Texas Tech,1.6
+3978,Texas Tech,Montana,Texas Tech,6.4
+3979,Texas Tech,Murray St,Texas Tech,1.8
+3980,Texas Tech,Nevada,Nevada,2.2
+3981,Texas Tech,New Mexico St,Texas Tech,0.2
+3982,Texas Tech,NC Central,NC Central,0.2
+3983,Texas Tech,UNC Greensboro,Texas Tech,2.4
+3984,Texas Tech,NC State,NC State,1.6
+3985,Texas Tech,North Carolina,North Carolina,17.2
+3986,Texas Tech,Ohio St,Ohio St,4.4
+3987,Texas Tech,Oklahoma,Oklahoma,5.4
+3988,Texas Tech,Penn,Penn,0
+3989,Texas Tech,Providence,Providence,3.4
+3990,Texas Tech,Purdue,Purdue,8
+3991,Texas Tech,Radford,Texas Tech,3
+3992,Texas Tech,Rhode Island,Texas Tech,0.2
+3993,Texas Tech,San Diego St,San Diego St,3.4
+3994,Texas Tech,Seton Hall,Seton Hall,2.8
+3995,Texas Tech,S Dakota St,Texas Tech,1
+3996,Texas Tech,St Bonaventure,Texas Tech,2
+3997,Texas Tech,SF Austin,SF Austin,1.6
+3998,Texas Tech,Syracuse,Syracuse,3.4
+3999,Texas Tech,Tennessee,Tennessee,3.2
+4000,Texas Tech,Texas A&M,Texas A&M,5
+4001,Texas Tech,TCU,TCU,4.4
+4002,Texas Tech,TX Southern,TX Southern,2.4
+4003,Texas Tech,Texas,Texas,3.2
+4004,Texas Tech,UCLA,UCLA,7.4
+4005,Texas Tech,Villanova,Villanova,10.2
+4006,Texas Tech,Virginia Tech,Virginia Tech,4.8
+4007,Texas Tech,Virginia,Texas Tech,3
+4008,Texas Tech,West Virginia,West Virginia,4.8
+4009,Texas Tech,Wichita St,Wichita St,0
+4010,Texas Tech,Wright St,Texas Tech,0.2
+4011,Texas Tech,Xavier,Xavier,8.2
+4012,Texas Tech,Middle Tenn St,Middle Tenn St,0.2
+4013,Texas,Alabama,Texas,1.8
+4014,Texas,Arizona St,Texas,0.2
+4015,Texas,Arizona,Arizona,1.4
+4016,Texas,Arkansas,Arkansas,4
+4017,Texas,Auburn,Texas,3
+4018,Texas,Bucknell,Texas,4.2
+4019,Texas,Buffalo,Texas,3
+4020,Texas,Butler,Texas,2
+4021,Texas,CS Fullerton,Texas,1.8
+4022,Texas,Charleston So,Texas,5.8
+4023,Texas,Cincinnati,Cincinnati,6.8
+4024,Texas,Clemson,Texas,2.8
+4025,Texas,Creighton,Creighton,8.6
+4026,Texas,Davidson,Davidson,3.4
+4027,Texas,Duke,Texas,0.6
+4028,Texas,Florida St,Florida St,0.8
+4029,Texas,Florida,Texas,7.2
+4030,Texas,Georgia St,Texas,12
+4031,Texas,Gonzaga,Gonzaga,3.2
+4032,Texas,Houston,Texas,3.6
+4033,Texas,Iona,Texas,6.8
+4034,Texas,Kansas St,Texas,2.2
+4035,Texas,Kansas,Kansas,7.2
+4036,Texas,Kentucky,Kentucky,4.2
+4037,Texas,Lipscomb,Lipscomb,0
+4038,Texas,Long Island,Long Island,2.8
+4039,Texas,Loyola-Chicago,Texas,7.4
+4040,Texas,Marshall,Marshall,2
+4041,Texas,UMBC,UMBC,2.2
+4042,Texas,Miami FL,Texas,1.4
+4043,Texas,Michigan St,Michigan St,9.8
+4044,Texas,Michigan,Michigan,0
+4045,Texas,Missouri,Texas,1.6
+4046,Texas,Montana,Texas,6
+4047,Texas,Murray St,Texas,1.8
+4048,Texas,Nevada,Texas,1.8
+4049,Texas,New Mexico St,Texas,4.4
+4050,Texas,NC Central,Texas,1.4
+4051,Texas,UNC Greensboro,Texas,6.8
+4052,Texas,NC State,Texas,2
+4053,Texas,North Carolina,North Carolina,11
+4054,Texas,Ohio St,Texas,3.6
+4055,Texas,Oklahoma,Oklahoma,0.2
+4056,Texas,Penn,Texas,5.4
+4057,Texas,Providence,Providence,2
+4058,Texas,Purdue,Purdue,3.2
+4059,Texas,Radford,Texas,6.4
+4060,Texas,Rhode Island,Texas,5.4
+4061,Texas,San Diego St,Texas,2.4
+4062,Texas,Seton Hall,Seton Hall,0.6
+4063,Texas,S Dakota St,Texas,0.8
+4064,Texas,St Bonaventure,Texas,1.4
+4065,Texas,SF Austin,SF Austin,1
+4066,Texas,Syracuse,Texas,1.8
+4067,Texas,Tennessee,Texas,3.4
+4068,Texas,Texas A&M,Texas,0.6
+4069,Texas,TCU,Texas,0.6
+4070,Texas,TX Southern,Texas,1.4
+4071,Texas,Texas Tech,Texas,3.2
+4072,Texas,UCLA,UCLA,4
+4073,Texas,Villanova,Villanova,10
+4074,Texas,Virginia Tech,Texas,0.4
+4075,Texas,Virginia,Virginia,1
+4076,Texas,West Virginia,Texas,0.2
+4077,Texas,Wichita St,Texas,1.8
+4078,Texas,Wright St,Wright St,0.2
+4079,Texas,Xavier,Xavier,2
+4080,Texas,Middle Tenn St,Texas,1.4
+4081,UCLA,Alabama,UCLA,5.8
+4082,UCLA,Arizona St,UCLA,3
+4083,UCLA,Arizona,Arizona,2.4
+4084,UCLA,Arkansas,Arkansas,0.4
+4085,UCLA,Auburn,UCLA,4.6
+4086,UCLA,Bucknell,UCLA,9.4
+4087,UCLA,Buffalo,UCLA,2.2
+4088,UCLA,Butler,UCLA,2.2
+4089,UCLA,CS Fullerton,UCLA,12.4
+4090,UCLA,Charleston So,UCLA,13
+4091,UCLA,Cincinnati,Cincinnati,0.8
+4092,UCLA,Clemson,UCLA,3.8
+4093,UCLA,Creighton,UCLA,1.2
+4094,UCLA,Davidson,UCLA,0.4
+4095,UCLA,Duke,UCLA,0.4
+4096,UCLA,Florida St,UCLA,2.6
+4097,UCLA,Florida,Florida,1.4
+4098,UCLA,Georgia St,UCLA,15
+4099,UCLA,Gonzaga,Gonzaga,2.2
+4100,UCLA,Houston,UCLA,3.6
+4101,UCLA,Iona,Iona,0.2
+4102,UCLA,Kansas St,UCLA,6
+4103,UCLA,Kansas,Kansas,7
+4104,UCLA,Kentucky,Kentucky,5.2
+4105,UCLA,Lipscomb,Lipscomb,1.6
+4106,UCLA,Long Island,UCLA,6.6
+4107,UCLA,Loyola-Chicago,UCLA,10.6
+4108,UCLA,Marshall,Marshall,5.8
+4109,UCLA,UMBC,UCLA,8
+4110,UCLA,Miami FL,Miami FL,0.6
+4111,UCLA,Michigan St,Michigan St,2.4
+4112,UCLA,Michigan,UCLA,3.2
+4113,UCLA,Missouri,UCLA,10.6
+4114,UCLA,Montana,UCLA,6.2
+4115,UCLA,Murray St,UCLA,11.2
+4116,UCLA,Nevada,Nevada,2.2
+4117,UCLA,New Mexico St,New Mexico St,1
+4118,UCLA,NC Central,UCLA,9.4
+4119,UCLA,UNC Greensboro,UCLA,8.8
+4120,UCLA,NC State,UCLA,1.2
+4121,UCLA,North Carolina,North Carolina,9.2
+4122,UCLA,Ohio St,UCLA,4.2
+4123,UCLA,Oklahoma,Oklahoma,0.2
+4124,UCLA,Penn,UCLA,11
+4125,UCLA,Providence,Providence,2.2
+4126,UCLA,Purdue,Purdue,0.2
+4127,UCLA,Radford,UCLA,10.8
+4128,UCLA,Rhode Island,UCLA,7.2
+4129,UCLA,San Diego St,San Diego St,4.6
+4130,UCLA,Seton Hall,UCLA,0.2
+4131,UCLA,S Dakota St,UCLA,4.6
+4132,UCLA,St Bonaventure,UCLA,7.4
+4133,UCLA,SF Austin,SF Austin,5.6
+4134,UCLA,Syracuse,UCLA,2
+4135,UCLA,Tennessee,UCLA,2
+4136,UCLA,Texas A&M,Texas A&M,2.2
+4137,UCLA,TCU,UCLA,4
+4138,UCLA,TX Southern,UCLA,4
+4139,UCLA,Texas Tech,UCLA,7.4
+4140,UCLA,Texas,UCLA,4
+4141,UCLA,Villanova,Villanova,7.8
+4142,UCLA,Virginia Tech,UCLA,4
+4143,UCLA,Virginia,Virginia,2.4
+4144,UCLA,West Virginia,West Virginia,7.4
+4145,UCLA,Wichita St,Wichita St,1
+4146,UCLA,Wright St,UCLA,5.6
+4147,UCLA,Xavier,Xavier,3.8
+4148,UCLA,Middle Tenn St,UCLA,5.8
+4149,Villanova,Alabama,Villanova,9.8
+4150,Villanova,Arizona St,Villanova,12
+4151,Villanova,Arizona,Villanova,8.6
+4152,Villanova,Arkansas,Villanova,9.8
+4153,Villanova,Auburn,Villanova,11.2
+4154,Villanova,Bucknell,Villanova,16.2
+4155,Villanova,Buffalo,Villanova,12
+4156,Villanova,Butler,Villanova,7.2
+4157,Villanova,CS Fullerton,Villanova,13
+4158,Villanova,Charleston So,Villanova,12
+4159,Villanova,Cincinnati,Villanova,8.4
+4160,Villanova,Clemson,Villanova,13.4
+4161,Villanova,Creighton,Villanova,9.6
+4162,Villanova,Davidson,Villanova,4.4
+4163,Villanova,Duke,Villanova,8
+4164,Villanova,Florida St,Villanova,10.4
+4165,Villanova,Florida,Villanova,10.2
+4166,Villanova,Georgia St,Villanova,19.6
+4167,Villanova,Gonzaga,Villanova,7.4
+4168,Villanova,Houston,Villanova,12.4
+4169,Villanova,Iona,Villanova,9.2
+4170,Villanova,Kansas St,Villanova,9
+4171,Villanova,Kansas,Kansas,3.8
+4172,Villanova,Kentucky,Villanova,9
+4173,Villanova,Lipscomb,Villanova,8.2
+4174,Villanova,Long Island,Villanova,15.2
+4175,Villanova,Loyola-Chicago,Villanova,13.8
+4176,Villanova,Marshall,Villanova,1
+4177,Villanova,UMBC,Villanova,13.8
+4178,Villanova,Miami FL,Villanova,7.4
+4179,Villanova,Michigan St,Villanova,2.2
+4180,Villanova,Michigan,Villanova,6.2
+4181,Villanova,Missouri,Villanova,11
+4182,Villanova,Montana,Villanova,12.6
+4183,Villanova,Murray St,Villanova,13.2
+4184,Villanova,Nevada,Villanova,14.6
+4185,Villanova,New Mexico St,Villanova,11.6
+4186,Villanova,NC Central,Villanova,16.6
+4187,Villanova,UNC Greensboro,Villanova,13.6
+4188,Villanova,NC State,Villanova,8.6
+4189,Villanova,North Carolina,North Carolina,0
+4190,Villanova,Ohio St,Villanova,12.4
+4191,Villanova,Oklahoma,Oklahoma,0
+4192,Villanova,Penn,Villanova,13.8
+4193,Villanova,Providence,Villanova,9.8
+4194,Villanova,Purdue,Villanova,2.4
+4195,Villanova,Radford,Villanova,18.4
+4196,Villanova,Rhode Island,Villanova,11.4
+4197,Villanova,San Diego St,Villanova,9
+4198,Villanova,Seton Hall,Villanova,7.8
+4199,Villanova,S Dakota St,Villanova,10
+4200,Villanova,St Bonaventure,Villanova,12.2
+4201,Villanova,SF Austin,Villanova,12.6
+4202,Villanova,Syracuse,Villanova,12
+4203,Villanova,Tennessee,Villanova,6.8
+4204,Villanova,Texas A&M,Villanova,2
+4205,Villanova,TCU,Villanova,12.4
+4206,Villanova,TX Southern,Villanova,13.2
+4207,Villanova,Texas Tech,Villanova,10.2
+4208,Villanova,Texas,Villanova,10
+4209,Villanova,UCLA,Villanova,7.8
+4210,Villanova,Virginia Tech,Villanova,11.8
+4211,Villanova,Virginia,Villanova,6.2
+4212,Villanova,West Virginia,Villanova,6.6
+4213,Villanova,Wichita St,Villanova,9.6
+4214,Villanova,Wright St,Villanova,10.6
+4215,Villanova,Xavier,Villanova,3.6
+4216,Villanova,Middle Tenn St,Villanova,9.4
+4217,Virginia Tech,Alabama,Virginia Tech,2
+4218,Virginia Tech,Arizona St,Virginia Tech,0.6
+4219,Virginia Tech,Arizona,Arizona,4.6
+4220,Virginia Tech,Arkansas,Arkansas,3.8
+4221,Virginia Tech,Auburn,Auburn,0.4
+4222,Virginia Tech,Bucknell,Virginia Tech,2
+4223,Virginia Tech,Buffalo,Buffalo,2.2
+4224,Virginia Tech,Butler,Butler,1
+4225,Virginia Tech,CS Fullerton,Virginia Tech,6.2
+4226,Virginia Tech,Charleston So,Virginia Tech,2.6
+4227,Virginia Tech,Cincinnati,Cincinnati,4.6
+4228,Virginia Tech,Clemson,Virginia Tech,3.2
+4229,Virginia Tech,Creighton,Creighton,3.8
+4230,Virginia Tech,Davidson,Davidson,3.2
+4231,Virginia Tech,Duke,Duke,1.6
+4232,Virginia Tech,Florida St,Florida St,0.8
+4233,Virginia Tech,Florida,Florida,3
+4234,Virginia Tech,Georgia St,Virginia Tech,9.6
+4235,Virginia Tech,Gonzaga,Gonzaga,4.8
+4236,Virginia Tech,Houston,Virginia Tech,3.6
+4237,Virginia Tech,Iona,Iona,6.2
+4238,Virginia Tech,Kansas St,Virginia Tech,2.2
+4239,Virginia Tech,Kansas,Kansas,11.4
+4240,Virginia Tech,Kentucky,Kentucky,7.4
+4241,Virginia Tech,Lipscomb,Lipscomb,7.2
+4242,Virginia Tech,Long Island,Long Island,1.8
+4243,Virginia Tech,Loyola-Chicago,Virginia Tech,7.2
+4244,Virginia Tech,Marshall,Marshall,7.4
+4245,Virginia Tech,UMBC,UMBC,2.8
+4246,Virginia Tech,Miami FL,Miami FL,2.2
+4247,Virginia Tech,Michigan St,Michigan St,9.8
+4248,Virginia Tech,Michigan,Michigan,1.6
+4249,Virginia Tech,Missouri,Virginia Tech,4.6
+4250,Virginia Tech,Montana,Virginia Tech,6.8
+4251,Virginia Tech,Murray St,Virginia Tech,6.2
+4252,Virginia Tech,Nevada,Nevada,0.2
+4253,Virginia Tech,New Mexico St,Virginia Tech,2.8
+4254,Virginia Tech,NC Central,Virginia Tech,2.2
+4255,Virginia Tech,UNC Greensboro,Virginia Tech,4.2
+4256,Virginia Tech,NC State,Virginia Tech,1.2
+4257,Virginia Tech,North Carolina,North Carolina,14.4
+4258,Virginia Tech,Ohio St,Ohio St,0.6
+4259,Virginia Tech,Oklahoma,Virginia Tech,0.2
+4260,Virginia Tech,Penn,Virginia Tech,6.6
+4261,Virginia Tech,Providence,Providence,2.6
+4262,Virginia Tech,Purdue,Purdue,4.2
+4263,Virginia Tech,Radford,Virginia Tech,2.2
+4264,Virginia Tech,Rhode Island,Virginia Tech,5.6
+4265,Virginia Tech,San Diego St,San Diego St,5.2
+4266,Virginia Tech,Seton Hall,Seton Hall,5.6
+4267,Virginia Tech,S Dakota St,S Dakota St,5.2
+4268,Virginia Tech,St Bonaventure,Virginia Tech,1.2
+4269,Virginia Tech,SF Austin,SF Austin,6.6
+4270,Virginia Tech,Syracuse,Virginia Tech,0.8
+4271,Virginia Tech,Tennessee,Tennessee,1.6
+4272,Virginia Tech,Texas A&M,Texas A&M,9.2
+4273,Virginia Tech,TCU,Virginia Tech,1.4
+4274,Virginia Tech,TX Southern,TX Southern,2.2
+4275,Virginia Tech,Texas Tech,Virginia Tech,4.8
+4276,Virginia Tech,Texas,Texas,0.4
+4277,Virginia Tech,UCLA,UCLA,4
+4278,Virginia Tech,Villanova,Villanova,11.8
+4279,Virginia Tech,Virginia,Virginia Tech,1.8
+4280,Virginia Tech,West Virginia,West Virginia,5.6
+4281,Virginia Tech,Wichita St,Wichita St,3.8
+4282,Virginia Tech,Wright St,Wright St,1.6
+4283,Virginia Tech,Xavier,Xavier,7.2
+4284,Virginia Tech,Middle Tenn St,Middle Tenn St,2.2
+4285,Virginia,Alabama,Virginia,1
+4286,Virginia,Arizona St,Virginia,0.2
+4287,Virginia,Arizona,Arizona,1
+4288,Virginia,Arkansas,Arkansas,1.6
+4289,Virginia,Auburn,Virginia,2.2
+4290,Virginia,Bucknell,Virginia,0.4
+4291,Virginia,Buffalo,Buffalo,2.6
+4292,Virginia,Butler,Virginia,2
+4293,Virginia,CS Fullerton,Virginia,5.2
+4294,Virginia,Charleston So,Virginia,9.6
+4295,Virginia,Cincinnati,Cincinnati,6.6
+4296,Virginia,Clemson,Virginia,2.6
+4297,Virginia,Creighton,Creighton,4
+4298,Virginia,Davidson,Davidson,2.6
+4299,Virginia,Duke,Virginia,3.4
+4300,Virginia,Florida St,Florida St,0.4
+4301,Virginia,Florida,Virginia,5.6
+4302,Virginia,Georgia St,Virginia,11
+4303,Virginia,Gonzaga,Gonzaga,2.8
+4304,Virginia,Houston,Houston,1.4
+4305,Virginia,Iona,Virginia,5.6
+4306,Virginia,Kansas St,Virginia,3.2
+4307,Virginia,Kansas,Kansas,3.2
+4308,Virginia,Kentucky,Kentucky,1
+4309,Virginia,Lipscomb,Lipscomb,1.4
+4310,Virginia,Long Island,Long Island,0.4
+4311,Virginia,Loyola-Chicago,Virginia,7.8
+4312,Virginia,Marshall,Marshall,2.6
+4313,Virginia,UMBC,Virginia,2.8
+4314,Virginia,Miami FL,Miami FL,4
+4315,Virginia,Michigan St,Michigan St,1.4
+4316,Virginia,Michigan,Virginia,2.2
+4317,Virginia,Missouri,Virginia,5.4
+4318,Virginia,Montana,Virginia,2.6
+4319,Virginia,Murray St,Virginia,5.8
+4320,Virginia,Nevada,Virginia,1.6
+4321,Virginia,New Mexico St,Virginia,7.4
+4322,Virginia,NC Central,Virginia,2.6
+4323,Virginia,UNC Greensboro,Virginia,9
+4324,Virginia,NC State,Virginia,3.8
+4325,Virginia,North Carolina,North Carolina,4
+4326,Virginia,Ohio St,Virginia,1.6
+4327,Virginia,Oklahoma,Virginia,3.8
+4328,Virginia,Penn,Virginia,10.2
+4329,Virginia,Providence,Providence,1.2
+4330,Virginia,Purdue,Purdue,3.2
+4331,Virginia,Radford,Virginia,7.4
+4332,Virginia,Rhode Island,Virginia,5.6
+4333,Virginia,San Diego St,San Diego St,2.4
+4334,Virginia,Seton Hall,Virginia,1
+4335,Virginia,S Dakota St,Virginia,5.2
+4336,Virginia,St Bonaventure,Virginia,1.6
+4337,Virginia,SF Austin,Virginia,2.2
+4338,Virginia,Syracuse,Syracuse,2.4
+4339,Virginia,Tennessee,Virginia,3.2
+4340,Virginia,Texas A&M,Virginia,0.2
+4341,Virginia,TCU,Virginia,2
+4342,Virginia,TX Southern,Virginia,6
+4343,Virginia,Texas Tech,Texas Tech,3
+4344,Virginia,Texas,Virginia,1
+4345,Virginia,UCLA,Virginia,2.4
+4346,Virginia,Villanova,Villanova,6.2
+4347,Virginia,Virginia Tech,Virginia Tech,1.8
+4348,Virginia,West Virginia,Virginia,2.4
+4349,Virginia,Wichita St,Virginia,1.4
+4350,Virginia,Wright St,Virginia,1.8
+4351,Virginia,Xavier,Xavier,2
+4352,Virginia,Middle Tenn St,Virginia,4.4
+4353,West Virginia,Alabama,West Virginia,6.6
+4354,West Virginia,Arizona St,West Virginia,0.4
+4355,West Virginia,Arizona,Arizona,0.8
+4356,West Virginia,Arkansas,West Virginia,0.8
+4357,West Virginia,Auburn,West Virginia,7.6
+4358,West Virginia,Bucknell,West Virginia,8.2
+4359,West Virginia,Buffalo,West Virginia,3
+4360,West Virginia,Butler,West Virginia,3.8
+4361,West Virginia,CS Fullerton,West Virginia,14.2
+4362,West Virginia,Charleston So,West Virginia,10.6
+4363,West Virginia,Cincinnati,Cincinnati,1.2
+4364,West Virginia,Clemson,West Virginia,10.8
+4365,West Virginia,Creighton,Creighton,1.2
+4366,West Virginia,Davidson,West Virginia,0.6
+4367,West Virginia,Duke,Duke,0.4
+4368,West Virginia,Florida St,West Virginia,5
+4369,West Virginia,Florida,Florida,1.4
+4370,West Virginia,Georgia St,West Virginia,15.6
+4371,West Virginia,Gonzaga,Gonzaga,2.6
+4372,West Virginia,Houston,West Virginia,6.6
+4373,West Virginia,Iona,West Virginia,1.8
+4374,West Virginia,Kansas St,West Virginia,12.6
+4375,West Virginia,Kansas,Kansas,6.4
+4376,West Virginia,Kentucky,Kentucky,1.4
+4377,West Virginia,Lipscomb,West Virginia,2.8
+4378,West Virginia,Long Island,West Virginia,5.6
+4379,West Virginia,Loyola-Chicago,West Virginia,14.2
+4380,West Virginia,Marshall,Marshall,0.8
+4381,West Virginia,UMBC,West Virginia,10
+4382,West Virginia,Miami FL,West Virginia,3.4
+4383,West Virginia,Michigan St,Michigan St,3.4
+4384,West Virginia,Michigan,Michigan,0.8
+4385,West Virginia,Missouri,West Virginia,12.4
+4386,West Virginia,Montana,West Virginia,10.2
+4387,West Virginia,Murray St,West Virginia,11.4
+4388,West Virginia,Nevada,West Virginia,7
+4389,West Virginia,New Mexico St,West Virginia,5.4
+4390,West Virginia,NC Central,West Virginia,11.2
+4391,West Virginia,UNC Greensboro,West Virginia,11
+4392,West Virginia,NC State,West Virginia,7.4
+4393,West Virginia,North Carolina,North Carolina,7
+4394,West Virginia,Ohio St,Ohio St,1.6
+4395,West Virginia,Oklahoma,Oklahoma,2.6
+4396,West Virginia,Penn,West Virginia,14.6
+4397,West Virginia,Providence,Providence,3.8
+4398,West Virginia,Purdue,Purdue,1.4
+4399,West Virginia,Radford,West Virginia,9.2
+4400,West Virginia,Rhode Island,West Virginia,8.2
+4401,West Virginia,San Diego St,West Virginia,2.4
+4402,West Virginia,Seton Hall,West Virginia,3.2
+4403,West Virginia,S Dakota St,West Virginia,4.2
+4404,West Virginia,St Bonaventure,West Virginia,4
+4405,West Virginia,SF Austin,SF Austin,0.6
+4406,West Virginia,Syracuse,West Virginia,3.4
+4407,West Virginia,Tennessee,West Virginia,0.4
+4408,West Virginia,Texas A&M,Texas A&M,3.2
+4409,West Virginia,TCU,West Virginia,9.2
+4410,West Virginia,TX Southern,West Virginia,5.6
+4411,West Virginia,Texas Tech,West Virginia,4.8
+4412,West Virginia,Texas,Texas,0.2
+4413,West Virginia,UCLA,West Virginia,7.4
+4414,West Virginia,Villanova,Villanova,6.6
+4415,West Virginia,Virginia Tech,West Virginia,5.6
+4416,West Virginia,Virginia,Virginia,2.4
+4417,West Virginia,Wichita St,West Virginia,0.8
+4418,West Virginia,Wright St,West Virginia,8.2
+4419,West Virginia,Xavier,Xavier,2.4
+4420,West Virginia,Middle Tenn St,West Virginia,4.6
+4421,Wichita St,Alabama,Wichita St,1
+4422,Wichita St,Arizona St,Arizona St,4.4
+4423,Wichita St,Arizona,Wichita St,1.6
+4424,Wichita St,Arkansas,Arkansas,1
+4425,Wichita St,Auburn,Auburn,0.2
+4426,Wichita St,Bucknell,Wichita St,1.4
+4427,Wichita St,Buffalo,Wichita St,1
+4428,Wichita St,Butler,Wichita St,2.4
+4429,Wichita St,CS Fullerton,Wichita St,2.8
+4430,Wichita St,Charleston So,Wichita St,2.2
+4431,Wichita St,Cincinnati,Cincinnati,8.6
+4432,Wichita St,Clemson,Clemson,2.8
+4433,Wichita St,Creighton,Creighton,4.4
+4434,Wichita St,Davidson,Davidson,6.8
+4435,Wichita St,Duke,Duke,1.8
+4436,Wichita St,Florida St,Florida St,2
+4437,Wichita St,Florida,Wichita St,0.8
+4438,Wichita St,Georgia St,Wichita St,8.2
+4439,Wichita St,Gonzaga,Gonzaga,0.8
+4440,Wichita St,Houston,Houston,3
+4441,Wichita St,Iona,Iona,1.4
+4442,Wichita St,Kansas St,Kansas St,2.8
+4443,Wichita St,Kansas,Kansas,4.6
+4444,Wichita St,Kentucky,Kentucky,1.8
+4445,Wichita St,Lipscomb,Lipscomb,3
+4446,Wichita St,Long Island,Wichita St,1.4
+4447,Wichita St,Loyola-Chicago,Wichita St,1.4
+4448,Wichita St,Marshall,Wichita St,0.4
+4449,Wichita St,UMBC,Wichita St,3
+4450,Wichita St,Miami FL,Miami FL,1.2
+4451,Wichita St,Michigan St,Michigan St,3.4
+4452,Wichita St,Michigan,Wichita St,2.4
+4453,Wichita St,Missouri,Wichita St,1.2
+4454,Wichita St,Montana,Wichita St,0.4
+4455,Wichita St,Murray St,Murray St,0.8
+4456,Wichita St,Nevada,Nevada,1.6
+4457,Wichita St,New Mexico St,Wichita St,2.8
+4458,Wichita St,NC Central,Wichita St,4.8
+4459,Wichita St,UNC Greensboro,Wichita St,2.2
+4460,Wichita St,NC State,NC State,1
+4461,Wichita St,North Carolina,North Carolina,8
+4462,Wichita St,Ohio St,Ohio St,3.6
+4463,Wichita St,Oklahoma,Oklahoma,2
+4464,Wichita St,Penn,Wichita St,6.2
+4465,Wichita St,Providence,Providence,2.6
+4466,Wichita St,Purdue,Purdue,3.8
+4467,Wichita St,Radford,Wichita St,2.6
+4468,Wichita St,Rhode Island,Wichita St,5.2
+4469,Wichita St,San Diego St,San Diego St,1.4
+4470,Wichita St,Seton Hall,Wichita St,1.4
+4471,Wichita St,S Dakota St,S Dakota St,5.8
+4472,Wichita St,St Bonaventure,St Bonaventure,1.2
+4473,Wichita St,SF Austin,Wichita St,4.8
+4474,Wichita St,Syracuse,Syracuse,7.8
+4475,Wichita St,Tennessee,Tennessee,3.2
+4476,Wichita St,Texas A&M,Texas A&M,2.8
+4477,Wichita St,TCU,TCU,0.4
+4478,Wichita St,TX Southern,Wichita St,0.2
+4479,Wichita St,Texas Tech,Texas Tech,0
+4480,Wichita St,Texas,Texas,1.8
+4481,Wichita St,UCLA,Wichita St,1
+4482,Wichita St,Villanova,Villanova,9.6
+4483,Wichita St,Virginia Tech,Wichita St,3.8
+4484,Wichita St,Virginia,Virginia,1.4
+4485,Wichita St,West Virginia,West Virginia,0.8
+4486,Wichita St,Wright St,Wright St,3.2
+4487,Wichita St,Xavier,Xavier,2.2
+4488,Wichita St,Middle Tenn St,Middle Tenn St,4.2
+4489,Wright St,Alabama,Alabama,5
+4490,Wright St,Arizona St,Arizona St,3.8
+4491,Wright St,Arizona,Arizona,6
+4492,Wright St,Arkansas,Arkansas,9.2
+4493,Wright St,Auburn,Wright St,0.4
+4494,Wright St,Bucknell,Wright St,4
+4495,Wright St,Buffalo,Buffalo,3
+4496,Wright St,Butler,Butler,1.6
+4497,Wright St,CS Fullerton,Wright St,9.6
+4498,Wright St,Charleston So,Wright St,3.8
+4499,Wright St,Cincinnati,Wright St,0.4
+4500,Wright St,Clemson,Clemson,1.2
+4501,Wright St,Creighton,Creighton,7.8
+4502,Wright St,Davidson,Davidson,4.4
+4503,Wright St,Duke,Duke,7.2
+4504,Wright St,Florida St,Florida St,9
+4505,Wright St,Florida,Wright St,2.2
+4506,Wright St,Georgia St,Wright St,8.6
+4507,Wright St,Gonzaga,Gonzaga,9.4
+4508,Wright St,Houston,Houston,2
+4509,Wright St,Iona,Iona,6.8
+4510,Wright St,Kansas St,Kansas St,3.4
+4511,Wright St,Kansas,Kansas,12.4
+4512,Wright St,Kentucky,Kentucky,11.4
+4513,Wright St,Lipscomb,Lipscomb,5.4
+4514,Wright St,Long Island,Wright St,1.4
+4515,Wright St,Loyola-Chicago,Wright St,8.4
+4516,Wright St,Marshall,Marshall,5.2
+4517,Wright St,UMBC,Wright St,2.4
+4518,Wright St,Miami FL,Miami FL,1.8
+4519,Wright St,Michigan St,Michigan St,5.4
+4520,Wright St,Michigan,Michigan,4.6
+4521,Wright St,Missouri,Wright St,4
+4522,Wright St,Montana,Wright St,2
+4523,Wright St,Murray St,Murray St,1.2
+4524,Wright St,Nevada,Wright St,1
+4525,Wright St,New Mexico St,Wright St,1.8
+4526,Wright St,NC Central,Wright St,5
+4527,Wright St,UNC Greensboro,Wright St,1.6
+4528,Wright St,NC State,NC State,5
+4529,Wright St,North Carolina,North Carolina,12.6
+4530,Wright St,Ohio St,Wright St,3.4
+4531,Wright St,Oklahoma,Oklahoma,7.4
+4532,Wright St,Penn,Wright St,7.6
+4533,Wright St,Providence,Providence,0.6
+4534,Wright St,Purdue,Purdue,8.8
+4535,Wright St,Radford,Wright St,1.2
+4536,Wright St,Rhode Island,Wright St,2
+4537,Wright St,San Diego St,San Diego St,2.8
+4538,Wright St,Seton Hall,Wright St,0.2
+4539,Wright St,S Dakota St,S Dakota St,1.4
+4540,Wright St,St Bonaventure,St Bonaventure,1.4
+4541,Wright St,SF Austin,SF Austin,6.6
+4542,Wright St,Syracuse,Syracuse,0.8
+4543,Wright St,Tennessee,Tennessee,4.2
+4544,Wright St,Texas A&M,Texas A&M,6.4
+4545,Wright St,TCU,TCU,0
+4546,Wright St,TX Southern,Wright St,0.6
+4547,Wright St,Texas Tech,Texas Tech,0.2
+4548,Wright St,Texas,Wright St,0.2
+4549,Wright St,UCLA,UCLA,5.6
+4550,Wright St,Villanova,Villanova,10.6
+4551,Wright St,Virginia Tech,Wright St,1.6
+4552,Wright St,Virginia,Virginia,1.8
+4553,Wright St,West Virginia,West Virginia,8.2
+4554,Wright St,Wichita St,Wright St,3.2
+4555,Wright St,Xavier,Xavier,3.6
+4556,Wright St,Middle Tenn St,Middle Tenn St,3.8
+4557,Xavier,Alabama,Xavier,7
+4558,Xavier,Arizona St,Xavier,4.4
+4559,Xavier,Arizona,Xavier,3.6
+4560,Xavier,Arkansas,Arkansas,4.4
+4561,Xavier,Auburn,Xavier,4.8
+4562,Xavier,Bucknell,Xavier,12
+4563,Xavier,Buffalo,Buffalo,1.8
+4564,Xavier,Butler,Xavier,4.6
+4565,Xavier,CS Fullerton,Xavier,12.8
+4566,Xavier,Charleston So,Xavier,8.2
+4567,Xavier,Cincinnati,Cincinnati,3.8
+4568,Xavier,Clemson,Xavier,9.6
+4569,Xavier,Creighton,Creighton,3.4
+4570,Xavier,Davidson,Davidson,3
+4571,Xavier,Duke,Duke,0.6
+4572,Xavier,Florida St,Xavier,0.6
+4573,Xavier,Florida,Xavier,1.6
+4574,Xavier,Georgia St,Xavier,13
+4575,Xavier,Gonzaga,Gonzaga,0.4
+4576,Xavier,Houston,Xavier,4.4
+4577,Xavier,Iona,Xavier,1.8
+4578,Xavier,Kansas St,Xavier,5.6
+4579,Xavier,Kansas,Kansas,4
+4580,Xavier,Kentucky,Kentucky,1
+4581,Xavier,Lipscomb,Xavier,2.6
+4582,Xavier,Long Island,Xavier,1.4
+4583,Xavier,Loyola-Chicago,Xavier,12.6
+4584,Xavier,Marshall,Marshall,1
+4585,Xavier,UMBC,Xavier,5.8
+4586,Xavier,Miami FL,Xavier,8.2
+4587,Xavier,Michigan St,Michigan St,2
+4588,Xavier,Michigan,Michigan,2.8
+4589,Xavier,Missouri,Xavier,13
+4590,Xavier,Montana,Xavier,7.4
+4591,Xavier,Murray St,Xavier,11.4
+4592,Xavier,Nevada,Xavier,3.8
+4593,Xavier,New Mexico St,Xavier,8
+4594,Xavier,NC Central,Xavier,10.2
+4595,Xavier,UNC Greensboro,Xavier,10
+4596,Xavier,NC State,Xavier,3.4
+4597,Xavier,North Carolina,North Carolina,5.8
+4598,Xavier,Ohio St,Xavier,4.4
+4599,Xavier,Oklahoma,Oklahoma,0.2
+4600,Xavier,Penn,Xavier,15.6
+4601,Xavier,Providence,Providence,2.2
+4602,Xavier,Purdue,Purdue,1.8
+4603,Xavier,Radford,Xavier,10.6
+4604,Xavier,Rhode Island,Xavier,10
+4605,Xavier,San Diego St,Xavier,1.2
+4606,Xavier,Seton Hall,Xavier,0.2
+4607,Xavier,S Dakota St,Xavier,1.2
+4608,Xavier,St Bonaventure,Xavier,6.4
+4609,Xavier,SF Austin,Xavier,7.2
+4610,Xavier,Syracuse,Syracuse,0.4
+4611,Xavier,Tennessee,Xavier,3.8
+4612,Xavier,Texas A&M,Texas A&M,1.4
+4613,Xavier,TCU,Xavier,5.8
+4614,Xavier,TX Southern,Xavier,10.2
+4615,Xavier,Texas Tech,Xavier,8.2
+4616,Xavier,Texas,Xavier,2
+4617,Xavier,UCLA,Xavier,3.8
+4618,Xavier,Villanova,Villanova,3.6
+4619,Xavier,Virginia Tech,Xavier,7.2
+4620,Xavier,Virginia,Xavier,2
+4621,Xavier,West Virginia,Xavier,2.4
+4622,Xavier,Wichita St,Xavier,2.2
+4623,Xavier,Wright St,Xavier,3.6
+4624,Xavier,Middle Tenn St,Xavier,3
