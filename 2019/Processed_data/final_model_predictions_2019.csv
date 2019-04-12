@@ -1,0 +1,4291 @@
+Team1,Team2,predicted_winner,probability_difference
+Abilene Christian,Arizona State,Abilene Christian,6.486691241
+Abilene Christian,Auburn,Auburn,73.99041842
+Abilene Christian,Baylor,Abilene Christian,31.0744834
+Abilene Christian,Belmont,Belmont,8.124811055
+Abilene Christian,Bradley,Abilene Christian,51.17413233
+Abilene Christian,Buffalo,Buffalo,75.03513194
+Abilene Christian,UC-Irvine,UC-Irvine,44.71181742
+Abilene Christian,Central Florida,Abilene Christian,20.84674124
+Abilene Christian,Cincinnati,Cincinnati,30.18489661
+Abilene Christian,Colgate,Colgate,3.04794037
+Abilene Christian,Duke,Duke,86.84135908
+Abilene Christian,Fairleigh Dickinson,Abilene Christian,49.49394766
+Abilene Christian,Florida State,Florida State,79.8178488
+Abilene Christian,Florida,Florida,10.19100245
+Abilene Christian,Gardner-Webb,Abilene Christian,0.714393378
+Abilene Christian,Georgia State,Abilene Christian,16.91039114
+Abilene Christian,Gonzaga,Gonzaga,74.73176766
+Abilene Christian,Houston,Houston,63.54038175
+Abilene Christian,Iona,Abilene Christian,58.73024993
+Abilene Christian,Iowa State,Iowa State,62.88906018
+Abilene Christian,Iowa,Iowa,41.59157563
+Abilene Christian,Kansas State,Kansas State,37.15310245
+Abilene Christian,Kansas,Kansas,74.48613473
+Abilene Christian,Kentucky,Kentucky,69.48145732
+Abilene Christian,Liberty,Liberty,23.96927772
+Abilene Christian,Louisiana State,Louisiana State,65.39983142
+Abilene Christian,Louisville,Louisville,38.92165643
+Abilene Christian,Marquette,Marquette,43.07505615
+Abilene Christian,Maryland,Maryland,33.36693288
+Abilene Christian,Michigan State,Michigan State,75.53340705
+Abilene Christian,Michigan,Michigan,66.7127917
+Abilene Christian,Minnesota,Minnesota,18.92580689
+Abilene Christian,Mississippi State,Mississippi State,54.75496867
+Abilene Christian,Mississippi,Abilene Christian,17.75049153
+Abilene Christian,Montana,Montana,15.47519649
+Abilene Christian,Murray State,Murray State,12.83685178
+Abilene Christian,Nevada,Nevada,64.79258622
+Abilene Christian,New Mexico State,New Mexico State,48.00962744
+Abilene Christian,North Carolina Central,Abilene Christian,63.39952962
+Abilene Christian,North Carolina,North Carolina,78.53208383
+Abilene Christian,North Dakota State,Abilene Christian,62.00608476
+Abilene Christian,Northeastern,Abilene Christian,17.05862916
+Abilene Christian,Northern Kentucky,Northern Kentucky,15.40553131
+Abilene Christian,Ohio State,Abilene Christian,15.42781629
+Abilene Christian,Oklahoma,Abilene Christian,7.420871742
+Abilene Christian,Old Dominion,Old Dominion,4.727345689
+Abilene Christian,Oregon,Oregon,42.54612035
+Abilene Christian,Purdue,Purdue,47.86841705
+Abilene Christian,Saint Louis,Abilene Christian,12.32441875
+Abilene Christian,Saint Mary's (CA),Saint Mary's (CA),7.306005163
+Abilene Christian,Seton Hall,Abilene Christian,10.82936594
+Abilene Christian,St. John's (NY),Abilene Christian,10.71057451
+Abilene Christian,Syracuse,Syracuse,13.25127109
+Abilene Christian,Tennessee,Tennessee,79.6498929
+Abilene Christian,Texas Tech,Texas Tech,41.53589044
+Abilene Christian,Utah State,Utah State,54.82631438
+Abilene Christian,Vermont,Abilene Christian,7.008587661
+Abilene Christian,Villanova,Villanova,48.47175735
+Abilene Christian,Virginia Commonwealth,Abilene Christian,2.946589154
+Abilene Christian,Virginia Tech,Virginia Tech,31.21141529
+Abilene Christian,Virginia,Virginia,66.8660636
+Abilene Christian,Washington,Washington,34.69403165
+Abilene Christian,Wisconsin,Wisconsin,47.86166903
+Abilene Christian,Wofford,Wofford,52.6603568
+Abilene Christian,Yale,Abilene Christian,73.71427945
+Arizona State,Abilene Christian,Abilene Christian,6.486691241
+Arizona State,Auburn,Auburn,83.55681826
+Arizona State,Baylor,Arizona State,19.90019327
+Arizona State,Belmont,Belmont,7.979107435
+Arizona State,Bradley,Arizona State,43.58051928
+Arizona State,Buffalo,Buffalo,81.33344678
+Arizona State,UC-Irvine,UC-Irvine,52.97318876
+Arizona State,Central Florida,Arizona State,17.15101151
+Arizona State,Cincinnati,Cincinnati,35.99453459
+Arizona State,Colgate,Colgate,13.89805073
+Arizona State,Duke,Duke,89.9626762
+Arizona State,Fairleigh Dickinson,Arizona State,41.66013567
+Arizona State,Florida State,Florida State,85.28349867
+Arizona State,Florida,Florida,22.44761542
+Arizona State,Gardner-Webb,Gardner-Webb,10.23174006
+Arizona State,Georgia State,Arizona State,10.52023473
+Arizona State,Gonzaga,Gonzaga,76.15896476
+Arizona State,Houston,Houston,67.84629769
+Arizona State,Iona,Arizona State,54.56180469
+Arizona State,Iowa State,Iowa State,73.95361554
+Arizona State,Iowa,Iowa,54.57931749
+Arizona State,Kansas State,Kansas State,47.91329382
+Arizona State,Kansas,Kansas,82.72916598
+Arizona State,Kentucky,Kentucky,75.2267869
+Arizona State,Liberty,Liberty,27.55282775
+Arizona State,Louisiana State,Louisiana State,70.7615711
+Arizona State,Louisville,Louisville,49.70282032
+Arizona State,Marquette,Marquette,52.96958952
+Arizona State,Maryland,Maryland,41.51919609
+Arizona State,Michigan State,Michigan State,78.65214936
+Arizona State,Michigan,Michigan,71.8456253
+Arizona State,Minnesota,Minnesota,31.39742098
+Arizona State,Mississippi State,Mississippi State,64.75011184
+Arizona State,Mississippi,Arizona State,5.980441697
+Arizona State,Montana,Montana,24.56448065
+Arizona State,Murray State,Murray State,14.20512618
+Arizona State,Nevada,Nevada,68.93008494
+Arizona State,New Mexico State,New Mexico State,58.31149431
+Arizona State,North Carolina Central,Arizona State,57.3194563
+Arizona State,North Carolina,North Carolina,84.06300495
+Arizona State,North Dakota State,Arizona State,55.68561755
+Arizona State,Northeastern,Arizona State,9.884800496
+Arizona State,Northern Kentucky,Northern Kentucky,31.39857897
+Arizona State,Ohio State,Arizona State,2.30277919
+Arizona State,Oklahoma,Oklahoma,2.337017776
+Arizona State,Old Dominion,Old Dominion,13.24154993
+Arizona State,Oregon,Oregon,48.77272708
+Arizona State,Purdue,Purdue,54.74063109
+Arizona State,Saint Louis,Arizona State,2.447136031
+Arizona State,Saint Mary's (CA),Saint Mary's (CA),17.0956482
+Arizona State,Seton Hall,Seton Hall,0.984883205
+Arizona State,St. John's (NY),St. John's (NY),7.387988657
+Arizona State,Syracuse,Syracuse,25.81033459
+Arizona State,Tennessee,Tennessee,84.82902909
+Arizona State,Texas Tech,Texas Tech,41.88901858
+Arizona State,Utah State,Utah State,63.35359522
+Arizona State,Vermont,Arizona State,0.612522671
+Arizona State,Villanova,Villanova,62.02607517
+Arizona State,Virginia Commonwealth,Virginia Commonwealth,3.52776597
+Arizona State,Virginia Tech,Virginia Tech,40.05324509
+Arizona State,Virginia,Virginia,63.78895866
+Arizona State,Washington,Washington,42.02613205
+Arizona State,Wisconsin,Wisconsin,57.4164365
+Arizona State,Wofford,Wofford,57.78414154
+Arizona State,Yale,Arizona State,72.75426123
+Auburn,Abilene Christian,Auburn,73.99041842
+Auburn,Arizona State,Auburn,83.55681826
+Auburn,Baylor,Auburn,88.04819251
+Auburn,Belmont,Auburn,76.43063229
+Auburn,Bradley,Auburn,89.65978246
+Auburn,Buffalo,Buffalo,6.207768042
+Auburn,UC-Irvine,Auburn,34.70753908
+Auburn,Central Florida,Auburn,86.80369695
+Auburn,Cincinnati,Auburn,66.08285075
+Auburn,Colgate,Auburn,73.39115028
+Auburn,Duke,Duke,39.70794296
+Auburn,Fairleigh Dickinson,Auburn,90.56344808
+Auburn,Florida State,Florida State,2.699528682
+Auburn,Florida,Auburn,69.13830965
+Auburn,Gardner-Webb,Auburn,74.22762386
+Auburn,Georgia State,Auburn,83.34089392
+Auburn,Gonzaga,Auburn,3.712565674
+Auburn,Houston,Auburn,26.36928011
+Auburn,Iona,Auburn,92.34507861
+Auburn,Iowa State,Auburn,25.13757253
+Auburn,Iowa,Auburn,47.35855993
+Auburn,Kansas State,Auburn,56.12671196
+Auburn,Kansas,Auburn,7.865133194
+Auburn,Kentucky,Auburn,18.5968893
+Auburn,Liberty,Auburn,58.56992593
+Auburn,Louisiana State,Auburn,31.12737448
+Auburn,Louisville,Auburn,58.88111998
+Auburn,Marquette,Auburn,56.69512633
+Auburn,Maryland,Auburn,60.76454752
+Auburn,Michigan State,Auburn,8.479694247
+Auburn,Michigan,Auburn,13.58613605
+Auburn,Minnesota,Auburn,70.95416895
+Auburn,Mississippi State,Auburn,39.04211755
+Auburn,Mississippi,Auburn,85.69381675
+Auburn,Montana,Auburn,65.98651585
+Auburn,Murray State,Auburn,73.0988316
+Auburn,Nevada,Auburn,20.69748063
+Auburn,New Mexico State,Auburn,38.07769657
+Auburn,North Carolina Central,Auburn,92.73215263
+Auburn,North Carolina,North Carolina,9.693376085
+Auburn,North Dakota State,Auburn,92.82076774
+Auburn,Northeastern,Auburn,82.51462489
+Auburn,Northern Kentucky,Auburn,63.04036636
+Auburn,Ohio State,Auburn,79.85184355
+Auburn,Oklahoma,Auburn,79.16185126
+Auburn,Old Dominion,Auburn,73.27363942
+Auburn,Oregon,Auburn,62.61684887
+Auburn,Purdue,Auburn,53.68702802
+Auburn,Saint Louis,Auburn,80.88738024
+Auburn,Saint Mary's (CA),Auburn,78.56526463
+Auburn,Seton Hall,Auburn,81.20120381
+Auburn,St. John's (NY),Auburn,77.40804843
+Auburn,Syracuse,Auburn,71.29668543
+Auburn,Tennessee,Tennessee,22.88713907
+Auburn,Texas Tech,Auburn,60.663931
+Auburn,Utah State,Auburn,41.06709282
+Auburn,Vermont,Auburn,77.85585607
+Auburn,Villanova,Auburn,48.80508085
+Auburn,Virginia Commonwealth,Auburn,81.71052428
+Auburn,Virginia Tech,Auburn,62.77196198
+Auburn,Virginia,Auburn,19.29154417
+Auburn,Washington,Auburn,63.09985263
+Auburn,Wisconsin,Auburn,47.38946181
+Auburn,Wofford,Auburn,34.07385248
+Auburn,Yale,Auburn,94.47695907
+Baylor,Abilene Christian,Abilene Christian,31.0744834
+Baylor,Arizona State,Arizona State,19.90019327
+Baylor,Auburn,Auburn,88.04819251
+Baylor,Belmont,Belmont,29.39916543
+Baylor,Bradley,Baylor,18.17462499
+Baylor,Buffalo,Buffalo,87.8459689
+Baylor,UC-Irvine,UC-Irvine,62.9541405
+Baylor,Central Florida,Central Florida,6.083032041
+Baylor,Cincinnati,Cincinnati,50.75717966
+Baylor,Colgate,Colgate,35.10761475
+Baylor,Duke,Duke,92.86661088
+Baylor,Fairleigh Dickinson,Baylor,18.49995676
+Baylor,Florida State,Florida State,88.51594655
+Baylor,Florida,Florida,43.30320501
+Baylor,Gardner-Webb,Gardner-Webb,33.41264374
+Baylor,Georgia State,Georgia State,8.603126283
+Baylor,Gonzaga,Gonzaga,82.3397301
+Baylor,Houston,Houston,75.75660303
+Baylor,Iona,Baylor,29.91328062
+Baylor,Iowa State,Iowa State,80.60884333
+Baylor,Iowa,Iowa,67.73917454
+Baylor,Kansas State,Kansas State,62.24886388
+Baylor,Kansas,Kansas,86.60034071
+Baylor,Kentucky,Kentucky,80.93414362
+Baylor,Liberty,Liberty,49.69905605
+Baylor,Louisiana State,Louisiana State,77.93218511
+Baylor,Louisville,Louisville,61.44602748
+Baylor,Marquette,Marquette,66.02001201
+Baylor,Maryland,Maryland,55.85818697
+Baylor,Michigan State,Michigan State,83.69096511
+Baylor,Michigan,Michigan,79.87583518
+Baylor,Minnesota,Minnesota,47.35569121
+Baylor,Mississippi State,Mississippi State,75.17639131
+Baylor,Mississippi,Mississippi,15.88605678
+Baylor,Montana,Montana,45.42551252
+Baylor,Murray State,Murray State,34.99009127
+Baylor,Nevada,Nevada,78.87165417
+Baylor,New Mexico State,New Mexico State,69.41372578
+Baylor,North Carolina Central,Baylor,35.79771621
+Baylor,North Carolina,North Carolina,88.4086965
+Baylor,North Dakota State,Baylor,32.90467233
+Baylor,Northeastern,Northeastern,15.5326833
+Baylor,Northern Kentucky,Northern Kentucky,51.13580121
+Baylor,Ohio State,Ohio State,22.5128059
+Baylor,Oklahoma,Oklahoma,22.5595024
+Baylor,Old Dominion,Old Dominion,33.99746882
+Baylor,Oregon,Oregon,53.58978265
+Baylor,Purdue,Purdue,64.17293328
+Baylor,Saint Louis,Saint Louis,19.27385641
+Baylor,Saint Mary's (CA),Saint Mary's (CA),34.05623042
+Baylor,Seton Hall,Seton Hall,22.63640506
+Baylor,St. John's (NY),St. John's (NY),23.4585167
+Baylor,Syracuse,Syracuse,43.83128708
+Baylor,Tennessee,Tennessee,89.39853535
+Baylor,Texas Tech,Texas Tech,54.32490612
+Baylor,Utah State,Utah State,73.21857439
+Baylor,Vermont,Vermont,22.64554235
+Baylor,Villanova,Villanova,71.95065742
+Baylor,Virginia Commonwealth,Virginia Commonwealth,23.27288383
+Baylor,Virginia Tech,Virginia Tech,52.77679273
+Baylor,Virginia,Virginia,72.89920107
+Baylor,Washington,Washington,55.99336707
+Baylor,Wisconsin,Wisconsin,67.58748722
+Baylor,Wofford,Wofford,69.81078838
+Baylor,Yale,Baylor,57.67928046
+Belmont,Abilene Christian,Belmont,8.124811055
+Belmont,Arizona State,Belmont,7.979107435
+Belmont,Auburn,Auburn,76.43063229
+Belmont,Baylor,Belmont,29.39916543
+Belmont,Bradley,Belmont,48.14046323
+Belmont,Buffalo,Buffalo,74.3975842
+Belmont,UC-Irvine,UC-Irvine,41.16196954
+Belmont,Central Florida,Belmont,22.31073065
+Belmont,Cincinnati,Cincinnati,22.59451855
+Belmont,Colgate,Belmont,2.089500439
+Belmont,Duke,Duke,86.50407456
+Belmont,Fairleigh Dickinson,Belmont,50.42979173
+Belmont,Florida State,Florida State,78.3614356
+Belmont,Florida,Florida,15.11883092
+Belmont,Gardner-Webb,Belmont,3.910650794
+Belmont,Georgia State,Belmont,18.37150905
+Belmont,Gonzaga,Gonzaga,70.35161761
+Belmont,Houston,Houston,60.77889892
+Belmont,Iona,Belmont,59.58148034
+Belmont,Iowa State,Iowa State,66.03119389
+Belmont,Iowa,Iowa,45.82633257
+Belmont,Kansas State,Kansas State,38.00257862
+Belmont,Kansas,Kansas,75.98507765
+Belmont,Kentucky,Kentucky,66.21117683
+Belmont,Liberty,Liberty,10.93240681
+Belmont,Louisiana State,Louisiana State,64.61232675
+Belmont,Louisville,Louisville,40.14874695
+Belmont,Marquette,Marquette,42.06689973
+Belmont,Maryland,Maryland,33.7646155
+Belmont,Michigan State,Michigan State,71.67862064
+Belmont,Michigan,Michigan,63.48486007
+Belmont,Minnesota,Minnesota,24.6802971
+Belmont,Mississippi State,Mississippi State,55.20998339
+Belmont,Mississippi,Belmont,15.99415376
+Belmont,Montana,Montana,11.41324635
+Belmont,Murray State,Murray State,2.632916944
+Belmont,Nevada,Nevada,62.03326534
+Belmont,New Mexico State,New Mexico State,46.03089217
+Belmont,North Carolina Central,Belmont,64.02404138
+Belmont,North Carolina,North Carolina,77.42791738
+Belmont,North Dakota State,Belmont,62.68382536
+Belmont,Northeastern,Belmont,23.67201548
+Belmont,Northern Kentucky,Northern Kentucky,15.05579695
+Belmont,Ohio State,Belmont,9.402140257
+Belmont,Oklahoma,Belmont,1.635253416
+Belmont,Old Dominion,Old Dominion,2.40985995
+Belmont,Oregon,Oregon,39.80509497
+Belmont,Purdue,Purdue,47.961668
+Belmont,Saint Louis,Belmont,13.60054046
+Belmont,Saint Mary's (CA),Saint Mary's (CA),5.99095325
+Belmont,Seton Hall,Belmont,6.279062761
+Belmont,St. John's (NY),Belmont,5.408800937
+Belmont,Syracuse,Syracuse,14.24866155
+Belmont,Tennessee,Tennessee,79.59112838
+Belmont,Texas Tech,Texas Tech,39.51111445
+Belmont,Utah State,Utah State,49.03794449
+Belmont,Vermont,Belmont,14.94188001
+Belmont,Villanova,Villanova,49.68894923
+Belmont,Virginia Commonwealth,Belmont,4.456546941
+Belmont,Virginia Tech,Virginia Tech,31.15954527
+Belmont,Virginia,Virginia,63.56827797
+Belmont,Washington,Washington,32.5795407
+Belmont,Wisconsin,Wisconsin,48.69395562
+Belmont,Wofford,Wofford,50.08304362
+Belmont,Yale,Belmont,73.62795514
+Bradley,Abilene Christian,Abilene Christian,51.17413233
+Bradley,Arizona State,Arizona State,43.58051928
+Bradley,Auburn,Auburn,89.65978246
+Bradley,Baylor,Baylor,18.17462499
+Bradley,Belmont,Belmont,48.14046323
+Bradley,Buffalo,Buffalo,90.5320811
+Bradley,UC-Irvine,UC-Irvine,72.47339298
+Bradley,Central Florida,Central Florida,28.55797483
+Bradley,Cincinnati,Cincinnati,70.50758791
+Bradley,Colgate,Colgate,51.49556835
+Bradley,Duke,Duke,94.42178728
+Bradley,Fairleigh Dickinson,Fairleigh Dickinson,2.402392019
+Bradley,Florida State,Florida State,92.80277278
+Bradley,Florida,Florida,55.53413933
+Bradley,Gardner-Webb,Gardner-Webb,48.9565858
+Bradley,Georgia State,Georgia State,28.86587583
+Bradley,Gonzaga,Gonzaga,88.92569825
+Bradley,Houston,Houston,85.7044962
+Bradley,Iona,Bradley,14.44247904
+Bradley,Iowa State,Iowa State,84.28448096
+Bradley,Iowa,Iowa,75.27990652
+Bradley,Kansas State,Kansas State,71.33655406
+Bradley,Kansas,Kansas,89.91546546
+Bradley,Kentucky,Kentucky,87.97756873
+Bradley,Liberty,Liberty,62.76169727
+Bradley,Louisiana State,Louisiana State,83.20640078
+Bradley,Louisville,Louisville,71.33077704
+Bradley,Marquette,Marquette,78.52675781
+Bradley,Maryland,Maryland,68.5439089
+Bradley,Michigan State,Michigan State,89.09237124
+Bradley,Michigan,Michigan,85.9480552
+Bradley,Minnesota,Minnesota,60.80671444
+Bradley,Mississippi State,Mississippi State,80.81157024
+Bradley,Mississippi,Mississippi,33.90189873
+Bradley,Montana,Montana,59.25434886
+Bradley,Murray State,Murray State,54.31858541
+Bradley,Nevada,Nevada,85.83601036
+Bradley,New Mexico State,New Mexico State,78.30901772
+Bradley,North Carolina Central,Bradley,18.38493586
+Bradley,North Carolina,North Carolina,91.00301273
+Bradley,North Dakota State,Bradley,12.02809855
+Bradley,Northeastern,Northeastern,36.8969845
+Bradley,Northern Kentucky,Northern Kentucky,61.86108361
+Bradley,Ohio State,Ohio State,35.29269261
+Bradley,Oklahoma,Oklahoma,39.38921767
+Bradley,Old Dominion,Old Dominion,54.16671235
+Bradley,Oregon,Oregon,73.27160863
+Bradley,Purdue,Purdue,75.1408702
+Bradley,Saint Louis,Saint Louis,41.58141387
+Bradley,Saint Mary's (CA),Saint Mary's (CA),59.21319721
+Bradley,Seton Hall,Seton Hall,37.13067208
+Bradley,St. John's (NY),St. John's (NY),38.79084095
+Bradley,Syracuse,Syracuse,57.74960647
+Bradley,Tennessee,Tennessee,92.02219636
+Bradley,Texas Tech,Texas Tech,72.44757328
+Bradley,Utah State,Utah State,83.34543909
+Bradley,Vermont,Vermont,48.77986086
+Bradley,Villanova,Villanova,80.76843385
+Bradley,Virginia Commonwealth,Virginia Commonwealth,46.4158964
+Bradley,Virginia Tech,Virginia Tech,67.4534874
+Bradley,Virginia,Virginia,83.49928829
+Bradley,Washington,Washington,72.97681553
+Bradley,Wisconsin,Wisconsin,76.48385535
+Bradley,Wofford,Wofford,80.02427594
+Bradley,Yale,Bradley,41.14040344
+Buffalo,Abilene Christian,Buffalo,75.03513194
+Buffalo,Arizona State,Buffalo,81.33344678
+Buffalo,Auburn,Buffalo,6.207768042
+Buffalo,Baylor,Buffalo,87.8459689
+Buffalo,Belmont,Buffalo,74.3975842
+Buffalo,Bradley,Buffalo,90.5320811
+Buffalo,UC-Irvine,Buffalo,31.05954207
+Buffalo,Central Florida,Buffalo,86.76799696
+Buffalo,Cincinnati,Buffalo,66.60018487
+Buffalo,Colgate,Buffalo,76.76406337
+Buffalo,Duke,Duke,35.94490184
+Buffalo,Fairleigh Dickinson,Buffalo,90.91732865
+Buffalo,Florida State,Florida State,7.810181995
+Buffalo,Florida,Buffalo,65.71775271
+Buffalo,Gardner-Webb,Buffalo,77.02727679
+Buffalo,Georgia State,Buffalo,82.92267009
+Buffalo,Gonzaga,Buffalo,10.22133231
+Buffalo,Houston,Buffalo,32.41476794
+Buffalo,Iona,Buffalo,92.52355194
+Buffalo,Iowa State,Buffalo,32.40403572
+Buffalo,Iowa,Buffalo,52.15042613
+Buffalo,Kansas State,Buffalo,59.52967528
+Buffalo,Kansas,Buffalo,11.63700451
+Buffalo,Kentucky,Buffalo,20.69347601
+Buffalo,Liberty,Buffalo,54.03545566
+Buffalo,Louisiana State,Buffalo,35.68737584
+Buffalo,Louisville,Buffalo,53.92093529
+Buffalo,Marquette,Buffalo,65.17719756
+Buffalo,Maryland,Buffalo,60.10580853
+Buffalo,Michigan State,Buffalo,11.8550688
+Buffalo,Michigan,Buffalo,20.93785692
+Buffalo,Minnesota,Buffalo,65.22879004
+Buffalo,Mississippi State,Buffalo,42.68312021
+Buffalo,Mississippi,Buffalo,81.96970561
+Buffalo,Montana,Buffalo,68.35761113
+Buffalo,Murray State,Buffalo,72.61139352
+Buffalo,Nevada,Buffalo,33.59146702
+Buffalo,New Mexico State,Buffalo,36.84850767
+Buffalo,North Carolina Central,Buffalo,93.50581236
+Buffalo,North Carolina,North Carolina,5.386434268
+Buffalo,North Dakota State,Buffalo,92.17918966
+Buffalo,Northeastern,Buffalo,83.07734017
+Buffalo,Northern Kentucky,Buffalo,65.86607335
+Buffalo,Ohio State,Buffalo,79.77436338
+Buffalo,Oklahoma,Buffalo,76.14923767
+Buffalo,Old Dominion,Buffalo,73.66173709
+Buffalo,Oregon,Buffalo,58.59060212
+Buffalo,Purdue,Buffalo,49.02108856
+Buffalo,Saint Louis,Buffalo,81.24805697
+Buffalo,Saint Mary's (CA),Buffalo,77.61180651
+Buffalo,Seton Hall,Buffalo,79.60856718
+Buffalo,St. John's (NY),Buffalo,80.2152692
+Buffalo,Syracuse,Buffalo,70.27355778
+Buffalo,Tennessee,Tennessee,13.92136631
+Buffalo,Texas Tech,Buffalo,63.30821541
+Buffalo,Utah State,Buffalo,42.58960773
+Buffalo,Vermont,Buffalo,77.49620212
+Buffalo,Villanova,Buffalo,48.95226348
+Buffalo,Virginia Commonwealth,Buffalo,82.68963308
+Buffalo,Virginia Tech,Buffalo,66.63207325
+Buffalo,Virginia,Buffalo,18.47692701
+Buffalo,Washington,Buffalo,63.79582621
+Buffalo,Wisconsin,Buffalo,50.32937228
+Buffalo,Wofford,Buffalo,36.60013608
+Buffalo,Yale,Buffalo,95.30556814
+UC-Irvine,Abilene Christian,UC-Irvine,44.71181742
+UC-Irvine,Arizona State,UC-Irvine,52.97318876
+UC-Irvine,Auburn,Auburn,34.70753908
+UC-Irvine,Baylor,UC-Irvine,62.9541405
+UC-Irvine,Belmont,UC-Irvine,41.16196954
+UC-Irvine,Bradley,UC-Irvine,72.47339298
+UC-Irvine,Buffalo,Buffalo,31.05954207
+UC-Irvine,Central Florida,UC-Irvine,64.55589796
+UC-Irvine,Cincinnati,UC-Irvine,24.59363518
+UC-Irvine,Colgate,UC-Irvine,47.09982119
+UC-Irvine,Duke,Duke,64.43783263
+UC-Irvine,Fairleigh Dickinson,UC-Irvine,74.22849747
+UC-Irvine,Florida State,Florida State,51.65183735
+UC-Irvine,Florida,UC-Irvine,21.75576369
+UC-Irvine,Gardner-Webb,UC-Irvine,48.68620308
+UC-Irvine,Georgia State,UC-Irvine,58.91949826
+UC-Irvine,Gonzaga,Gonzaga,30.76285373
+UC-Irvine,Houston,Houston,13.91829751
+UC-Irvine,Iona,UC-Irvine,77.43655998
+UC-Irvine,Iowa State,Iowa State,16.85423515
+UC-Irvine,Iowa,UC-Irvine,4.361731518
+UC-Irvine,Kansas State,UC-Irvine,15.26720168
+UC-Irvine,Kansas,Kansas,35.77896262
+UC-Irvine,Kentucky,Kentucky,32.32718464
+UC-Irvine,Liberty,UC-Irvine,16.65312387
+UC-Irvine,Louisiana State,Louisiana State,18.75998194
+UC-Irvine,Louisville,Louisville,0.046864023
+UC-Irvine,Marquette,UC-Irvine,21.20943337
+UC-Irvine,Maryland,UC-Irvine,14.26706568
+UC-Irvine,Michigan State,Michigan State,40.14913401
+UC-Irvine,Michigan,Michigan,29.54374651
+UC-Irvine,Minnesota,UC-Irvine,18.08330455
+UC-Irvine,Mississippi State,Mississippi State,8.103217014
+UC-Irvine,Mississippi,UC-Irvine,52.30944705
+UC-Irvine,Montana,UC-Irvine,33.87842054
+UC-Irvine,Murray State,UC-Irvine,37.30256779
+UC-Irvine,Nevada,Nevada,12.2481504
+UC-Irvine,New Mexico State,UC-Irvine,1.508320125
+UC-Irvine,North Carolina Central,UC-Irvine,80.1548544
+UC-Irvine,North Carolina,North Carolina,46.08590192
+UC-Irvine,North Dakota State,UC-Irvine,76.56396719
+UC-Irvine,Northeastern,UC-Irvine,60.31035171
+UC-Irvine,Northern Kentucky,UC-Irvine,34.75749258
+UC-Irvine,Ohio State,UC-Irvine,45.42421126
+UC-Irvine,Oklahoma,UC-Irvine,36.98772732
+UC-Irvine,Old Dominion,UC-Irvine,41.3324005
+UC-Irvine,Oregon,UC-Irvine,14.03971745
+UC-Irvine,Purdue,Purdue,3.147084527
+UC-Irvine,Saint Louis,UC-Irvine,55.51625702
+UC-Irvine,Saint Mary's (CA),UC-Irvine,45.64581171
+UC-Irvine,Seton Hall,UC-Irvine,45.406045
+UC-Irvine,St. John's (NY),UC-Irvine,52.12894953
+UC-Irvine,Syracuse,UC-Irvine,27.77099707
+UC-Irvine,Tennessee,Tennessee,49.15449474
+UC-Irvine,Texas Tech,UC-Irvine,12.46273193
+UC-Irvine,Utah State,UC-Irvine,0.478024851
+UC-Irvine,Vermont,UC-Irvine,48.22908945
+UC-Irvine,Villanova,UC-Irvine,8.335164559
+UC-Irvine,Virginia Commonwealth,UC-Irvine,53.90724687
+UC-Irvine,Virginia Tech,UC-Irvine,26.70867849
+UC-Irvine,Virginia,Virginia,31.80383698
+UC-Irvine,Washington,UC-Irvine,19.85466085
+UC-Irvine,Wisconsin,Wisconsin,0.941741571
+UC-Irvine,Wofford,Wofford,0.670975582
+UC-Irvine,Yale,UC-Irvine,85.56517451
+Central Florida,Abilene Christian,Abilene Christian,20.84674124
+Central Florida,Arizona State,Arizona State,17.15101151
+Central Florida,Auburn,Auburn,86.80369695
+Central Florida,Baylor,Central Florida,6.083032041
+Central Florida,Belmont,Belmont,22.31073065
+Central Florida,Bradley,Central Florida,28.55797483
+Central Florida,Buffalo,Buffalo,86.76799696
+Central Florida,UC-Irvine,UC-Irvine,64.55589796
+Central Florida,Cincinnati,Cincinnati,47.91754559
+Central Florida,Colgate,Colgate,30.43820321
+Central Florida,Duke,Duke,92.09500448
+Central Florida,Fairleigh Dickinson,Central Florida,26.27683315
+Central Florida,Florida State,Florida State,87.14625771
+Central Florida,Florida,Florida,34.67695035
+Central Florida,Gardner-Webb,Gardner-Webb,26.98217027
+Central Florida,Georgia State,Georgia State,6.741206087
+Central Florida,Gonzaga,Gonzaga,80.9325688
+Central Florida,Houston,Houston,74.31697571
+Central Florida,Iona,Central Florida,43.10411031
+Central Florida,Iowa State,Iowa State,78.12934436
+Central Florida,Iowa,Iowa,60.21976716
+Central Florida,Kansas State,Kansas State,57.05234885
+Central Florida,Kansas,Kansas,85.37712989
+Central Florida,Kentucky,Kentucky,78.1213318
+Central Florida,Liberty,Liberty,42.67374727
+Central Florida,Louisiana State,Louisiana State,74.37249775
+Central Florida,Louisville,Louisville,55.86986868
+Central Florida,Marquette,Marquette,61.61853147
+Central Florida,Maryland,Maryland,51.82694967
+Central Florida,Michigan State,Michigan State,81.02418977
+Central Florida,Michigan,Michigan,75.41862534
+Central Florida,Minnesota,Minnesota,41.79525593
+Central Florida,Mississippi State,Mississippi State,71.86508449
+Central Florida,Mississippi,Mississippi,8.049067082
+Central Florida,Montana,Montana,38.08851412
+Central Florida,Murray State,Murray State,28.26764284
+Central Florida,Nevada,Nevada,76.81439368
+Central Florida,New Mexico State,New Mexico State,68.69976544
+Central Florida,North Carolina Central,Central Florida,44.81538162
+Central Florida,North Carolina,North Carolina,86.3032472
+Central Florida,North Dakota State,Central Florida,39.24540635
+Central Florida,Northeastern,Northeastern,7.370744689
+Central Florida,Northern Kentucky,Northern Kentucky,43.96925264
+Central Florida,Ohio State,Ohio State,10.40354484
+Central Florida,Oklahoma,Oklahoma,15.01228418
+Central Florida,Old Dominion,Old Dominion,27.38015584
+Central Florida,Oregon,Oregon,59.01188984
+Central Florida,Purdue,Purdue,61.11075885
+Central Florida,Saint Louis,Saint Louis,14.77235759
+Central Florida,Saint Mary's (CA),Saint Mary's (CA),36.90880863
+Central Florida,Seton Hall,Seton Hall,14.67474677
+Central Florida,St. John's (NY),St. John's (NY),21.85724752
+Central Florida,Syracuse,Syracuse,37.44332847
+Central Florida,Tennessee,Tennessee,86.75681978
+Central Florida,Texas Tech,Texas Tech,47.7099333
+Central Florida,Utah State,Utah State,71.84960696
+Central Florida,Vermont,Vermont,18.03432486
+Central Florida,Villanova,Villanova,70.18654878
+Central Florida,Virginia Commonwealth,Virginia Commonwealth,20.2942471
+Central Florida,Virginia Tech,Virginia Tech,48.19878811
+Central Florida,Virginia,Virginia,68.75512706
+Central Florida,Washington,Washington,52.99094213
+Central Florida,Wisconsin,Wisconsin,63.10384249
+Central Florida,Wofford,Wofford,67.94822892
+Central Florida,Yale,Central Florida,63.75802376
+Cincinnati,Abilene Christian,Cincinnati,30.18489661
+Cincinnati,Arizona State,Cincinnati,35.99453459
+Cincinnati,Auburn,Auburn,66.08285075
+Cincinnati,Baylor,Cincinnati,50.75717966
+Cincinnati,Belmont,Cincinnati,22.59451855
+Cincinnati,Bradley,Cincinnati,70.50758791
+Cincinnati,Buffalo,Buffalo,66.60018487
+Cincinnati,UC-Irvine,UC-Irvine,24.59363518
+Cincinnati,Central Florida,Cincinnati,47.91754559
+Cincinnati,Colgate,Cincinnati,27.38527706
+Cincinnati,Duke,Duke,82.25357359
+Cincinnati,Fairleigh Dickinson,Cincinnati,69.35438742
+Cincinnati,Florida State,Florida State,70.02524694
+Cincinnati,Florida,Cincinnati,12.98483718
+Cincinnati,Gardner-Webb,Cincinnati,30.86277673
+Cincinnati,Georgia State,Cincinnati,44.8255571
+Cincinnati,Gonzaga,Gonzaga,60.00922676
+Cincinnati,Houston,Houston,39.89943971
+Cincinnati,Iona,Cincinnati,75.5510652
+Cincinnati,Iowa State,Iowa State,48.10942797
+Cincinnati,Iowa,Iowa,20.87393376
+Cincinnati,Kansas State,Kansas State,15.04192807
+Cincinnati,Kansas,Kansas,63.04747815
+Cincinnati,Kentucky,Kentucky,52.17898622
+Cincinnati,Liberty,Cincinnati,4.093105393
+Cincinnati,Louisiana State,Louisiana State,46.601191
+Cincinnati,Louisville,Louisville,13.64418446
+Cincinnati,Marquette,Marquette,14.86557325
+Cincinnati,Maryland,Maryland,10.83889554
+Cincinnati,Michigan State,Michigan State,60.96238946
+Cincinnati,Michigan,Michigan,50.19686759
+Cincinnati,Minnesota,Cincinnati,4.551086451
+Cincinnati,Mississippi State,Mississippi State,35.91036806
+Cincinnati,Mississippi,Cincinnati,39.47819778
+Cincinnati,Montana,Cincinnati,15.10996938
+Cincinnati,Murray State,Cincinnati,18.07899939
+Cincinnati,Nevada,Nevada,44.75924774
+Cincinnati,New Mexico State,New Mexico State,29.68071529
+Cincinnati,North Carolina Central,Cincinnati,78.58079766
+Cincinnati,North Carolina,North Carolina,70.20813343
+Cincinnati,North Dakota State,Cincinnati,77.69189201
+Cincinnati,Northeastern,Cincinnati,44.91284693
+Cincinnati,Northern Kentucky,Cincinnati,10.14831856
+Cincinnati,Ohio State,Cincinnati,37.47789334
+Cincinnati,Oklahoma,Cincinnati,30.21897452
+Cincinnati,Old Dominion,Cincinnati,25.58371415
+Cincinnati,Oregon,Oregon,12.02346592
+Cincinnati,Purdue,Purdue,23.88574789
+Cincinnati,Saint Louis,Cincinnati,41.01634624
+Cincinnati,Saint Mary's (CA),Cincinnati,23.31758311
+Cincinnati,Seton Hall,Cincinnati,33.34972941
+Cincinnati,St. John's (NY),Cincinnati,34.70458994
+Cincinnati,Syracuse,Cincinnati,10.44420006
+Cincinnati,Tennessee,Tennessee,71.57748108
+Cincinnati,Texas Tech,Texas Tech,5.728659801
+Cincinnati,Utah State,Utah State,34.59410489
+Cincinnati,Vermont,Cincinnati,36.18984444
+Cincinnati,Villanova,Villanova,28.0186988
+Cincinnati,Virginia Commonwealth,Cincinnati,32.78302636
+Cincinnati,Virginia Tech,Virginia Tech,2.897754475
+Cincinnati,Virginia,Virginia,47.56498917
+Cincinnati,Washington,Washington,5.018755528
+Cincinnati,Wisconsin,Wisconsin,24.0423187
+Cincinnati,Wofford,Wofford,33.62301378
+Cincinnati,Yale,Cincinnati,85.02413715
+Colgate,Abilene Christian,Colgate,3.04794037
+Colgate,Arizona State,Colgate,13.89805073
+Colgate,Auburn,Auburn,73.39115028
+Colgate,Baylor,Colgate,35.10761475
+Colgate,Belmont,Belmont,2.089500439
+Colgate,Bradley,Colgate,51.49556835
+Colgate,Buffalo,Buffalo,76.76406337
+Colgate,UC-Irvine,UC-Irvine,47.09982119
+Colgate,Central Florida,Colgate,30.43820321
+Colgate,Cincinnati,Cincinnati,27.38527706
+Colgate,Duke,Duke,87.39236452
+Colgate,Fairleigh Dickinson,Colgate,53.7920011
+Colgate,Florida State,Florida State,80.34912302
+Colgate,Florida,Florida,11.41890773
+Colgate,Gardner-Webb,Colgate,3.744160762
+Colgate,Georgia State,Colgate,24.11300367
+Colgate,Gonzaga,Gonzaga,74.30668022
+Colgate,Houston,Houston,65.49551492
+Colgate,Iona,Colgate,62.17597953
+Colgate,Iowa State,Iowa State,63.29458695
+Colgate,Iowa,Iowa,45.03594739
+Colgate,Kansas State,Kansas State,31.46718685
+Colgate,Kansas,Kansas,73.93867386
+Colgate,Kentucky,Kentucky,70.23666721
+Colgate,Liberty,Liberty,20.46415144
+Colgate,Louisiana State,Louisiana State,63.41286827
+Colgate,Louisville,Louisville,35.18827041
+Colgate,Marquette,Marquette,40.69875341
+Colgate,Maryland,Maryland,27.90203234
+Colgate,Michigan State,Michigan State,75.76853873
+Colgate,Michigan,Michigan,65.83071787
+Colgate,Minnesota,Minnesota,19.37989196
+Colgate,Mississippi State,Mississippi State,53.60235899
+Colgate,Mississippi,Colgate,24.88230768
+Colgate,Montana,Montana,15.26475607
+Colgate,Murray State,Murray State,10.41253229
+Colgate,Nevada,Nevada,66.58239939
+Colgate,New Mexico State,New Mexico State,50.23250031
+Colgate,North Carolina Central,Colgate,65.74933724
+Colgate,North Carolina,North Carolina,78.73562792
+Colgate,North Dakota State,Colgate,64.51555586
+Colgate,Northeastern,Colgate,23.54091127
+Colgate,Northern Kentucky,Northern Kentucky,17.11323345
+Colgate,Ohio State,Colgate,13.8234981
+Colgate,Oklahoma,Colgate,7.297948592
+Colgate,Old Dominion,Old Dominion,1.711436939
+Colgate,Oregon,Oregon,37.4632408
+Colgate,Purdue,Purdue,43.02830967
+Colgate,Saint Louis,Colgate,18.15434865
+Colgate,Saint Mary's (CA),Saint Mary's (CA),1.330465312
+Colgate,Seton Hall,Colgate,13.82879655
+Colgate,St. John's (NY),Colgate,9.148959556
+Colgate,Syracuse,Syracuse,8.888098704
+Colgate,Tennessee,Tennessee,82.52958602
+Colgate,Texas Tech,Texas Tech,36.53432678
+Colgate,Utah State,Utah State,56.2774451
+Colgate,Vermont,Colgate,9.999389493
+Colgate,Villanova,Villanova,45.78446035
+Colgate,Virginia Commonwealth,Colgate,10.47175753
+Colgate,Virginia Tech,Virginia Tech,24.32667087
+Colgate,Virginia,Virginia,64.93932651
+Colgate,Washington,Washington,31.97910642
+Colgate,Wisconsin,Wisconsin,44.40675486
+Colgate,Wofford,Wofford,52.55967425
+Colgate,Yale,Colgate,76.41070951
+Duke,Abilene Christian,Duke,86.84135908
+Duke,Arizona State,Duke,89.9626762
+Duke,Auburn,Duke,39.70794296
+Duke,Baylor,Duke,92.86661088
+Duke,Belmont,Duke,86.50407456
+Duke,Bradley,Duke,94.42178728
+Duke,Buffalo,Duke,35.94490184
+Duke,UC-Irvine,Duke,64.43783263
+Duke,Central Florida,Duke,92.09500448
+Duke,Cincinnati,Duke,82.25357359
+Duke,Colgate,Duke,87.39236452
+Duke,Fairleigh Dickinson,Duke,94.97776263
+Duke,Florida State,Duke,34.49744429
+Duke,Florida,Duke,80.11762546
+Duke,Gardner-Webb,Duke,87.47216227
+Duke,Georgia State,Duke,90.36433824
+Duke,Gonzaga,Duke,44.08394126
+Duke,Houston,Duke,62.33328767
+Duke,Iona,Duke,95.65103044
+Duke,Iowa State,Duke,57.55736002
+Duke,Iowa,Duke,68.46716642
+Duke,Kansas State,Duke,73.15698944
+Duke,Kansas,Duke,46.45538047
+Duke,Kentucky,Duke,51.87968354
+Duke,Liberty,Duke,74.97703882
+Duke,Louisiana State,Duke,62.18403619
+Duke,Louisville,Duke,72.90388636
+Duke,Marquette,Duke,80.53262275
+Duke,Maryland,Duke,75.15567151
+Duke,Michigan State,Duke,45.34550367
+Duke,Michigan,Duke,45.70519637
+Duke,Minnesota,Duke,81.49849337
+Duke,Mississippi State,Duke,63.6504966
+Duke,Mississippi,Duke,90.03801639
+Duke,Montana,Duke,84.09979867
+Duke,Murray State,Duke,85.85105666
+Duke,Nevada,Duke,60.46698598
+Duke,New Mexico State,Duke,67.37334944
+Duke,North Carolina Central,Duke,96.11855904
+Duke,North Carolina,Duke,29.01958631
+Duke,North Dakota State,Duke,95.65534781
+Duke,Northeastern,Duke,90.41582089
+Duke,Northern Kentucky,Duke,82.12986342
+Duke,Ohio State,Duke,87.39035183
+Duke,Oklahoma,Duke,85.98391386
+Duke,Old Dominion,Duke,86.16962281
+Duke,Oregon,Duke,78.85312063
+Duke,Purdue,Duke,70.28889027
+Duke,Saint Louis,Duke,89.59299287
+Duke,Saint Mary's (CA),Duke,88.13127185
+Duke,Seton Hall,Duke,88.23713433
+Duke,St. John's (NY),Duke,89.03896866
+Duke,Syracuse,Duke,81.67788489
+Duke,Tennessee,Duke,17.04380824
+Duke,Texas Tech,Duke,79.32242487
+Duke,Utah State,Duke,69.91475987
+Duke,Vermont,Duke,88.79693834
+Duke,Villanova,Duke,73.16235176
+Duke,Virginia Commonwealth,Duke,90.24653566
+Duke,Virginia Tech,Duke,80.14313925
+Duke,Virginia,Duke,46.46072939
+Duke,Washington,Duke,80.57036604
+Duke,Wisconsin,Duke,67.75584653
+Duke,Wofford,Duke,64.01900959
+Duke,Yale,Duke,97.02583588
+Fairleigh Dickinson,Abilene Christian,Abilene Christian,49.49394766
+Fairleigh Dickinson,Arizona State,Arizona State,41.66013567
+Fairleigh Dickinson,Auburn,Auburn,90.56344808
+Fairleigh Dickinson,Baylor,Baylor,18.49995676
+Fairleigh Dickinson,Belmont,Belmont,50.42979173
+Fairleigh Dickinson,Bradley,Fairleigh Dickinson,2.402392019
+Fairleigh Dickinson,Buffalo,Buffalo,90.91732865
+Fairleigh Dickinson,UC-Irvine,UC-Irvine,74.22849747
+Fairleigh Dickinson,Central Florida,Central Florida,26.27683315
+Fairleigh Dickinson,Cincinnati,Cincinnati,69.35438742
+Fairleigh Dickinson,Colgate,Colgate,53.7920011
+Fairleigh Dickinson,Duke,Duke,94.97776263
+Fairleigh Dickinson,Florida State,Florida State,92.79687942
+Fairleigh Dickinson,Florida,Florida,54.70629402
+Fairleigh Dickinson,Gardner-Webb,Gardner-Webb,51.15780719
+Fairleigh Dickinson,Georgia State,Georgia State,26.68324684
+Fairleigh Dickinson,Gonzaga,Gonzaga,89.64625155
+Fairleigh Dickinson,Houston,Houston,86.27553674
+Fairleigh Dickinson,Iona,Fairleigh Dickinson,16.86463997
+Fairleigh Dickinson,Iowa State,Iowa State,85.60060316
+Fairleigh Dickinson,Iowa,Iowa,75.78909248
+Fairleigh Dickinson,Kansas State,Kansas State,72.19653421
+Fairleigh Dickinson,Kansas,Kansas,90.77083641
+Fairleigh Dickinson,Kentucky,Kentucky,88.68441763
+Fairleigh Dickinson,Liberty,Liberty,65.0548603
+Fairleigh Dickinson,Louisiana State,Louisiana State,85.80536624
+Fairleigh Dickinson,Louisville,Louisville,73.0787006
+Fairleigh Dickinson,Marquette,Marquette,77.51535651
+Fairleigh Dickinson,Maryland,Maryland,68.21985533
+Fairleigh Dickinson,Michigan State,Michigan State,90.64563428
+Fairleigh Dickinson,Michigan,Michigan,86.84899181
+Fairleigh Dickinson,Minnesota,Minnesota,61.08920922
+Fairleigh Dickinson,Mississippi State,Mississippi State,82.23713364
+Fairleigh Dickinson,Mississippi,Mississippi,31.77313241
+Fairleigh Dickinson,Montana,Montana,61.73149999
+Fairleigh Dickinson,Murray State,Murray State,56.45613428
+Fairleigh Dickinson,Nevada,Nevada,86.77810444
+Fairleigh Dickinson,New Mexico State,New Mexico State,79.00413632
+Fairleigh Dickinson,North Carolina Central,Fairleigh Dickinson,20.80831175
+Fairleigh Dickinson,North Carolina,North Carolina,91.87282387
+Fairleigh Dickinson,North Dakota State,Fairleigh Dickinson,18.38547097
+Fairleigh Dickinson,Northeastern,Northeastern,34.7333122
+Fairleigh Dickinson,Northern Kentucky,Northern Kentucky,62.10313722
+Fairleigh Dickinson,Ohio State,Ohio State,35.05062348
+Fairleigh Dickinson,Oklahoma,Oklahoma,39.03104237
+Fairleigh Dickinson,Old Dominion,Old Dominion,52.73028796
+Fairleigh Dickinson,Oregon,Oregon,73.1935721
+Fairleigh Dickinson,Purdue,Purdue,76.47032315
+Fairleigh Dickinson,Saint Louis,Saint Louis,39.61718914
+Fairleigh Dickinson,Saint Mary's (CA),Saint Mary's (CA),54.76247701
+Fairleigh Dickinson,Seton Hall,Seton Hall,37.60143774
+Fairleigh Dickinson,St. John's (NY),St. John's (NY),37.80890352
+Fairleigh Dickinson,Syracuse,Syracuse,57.44962545
+Fairleigh Dickinson,Tennessee,Tennessee,92.60968456
+Fairleigh Dickinson,Texas Tech,Texas Tech,73.45715578
+Fairleigh Dickinson,Utah State,Utah State,83.00881467
+Fairleigh Dickinson,Vermont,Vermont,43.60077841
+Fairleigh Dickinson,Villanova,Villanova,80.05418048
+Fairleigh Dickinson,Virginia Commonwealth,Virginia Commonwealth,44.38975434
+Fairleigh Dickinson,Virginia Tech,Virginia Tech,67.93971553
+Fairleigh Dickinson,Virginia,Virginia,84.44243696
+Fairleigh Dickinson,Washington,Washington,71.87993522
+Fairleigh Dickinson,Wisconsin,Wisconsin,77.89083887
+Fairleigh Dickinson,Wofford,Wofford,80.16535786
+Fairleigh Dickinson,Yale,Fairleigh Dickinson,39.44994184
+Florida State,Abilene Christian,Florida State,79.8178488
+Florida State,Arizona State,Florida State,85.28349867
+Florida State,Auburn,Florida State,2.699528682
+Florida State,Baylor,Florida State,88.51594655
+Florida State,Belmont,Florida State,78.3614356
+Florida State,Bradley,Florida State,92.80277278
+Florida State,Buffalo,Florida State,7.810181995
+Florida State,UC-Irvine,Florida State,51.65183735
+Florida State,Central Florida,Florida State,87.14625771
+Florida State,Cincinnati,Florida State,70.02524694
+Florida State,Colgate,Florida State,80.34912302
+Florida State,Duke,Duke,34.49744429
+Florida State,Fairleigh Dickinson,Florida State,92.79687942
+Florida State,Florida,Florida State,72.30193413
+Florida State,Gardner-Webb,Florida State,81.0304979
+Florida State,Georgia State,Florida State,86.32105303
+Florida State,Gonzaga,Florida State,14.1929164
+Florida State,Houston,Florida State,39.16569422
+Florida State,Iona,Florida State,93.75486959
+Florida State,Iowa State,Florida State,34.1750707
+Florida State,Iowa,Florida State,52.30784693
+Florida State,Kansas State,Florida State,56.26223821
+Florida State,Kansas,Florida State,10.52449493
+Florida State,Kentucky,Florida State,21.26890893
+Florida State,Liberty,Florida State,66.68424531
+Florida State,Louisiana State,Florida State,32.76145953
+Florida State,Louisville,Florida State,58.6406624
+Florida State,Marquette,Florida State,63.39239182
+Florida State,Maryland,Florida State,58.71097452
+Florida State,Michigan State,Florida State,11.1316957
+Florida State,Michigan,Florida State,13.33876684
+Florida State,Minnesota,Florida State,72.87593067
+Florida State,Mississippi State,Florida State,41.76315624
+Florida State,Mississippi,Florida State,86.24425037
+Florida State,Montana,Florida State,74.52551403
+Florida State,Murray State,Florida State,76.85085137
+Florida State,Nevada,Florida State,33.97840806
+Florida State,New Mexico State,Florida State,51.54603527
+Florida State,North Carolina Central,Florida State,94.42470432
+Florida State,North Carolina,North Carolina,7.137532648
+Florida State,North Dakota State,Florida State,94.52221707
+Florida State,Northeastern,Florida State,86.38605529
+Florida State,Northern Kentucky,Florida State,72.28873857
+Florida State,Ohio State,Florida State,81.68123884
+Florida State,Oklahoma,Florida State,80.14471395
+Florida State,Old Dominion,Florida State,78.96191039
+Florida State,Oregon,Florida State,66.97736259
+Florida State,Purdue,Florida State,51.21464279
+Florida State,Saint Louis,Florida State,85.24870926
+Florida State,Saint Mary's (CA),Florida State,81.18140499
+Florida State,Seton Hall,Florida State,84.24329566
+Florida State,St. John's (NY),Florida State,84.02787681
+Florida State,Syracuse,Florida State,71.4492315
+Florida State,Tennessee,Tennessee,16.39008363
+Florida State,Texas Tech,Florida State,62.35919921
+Florida State,Utah State,Florida State,49.27559419
+Florida State,Vermont,Florida State,82.77622155
+Florida State,Villanova,Florida State,56.41868315
+Florida State,Virginia Commonwealth,Florida State,82.96566951
+Florida State,Virginia Tech,Florida State,65.02507551
+Florida State,Virginia,Florida State,18.4148644
+Florida State,Washington,Florida State,67.33597241
+Florida State,Wisconsin,Florida State,47.3241436
+Florida State,Wofford,Florida State,43.05371221
+Florida State,Yale,Florida State,95.98074985
+Florida,Abilene Christian,Florida,10.19100245
+Florida,Arizona State,Florida,22.44761542
+Florida,Auburn,Auburn,69.13830965
+Florida,Baylor,Florida,43.30320501
+Florida,Belmont,Florida,15.11883092
+Florida,Bradley,Florida,55.53413933
+Florida,Buffalo,Buffalo,65.71775271
+Florida,UC-Irvine,UC-Irvine,21.75576369
+Florida,Central Florida,Florida,34.67695035
+Florida,Cincinnati,Cincinnati,12.98483718
+Florida,Colgate,Florida,11.41890773
+Florida,Duke,Duke,80.11762546
+Florida,Fairleigh Dickinson,Florida,54.70629402
+Florida,Florida State,Florida State,72.30193413
+Florida,Gardner-Webb,Florida,13.52280431
+Florida,Georgia State,Florida,33.27699247
+Florida,Gonzaga,Gonzaga,59.25648997
+Florida,Houston,Houston,48.19534903
+Florida,Iona,Florida,62.35316022
+Florida,Iowa State,Iowa State,50.12869844
+Florida,Iowa,Iowa,37.13734704
+Florida,Kansas State,Kansas State,27.17014239
+Florida,Kansas,Kansas,64.98563998
+Florida,Kentucky,Kentucky,59.99611455
+Florida,Liberty,Liberty,7.008194243
+Florida,Louisiana State,Louisiana State,44.87422327
+Florida,Louisville,Louisville,24.56202876
+Florida,Marquette,Marquette,33.50065714
+Florida,Maryland,Maryland,20.07183996
+Florida,Michigan State,Michigan State,62.02556382
+Florida,Michigan,Michigan,58.17049113
+Florida,Minnesota,Minnesota,3.097899723
+Florida,Mississippi State,Mississippi State,44.22640684
+Florida,Mississippi,Florida,27.41240559
+Florida,Montana,Montana,0.513567655
+Florida,Murray State,Florida,8.213461611
+Florida,Nevada,Nevada,51.22784247
+Florida,New Mexico State,New Mexico State,31.48347377
+Florida,North Carolina Central,Florida,65.56283795
+Florida,North Carolina,North Carolina,69.79847309
+Florida,North Dakota State,Florida,64.20113405
+Florida,Northeastern,Florida,25.511963
+Florida,Northern Kentucky,Northern Kentucky,5.467606548
+Florida,Ohio State,Florida,21.84682953
+Florida,Oklahoma,Florida,21.38161199
+Florida,Old Dominion,Florida,8.943883244
+Florida,Oregon,Oregon,16.80733981
+Florida,Purdue,Purdue,30.2875031
+Florida,Saint Louis,Florida,24.39216255
+Florida,Saint Mary's (CA),Florida,6.649357278
+Florida,Seton Hall,Florida,24.71736992
+Florida,St. John's (NY),Florida,23.62732886
+Florida,Syracuse,Syracuse,2.172739272
+Florida,Tennessee,Tennessee,74.639942
+Florida,Texas Tech,Texas Tech,17.29779932
+Florida,Utah State,Utah State,39.82085776
+Florida,Vermont,Florida,18.49709571
+Florida,Villanova,Villanova,40.62146162
+Florida,Virginia Commonwealth,Florida,18.4047675
+Florida,Virginia Tech,Virginia Tech,17.42263459
+Florida,Virginia,Virginia,47.58501553
+Florida,Washington,Washington,17.98387987
+Florida,Wisconsin,Wisconsin,35.33547465
+Florida,Wofford,Wofford,37.45340526
+Florida,Yale,Florida,74.99979874
+Gardner-Webb,Abilene Christian,Abilene Christian,0.714393378
+Gardner-Webb,Arizona State,Gardner-Webb,10.23174006
+Gardner-Webb,Auburn,Auburn,74.22762386
+Gardner-Webb,Baylor,Gardner-Webb,33.41264374
+Gardner-Webb,Belmont,Belmont,3.910650794
+Gardner-Webb,Bradley,Gardner-Webb,48.9565858
+Gardner-Webb,Buffalo,Buffalo,77.02727679
+Gardner-Webb,UC-Irvine,UC-Irvine,48.68620308
+Gardner-Webb,Central Florida,Gardner-Webb,26.98217027
+Gardner-Webb,Cincinnati,Cincinnati,30.86277673
+Gardner-Webb,Colgate,Colgate,3.744160762
+Gardner-Webb,Duke,Duke,87.47216227
+Gardner-Webb,Fairleigh Dickinson,Gardner-Webb,51.15780719
+Gardner-Webb,Florida State,Florida State,81.0304979
+Gardner-Webb,Florida,Florida,13.52280431
+Gardner-Webb,Georgia State,Gardner-Webb,20.56124098
+Gardner-Webb,Gonzaga,Gonzaga,74.31989271
+Gardner-Webb,Houston,Houston,66.65148639
+Gardner-Webb,Iona,Gardner-Webb,60.12994007
+Gardner-Webb,Iowa State,Iowa State,64.3777783
+Gardner-Webb,Iowa,Iowa,46.27191496
+Gardner-Webb,Kansas State,Kansas State,33.26358748
+Gardner-Webb,Kansas,Kansas,74.71685074
+Gardner-Webb,Kentucky,Kentucky,71.23099752
+Gardner-Webb,Liberty,Liberty,24.12892767
+Gardner-Webb,Louisiana State,Louisiana State,64.59760298
+Gardner-Webb,Louisville,Louisville,36.66971822
+Gardner-Webb,Marquette,Marquette,43.76380164
+Gardner-Webb,Maryland,Maryland,29.87209386
+Gardner-Webb,Michigan State,Michigan State,75.59767513
+Gardner-Webb,Michigan,Michigan,66.69063917
+Gardner-Webb,Minnesota,Minnesota,21.21522094
+Gardner-Webb,Mississippi State,Mississippi State,55.13759009
+Gardner-Webb,Mississippi,Gardner-Webb,21.37466924
+Gardner-Webb,Montana,Montana,18.97600109
+Gardner-Webb,Murray State,Murray State,12.26976977
+Gardner-Webb,Nevada,Nevada,67.7202943
+Gardner-Webb,New Mexico State,New Mexico State,51.7636441
+Gardner-Webb,North Carolina Central,Gardner-Webb,63.85956965
+Gardner-Webb,North Carolina,North Carolina,78.76442586
+Gardner-Webb,North Dakota State,Gardner-Webb,62.51301657
+Gardner-Webb,Northeastern,Gardner-Webb,19.93384109
+Gardner-Webb,Northern Kentucky,Northern Kentucky,18.95876988
+Gardner-Webb,Ohio State,Gardner-Webb,11.91515292
+Gardner-Webb,Oklahoma,Gardner-Webb,5.381290865
+Gardner-Webb,Old Dominion,Old Dominion,5.45893532
+Gardner-Webb,Oregon,Oregon,40.69122997
+Gardner-Webb,Purdue,Purdue,44.86558704
+Gardner-Webb,Saint Louis,Gardner-Webb,14.52240841
+Gardner-Webb,Saint Mary's (CA),Saint Mary's (CA),5.081487028
+Gardner-Webb,Seton Hall,Gardner-Webb,11.81839505
+Gardner-Webb,St. John's (NY),Gardner-Webb,5.394083281
+Gardner-Webb,Syracuse,Syracuse,10.88937164
+Gardner-Webb,Tennessee,Tennessee,81.73503183
+Gardner-Webb,Texas Tech,Texas Tech,39.85870154
+Gardner-Webb,Utah State,Utah State,57.3532765
+Gardner-Webb,Vermont,Gardner-Webb,6.341655917
+Gardner-Webb,Villanova,Villanova,48.86407877
+Gardner-Webb,Virginia Commonwealth,Gardner-Webb,6.724581222
+Gardner-Webb,Virginia Tech,Virginia Tech,27.80200898
+Gardner-Webb,Virginia,Virginia,65.16260205
+Gardner-Webb,Washington,Washington,35.33587077
+Gardner-Webb,Wisconsin,Wisconsin,45.88064937
+Gardner-Webb,Wofford,Wofford,54.01137886
+Gardner-Webb,Yale,Gardner-Webb,72.92060591
+Georgia State,Abilene Christian,Abilene Christian,16.91039114
+Georgia State,Arizona State,Arizona State,10.52023473
+Georgia State,Auburn,Auburn,83.34089392
+Georgia State,Baylor,Georgia State,8.603126283
+Georgia State,Belmont,Belmont,18.37150905
+Georgia State,Bradley,Georgia State,28.86587583
+Georgia State,Buffalo,Buffalo,82.92267009
+Georgia State,UC-Irvine,UC-Irvine,58.91949826
+Georgia State,Central Florida,Georgia State,6.741206087
+Georgia State,Cincinnati,Cincinnati,44.8255571
+Georgia State,Colgate,Colgate,24.11300367
+Georgia State,Duke,Duke,90.36433824
+Georgia State,Fairleigh Dickinson,Georgia State,26.68324684
+Georgia State,Florida State,Florida State,86.32105303
+Georgia State,Florida,Florida,33.27699247
+Georgia State,Gardner-Webb,Gardner-Webb,20.56124098
+Georgia State,Gonzaga,Gonzaga,79.51090183
+Georgia State,Houston,Houston,73.19326331
+Georgia State,Iona,Georgia State,41.57927622
+Georgia State,Iowa State,Iowa State,75.0792306
+Georgia State,Iowa,Iowa,57.12977856
+Georgia State,Kansas State,Kansas State,51.73877815
+Georgia State,Kansas,Kansas,83.68980844
+Georgia State,Kentucky,Kentucky,77.63182398
+Georgia State,Liberty,Liberty,37.11565339
+Georgia State,Louisiana State,Louisiana State,73.18568444
+Georgia State,Louisville,Louisville,57.65521508
+Georgia State,Marquette,Marquette,59.93786097
+Georgia State,Maryland,Maryland,46.00168773
+Georgia State,Michigan State,Michigan State,80.60022923
+Georgia State,Michigan,Michigan,74.07143291
+Georgia State,Minnesota,Minnesota,41.17770213
+Georgia State,Mississippi State,Mississippi State,67.95421518
+Georgia State,Mississippi,Mississippi,5.560717531
+Georgia State,Montana,Montana,34.29796346
+Georgia State,Murray State,Murray State,24.40670732
+Georgia State,Nevada,Nevada,74.16831835
+Georgia State,New Mexico State,New Mexico State,62.64365718
+Georgia State,North Carolina Central,Georgia State,44.86435756
+Georgia State,North Carolina,North Carolina,84.63277825
+Georgia State,North Dakota State,Georgia State,42.89316185
+Georgia State,Northeastern,Northeastern,0.637972794
+Georgia State,Northern Kentucky,Northern Kentucky,38.93153778
+Georgia State,Ohio State,Ohio State,9.229512467
+Georgia State,Oklahoma,Oklahoma,13.81775865
+Georgia State,Old Dominion,Old Dominion,23.47977569
+Georgia State,Oregon,Oregon,56.251499
+Georgia State,Purdue,Purdue,58.67366055
+Georgia State,Saint Louis,Saint Louis,8.096485798
+Georgia State,Saint Mary's (CA),Saint Mary's (CA),27.17059532
+Georgia State,Seton Hall,Seton Hall,12.35454759
+Georgia State,St. John's (NY),St. John's (NY),22.00744731
+Georgia State,Syracuse,Syracuse,36.37508494
+Georgia State,Tennessee,Tennessee,85.56507905
+Georgia State,Texas Tech,Texas Tech,52.90362706
+Georgia State,Utah State,Utah State,69.16817509
+Georgia State,Vermont,Vermont,9.875345844
+Georgia State,Villanova,Villanova,64.38356909
+Georgia State,Virginia Commonwealth,Virginia Commonwealth,13.86909366
+Georgia State,Virginia Tech,Virginia Tech,43.89571686
+Georgia State,Virginia,Virginia,68.90810935
+Georgia State,Washington,Washington,50.24733036
+Georgia State,Wisconsin,Wisconsin,60.59942952
+Georgia State,Wofford,Wofford,63.25739972
+Georgia State,Yale,Georgia State,61.00762331
+Gonzaga,Abilene Christian,Gonzaga,74.73176766
+Gonzaga,Arizona State,Gonzaga,76.15896476
+Gonzaga,Auburn,Auburn,3.712565674
+Gonzaga,Baylor,Gonzaga,82.3397301
+Gonzaga,Belmont,Gonzaga,70.35161761
+Gonzaga,Bradley,Gonzaga,88.92569825
+Gonzaga,Buffalo,Buffalo,10.22133231
+Gonzaga,UC-Irvine,Gonzaga,30.76285373
+Gonzaga,Central Florida,Gonzaga,80.9325688
+Gonzaga,Cincinnati,Gonzaga,60.00922676
+Gonzaga,Colgate,Gonzaga,74.30668022
+Gonzaga,Duke,Duke,44.08394126
+Gonzaga,Fairleigh Dickinson,Gonzaga,89.64625155
+Gonzaga,Florida State,Florida State,14.1929164
+Gonzaga,Florida,Gonzaga,59.25648997
+Gonzaga,Gardner-Webb,Gonzaga,74.31989271
+Gonzaga,Georgia State,Gonzaga,79.51090183
+Gonzaga,Houston,Gonzaga,22.82955231
+Gonzaga,Iona,Gonzaga,91.53406136
+Gonzaga,Iowa State,Gonzaga,17.67953402
+Gonzaga,Iowa,Gonzaga,41.94474848
+Gonzaga,Kansas State,Gonzaga,48.86938393
+Gonzaga,Kansas,Gonzaga,1.737873717
+Gonzaga,Kentucky,Gonzaga,14.67996793
+Gonzaga,Liberty,Gonzaga,51.99427636
+Gonzaga,Louisiana State,Gonzaga,20.81681764
+Gonzaga,Louisville,Gonzaga,44.48291539
+Gonzaga,Marquette,Gonzaga,55.6500487
+Gonzaga,Maryland,Gonzaga,48.58314588
+Gonzaga,Michigan State,Gonzaga,5.750654037
+Gonzaga,Michigan,Gonzaga,8.459505405
+Gonzaga,Minnesota,Gonzaga,57.38620452
+Gonzaga,Mississippi State,Gonzaga,32.35700693
+Gonzaga,Mississippi,Gonzaga,76.31965138
+Gonzaga,Montana,Gonzaga,66.81094854
+Gonzaga,Murray State,Gonzaga,69.82413231
+Gonzaga,Nevada,Gonzaga,24.39993169
+Gonzaga,New Mexico State,Gonzaga,30.29092174
+Gonzaga,North Carolina Central,Gonzaga,92.54363599
+Gonzaga,North Carolina,North Carolina,11.75940681
+Gonzaga,North Dakota State,Gonzaga,91.85329929
+Gonzaga,Northeastern,Gonzaga,80.62395517
+Gonzaga,Northern Kentucky,Gonzaga,63.94338801
+Gonzaga,Ohio State,Gonzaga,74.59271583
+Gonzaga,Oklahoma,Gonzaga,68.89137805
+Gonzaga,Old Dominion,Gonzaga,70.30445825
+Gonzaga,Oregon,Gonzaga,50.64826548
+Gonzaga,Purdue,Gonzaga,37.50113429
+Gonzaga,Saint Louis,Gonzaga,77.5164737
+Gonzaga,Saint Mary's (CA),Gonzaga,72.33771969
+Gonzaga,Seton Hall,Gonzaga,74.10265915
+Gonzaga,St. John's (NY),Gonzaga,76.50017635
+Gonzaga,Syracuse,Gonzaga,61.91573688
+Gonzaga,Tennessee,Tennessee,22.5965365
+Gonzaga,Texas Tech,Gonzaga,52.55856649
+Gonzaga,Utah State,Gonzaga,33.7265675
+Gonzaga,Vermont,Gonzaga,77.5821337
+Gonzaga,Villanova,Gonzaga,40.87394838
+Gonzaga,Virginia Commonwealth,Gonzaga,75.83878116
+Gonzaga,Virginia Tech,Gonzaga,54.53514291
+Gonzaga,Virginia,Gonzaga,4.831971586
+Gonzaga,Washington,Gonzaga,54.08490188
+Gonzaga,Wisconsin,Gonzaga,37.27544151
+Gonzaga,Wofford,Gonzaga,27.48086536
+Gonzaga,Yale,Gonzaga,94.1956838
+Houston,Abilene Christian,Houston,63.54038175
+Houston,Arizona State,Houston,67.84629769
+Houston,Auburn,Auburn,26.36928011
+Houston,Baylor,Houston,75.75660303
+Houston,Belmont,Houston,60.77889892
+Houston,Bradley,Houston,85.7044962
+Houston,Buffalo,Buffalo,32.41476794
+Houston,UC-Irvine,Houston,13.91829751
+Houston,Central Florida,Houston,74.31697571
+Houston,Cincinnati,Houston,39.89943971
+Houston,Colgate,Houston,65.49551492
+Houston,Duke,Duke,62.33328767
+Houston,Fairleigh Dickinson,Houston,86.27553674
+Houston,Florida State,Florida State,39.16569422
+Houston,Florida,Houston,48.19534903
+Houston,Gardner-Webb,Houston,66.65148639
+Houston,Georgia State,Houston,73.19326331
+Houston,Gonzaga,Gonzaga,22.82955231
+Houston,Iona,Houston,89.19190919
+Houston,Iowa State,Houston,0.212754415
+Houston,Iowa,Houston,26.50230158
+Houston,Kansas State,Houston,29.14509248
+Houston,Kansas,Kansas,21.31535826
+Houston,Kentucky,Kentucky,12.2388385
+Houston,Liberty,Houston,34.62461106
+Houston,Louisiana State,Houston,0.910870823
+Houston,Louisville,Houston,26.78188653
+Houston,Marquette,Houston,40.54753244
+Houston,Maryland,Houston,33.99611019
+Houston,Michigan State,Michigan State,20.99537869
+Houston,Michigan,Michigan,18.36250963
+Houston,Minnesota,Houston,46.00394712
+Houston,Mississippi State,Houston,12.97203155
+Houston,Mississippi,Houston,67.80157149
+Houston,Montana,Houston,55.35545163
+Houston,Murray State,Houston,57.7955524
+Houston,Nevada,Houston,1.629947529
+Houston,New Mexico State,Houston,11.45754214
+Houston,North Carolina Central,Houston,89.74853778
+Houston,North Carolina,North Carolina,36.83153538
+Houston,North Dakota State,Houston,88.82865426
+Houston,Northeastern,Houston,73.25760461
+Houston,Northern Kentucky,Houston,52.08133042
+Houston,Ohio State,Houston,66.70018066
+Houston,Oklahoma,Houston,61.67340663
+Houston,Old Dominion,Houston,57.74342245
+Houston,Oregon,Houston,34.36794659
+Houston,Purdue,Houston,21.59784949
+Houston,Saint Louis,Houston,68.88040147
+Houston,Saint Mary's (CA),Houston,60.94119333
+Houston,Seton Hall,Houston,66.24005822
+Houston,St. John's (NY),Houston,69.25062197
+Houston,Syracuse,Houston,47.32882239
+Houston,Tennessee,Tennessee,42.73978956
+Houston,Texas Tech,Houston,36.47109438
+Houston,Utah State,Houston,8.00059151
+Houston,Vermont,Houston,67.37316737
+Houston,Villanova,Houston,19.71809289
+Houston,Virginia Commonwealth,Houston,65.98434133
+Houston,Virginia Tech,Houston,41.39395092
+Houston,Virginia,Virginia,15.1421703
+Houston,Washington,Houston,35.59550884
+Houston,Wisconsin,Houston,18.4383796
+Houston,Wofford,Houston,4.913411455
+Houston,Yale,Houston,93.03133619
+Iona,Abilene Christian,Abilene Christian,58.73024993
+Iona,Arizona State,Arizona State,54.56180469
+Iona,Auburn,Auburn,92.34507861
+Iona,Baylor,Baylor,29.91328062
+Iona,Belmont,Belmont,59.58148034
+Iona,Bradley,Bradley,14.44247904
+Iona,Buffalo,Buffalo,92.52355194
+Iona,UC-Irvine,UC-Irvine,77.43655998
+Iona,Central Florida,Central Florida,43.10411031
+Iona,Cincinnati,Cincinnati,75.5510652
+Iona,Colgate,Colgate,62.17597953
+Iona,Duke,Duke,95.65103044
+Iona,Fairleigh Dickinson,Fairleigh Dickinson,16.86463997
+Iona,Florida State,Florida State,93.75486959
+Iona,Florida,Florida,62.35316022
+Iona,Gardner-Webb,Gardner-Webb,60.12994007
+Iona,Georgia State,Georgia State,41.57927622
+Iona,Gonzaga,Gonzaga,91.53406136
+Iona,Houston,Houston,89.19190919
+Iona,Iowa State,Iowa State,88.26945456
+Iona,Iowa,Iowa,79.72238704
+Iona,Kansas State,Kansas State,77.02533957
+Iona,Kansas,Kansas,92.34455821
+Iona,Kentucky,Kentucky,90.15985288
+Iona,Liberty,Liberty,70.27228296
+Iona,Louisiana State,Louisiana State,88.13147176
+Iona,Louisville,Louisville,77.78205306
+Iona,Marquette,Marquette,83.55725989
+Iona,Maryland,Maryland,74.57880519
+Iona,Michigan State,Michigan State,91.59050956
+Iona,Michigan,Michigan,88.58489014
+Iona,Minnesota,Minnesota,67.48367561
+Iona,Mississippi State,Mississippi State,85.45600926
+Iona,Mississippi,Mississippi,46.11858733
+Iona,Montana,Montana,68.70654586
+Iona,Murray State,Murray State,63.31599104
+Iona,Nevada,Nevada,89.53659505
+Iona,New Mexico State,New Mexico State,83.07009494
+Iona,North Carolina Central,Iona,2.863461752
+Iona,North Carolina,North Carolina,92.76477998
+Iona,North Dakota State,Iona,1.515189807
+Iona,Northeastern,Northeastern,47.38244391
+Iona,Northern Kentucky,Northern Kentucky,70.58285721
+Iona,Ohio State,Ohio State,45.20377851
+Iona,Oklahoma,Oklahoma,48.74745382
+Iona,Old Dominion,Old Dominion,62.64394624
+Iona,Oregon,Oregon,78.08473665
+Iona,Purdue,Purdue,80.61586438
+Iona,Saint Louis,Saint Louis,52.83113723
+Iona,Saint Mary's (CA),Saint Mary's (CA),65.17992654
+Iona,Seton Hall,Seton Hall,46.53653033
+Iona,St. John's (NY),St. John's (NY),50.67988583
+Iona,Syracuse,Syracuse,64.28899199
+Iona,Tennessee,Tennessee,93.41918619
+Iona,Texas Tech,Texas Tech,80.51418773
+Iona,Utah State,Utah State,86.87100494
+Iona,Vermont,Vermont,53.15113302
+Iona,Villanova,Villanova,85.13816789
+Iona,Virginia Commonwealth,Virginia Commonwealth,57.19480152
+Iona,Virginia Tech,Virginia Tech,76.35664528
+Iona,Virginia,Virginia,86.45909404
+Iona,Washington,Washington,78.58244083
+Iona,Wisconsin,Wisconsin,81.83880896
+Iona,Wofford,Wofford,83.67309614
+Iona,Yale,Iona,23.83836723
+Iowa State,Abilene Christian,Iowa State,62.88906018
+Iowa State,Arizona State,Iowa State,73.95361554
+Iowa State,Auburn,Auburn,25.13757253
+Iowa State,Baylor,Iowa State,80.60884333
+Iowa State,Belmont,Iowa State,66.03119389
+Iowa State,Bradley,Iowa State,84.28448096
+Iowa State,Buffalo,Buffalo,32.40403572
+Iowa State,UC-Irvine,Iowa State,16.85423515
+Iowa State,Central Florida,Iowa State,78.12934436
+Iowa State,Cincinnati,Iowa State,48.10942797
+Iowa State,Colgate,Iowa State,63.29458695
+Iowa State,Duke,Duke,57.55736002
+Iowa State,Fairleigh Dickinson,Iowa State,85.60060316
+Iowa State,Florida State,Florida State,34.1750707
+Iowa State,Florida,Iowa State,50.12869844
+Iowa State,Gardner-Webb,Iowa State,64.3777783
+Iowa State,Georgia State,Iowa State,75.0792306
+Iowa State,Gonzaga,Gonzaga,17.67953402
+Iowa State,Houston,Houston,0.212754415
+Iowa State,Iona,Iowa State,88.26945456
+Iowa State,Iowa,Iowa State,22.25075739
+Iowa State,Kansas State,Iowa State,35.57278678
+Iowa State,Kansas,Kansas,20.0262958
+Iowa State,Kentucky,Kentucky,8.27893884
+Iowa State,Liberty,Iowa State,45.69999567
+Iowa State,Louisiana State,Iowa State,8.645213201
+Iowa State,Louisville,Iowa State,34.83755791
+Iowa State,Marquette,Iowa State,34.17250395
+Iowa State,Maryland,Iowa State,41.86908716
+Iowa State,Michigan State,Michigan State,15.28452774
+Iowa State,Michigan,Michigan,13.37152931
+Iowa State,Minnesota,Iowa State,50.3992141
+Iowa State,Mississippi State,Iowa State,17.97606331
+Iowa State,Mississippi,Iowa State,76.56203588
+Iowa State,Montana,Iowa State,53.8708916
+Iowa State,Murray State,Iowa State,62.27161436
+Iowa State,Nevada,Iowa State,0.492484754
+Iowa State,New Mexico State,Iowa State,17.95700327
+Iowa State,North Carolina Central,Iowa State,89.24253243
+Iowa State,North Carolina,North Carolina,33.52285167
+Iowa State,North Dakota State,Iowa State,89.00721055
+Iowa State,Northeastern,Iowa State,73.80729163
+Iowa State,Northern Kentucky,Iowa State,48.68270952
+Iowa State,Ohio State,Iowa State,66.70537677
+Iowa State,Oklahoma,Iowa State,66.19748268
+Iowa State,Old Dominion,Iowa State,61.14274654
+Iowa State,Oregon,Iowa State,41.33698956
+Iowa State,Purdue,Iowa State,29.95551128
+Iowa State,Saint Louis,Iowa State,71.44147824
+Iowa State,Saint Mary's (CA),Iowa State,66.16141956
+Iowa State,Seton Hall,Iowa State,70.33023696
+Iowa State,St. John's (NY),Iowa State,68.22654614
+Iowa State,Syracuse,Iowa State,54.2057046
+Iowa State,Tennessee,Tennessee,43.92518576
+Iowa State,Texas Tech,Iowa State,41.12194867
+Iowa State,Utah State,Iowa State,15.84497378
+Iowa State,Vermont,Iowa State,68.29654611
+Iowa State,Villanova,Iowa State,23.22517868
+Iowa State,Virginia Commonwealth,Iowa State,70.36285083
+Iowa State,Virginia Tech,Iowa State,43.73367528
+Iowa State,Virginia,Virginia,2.778484076
+Iowa State,Washington,Iowa State,42.39332461
+Iowa State,Wisconsin,Iowa State,21.74883724
+Iowa State,Wofford,Iowa State,14.7250198
+Iowa State,Yale,Iowa State,93.11292105
+Iowa,Abilene Christian,Iowa,41.59157563
+Iowa,Arizona State,Iowa,54.57931749
+Iowa,Auburn,Auburn,47.35855993
+Iowa,Baylor,Iowa,67.73917454
+Iowa,Belmont,Iowa,45.82633257
+Iowa,Bradley,Iowa,75.27990652
+Iowa,Buffalo,Buffalo,52.15042613
+Iowa,UC-Irvine,UC-Irvine,4.361731518
+Iowa,Central Florida,Iowa,60.21976716
+Iowa,Cincinnati,Iowa,20.87393376
+Iowa,Colgate,Iowa,45.03594739
+Iowa,Duke,Duke,68.46716642
+Iowa,Fairleigh Dickinson,Iowa,75.78909248
+Iowa,Florida State,Florida State,52.30784693
+Iowa,Florida,Iowa,37.13734704
+Iowa,Gardner-Webb,Iowa,46.27191496
+Iowa,Georgia State,Iowa,57.12977856
+Iowa,Gonzaga,Gonzaga,41.94474848
+Iowa,Houston,Houston,26.50230158
+Iowa,Iona,Iowa,79.72238704
+Iowa,Iowa State,Iowa State,22.25075739
+Iowa,Kansas State,Iowa,9.832941396
+Iowa,Kansas,Kansas,40.74985633
+Iowa,Kentucky,Kentucky,35.44719537
+Iowa,Liberty,Iowa,26.79159835
+Iowa,Louisiana State,Louisiana State,20.73923056
+Iowa,Louisville,Iowa,10.98801219
+Iowa,Marquette,Iowa,2.514038335
+Iowa,Maryland,Iowa,17.21651157
+Iowa,Michigan State,Michigan State,39.36317586
+Iowa,Michigan,Michigan,31.32533816
+Iowa,Minnesota,Iowa,34.22038648
+Iowa,Mississippi State,Mississippi State,9.402930896
+Iowa,Mississippi,Iowa,58.86975442
+Iowa,Montana,Iowa,33.19175539
+Iowa,Murray State,Iowa,39.43675747
+Iowa,Nevada,Nevada,27.8208583
+Iowa,New Mexico State,New Mexico State,3.538149303
+Iowa,North Carolina Central,Iowa,81.97578881
+Iowa,North Carolina,North Carolina,53.99340211
+Iowa,North Dakota State,Iowa,80.95602127
+Iowa,Northeastern,Iowa,55.1233621
+Iowa,Northern Kentucky,Iowa,26.57381833
+Iowa,Ohio State,Iowa,53.9436123
+Iowa,Oklahoma,Iowa,54.3387533
+Iowa,Old Dominion,Iowa,40.89447142
+Iowa,Oregon,Iowa,8.541601798
+Iowa,Purdue,Iowa,4.30773088
+Iowa,Saint Louis,Iowa,54.01801968
+Iowa,Saint Mary's (CA),Iowa,41.98621465
+Iowa,Seton Hall,Iowa,54.48340748
+Iowa,St. John's (NY),Iowa,48.95536471
+Iowa,Syracuse,Iowa,36.17469767
+Iowa,Tennessee,Tennessee,59.77673825
+Iowa,Texas Tech,Iowa,10.63336548
+Iowa,Utah State,Utah State,9.383118641
+Iowa,Vermont,Iowa,49.15889515
+Iowa,Villanova,Villanova,7.506953204
+Iowa,Virginia Commonwealth,Iowa,50.2311291
+Iowa,Virginia Tech,Iowa,13.64492651
+Iowa,Virginia,Virginia,23.77164405
+Iowa,Washington,Iowa,15.90970335
+Iowa,Wisconsin,Wisconsin,0.759761368
+Iowa,Wofford,Wofford,9.760149359
+Iowa,Yale,Iowa,87.29992884
+Kansas State,Abilene Christian,Kansas State,37.15310245
+Kansas State,Arizona State,Kansas State,47.91329382
+Kansas State,Auburn,Auburn,56.12671196
+Kansas State,Baylor,Kansas State,62.24886388
+Kansas State,Belmont,Kansas State,38.00257862
+Kansas State,Bradley,Kansas State,71.33655406
+Kansas State,Buffalo,Buffalo,59.52967528
+Kansas State,UC-Irvine,UC-Irvine,15.26720168
+Kansas State,Central Florida,Kansas State,57.05234885
+Kansas State,Cincinnati,Kansas State,15.04192807
+Kansas State,Colgate,Kansas State,31.46718685
+Kansas State,Duke,Duke,73.15698944
+Kansas State,Fairleigh Dickinson,Kansas State,72.19653421
+Kansas State,Florida State,Florida State,56.26223821
+Kansas State,Florida,Kansas State,27.17014239
+Kansas State,Gardner-Webb,Kansas State,33.26358748
+Kansas State,Georgia State,Kansas State,51.73877815
+Kansas State,Gonzaga,Gonzaga,48.86938393
+Kansas State,Houston,Houston,29.14509248
+Kansas State,Iona,Kansas State,77.02533957
+Kansas State,Iowa State,Iowa State,35.57278678
+Kansas State,Iowa,Iowa,9.832941396
+Kansas State,Kansas,Kansas,51.08462912
+Kansas State,Kentucky,Kentucky,38.05203942
+Kansas State,Liberty,Kansas State,14.32415332
+Kansas State,Louisiana State,Louisiana State,29.05861265
+Kansas State,Louisville,Kansas State,5.149635745
+Kansas State,Marquette,Marquette,6.880344667
+Kansas State,Maryland,Kansas State,9.406031769
+Kansas State,Michigan State,Michigan State,46.8144055
+Kansas State,Michigan,Michigan,34.99390226
+Kansas State,Minnesota,Kansas State,24.62371798
+Kansas State,Mississippi State,Mississippi State,23.32126639
+Kansas State,Mississippi,Kansas State,52.19259733
+Kansas State,Montana,Kansas State,20.70842689
+Kansas State,Murray State,Kansas State,31.38220434
+Kansas State,Nevada,Nevada,36.10007416
+Kansas State,New Mexico State,New Mexico State,16.52818435
+Kansas State,North Carolina Central,Kansas State,79.54597912
+Kansas State,North Carolina,North Carolina,58.84425533
+Kansas State,North Dakota State,Kansas State,76.65139525
+Kansas State,Northeastern,Kansas State,49.76564107
+Kansas State,Northern Kentucky,Kansas State,15.89554483
+Kansas State,Ohio State,Kansas State,48.19801008
+Kansas State,Oklahoma,Kansas State,47.82818835
+Kansas State,Old Dominion,Kansas State,34.29635453
+Kansas State,Oregon,Oregon,0.536063692
+Kansas State,Purdue,Purdue,1.835134004
+Kansas State,Saint Louis,Kansas State,47.29089708
+Kansas State,Saint Mary's (CA),Kansas State,30.39163732
+Kansas State,Seton Hall,Kansas State,47.20896972
+Kansas State,St. John's (NY),Kansas State,38.45897213
+Kansas State,Syracuse,Kansas State,27.23778266
+Kansas State,Tennessee,Tennessee,62.61245481
+Kansas State,Texas Tech,Kansas State,10.02107916
+Kansas State,Utah State,Utah State,20.66091225
+Kansas State,Vermont,Kansas State,41.25973756
+Kansas State,Villanova,Villanova,18.56127699
+Kansas State,Virginia Commonwealth,Kansas State,44.08304077
+Kansas State,Virginia Tech,Kansas State,10.32253522
+Kansas State,Virginia,Virginia,25.97177246
+Kansas State,Washington,Kansas State,7.917187825
+Kansas State,Wisconsin,Wisconsin,6.928809485
+Kansas State,Wofford,Wofford,18.85784436
+Kansas State,Yale,Kansas State,87.40828365
+Kansas,Abilene Christian,Kansas,74.48613473
+Kansas,Arizona State,Kansas,82.72916598
+Kansas,Auburn,Auburn,7.865133194
+Kansas,Baylor,Kansas,86.60034071
+Kansas,Belmont,Kansas,75.98507765
+Kansas,Bradley,Kansas,89.91546546
+Kansas,Buffalo,Buffalo,11.63700451
+Kansas,UC-Irvine,Kansas,35.77896262
+Kansas,Central Florida,Kansas,85.37712989
+Kansas,Cincinnati,Kansas,63.04747815
+Kansas,Colgate,Kansas,73.93867386
+Kansas,Duke,Duke,46.45538047
+Kansas,Fairleigh Dickinson,Kansas,90.77083641
+Kansas,Florida State,Florida State,10.52449493
+Kansas,Florida,Kansas,64.98563998
+Kansas,Gardner-Webb,Kansas,74.71685074
+Kansas,Georgia State,Kansas,83.68980844
+Kansas,Gonzaga,Gonzaga,1.737873717
+Kansas,Houston,Kansas,21.31535826
+Kansas,Iona,Kansas,92.34455821
+Kansas,Iowa State,Kansas,20.0262958
+Kansas,Iowa,Kansas,40.74985633
+Kansas,Kansas State,Kansas,51.08462912
+Kansas,Kentucky,Kansas,10.96759141
+Kansas,Liberty,Kansas,59.33289667
+Kansas,Louisiana State,Kansas,26.2920125
+Kansas,Louisville,Kansas,53.23538808
+Kansas,Marquette,Kansas,52.88371064
+Kansas,Maryland,Kansas,56.29002963
+Kansas,Michigan State,Kansas,0.616211846
+Kansas,Michigan,Kansas,5.769814253
+Kansas,Minnesota,Kansas,66.60714437
+Kansas,Mississippi State,Kansas,32.74108997
+Kansas,Mississippi,Kansas,84.41714573
+Kansas,Montana,Kansas,66.71493507
+Kansas,Murray State,Kansas,72.49856436
+Kansas,Nevada,Kansas,15.54161906
+Kansas,New Mexico State,Kansas,35.64752597
+Kansas,North Carolina Central,Kansas,92.73443583
+Kansas,North Carolina,North Carolina,17.5303282
+Kansas,North Dakota State,Kansas,92.82091336
+Kansas,Northeastern,Kansas,82.86282309
+Kansas,Northern Kentucky,Kansas,63.74313792
+Kansas,Ohio State,Kansas,76.58150157
+Kansas,Oklahoma,Kansas,76.11561521
+Kansas,Old Dominion,Kansas,73.87974502
+Kansas,Oregon,Kansas,59.03234952
+Kansas,Purdue,Kansas,48.25921413
+Kansas,Saint Louis,Kansas,81.28354008
+Kansas,Saint Mary's (CA),Kansas,76.62501755
+Kansas,Seton Hall,Kansas,80.24268655
+Kansas,St. John's (NY),Kansas,76.85440349
+Kansas,Syracuse,Kansas,67.73873297
+Kansas,Tennessee,Tennessee,29.96863789
+Kansas,Texas Tech,Kansas,57.38778301
+Kansas,Utah State,Kansas,36.18428409
+Kansas,Vermont,Kansas,78.33288926
+Kansas,Villanova,Kansas,44.97999259
+Kansas,Virginia Commonwealth,Kansas,79.84287434
+Kansas,Virginia Tech,Kansas,59.55109763
+Kansas,Virginia,Kansas,11.77597866
+Kansas,Washington,Kansas,59.81581704
+Kansas,Wisconsin,Kansas,41.23704934
+Kansas,Wofford,Kansas,29.10285489
+Kansas,Yale,Kansas,95.10922134
+Kentucky,Abilene Christian,Kentucky,69.48145732
+Kentucky,Arizona State,Kentucky,75.2267869
+Kentucky,Auburn,Auburn,18.5968893
+Kentucky,Baylor,Kentucky,80.93414362
+Kentucky,Belmont,Kentucky,66.21117683
+Kentucky,Bradley,Kentucky,87.97756873
+Kentucky,Buffalo,Buffalo,20.69347601
+Kentucky,UC-Irvine,Kentucky,32.32718464
+Kentucky,Central Florida,Kentucky,78.1213318
+Kentucky,Cincinnati,Kentucky,52.17898622
+Kentucky,Colgate,Kentucky,70.23666721
+Kentucky,Duke,Duke,51.87968354
+Kentucky,Fairleigh Dickinson,Kentucky,88.68441763
+Kentucky,Florida State,Florida State,21.26890893
+Kentucky,Florida,Kentucky,59.99611455
+Kentucky,Gardner-Webb,Kentucky,71.23099752
+Kentucky,Georgia State,Kentucky,77.63182398
+Kentucky,Gonzaga,Gonzaga,14.67996793
+Kentucky,Houston,Kentucky,12.2388385
+Kentucky,Iona,Kentucky,90.15985288
+Kentucky,Iowa State,Kentucky,8.27893884
+Kentucky,Iowa,Kentucky,35.44719537
+Kentucky,Kansas State,Kentucky,38.05203942
+Kentucky,Kansas,Kansas,10.96759141
+Kentucky,Liberty,Kentucky,51.4397943
+Kentucky,Louisiana State,Kentucky,6.718249325
+Kentucky,Louisville,Kentucky,42.79243968
+Kentucky,Marquette,Kentucky,42.78293491
+Kentucky,Maryland,Kentucky,42.59262824
+Kentucky,Michigan State,Michigan State,10.35603851
+Kentucky,Michigan,Michigan,8.153988543
+Kentucky,Minnesota,Kentucky,61.32268648
+Kentucky,Mississippi State,Kentucky,22.44120263
+Kentucky,Mississippi,Kentucky,76.79493469
+Kentucky,Montana,Kentucky,62.0604464
+Kentucky,Murray State,Kentucky,64.14828018
+Kentucky,Nevada,Kentucky,6.325416436
+Kentucky,New Mexico State,Kentucky,30.37196494
+Kentucky,North Carolina Central,Kentucky,91.19481446
+Kentucky,North Carolina,North Carolina,27.74774708
+Kentucky,North Dakota State,Kentucky,91.34879705
+Kentucky,Northeastern,Kentucky,77.69074584
+Kentucky,Northern Kentucky,Kentucky,58.97701779
+Kentucky,Ohio State,Kentucky,73.02068418
+Kentucky,Oklahoma,Kentucky,70.69021588
+Kentucky,Old Dominion,Kentucky,66.63983935
+Kentucky,Oregon,Kentucky,47.73065731
+Kentucky,Purdue,Kentucky,33.47372882
+Kentucky,Saint Louis,Kentucky,75.95067356
+Kentucky,Saint Mary's (CA),Kentucky,68.82091577
+Kentucky,Seton Hall,Kentucky,74.24511934
+Kentucky,St. John's (NY),Kentucky,73.09831139
+Kentucky,Syracuse,Kentucky,58.89983147
+Kentucky,Tennessee,Tennessee,36.37856331
+Kentucky,Texas Tech,Kentucky,41.62623389
+Kentucky,Utah State,Kentucky,24.49241406
+Kentucky,Vermont,Kentucky,73.72847963
+Kentucky,Villanova,Kentucky,33.82369821
+Kentucky,Virginia Commonwealth,Kentucky,71.49857714
+Kentucky,Virginia Tech,Kentucky,45.22841567
+Kentucky,Virginia,Virginia,2.952376943
+Kentucky,Washington,Kentucky,48.34848493
+Kentucky,Wisconsin,Kentucky,28.88000533
+Kentucky,Wofford,Kentucky,21.07229461
+Kentucky,Yale,Kentucky,93.62738189
+Liberty,Abilene Christian,Liberty,23.96927772
+Liberty,Arizona State,Liberty,27.55282775
+Liberty,Auburn,Auburn,58.56992593
+Liberty,Baylor,Liberty,49.69905605
+Liberty,Belmont,Liberty,10.93240681
+Liberty,Bradley,Liberty,62.76169727
+Liberty,Buffalo,Buffalo,54.03545566
+Liberty,UC-Irvine,UC-Irvine,16.65312387
+Liberty,Central Florida,Liberty,42.67374727
+Liberty,Cincinnati,Cincinnati,4.093105393
+Liberty,Colgate,Liberty,20.46415144
+Liberty,Duke,Duke,74.97703882
+Liberty,Fairleigh Dickinson,Liberty,65.0548603
+Liberty,Florida State,Florida State,66.68424531
+Liberty,Florida,Liberty,7.008194243
+Liberty,Gardner-Webb,Liberty,24.12892767
+Liberty,Georgia State,Liberty,37.11565339
+Liberty,Gonzaga,Gonzaga,51.99427636
+Liberty,Houston,Houston,34.62461106
+Liberty,Iona,Liberty,70.27228296
+Liberty,Iowa State,Iowa State,45.69999567
+Liberty,Iowa,Iowa,26.79159835
+Liberty,Kansas State,Kansas State,14.32415332
+Liberty,Kansas,Kansas,59.33289667
+Liberty,Kentucky,Kentucky,51.4397943
+Liberty,Louisiana State,Louisiana State,48.53737317
+Liberty,Louisville,Louisville,18.8700011
+Liberty,Marquette,Marquette,14.37092958
+Liberty,Maryland,Maryland,8.567302444
+Liberty,Michigan State,Michigan State,60.28330748
+Liberty,Michigan,Michigan,43.0025841
+Liberty,Minnesota,Minnesota,1.49277196
+Liberty,Mississippi State,Mississippi State,32.22265413
+Liberty,Mississippi,Liberty,34.26140888
+Liberty,Montana,Liberty,5.24941115
+Liberty,Murray State,Liberty,9.920126464
+Liberty,Nevada,Nevada,36.30485642
+Liberty,New Mexico State,New Mexico State,20.52544222
+Liberty,North Carolina Central,Liberty,74.83350375
+Liberty,North Carolina,North Carolina,64.66863105
+Liberty,North Dakota State,Liberty,70.4773772
+Liberty,Northeastern,Liberty,39.0766131
+Liberty,Northern Kentucky,Liberty,5.614370627
+Liberty,Ohio State,Liberty,32.01466755
+Liberty,Oklahoma,Liberty,22.55549214
+Liberty,Old Dominion,Liberty,15.85870891
+Liberty,Oregon,Oregon,18.81548734
+Liberty,Purdue,Purdue,25.34338441
+Liberty,Saint Louis,Liberty,34.67626995
+Liberty,Saint Mary's (CA),Liberty,18.40504048
+Liberty,Seton Hall,Liberty,27.85185021
+Liberty,St. John's (NY),Liberty,29.38461719
+Liberty,Syracuse,Liberty,9.156679073
+Liberty,Tennessee,Tennessee,63.95202557
+Liberty,Texas Tech,Texas Tech,17.05143797
+Liberty,Utah State,Utah State,28.13426334
+Liberty,Vermont,Liberty,29.76620927
+Liberty,Villanova,Villanova,25.80576262
+Liberty,Virginia Commonwealth,Liberty,26.66140658
+Liberty,Virginia Tech,Virginia Tech,2.499548623
+Liberty,Virginia,Virginia,44.00604118
+Liberty,Washington,Washington,12.75196409
+Liberty,Wisconsin,Wisconsin,23.65948531
+Liberty,Wofford,Wofford,24.60875182
+Liberty,Yale,Liberty,80.73712074
+Louisiana State,Abilene Christian,Louisiana State,65.39983142
+Louisiana State,Arizona State,Louisiana State,70.7615711
+Louisiana State,Auburn,Auburn,31.12737448
+Louisiana State,Baylor,Louisiana State,77.93218511
+Louisiana State,Belmont,Louisiana State,64.61232675
+Louisiana State,Bradley,Louisiana State,83.20640078
+Louisiana State,Buffalo,Buffalo,35.68737584
+Louisiana State,UC-Irvine,Louisiana State,18.75998194
+Louisiana State,Central Florida,Louisiana State,74.37249775
+Louisiana State,Cincinnati,Louisiana State,46.601191
+Louisiana State,Colgate,Louisiana State,63.41286827
+Louisiana State,Duke,Duke,62.18403619
+Louisiana State,Fairleigh Dickinson,Louisiana State,85.80536624
+Louisiana State,Florida State,Florida State,32.76145953
+Louisiana State,Florida,Louisiana State,44.87422327
+Louisiana State,Gardner-Webb,Louisiana State,64.59760298
+Louisiana State,Georgia State,Louisiana State,73.18568444
+Louisiana State,Gonzaga,Gonzaga,20.81681764
+Louisiana State,Houston,Houston,0.910870823
+Louisiana State,Iona,Louisiana State,88.13147176
+Louisiana State,Iowa State,Iowa State,8.645213201
+Louisiana State,Iowa,Louisiana State,20.73923056
+Louisiana State,Kansas State,Louisiana State,29.05861265
+Louisiana State,Kansas,Kansas,26.2920125
+Louisiana State,Kentucky,Kentucky,6.718249325
+Louisiana State,Liberty,Louisiana State,48.53737317
+Louisiana State,Louisville,Louisiana State,30.77222027
+Louisiana State,Marquette,Louisiana State,32.24576312
+Louisiana State,Maryland,Louisiana State,36.00896041
+Louisiana State,Michigan State,Michigan State,17.44799163
+Louisiana State,Michigan,Michigan,14.79242219
+Louisiana State,Minnesota,Louisiana State,46.7934701
+Louisiana State,Mississippi State,Louisiana State,11.44371399
+Louisiana State,Mississippi,Louisiana State,72.6765474
+Louisiana State,Montana,Louisiana State,54.90260065
+Louisiana State,Murray State,Louisiana State,62.03740063
+Louisiana State,Nevada,Nevada,4.955594446
+Louisiana State,New Mexico State,Louisiana State,15.97656352
+Louisiana State,North Carolina Central,Louisiana State,89.22119456
+Louisiana State,North Carolina,North Carolina,36.82435045
+Louisiana State,North Dakota State,Louisiana State,89.12770641
+Louisiana State,Northeastern,Louisiana State,74.76670083
+Louisiana State,Northern Kentucky,Louisiana State,49.89765147
+Louisiana State,Ohio State,Louisiana State,63.25225315
+Louisiana State,Oklahoma,Louisiana State,61.50601679
+Louisiana State,Old Dominion,Louisiana State,59.78230185
+Louisiana State,Oregon,Louisiana State,38.79663898
+Louisiana State,Purdue,Louisiana State,23.8703301
+Louisiana State,Saint Louis,Louisiana State,69.90634607
+Louisiana State,Saint Mary's (CA),Louisiana State,62.82314993
+Louisiana State,Seton Hall,Louisiana State,66.68777261
+Louisiana State,St. John's (NY),Louisiana State,64.23525231
+Louisiana State,Syracuse,Louisiana State,49.77363514
+Louisiana State,Tennessee,Tennessee,44.89249066
+Louisiana State,Texas Tech,Louisiana State,35.52995252
+Louisiana State,Utah State,Louisiana State,14.14407964
+Louisiana State,Vermont,Louisiana State,70.18058698
+Louisiana State,Villanova,Louisiana State,20.86277084
+Louisiana State,Virginia Commonwealth,Louisiana State,66.98162709
+Louisiana State,Virginia Tech,Louisiana State,39.69532927
+Louisiana State,Virginia,Virginia,9.378317406
+Louisiana State,Washington,Louisiana State,39.04801795
+Louisiana State,Wisconsin,Louisiana State,16.89665415
+Louisiana State,Wofford,Louisiana State,11.2284547
+Louisiana State,Yale,Louisiana State,92.78200121
+Louisville,Abilene Christian,Louisville,38.92165643
+Louisville,Arizona State,Louisville,49.70282032
+Louisville,Auburn,Auburn,58.88111998
+Louisville,Baylor,Louisville,61.44602748
+Louisville,Belmont,Louisville,40.14874695
+Louisville,Bradley,Louisville,71.33077704
+Louisville,Buffalo,Buffalo,53.92093529
+Louisville,UC-Irvine,Louisville,0.046864023
+Louisville,Central Florida,Louisville,55.86986868
+Louisville,Cincinnati,Louisville,13.64418446
+Louisville,Colgate,Louisville,35.18827041
+Louisville,Duke,Duke,72.90388636
+Louisville,Fairleigh Dickinson,Louisville,73.0787006
+Louisville,Florida State,Florida State,58.6406624
+Louisville,Florida,Louisville,24.56202876
+Louisville,Gardner-Webb,Louisville,36.66971822
+Louisville,Georgia State,Louisville,57.65521508
+Louisville,Gonzaga,Gonzaga,44.48291539
+Louisville,Houston,Houston,26.78188653
+Louisville,Iona,Louisville,77.78205306
+Louisville,Iowa State,Iowa State,34.83755791
+Louisville,Iowa,Iowa,10.98801219
+Louisville,Kansas State,Kansas State,5.149635745
+Louisville,Kansas,Kansas,53.23538808
+Louisville,Kentucky,Kentucky,42.79243968
+Louisville,Liberty,Louisville,18.8700011
+Louisville,Louisiana State,Louisiana State,30.77222027
+Louisville,Marquette,Marquette,4.532038616
+Louisville,Maryland,Louisville,4.358737212
+Louisville,Michigan State,Michigan State,48.44153996
+Louisville,Michigan,Michigan,42.32336031
+Louisville,Minnesota,Louisville,24.71098806
+Louisville,Mississippi State,Mississippi State,24.96309354
+Louisville,Mississippi,Louisville,54.11549102
+Louisville,Montana,Louisville,25.0345033
+Louisville,Murray State,Louisville,33.46320376
+Louisville,Nevada,Nevada,32.19331704
+Louisville,New Mexico State,New Mexico State,8.329922351
+Louisville,North Carolina Central,Louisville,78.97921466
+Louisville,North Carolina,North Carolina,61.4185095
+Louisville,North Dakota State,Louisville,79.0963107
+Louisville,Northeastern,Louisville,50.91065966
+Louisville,Northern Kentucky,Louisville,20.0630995
+Louisville,Ohio State,Louisville,44.05513091
+Louisville,Oklahoma,Louisville,43.94336151
+Louisville,Old Dominion,Louisville,34.85482659
+Louisville,Oregon,Louisville,10.79876614
+Louisville,Purdue,Purdue,7.00787875
+Louisville,Saint Louis,Louisville,47.37374876
+Louisville,Saint Mary's (CA),Louisville,36.14373188
+Louisville,Seton Hall,Louisville,48.75482876
+Louisville,St. John's (NY),Louisville,45.32152074
+Louisville,Syracuse,Louisville,22.53584305
+Louisville,Tennessee,Tennessee,64.31095456
+Louisville,Texas Tech,Louisville,4.95200841
+Louisville,Utah State,Utah State,16.09335924
+Louisville,Vermont,Louisville,46.45307528
+Louisville,Villanova,Villanova,14.56897194
+Louisville,Virginia Commonwealth,Louisville,42.775324
+Louisville,Virginia Tech,Louisville,5.189286189
+Louisville,Virginia,Virginia,29.6557099
+Louisville,Washington,Louisville,8.502789547
+Louisville,Wisconsin,Wisconsin,15.71087284
+Louisville,Wofford,Wofford,14.55531902
+Louisville,Yale,Louisville,85.85461687
+Marquette,Abilene Christian,Marquette,43.07505615
+Marquette,Arizona State,Marquette,52.96958952
+Marquette,Auburn,Auburn,56.69512633
+Marquette,Baylor,Marquette,66.02001201
+Marquette,Belmont,Marquette,42.06689973
+Marquette,Bradley,Marquette,78.52675781
+Marquette,Buffalo,Buffalo,65.17719756
+Marquette,UC-Irvine,UC-Irvine,21.20943337
+Marquette,Central Florida,Marquette,61.61853147
+Marquette,Cincinnati,Marquette,14.86557325
+Marquette,Colgate,Marquette,40.69875341
+Marquette,Duke,Duke,80.53262275
+Marquette,Fairleigh Dickinson,Marquette,77.51535651
+Marquette,Florida State,Florida State,63.39239182
+Marquette,Florida,Marquette,33.50065714
+Marquette,Gardner-Webb,Marquette,43.76380164
+Marquette,Georgia State,Marquette,59.93786097
+Marquette,Gonzaga,Gonzaga,55.6500487
+Marquette,Houston,Houston,40.54753244
+Marquette,Iona,Marquette,83.55725989
+Marquette,Iowa State,Iowa State,34.17250395
+Marquette,Iowa,Iowa,2.514038335
+Marquette,Kansas State,Marquette,6.880344667
+Marquette,Kansas,Kansas,52.88371064
+Marquette,Kentucky,Kentucky,42.78293491
+Marquette,Liberty,Marquette,14.37092958
+Marquette,Louisiana State,Louisiana State,32.24576312
+Marquette,Louisville,Marquette,4.532038616
+Marquette,Maryland,Marquette,14.41135939
+Marquette,Michigan State,Michigan State,50.41650138
+Marquette,Michigan,Michigan,42.09586947
+Marquette,Minnesota,Marquette,25.80882124
+Marquette,Mississippi State,Mississippi State,18.3097398
+Marquette,Mississippi,Marquette,57.26123975
+Marquette,Montana,Marquette,26.79187802
+Marquette,Murray State,Marquette,34.88508207
+Marquette,Nevada,Nevada,42.42003135
+Marquette,New Mexico State,New Mexico State,27.1274098
+Marquette,North Carolina Central,Marquette,84.75609591
+Marquette,North Carolina,North Carolina,62.50343883
+Marquette,North Dakota State,Marquette,84.02511827
+Marquette,Northeastern,Marquette,58.12672021
+Marquette,Northern Kentucky,Marquette,21.92234571
+Marquette,Ohio State,Marquette,54.73804677
+Marquette,Oklahoma,Marquette,51.369824
+Marquette,Old Dominion,Marquette,39.2437432
+Marquette,Oregon,Marquette,6.657412333
+Marquette,Purdue,Purdue,3.014397886
+Marquette,Saint Louis,Marquette,54.69926037
+Marquette,Saint Mary's (CA),Marquette,39.56833592
+Marquette,Seton Hall,Marquette,51.9544435
+Marquette,St. John's (NY),Marquette,46.7321254
+Marquette,Syracuse,Marquette,31.443385
+Marquette,Tennessee,Tennessee,69.80097935
+Marquette,Texas Tech,Marquette,10.10818346
+Marquette,Utah State,Utah State,28.26918189
+Marquette,Vermont,Marquette,48.82328712
+Marquette,Villanova,Villanova,13.75487322
+Marquette,Virginia Commonwealth,Marquette,49.86073615
+Marquette,Virginia Tech,Marquette,14.59481518
+Marquette,Virginia,Virginia,36.44406809
+Marquette,Washington,Marquette,9.93076914
+Marquette,Wisconsin,Wisconsin,6.223452424
+Marquette,Wofford,Wofford,27.63206294
+Marquette,Yale,Marquette,89.90519841
+Maryland,Abilene Christian,Maryland,33.36693288
+Maryland,Arizona State,Maryland,41.51919609
+Maryland,Auburn,Auburn,60.76454752
+Maryland,Baylor,Maryland,55.85818697
+Maryland,Belmont,Maryland,33.7646155
+Maryland,Bradley,Maryland,68.5439089
+Maryland,Buffalo,Buffalo,60.10580853
+Maryland,UC-Irvine,UC-Irvine,14.26706568
+Maryland,Central Florida,Maryland,51.82694967
+Maryland,Cincinnati,Maryland,10.83889554
+Maryland,Colgate,Maryland,27.90203234
+Maryland,Duke,Duke,75.15567151
+Maryland,Fairleigh Dickinson,Maryland,68.21985533
+Maryland,Florida State,Florida State,58.71097452
+Maryland,Florida,Maryland,20.07183996
+Maryland,Gardner-Webb,Maryland,29.87209386
+Maryland,Georgia State,Maryland,46.00168773
+Maryland,Gonzaga,Gonzaga,48.58314588
+Maryland,Houston,Houston,33.99611019
+Maryland,Iona,Maryland,74.57880519
+Maryland,Iowa State,Iowa State,41.86908716
+Maryland,Iowa,Iowa,17.21651157
+Maryland,Kansas State,Kansas State,9.406031769
+Maryland,Kansas,Kansas,56.29002963
+Maryland,Kentucky,Kentucky,42.59262824
+Maryland,Liberty,Maryland,8.567302444
+Maryland,Louisiana State,Louisiana State,36.00896041
+Maryland,Louisville,Louisville,4.358737212
+Maryland,Marquette,Marquette,14.41135939
+Maryland,Michigan State,Michigan State,47.5509132
+Maryland,Michigan,Michigan,44.49279182
+Maryland,Minnesota,Maryland,17.48962627
+Maryland,Mississippi State,Mississippi State,31.62983649
+Maryland,Mississippi,Maryland,44.64653391
+Maryland,Montana,Maryland,18.22882848
+Maryland,Murray State,Maryland,28.91240131
+Maryland,Nevada,Nevada,42.30274632
+Maryland,New Mexico State,New Mexico State,20.06802552
+Maryland,North Carolina Central,Maryland,76.44412761
+Maryland,North Carolina,North Carolina,59.5811338
+Maryland,North Dakota State,Maryland,73.32370141
+Maryland,Northeastern,Maryland,45.4968562
+Maryland,Northern Kentucky,Maryland,11.66570326
+Maryland,Ohio State,Maryland,40.50360525
+Maryland,Oklahoma,Maryland,39.91883235
+Maryland,Old Dominion,Maryland,30.38798069
+Maryland,Oregon,Oregon,1.209805507
+Maryland,Purdue,Purdue,11.03325553
+Maryland,Saint Louis,Maryland,42.94224741
+Maryland,Saint Mary's (CA),Maryland,23.17396169
+Maryland,Seton Hall,Maryland,39.44136369
+Maryland,St. John's (NY),Maryland,33.74873761
+Maryland,Syracuse,Maryland,18.11582716
+Maryland,Tennessee,Tennessee,66.95921332
+Maryland,Texas Tech,Maryland,3.756526454
+Maryland,Utah State,Utah State,27.91816327
+Maryland,Vermont,Maryland,37.54547379
+Maryland,Villanova,Villanova,23.6303918
+Maryland,Virginia Commonwealth,Maryland,37.78483711
+Maryland,Virginia Tech,Maryland,4.55932948
+Maryland,Virginia,Virginia,30.20243965
+Maryland,Washington,Maryland,3.642195548
+Maryland,Wisconsin,Wisconsin,16.19965346
+Maryland,Wofford,Wofford,24.33697515
+Maryland,Yale,Maryland,84.85597691
+Michigan State,Abilene Christian,Michigan State,75.53340705
+Michigan State,Arizona State,Michigan State,78.65214936
+Michigan State,Auburn,Auburn,8.479694247
+Michigan State,Baylor,Michigan State,83.69096511
+Michigan State,Belmont,Michigan State,71.67862064
+Michigan State,Bradley,Michigan State,89.09237124
+Michigan State,Buffalo,Buffalo,11.8550688
+Michigan State,UC-Irvine,Michigan State,40.14913401
+Michigan State,Central Florida,Michigan State,81.02418977
+Michigan State,Cincinnati,Michigan State,60.96238946
+Michigan State,Colgate,Michigan State,75.76853873
+Michigan State,Duke,Duke,45.34550367
+Michigan State,Fairleigh Dickinson,Michigan State,90.64563428
+Michigan State,Florida State,Florida State,11.1316957
+Michigan State,Florida,Michigan State,62.02556382
+Michigan State,Gardner-Webb,Michigan State,75.59767513
+Michigan State,Georgia State,Michigan State,80.60022923
+Michigan State,Gonzaga,Gonzaga,5.750654037
+Michigan State,Houston,Michigan State,20.99537869
+Michigan State,Iona,Michigan State,91.59050956
+Michigan State,Iowa State,Michigan State,15.28452774
+Michigan State,Iowa,Michigan State,39.36317586
+Michigan State,Kansas State,Michigan State,46.8144055
+Michigan State,Kansas,Kansas,0.616211846
+Michigan State,Kentucky,Michigan State,10.35603851
+Michigan State,Liberty,Michigan State,60.28330748
+Michigan State,Louisiana State,Michigan State,17.44799163
+Michigan State,Louisville,Michigan State,48.44153996
+Michigan State,Marquette,Michigan State,50.41650138
+Michigan State,Maryland,Michigan State,47.5509132
+Michigan State,Michigan,Michigan State,2.215478366
+Michigan State,Minnesota,Michigan State,62.84315177
+Michigan State,Mississippi State,Michigan State,29.66331761
+Michigan State,Mississippi,Michigan State,80.07386389
+Michigan State,Montana,Michigan State,69.4151528
+Michigan State,Murray State,Michigan State,70.08257803
+Michigan State,Nevada,Michigan State,15.21566752
+Michigan State,New Mexico State,Michigan State,38.27876795
+Michigan State,North Carolina Central,Michigan State,92.79777905
+Michigan State,North Carolina,North Carolina,18.03554125
+Michigan State,North Dakota State,Michigan State,92.88451683
+Michigan State,Northeastern,Michigan State,81.20072397
+Michigan State,Northern Kentucky,Michigan State,66.69827356
+Michigan State,Ohio State,Michigan State,74.34496455
+Michigan State,Oklahoma,Michigan State,71.20732756
+Michigan State,Old Dominion,Michigan State,73.26075563
+Michigan State,Oregon,Michigan State,54.8496159
+Michigan State,Purdue,Michigan State,38.61984383
+Michigan State,Saint Louis,Michigan State,79.75146726
+Michigan State,Saint Mary's (CA),Michigan State,73.94649324
+Michigan State,Seton Hall,Michigan State,76.47228739
+Michigan State,St. John's (NY),Michigan State,75.36776543
+Michigan State,Syracuse,Michigan State,64.08848118
+Michigan State,Tennessee,Tennessee,30.68427222
+Michigan State,Texas Tech,Michigan State,50.21791096
+Michigan State,Utah State,Michigan State,36.11016337
+Michigan State,Vermont,Michigan State,79.11418382
+Michigan State,Villanova,Michigan State,44.72273854
+Michigan State,Virginia Commonwealth,Michigan State,76.44627658
+Michigan State,Virginia Tech,Michigan State,51.51753622
+Michigan State,Virginia,Michigan State,1.715543169
+Michigan State,Washington,Michigan State,57.62025945
+Michigan State,Wisconsin,Michigan State,35.71360595
+Michigan State,Wofford,Michigan State,29.48382234
+Michigan State,Yale,Michigan State,94.10622787
+Michigan,Abilene Christian,Michigan,66.7127917
+Michigan,Arizona State,Michigan,71.8456253
+Michigan,Auburn,Auburn,13.58613605
+Michigan,Baylor,Michigan,79.87583518
+Michigan,Belmont,Michigan,63.48486007
+Michigan,Bradley,Michigan,85.9480552
+Michigan,Buffalo,Buffalo,20.93785692
+Michigan,UC-Irvine,Michigan,29.54374651
+Michigan,Central Florida,Michigan,75.41862534
+Michigan,Cincinnati,Michigan,50.19686759
+Michigan,Colgate,Michigan,65.83071787
+Michigan,Duke,Duke,45.70519637
+Michigan,Fairleigh Dickinson,Michigan,86.84899181
+Michigan,Florida State,Florida State,13.33876684
+Michigan,Florida,Michigan,58.17049113
+Michigan,Gardner-Webb,Michigan,66.69063917
+Michigan,Georgia State,Michigan,74.07143291
+Michigan,Gonzaga,Gonzaga,8.459505405
+Michigan,Houston,Michigan,18.36250963
+Michigan,Iona,Michigan,88.58489014
+Michigan,Iowa State,Michigan,13.37152931
+Michigan,Iowa,Michigan,31.32533816
+Michigan,Kansas State,Michigan,34.99390226
+Michigan,Kansas,Kansas,5.769814253
+Michigan,Kentucky,Michigan,8.153988543
+Michigan,Liberty,Michigan,43.0025841
+Michigan,Louisiana State,Michigan,14.79242219
+Michigan,Louisville,Michigan,42.32336031
+Michigan,Marquette,Michigan,42.09586947
+Michigan,Maryland,Michigan,44.49279182
+Michigan,Michigan State,Michigan State,2.215478366
+Michigan,Minnesota,Michigan,58.23401026
+Michigan,Mississippi State,Michigan,24.10631811
+Michigan,Mississippi,Michigan,72.65971845
+Michigan,Montana,Michigan,59.0386639
+Michigan,Murray State,Michigan,61.00198243
+Michigan,Nevada,Michigan,8.840478847
+Michigan,New Mexico State,Michigan,25.72817278
+Michigan,North Carolina Central,Michigan,89.86315689
+Michigan,North Carolina,North Carolina,20.17329622
+Michigan,North Dakota State,Michigan,88.78578244
+Michigan,Northeastern,Michigan,74.02728748
+Michigan,Northern Kentucky,Michigan,55.51126646
+Michigan,Ohio State,Michigan,71.18397267
+Michigan,Oklahoma,Michigan,69.22976384
+Michigan,Old Dominion,Michigan,63.91499001
+Michigan,Oregon,Michigan,44.1727831
+Michigan,Purdue,Michigan,38.25031913
+Michigan,Saint Louis,Michigan,72.1316732
+Michigan,Saint Mary's (CA),Michigan,66.02061379
+Michigan,Seton Hall,Michigan,71.29452993
+Michigan,St. John's (NY),Michigan,68.53060075
+Michigan,Syracuse,Michigan,56.84221135
+Michigan,Tennessee,Tennessee,29.05305388
+Michigan,Texas Tech,Michigan,46.85432936
+Michigan,Utah State,Michigan,21.3959334
+Michigan,Vermont,Michigan,71.46035467
+Michigan,Villanova,Michigan,28.88602515
+Michigan,Virginia Commonwealth,Michigan,68.47956159
+Michigan,Virginia Tech,Michigan,48.0878713
+Michigan,Virginia,Michigan,5.198693156
+Michigan,Washington,Michigan,46.19779258
+Michigan,Wisconsin,Michigan,33.70271218
+Michigan,Wofford,Michigan,18.22165505
+Michigan,Yale,Michigan,92.49842917
+Minnesota,Abilene Christian,Minnesota,18.92580689
+Minnesota,Arizona State,Minnesota,31.39742098
+Minnesota,Auburn,Auburn,70.95416895
+Minnesota,Baylor,Minnesota,47.35569121
+Minnesota,Belmont,Minnesota,24.6802971
+Minnesota,Bradley,Minnesota,60.80671444
+Minnesota,Buffalo,Buffalo,65.22879004
+Minnesota,UC-Irvine,UC-Irvine,18.08330455
+Minnesota,Central Florida,Minnesota,41.79525593
+Minnesota,Cincinnati,Cincinnati,4.551086451
+Minnesota,Colgate,Minnesota,19.37989196
+Minnesota,Duke,Duke,81.49849337
+Minnesota,Fairleigh Dickinson,Minnesota,61.08920922
+Minnesota,Florida State,Florida State,72.87593067
+Minnesota,Florida,Minnesota,3.097899723
+Minnesota,Gardner-Webb,Minnesota,21.21522094
+Minnesota,Georgia State,Minnesota,41.17770213
+Minnesota,Gonzaga,Gonzaga,57.38620452
+Minnesota,Houston,Houston,46.00394712
+Minnesota,Iona,Minnesota,67.48367561
+Minnesota,Iowa State,Iowa State,50.3992141
+Minnesota,Iowa,Iowa,34.22038648
+Minnesota,Kansas State,Kansas State,24.62371798
+Minnesota,Kansas,Kansas,66.60714437
+Minnesota,Kentucky,Kentucky,61.32268648
+Minnesota,Liberty,Minnesota,1.49277196
+Minnesota,Louisiana State,Louisiana State,46.7934701
+Minnesota,Louisville,Louisville,24.71098806
+Minnesota,Marquette,Marquette,25.80882124
+Minnesota,Maryland,Maryland,17.48962627
+Minnesota,Michigan State,Michigan State,62.84315177
+Minnesota,Michigan,Michigan,58.23401026
+Minnesota,Mississippi State,Mississippi State,43.394734
+Minnesota,Mississippi,Minnesota,36.72929696
+Minnesota,Montana,Minnesota,8.247268782
+Minnesota,Murray State,Minnesota,17.37625181
+Minnesota,Nevada,Nevada,46.99340043
+Minnesota,New Mexico State,New Mexico State,25.37447542
+Minnesota,North Carolina Central,Minnesota,70.87685606
+Minnesota,North Carolina,North Carolina,72.85342926
+Minnesota,North Dakota State,Minnesota,69.29554718
+Minnesota,Northeastern,Minnesota,33.12735803
+Minnesota,Northern Kentucky,Minnesota,3.105599066
+Minnesota,Ohio State,Minnesota,24.44017988
+Minnesota,Oklahoma,Minnesota,24.55602689
+Minnesota,Old Dominion,Minnesota,17.82935756
+Minnesota,Oregon,Oregon,11.87342608
+Minnesota,Purdue,Purdue,31.65344187
+Minnesota,Saint Louis,Minnesota,31.88624455
+Minnesota,Saint Mary's (CA),Minnesota,15.673184
+Minnesota,Seton Hall,Minnesota,28.69552582
+Minnesota,St. John's (NY),Minnesota,31.04538392
+Minnesota,Syracuse,Minnesota,0.891834901
+Minnesota,Tennessee,Tennessee,74.90289312
+Minnesota,Texas Tech,Texas Tech,13.2613217
+Minnesota,Utah State,Utah State,32.42970712
+Minnesota,Vermont,Minnesota,27.53499999
+Minnesota,Villanova,Villanova,35.15612833
+Minnesota,Virginia Commonwealth,Minnesota,26.63506918
+Minnesota,Virginia Tech,Virginia Tech,12.94934667
+Minnesota,Virginia,Virginia,48.16701342
+Minnesota,Washington,Washington,9.695307863
+Minnesota,Wisconsin,Wisconsin,35.81635519
+Minnesota,Wofford,Wofford,31.18517984
+Minnesota,Yale,Minnesota,79.98161331
+Mississippi State,Abilene Christian,Mississippi State,54.75496867
+Mississippi State,Arizona State,Mississippi State,64.75011184
+Mississippi State,Auburn,Auburn,39.04211755
+Mississippi State,Baylor,Mississippi State,75.17639131
+Mississippi State,Belmont,Mississippi State,55.20998339
+Mississippi State,Bradley,Mississippi State,80.81157024
+Mississippi State,Buffalo,Buffalo,42.68312021
+Mississippi State,UC-Irvine,Mississippi State,8.103217014
+Mississippi State,Central Florida,Mississippi State,71.86508449
+Mississippi State,Cincinnati,Mississippi State,35.91036806
+Mississippi State,Colgate,Mississippi State,53.60235899
+Mississippi State,Duke,Duke,63.6504966
+Mississippi State,Fairleigh Dickinson,Mississippi State,82.23713364
+Mississippi State,Florida State,Florida State,41.76315624
+Mississippi State,Florida,Mississippi State,44.22640684
+Mississippi State,Gardner-Webb,Mississippi State,55.13759009
+Mississippi State,Georgia State,Mississippi State,67.95421518
+Mississippi State,Gonzaga,Gonzaga,32.35700693
+Mississippi State,Houston,Houston,12.97203155
+Mississippi State,Iona,Mississippi State,85.45600926
+Mississippi State,Iowa State,Iowa State,17.97606331
+Mississippi State,Iowa,Mississippi State,9.402930896
+Mississippi State,Kansas State,Mississippi State,23.32126639
+Mississippi State,Kansas,Kansas,32.74108997
+Mississippi State,Kentucky,Kentucky,22.44120263
+Mississippi State,Liberty,Mississippi State,32.22265413
+Mississippi State,Louisiana State,Louisiana State,11.44371399
+Mississippi State,Louisville,Mississippi State,24.96309354
+Mississippi State,Marquette,Mississippi State,18.3097398
+Mississippi State,Maryland,Mississippi State,31.62983649
+Mississippi State,Michigan State,Michigan State,29.66331761
+Mississippi State,Michigan,Michigan,24.10631811
+Mississippi State,Minnesota,Mississippi State,43.394734
+Mississippi State,Mississippi,Mississippi State,67.71605474
+Mississippi State,Montana,Mississippi State,42.36542943
+Mississippi State,Murray State,Mississippi State,49.9015305
+Mississippi State,Nevada,Nevada,18.71507672
+Mississippi State,New Mexico State,Mississippi State,5.949139729
+Mississippi State,North Carolina Central,Mississippi State,87.11428836
+Mississippi State,North Carolina,North Carolina,44.63245089
+Mississippi State,North Dakota State,Mississippi State,86.30348123
+Mississippi State,Northeastern,Mississippi State,66.56115683
+Mississippi State,Northern Kentucky,Mississippi State,38.40078399
+Mississippi State,Ohio State,Mississippi State,61.15422325
+Mississippi State,Oklahoma,Mississippi State,60.12861706
+Mississippi State,Old Dominion,Mississippi State,53.83861977
+Mississippi State,Oregon,Mississippi State,27.04736912
+Mississippi State,Purdue,Mississippi State,17.88484963
+Mississippi State,Saint Louis,Mississippi State,65.83006121
+Mississippi State,Saint Mary's (CA),Mississippi State,53.90013904
+Mississippi State,Seton Hall,Mississippi State,61.30781522
+Mississippi State,St. John's (NY),Mississippi State,54.76637565
+Mississippi State,Syracuse,Mississippi State,47.17575154
+Mississippi State,Tennessee,Tennessee,53.52933722
+Mississippi State,Texas Tech,Mississippi State,27.95174998
+Mississippi State,Utah State,Utah State,1.986232169
+Mississippi State,Vermont,Mississippi State,60.56229607
+Mississippi State,Villanova,Mississippi State,8.236806692
+Mississippi State,Virginia Commonwealth,Mississippi State,62.21238975
+Mississippi State,Virginia Tech,Mississippi State,30.93556059
+Mississippi State,Virginia,Virginia,9.992629728
+Mississippi State,Washington,Mississippi State,31.32148519
+Mississippi State,Wisconsin,Mississippi State,13.26263832
+Mississippi State,Wofford,Wofford,0.288838164
+Mississippi State,Yale,Mississippi State,90.97492516
+Mississippi,Abilene Christian,Abilene Christian,17.75049153
+Mississippi,Arizona State,Arizona State,5.980441697
+Mississippi,Auburn,Auburn,85.69381675
+Mississippi,Baylor,Mississippi,15.88605678
+Mississippi,Belmont,Belmont,15.99415376
+Mississippi,Bradley,Mississippi,33.90189873
+Mississippi,Buffalo,Buffalo,81.96970561
+Mississippi,UC-Irvine,UC-Irvine,52.30944705
+Mississippi,Central Florida,Mississippi,8.049067082
+Mississippi,Cincinnati,Cincinnati,39.47819778
+Mississippi,Colgate,Colgate,24.88230768
+Mississippi,Duke,Duke,90.03801639
+Mississippi,Fairleigh Dickinson,Mississippi,31.77313241
+Mississippi,Florida State,Florida State,86.24425037
+Mississippi,Florida,Florida,27.41240559
+Mississippi,Gardner-Webb,Gardner-Webb,21.37466924
+Mississippi,Georgia State,Mississippi,5.560717531
+Mississippi,Gonzaga,Gonzaga,76.31965138
+Mississippi,Houston,Houston,67.80157149
+Mississippi,Iona,Mississippi,46.11858733
+Mississippi,Iowa State,Iowa State,76.56203588
+Mississippi,Iowa,Iowa,58.86975442
+Mississippi,Kansas State,Kansas State,52.19259733
+Mississippi,Kansas,Kansas,84.41714573
+Mississippi,Kentucky,Kentucky,76.79493469
+Mississippi,Liberty,Liberty,34.26140888
+Mississippi,Louisiana State,Louisiana State,72.6765474
+Mississippi,Louisville,Louisville,54.11549102
+Mississippi,Marquette,Marquette,57.26123975
+Mississippi,Maryland,Maryland,44.64653391
+Mississippi,Michigan State,Michigan State,80.07386389
+Mississippi,Michigan,Michigan,72.65971845
+Mississippi,Minnesota,Minnesota,36.72929696
+Mississippi,Mississippi State,Mississippi State,67.71605474
+Mississippi,Montana,Montana,34.92394581
+Mississippi,Murray State,Murray State,22.02640033
+Mississippi,Nevada,Nevada,69.58968374
+Mississippi,New Mexico State,New Mexico State,57.98689875
+Mississippi,North Carolina Central,Mississippi,50.74964547
+Mississippi,North Carolina,North Carolina,85.58023823
+Mississippi,North Dakota State,Mississippi,47.36616124
+Mississippi,Northeastern,Northeastern,1.509360587
+Mississippi,Northern Kentucky,Northern Kentucky,41.32988087
+Mississippi,Ohio State,Ohio State,3.65654953
+Mississippi,Oklahoma,Oklahoma,8.204517658
+Mississippi,Old Dominion,Old Dominion,22.52166039
+Mississippi,Oregon,Oregon,46.89911691
+Mississippi,Purdue,Purdue,57.30405081
+Mississippi,Saint Louis,Saint Louis,7.096941259
+Mississippi,Saint Mary's (CA),Saint Mary's (CA),20.9975822
+Mississippi,Seton Hall,Seton Hall,6.972915649
+Mississippi,St. John's (NY),St. John's (NY),9.175480196
+Mississippi,Syracuse,Syracuse,31.02949419
+Mississippi,Tennessee,Tennessee,85.34519976
+Mississippi,Texas Tech,Texas Tech,46.67605152
+Mississippi,Utah State,Utah State,63.59651451
+Mississippi,Vermont,Vermont,8.877337756
+Mississippi,Villanova,Villanova,65.22014157
+Mississippi,Virginia Commonwealth,Virginia Commonwealth,9.507671872
+Mississippi,Virginia Tech,Virginia Tech,44.94574039
+Mississippi,Virginia,Virginia,63.55227624
+Mississippi,Washington,Washington,46.82060423
+Mississippi,Wisconsin,Wisconsin,61.15715785
+Mississippi,Wofford,Wofford,57.68431977
+Mississippi,Yale,Mississippi,66.37349264
+Montana,Abilene Christian,Montana,15.47519649
+Montana,Arizona State,Montana,24.56448065
+Montana,Auburn,Auburn,65.98651585
+Montana,Baylor,Montana,45.42551252
+Montana,Belmont,Montana,11.41324635
+Montana,Bradley,Montana,59.25434886
+Montana,Buffalo,Buffalo,68.35761113
+Montana,UC-Irvine,UC-Irvine,33.87842054
+Montana,Central Florida,Montana,38.08851412
+Montana,Cincinnati,Cincinnati,15.10996938
+Montana,Colgate,Montana,15.26475607
+Montana,Duke,Duke,84.09979867
+Montana,Fairleigh Dickinson,Montana,61.73149999
+Montana,Florida State,Florida State,74.52551403
+Montana,Florida,Montana,0.513567655
+Montana,Gardner-Webb,Montana,18.97600109
+Montana,Georgia State,Montana,34.29796346
+Montana,Gonzaga,Gonzaga,66.81094854
+Montana,Houston,Houston,55.35545163
+Montana,Iona,Montana,68.70654586
+Montana,Iowa State,Iowa State,53.8708916
+Montana,Iowa,Iowa,33.19175539
+Montana,Kansas State,Kansas State,20.70842689
+Montana,Kansas,Kansas,66.71493507
+Montana,Kentucky,Kentucky,62.0604464
+Montana,Liberty,Liberty,5.24941115
+Montana,Louisiana State,Louisiana State,54.90260065
+Montana,Louisville,Louisville,25.0345033
+Montana,Marquette,Marquette,26.79187802
+Montana,Maryland,Maryland,18.22882848
+Montana,Michigan State,Michigan State,69.4151528
+Montana,Michigan,Michigan,59.0386639
+Montana,Minnesota,Minnesota,8.247268782
+Montana,Mississippi State,Mississippi State,42.36542943
+Montana,Mississippi,Montana,34.92394581
+Montana,Murray State,Montana,3.076017963
+Montana,Nevada,Nevada,56.6330866
+Montana,New Mexico State,New Mexico State,37.42216873
+Montana,North Carolina Central,Montana,72.22190407
+Montana,North Carolina,North Carolina,72.83285907
+Montana,North Dakota State,Montana,71.29882976
+Montana,Northeastern,Montana,37.69634777
+Montana,Northern Kentucky,Montana,0.256076118
+Montana,Ohio State,Montana,25.47124
+Montana,Oklahoma,Montana,17.8703982
+Montana,Old Dominion,Montana,10.63985305
+Montana,Oregon,Oregon,25.8098211
+Montana,Purdue,Purdue,34.0784765
+Montana,Saint Louis,Montana,29.80256539
+Montana,Saint Mary's (CA),Montana,11.04351673
+Montana,Seton Hall,Montana,24.65836579
+Montana,St. John's (NY),Montana,24.35515939
+Montana,Syracuse,Montana,2.376347756
+Montana,Tennessee,Tennessee,76.72834731
+Montana,Texas Tech,Texas Tech,27.21776886
+Montana,Utah State,Utah State,43.04563803
+Montana,Vermont,Montana,21.80258573
+Montana,Villanova,Villanova,32.38219305
+Montana,Virginia Commonwealth,Montana,21.513364
+Montana,Virginia Tech,Virginia Tech,13.3252066
+Montana,Virginia,Virginia,60.71569531
+Montana,Washington,Washington,19.97233007
+Montana,Wisconsin,Wisconsin,34.73376638
+Montana,Wofford,Wofford,40.11122365
+Montana,Yale,Montana,79.6205576
+Murray State,Abilene Christian,Murray State,12.83685178
+Murray State,Arizona State,Murray State,14.20512618
+Murray State,Auburn,Auburn,73.0988316
+Murray State,Baylor,Murray State,34.99009127
+Murray State,Belmont,Murray State,2.632916944
+Murray State,Bradley,Murray State,54.31858541
+Murray State,Buffalo,Buffalo,72.61139352
+Murray State,UC-Irvine,UC-Irvine,37.30256779
+Murray State,Central Florida,Murray State,28.26764284
+Murray State,Cincinnati,Cincinnati,18.07899939
+Murray State,Colgate,Murray State,10.41253229
+Murray State,Duke,Duke,85.85105666
+Murray State,Fairleigh Dickinson,Murray State,56.45613428
+Murray State,Florida State,Florida State,76.85085137
+Murray State,Florida,Florida,8.213461611
+Murray State,Gardner-Webb,Murray State,12.26976977
+Murray State,Georgia State,Murray State,24.40670732
+Murray State,Gonzaga,Gonzaga,69.82413231
+Murray State,Houston,Houston,57.7955524
+Murray State,Iona,Murray State,63.31599104
+Murray State,Iowa State,Iowa State,62.27161436
+Murray State,Iowa,Iowa,39.43675747
+Murray State,Kansas State,Kansas State,31.38220434
+Murray State,Kansas,Kansas,72.49856436
+Murray State,Kentucky,Kentucky,64.14828018
+Murray State,Liberty,Liberty,9.920126464
+Murray State,Louisiana State,Louisiana State,62.03740063
+Murray State,Louisville,Louisville,33.46320376
+Murray State,Marquette,Marquette,34.88508207
+Murray State,Maryland,Maryland,28.91240131
+Murray State,Michigan State,Michigan State,70.08257803
+Murray State,Michigan,Michigan,61.00198243
+Murray State,Minnesota,Minnesota,17.37625181
+Murray State,Mississippi State,Mississippi State,49.9015305
+Murray State,Mississippi,Murray State,22.02640033
+Murray State,Montana,Montana,3.076017963
+Murray State,Nevada,Nevada,59.19407447
+Murray State,New Mexico State,New Mexico State,42.46748096
+Murray State,North Carolina Central,Murray State,68.72733417
+Murray State,North Carolina,North Carolina,76.30293071
+Murray State,North Dakota State,Murray State,67.53500466
+Murray State,Northeastern,Murray State,28.11127426
+Murray State,Northern Kentucky,Northern Kentucky,6.718397956
+Murray State,Ohio State,Murray State,16.97265478
+Murray State,Oklahoma,Murray State,7.103116781
+Murray State,Old Dominion,Murray State,6.000003626
+Murray State,Oregon,Oregon,32.47091209
+Murray State,Purdue,Purdue,43.77720901
+Murray State,Saint Louis,Murray State,21.76703726
+Murray State,Saint Mary's (CA),Murray State,2.379756284
+Murray State,Seton Hall,Murray State,12.61913517
+Murray State,St. John's (NY),Murray State,13.72699705
+Murray State,Syracuse,Syracuse,6.791945759
+Murray State,Tennessee,Tennessee,77.93580373
+Murray State,Texas Tech,Texas Tech,34.01218505
+Murray State,Utah State,Utah State,45.22169582
+Murray State,Vermont,Murray State,19.63335876
+Murray State,Villanova,Villanova,43.13550551
+Murray State,Virginia Commonwealth,Murray State,10.76543058
+Murray State,Virginia Tech,Virginia Tech,25.30732855
+Murray State,Virginia,Virginia,63.03125707
+Murray State,Washington,Washington,24.84087227
+Murray State,Wisconsin,Wisconsin,42.7150298
+Murray State,Wofford,Wofford,45.84679834
+Murray State,Yale,Murray State,76.31056463
+Nevada,Abilene Christian,Nevada,64.79258622
+Nevada,Arizona State,Nevada,68.93008494
+Nevada,Auburn,Auburn,20.69748063
+Nevada,Baylor,Nevada,78.87165417
+Nevada,Belmont,Nevada,62.03326534
+Nevada,Bradley,Nevada,85.83601036
+Nevada,Buffalo,Buffalo,33.59146702
+Nevada,UC-Irvine,Nevada,12.2481504
+Nevada,Central Florida,Nevada,76.81439368
+Nevada,Cincinnati,Nevada,44.75924774
+Nevada,Colgate,Nevada,66.58239939
+Nevada,Duke,Duke,60.46698598
+Nevada,Fairleigh Dickinson,Nevada,86.77810444
+Nevada,Florida State,Florida State,33.97840806
+Nevada,Florida,Nevada,51.22784247
+Nevada,Gardner-Webb,Nevada,67.7202943
+Nevada,Georgia State,Nevada,74.16831835
+Nevada,Gonzaga,Gonzaga,24.39993169
+Nevada,Houston,Houston,1.629947529
+Nevada,Iona,Nevada,89.53659505
+Nevada,Iowa State,Iowa State,0.492484754
+Nevada,Iowa,Nevada,27.8208583
+Nevada,Kansas State,Nevada,36.10007416
+Nevada,Kansas,Kansas,15.54161906
+Nevada,Kentucky,Kentucky,6.325416436
+Nevada,Liberty,Nevada,36.30485642
+Nevada,Louisiana State,Nevada,4.955594446
+Nevada,Louisville,Nevada,32.19331704
+Nevada,Marquette,Nevada,42.42003135
+Nevada,Maryland,Nevada,42.30274632
+Nevada,Michigan State,Michigan State,15.21566752
+Nevada,Michigan,Michigan,8.840478847
+Nevada,Minnesota,Nevada,46.99340043
+Nevada,Mississippi State,Nevada,18.71507672
+Nevada,Mississippi,Nevada,69.58968374
+Nevada,Montana,Nevada,56.6330866
+Nevada,Murray State,Nevada,59.19407447
+Nevada,New Mexico State,Nevada,9.757252939
+Nevada,North Carolina Central,Nevada,90.90962865
+Nevada,North Carolina,North Carolina,31.47726229
+Nevada,North Dakota State,Nevada,89.15295481
+Nevada,Northeastern,Nevada,74.26120846
+Nevada,Northern Kentucky,Nevada,53.55278268
+Nevada,Ohio State,Nevada,69.13923501
+Nevada,Oklahoma,Nevada,64.31004703
+Nevada,Old Dominion,Nevada,61.64875857
+Nevada,Oregon,Nevada,36.31188717
+Nevada,Purdue,Nevada,27.01323283
+Nevada,Saint Louis,Nevada,71.92480647
+Nevada,Saint Mary's (CA),Nevada,62.17857791
+Nevada,Seton Hall,Nevada,65.84526369
+Nevada,St. John's (NY),Nevada,67.96857009
+Nevada,Syracuse,Nevada,54.57620012
+Nevada,Tennessee,Tennessee,41.35932551
+Nevada,Texas Tech,Nevada,41.47773454
+Nevada,Utah State,Nevada,10.17653102
+Nevada,Vermont,Nevada,68.40256968
+Nevada,Villanova,Nevada,21.74266805
+Nevada,Virginia Commonwealth,Nevada,69.14412957
+Nevada,Virginia Tech,Nevada,46.17017612
+Nevada,Virginia,Virginia,9.321386249
+Nevada,Washington,Nevada,40.64333115
+Nevada,Wisconsin,Nevada,27.63778437
+Nevada,Wofford,Nevada,3.295282332
+Nevada,Yale,Nevada,93.43943227
+New Mexico State,Abilene Christian,New Mexico State,48.00962744
+New Mexico State,Arizona State,New Mexico State,58.31149431
+New Mexico State,Auburn,Auburn,38.07769657
+New Mexico State,Baylor,New Mexico State,69.41372578
+New Mexico State,Belmont,New Mexico State,46.03089217
+New Mexico State,Bradley,New Mexico State,78.30901772
+New Mexico State,Buffalo,Buffalo,36.84850767
+New Mexico State,UC-Irvine,UC-Irvine,1.508320125
+New Mexico State,Central Florida,New Mexico State,68.69976544
+New Mexico State,Cincinnati,New Mexico State,29.68071529
+New Mexico State,Colgate,New Mexico State,50.23250031
+New Mexico State,Duke,Duke,67.37334944
+New Mexico State,Fairleigh Dickinson,New Mexico State,79.00413632
+New Mexico State,Florida State,Florida State,51.54603527
+New Mexico State,Florida,New Mexico State,31.48347377
+New Mexico State,Gardner-Webb,New Mexico State,51.7636441
+New Mexico State,Georgia State,New Mexico State,62.64365718
+New Mexico State,Gonzaga,Gonzaga,30.29092174
+New Mexico State,Houston,Houston,11.45754214
+New Mexico State,Iona,New Mexico State,83.07009494
+New Mexico State,Iowa State,Iowa State,17.95700327
+New Mexico State,Iowa,New Mexico State,3.538149303
+New Mexico State,Kansas State,New Mexico State,16.52818435
+New Mexico State,Kansas,Kansas,35.64752597
+New Mexico State,Kentucky,Kentucky,30.37196494
+New Mexico State,Liberty,New Mexico State,20.52544222
+New Mexico State,Louisiana State,Louisiana State,15.97656352
+New Mexico State,Louisville,New Mexico State,8.329922351
+New Mexico State,Marquette,New Mexico State,27.1274098
+New Mexico State,Maryland,New Mexico State,20.06802552
+New Mexico State,Michigan State,Michigan State,38.27876795
+New Mexico State,Michigan,Michigan,25.72817278
+New Mexico State,Minnesota,New Mexico State,25.37447542
+New Mexico State,Mississippi State,Mississippi State,5.949139729
+New Mexico State,Mississippi,New Mexico State,57.98689875
+New Mexico State,Montana,New Mexico State,37.42216873
+New Mexico State,Murray State,New Mexico State,42.46748096
+New Mexico State,Nevada,Nevada,9.757252939
+New Mexico State,North Carolina Central,New Mexico State,85.19890354
+New Mexico State,North Carolina,North Carolina,47.62340068
+New Mexico State,North Dakota State,New Mexico State,82.39781973
+New Mexico State,Northeastern,New Mexico State,62.90101468
+New Mexico State,Northern Kentucky,New Mexico State,36.80061967
+New Mexico State,Ohio State,New Mexico State,53.74159743
+New Mexico State,Oklahoma,New Mexico State,47.38138756
+New Mexico State,Old Dominion,New Mexico State,46.09546951
+New Mexico State,Oregon,New Mexico State,17.3389115
+New Mexico State,Purdue,New Mexico State,3.05561044
+New Mexico State,Saint Louis,New Mexico State,59.50725779
+New Mexico State,Saint Mary's (CA),New Mexico State,49.94095141
+New Mexico State,Seton Hall,New Mexico State,52.15076324
+New Mexico State,St. John's (NY),New Mexico State,58.51109375
+New Mexico State,Syracuse,New Mexico State,34.77012634
+New Mexico State,Tennessee,Tennessee,52.22160038
+New Mexico State,Texas Tech,New Mexico State,22.47986733
+New Mexico State,Utah State,New Mexico State,3.792535729
+New Mexico State,Vermont,New Mexico State,52.65891508
+New Mexico State,Villanova,New Mexico State,4.617116925
+New Mexico State,Virginia Commonwealth,New Mexico State,58.98869086
+New Mexico State,Virginia Tech,New Mexico State,31.31658325
+New Mexico State,Virginia,Virginia,29.23576679
+New Mexico State,Washington,New Mexico State,25.06115278
+New Mexico State,Wisconsin,New Mexico State,3.342150781
+New Mexico State,Wofford,Wofford,3.147537951
+New Mexico State,Yale,New Mexico State,89.10414568
+North Carolina Central,Abilene Christian,Abilene Christian,63.39952962
+North Carolina Central,Arizona State,Arizona State,57.3194563
+North Carolina Central,Auburn,Auburn,92.73215263
+North Carolina Central,Baylor,Baylor,35.79771621
+North Carolina Central,Belmont,Belmont,64.02404138
+North Carolina Central,Bradley,Bradley,18.38493586
+North Carolina Central,Buffalo,Buffalo,93.50581236
+North Carolina Central,UC-Irvine,UC-Irvine,80.1548544
+North Carolina Central,Central Florida,Central Florida,44.81538162
+North Carolina Central,Cincinnati,Cincinnati,78.58079766
+North Carolina Central,Colgate,Colgate,65.74933724
+North Carolina Central,Duke,Duke,96.11855904
+North Carolina Central,Fairleigh Dickinson,Fairleigh Dickinson,20.80831175
+North Carolina Central,Florida State,Florida State,94.42470432
+North Carolina Central,Florida,Florida,65.56283795
+North Carolina Central,Gardner-Webb,Gardner-Webb,63.85956965
+North Carolina Central,Georgia State,Georgia State,44.86435756
+North Carolina Central,Gonzaga,Gonzaga,92.54363599
+North Carolina Central,Houston,Houston,89.74853778
+North Carolina Central,Iona,Iona,2.863461752
+North Carolina Central,Iowa State,Iowa State,89.24253243
+North Carolina Central,Iowa,Iowa,81.97578881
+North Carolina Central,Kansas State,Kansas State,79.54597912
+North Carolina Central,Kansas,Kansas,92.73443583
+North Carolina Central,Kentucky,Kentucky,91.19481446
+North Carolina Central,Liberty,Liberty,74.83350375
+North Carolina Central,Louisiana State,Louisiana State,89.22119456
+North Carolina Central,Louisville,Louisville,78.97921466
+North Carolina Central,Marquette,Marquette,84.75609591
+North Carolina Central,Maryland,Maryland,76.44412761
+North Carolina Central,Michigan State,Michigan State,92.79777905
+North Carolina Central,Michigan,Michigan,89.86315689
+North Carolina Central,Minnesota,Minnesota,70.87685606
+North Carolina Central,Mississippi State,Mississippi State,87.11428836
+North Carolina Central,Mississippi,Mississippi,50.74964547
+North Carolina Central,Montana,Montana,72.22190407
+North Carolina Central,Murray State,Murray State,68.72733417
+North Carolina Central,Nevada,Nevada,90.90962865
+North Carolina Central,New Mexico State,New Mexico State,85.19890354
+North Carolina Central,North Carolina,North Carolina,93.5285535
+North Carolina Central,North Dakota State,North Dakota State,1.358857412
+North Carolina Central,Northeastern,Northeastern,51.95715606
+North Carolina Central,Northern Kentucky,Northern Kentucky,73.00749954
+North Carolina Central,Ohio State,Ohio State,49.3257827
+North Carolina Central,Oklahoma,Oklahoma,52.71082068
+North Carolina Central,Old Dominion,Old Dominion,65.50227229
+North Carolina Central,Oregon,Oregon,79.54497309
+North Carolina Central,Purdue,Purdue,81.36970368
+North Carolina Central,Saint Louis,Saint Louis,55.66754589
+North Carolina Central,Saint Mary's (CA),Saint Mary's (CA),67.34986514
+North Carolina Central,Seton Hall,Seton Hall,52.49419224
+North Carolina Central,St. John's (NY),St. John's (NY),53.68663139
+North Carolina Central,Syracuse,Syracuse,67.94591544
+North Carolina Central,Tennessee,Tennessee,94.39112704
+North Carolina Central,Texas Tech,Texas Tech,79.83214193
+North Carolina Central,Utah State,Utah State,88.61370573
+North Carolina Central,Vermont,Vermont,58.17940318
+North Carolina Central,Villanova,Villanova,86.15242496
+North Carolina Central,Virginia Commonwealth,Virginia Commonwealth,59.92597602
+North Carolina Central,Virginia Tech,Virginia Tech,76.44997338
+North Carolina Central,Virginia,Virginia,87.82688871
+North Carolina Central,Washington,Washington,80.48234365
+North Carolina Central,Wisconsin,Wisconsin,82.73654992
+North Carolina Central,Wofford,Wofford,86.35212475
+North Carolina Central,Yale,North Carolina Central,24.21212142
+North Carolina,Abilene Christian,North Carolina,78.53208383
+North Carolina,Arizona State,North Carolina,84.06300495
+North Carolina,Auburn,North Carolina,9.693376085
+North Carolina,Baylor,North Carolina,88.4086965
+North Carolina,Belmont,North Carolina,77.42791738
+North Carolina,Bradley,North Carolina,91.00301273
+North Carolina,Buffalo,North Carolina,5.386434268
+North Carolina,UC-Irvine,North Carolina,46.08590192
+North Carolina,Central Florida,North Carolina,86.3032472
+North Carolina,Cincinnati,North Carolina,70.20813343
+North Carolina,Colgate,North Carolina,78.73562792
+North Carolina,Duke,Duke,29.01958631
+North Carolina,Fairleigh Dickinson,North Carolina,91.87282387
+North Carolina,Florida State,North Carolina,7.137532648
+North Carolina,Florida,North Carolina,69.79847309
+North Carolina,Gardner-Webb,North Carolina,78.76442586
+North Carolina,Georgia State,North Carolina,84.63277825
+North Carolina,Gonzaga,North Carolina,11.75940681
+North Carolina,Houston,North Carolina,36.83153538
+North Carolina,Iona,North Carolina,92.76477998
+North Carolina,Iowa State,North Carolina,33.52285167
+North Carolina,Iowa,North Carolina,53.99340211
+North Carolina,Kansas State,North Carolina,58.84425533
+North Carolina,Kansas,North Carolina,17.5303282
+North Carolina,Kentucky,North Carolina,27.74774708
+North Carolina,Liberty,North Carolina,64.66863105
+North Carolina,Louisiana State,North Carolina,36.82435045
+North Carolina,Louisville,North Carolina,61.4185095
+North Carolina,Marquette,North Carolina,62.50343883
+North Carolina,Maryland,North Carolina,59.5811338
+North Carolina,Michigan State,North Carolina,18.03554125
+North Carolina,Michigan,North Carolina,20.17329622
+North Carolina,Minnesota,North Carolina,72.85342926
+North Carolina,Mississippi State,North Carolina,44.63245089
+North Carolina,Mississippi,North Carolina,85.58023823
+North Carolina,Montana,North Carolina,72.83285907
+North Carolina,Murray State,North Carolina,76.30293071
+North Carolina,Nevada,North Carolina,31.47726229
+North Carolina,New Mexico State,North Carolina,47.62340068
+North Carolina,North Carolina Central,North Carolina,93.5285535
+North Carolina,North Dakota State,North Carolina,93.64920429
+North Carolina,Northeastern,North Carolina,84.70485101
+North Carolina,Northern Kentucky,North Carolina,70.46951244
+North Carolina,Ohio State,North Carolina,80.51717239
+North Carolina,Oklahoma,North Carolina,78.27598972
+North Carolina,Old Dominion,North Carolina,77.45838527
+North Carolina,Oregon,North Carolina,66.19771446
+North Carolina,Purdue,North Carolina,53.67887052
+North Carolina,Saint Louis,North Carolina,83.4397289
+North Carolina,Saint Mary's (CA),North Carolina,80.36364581
+North Carolina,Seton Hall,North Carolina,82.53580129
+North Carolina,St. John's (NY),North Carolina,81.40978016
+North Carolina,Syracuse,North Carolina,72.85026572
+North Carolina,Tennessee,Tennessee,13.32050365
+North Carolina,Texas Tech,North Carolina,61.54323163
+North Carolina,Utah State,North Carolina,50.67460728
+North Carolina,Vermont,North Carolina,81.57597647
+North Carolina,Villanova,North Carolina,56.57445651
+North Carolina,Virginia Commonwealth,North Carolina,83.09143609
+North Carolina,Virginia Tech,North Carolina,62.86005965
+North Carolina,Virginia,North Carolina,19.37789708
+North Carolina,Washington,North Carolina,67.61428198
+North Carolina,Wisconsin,North Carolina,50.20372261
+North Carolina,Wofford,North Carolina,40.9452078
+North Carolina,Yale,North Carolina,94.97031746
+North Dakota State,Abilene Christian,Abilene Christian,62.00608476
+North Dakota State,Arizona State,Arizona State,55.68561755
+North Dakota State,Auburn,Auburn,92.82076774
+North Dakota State,Baylor,Baylor,32.90467233
+North Dakota State,Belmont,Belmont,62.68382536
+North Dakota State,Bradley,Bradley,12.02809855
+North Dakota State,Buffalo,Buffalo,92.17918966
+North Dakota State,UC-Irvine,UC-Irvine,76.56396719
+North Dakota State,Central Florida,Central Florida,39.24540635
+North Dakota State,Cincinnati,Cincinnati,77.69189201
+North Dakota State,Colgate,Colgate,64.51555586
+North Dakota State,Duke,Duke,95.65534781
+North Dakota State,Fairleigh Dickinson,Fairleigh Dickinson,18.38547097
+North Dakota State,Florida State,Florida State,94.52221707
+North Dakota State,Florida,Florida,64.20113405
+North Dakota State,Gardner-Webb,Gardner-Webb,62.51301657
+North Dakota State,Georgia State,Georgia State,42.89316185
+North Dakota State,Gonzaga,Gonzaga,91.85329929
+North Dakota State,Houston,Houston,88.82865426
+North Dakota State,Iona,Iona,1.515189807
+North Dakota State,Iowa State,Iowa State,89.00721055
+North Dakota State,Iowa,Iowa,80.95602127
+North Dakota State,Kansas State,Kansas State,76.65139525
+North Dakota State,Kansas,Kansas,92.82091336
+North Dakota State,Kentucky,Kentucky,91.34879705
+North Dakota State,Liberty,Liberty,70.4773772
+North Dakota State,Louisiana State,Louisiana State,89.12770641
+North Dakota State,Louisville,Louisville,79.0963107
+North Dakota State,Marquette,Marquette,84.02511827
+North Dakota State,Maryland,Maryland,73.32370141
+North Dakota State,Michigan State,Michigan State,92.88451683
+North Dakota State,Michigan,Michigan,88.78578244
+North Dakota State,Minnesota,Minnesota,69.29554718
+North Dakota State,Mississippi State,Mississippi State,86.30348123
+North Dakota State,Mississippi,Mississippi,47.36616124
+North Dakota State,Montana,Montana,71.29882976
+North Dakota State,Murray State,Murray State,67.53500466
+North Dakota State,Nevada,Nevada,89.15295481
+North Dakota State,New Mexico State,New Mexico State,82.39781973
+North Dakota State,North Carolina Central,North Dakota State,1.358857412
+North Dakota State,North Carolina,North Carolina,93.64920429
+North Dakota State,Northeastern,Northeastern,46.85019743
+North Dakota State,Northern Kentucky,Northern Kentucky,71.96849672
+North Dakota State,Ohio State,Ohio State,44.55019996
+North Dakota State,Oklahoma,Oklahoma,51.19757192
+North Dakota State,Old Dominion,Old Dominion,64.30145308
+North Dakota State,Oregon,Oregon,78.65592101
+North Dakota State,Purdue,Purdue,81.70966774
+North Dakota State,Saint Louis,Saint Louis,53.98302004
+North Dakota State,Saint Mary's (CA),Saint Mary's (CA),68.6625678
+North Dakota State,Seton Hall,Seton Hall,49.14287183
+North Dakota State,St. John's (NY),St. John's (NY),51.83313323
+North Dakota State,Syracuse,Syracuse,66.16505804
+North Dakota State,Tennessee,Tennessee,93.81293141
+North Dakota State,Texas Tech,Texas Tech,79.41060214
+North Dakota State,Utah State,Utah State,86.60731045
+North Dakota State,Vermont,Vermont,59.91525329
+North Dakota State,Villanova,Villanova,85.60532743
+North Dakota State,Virginia Commonwealth,Virginia Commonwealth,55.32509841
+North Dakota State,Virginia Tech,Virginia Tech,75.07713578
+North Dakota State,Virginia,Virginia,85.55001966
+North Dakota State,Washington,Washington,79.64919173
+North Dakota State,Wisconsin,Wisconsin,82.91466513
+North Dakota State,Wofford,Wofford,83.85743212
+North Dakota State,Yale,North Dakota State,26.50329886
+Northeastern,Abilene Christian,Abilene Christian,17.05862916
+Northeastern,Arizona State,Arizona State,9.884800496
+Northeastern,Auburn,Auburn,82.51462489
+Northeastern,Baylor,Northeastern,15.5326833
+Northeastern,Belmont,Belmont,23.67201548
+Northeastern,Bradley,Northeastern,36.8969845
+Northeastern,Buffalo,Buffalo,83.07734017
+Northeastern,UC-Irvine,UC-Irvine,60.31035171
+Northeastern,Central Florida,Northeastern,7.370744689
+Northeastern,Cincinnati,Cincinnati,44.91284693
+Northeastern,Colgate,Colgate,23.54091127
+Northeastern,Duke,Duke,90.41582089
+Northeastern,Fairleigh Dickinson,Northeastern,34.7333122
+Northeastern,Florida State,Florida State,86.38605529
+Northeastern,Florida,Florida,25.511963
+Northeastern,Gardner-Webb,Gardner-Webb,19.93384109
+Northeastern,Georgia State,Northeastern,0.637972794
+Northeastern,Gonzaga,Gonzaga,80.62395517
+Northeastern,Houston,Houston,73.25760461
+Northeastern,Iona,Northeastern,47.38244391
+Northeastern,Iowa State,Iowa State,73.80729163
+Northeastern,Iowa,Iowa,55.1233621
+Northeastern,Kansas State,Kansas State,49.76564107
+Northeastern,Kansas,Kansas,82.86282309
+Northeastern,Kentucky,Kentucky,77.69074584
+Northeastern,Liberty,Liberty,39.0766131
+Northeastern,Louisiana State,Louisiana State,74.76670083
+Northeastern,Louisville,Louisville,50.91065966
+Northeastern,Marquette,Marquette,58.12672021
+Northeastern,Maryland,Maryland,45.4968562
+Northeastern,Michigan State,Michigan State,81.20072397
+Northeastern,Michigan,Michigan,74.02728748
+Northeastern,Minnesota,Minnesota,33.12735803
+Northeastern,Mississippi State,Mississippi State,66.56115683
+Northeastern,Mississippi,Northeastern,1.509360587
+Northeastern,Montana,Montana,37.69634777
+Northeastern,Murray State,Murray State,28.11127426
+Northeastern,Nevada,Nevada,74.26120846
+Northeastern,New Mexico State,New Mexico State,62.90101468
+Northeastern,North Carolina Central,Northeastern,51.95715606
+Northeastern,North Carolina,North Carolina,84.70485101
+Northeastern,North Dakota State,Northeastern,46.85019743
+Northeastern,Northern Kentucky,Northern Kentucky,40.43893688
+Northeastern,Ohio State,Ohio State,0.275538755
+Northeastern,Oklahoma,Oklahoma,6.825845826
+Northeastern,Old Dominion,Old Dominion,25.17064722
+Northeastern,Oregon,Oregon,55.86750798
+Northeastern,Purdue,Purdue,58.2563129
+Northeastern,Saint Louis,Saint Louis,5.560577916
+Northeastern,Saint Mary's (CA),Saint Mary's (CA),28.59430343
+Northeastern,Seton Hall,Seton Hall,3.48158239
+Northeastern,St. John's (NY),St. John's (NY),13.21409384
+Northeastern,Syracuse,Syracuse,28.35758836
+Northeastern,Tennessee,Tennessee,85.94108154
+Northeastern,Texas Tech,Texas Tech,55.46487383
+Northeastern,Utah State,Utah State,69.1498187
+Northeastern,Vermont,Vermont,14.16891072
+Northeastern,Villanova,Villanova,62.88077924
+Northeastern,Virginia Commonwealth,Virginia Commonwealth,13.2402652
+Northeastern,Virginia Tech,Virginia Tech,44.72420843
+Northeastern,Virginia,Virginia,70.96141565
+Northeastern,Washington,Washington,51.35835061
+Northeastern,Wisconsin,Wisconsin,58.84643521
+Northeastern,Wofford,Wofford,64.54942496
+Northeastern,Yale,Northeastern,66.93250416
+Northern Kentucky,Abilene Christian,Northern Kentucky,15.40553131
+Northern Kentucky,Arizona State,Northern Kentucky,31.39857897
+Northern Kentucky,Auburn,Auburn,63.04036636
+Northern Kentucky,Baylor,Northern Kentucky,51.13580121
+Northern Kentucky,Belmont,Northern Kentucky,15.05579695
+Northern Kentucky,Bradley,Northern Kentucky,61.86108361
+Northern Kentucky,Buffalo,Buffalo,65.86607335
+Northern Kentucky,UC-Irvine,UC-Irvine,34.75749258
+Northern Kentucky,Central Florida,Northern Kentucky,43.96925264
+Northern Kentucky,Cincinnati,Cincinnati,10.14831856
+Northern Kentucky,Colgate,Northern Kentucky,17.11323345
+Northern Kentucky,Duke,Duke,82.12986342
+Northern Kentucky,Fairleigh Dickinson,Northern Kentucky,62.10313722
+Northern Kentucky,Florida State,Florida State,72.28873857
+Northern Kentucky,Florida,Northern Kentucky,5.467606548
+Northern Kentucky,Gardner-Webb,Northern Kentucky,18.95876988
+Northern Kentucky,Georgia State,Northern Kentucky,38.93153778
+Northern Kentucky,Gonzaga,Gonzaga,63.94338801
+Northern Kentucky,Houston,Houston,52.08133042
+Northern Kentucky,Iona,Northern Kentucky,70.58285721
+Northern Kentucky,Iowa State,Iowa State,48.68270952
+Northern Kentucky,Iowa,Iowa,26.57381833
+Northern Kentucky,Kansas State,Kansas State,15.89554483
+Northern Kentucky,Kansas,Kansas,63.74313792
+Northern Kentucky,Kentucky,Kentucky,58.97701779
+Northern Kentucky,Liberty,Liberty,5.614370627
+Northern Kentucky,Louisiana State,Louisiana State,49.89765147
+Northern Kentucky,Louisville,Louisville,20.0630995
+Northern Kentucky,Marquette,Marquette,21.92234571
+Northern Kentucky,Maryland,Maryland,11.66570326
+Northern Kentucky,Michigan State,Michigan State,66.69827356
+Northern Kentucky,Michigan,Michigan,55.51126646
+Northern Kentucky,Minnesota,Minnesota,3.105599066
+Northern Kentucky,Mississippi State,Mississippi State,38.40078399
+Northern Kentucky,Mississippi,Northern Kentucky,41.32988087
+Northern Kentucky,Montana,Montana,0.256076118
+Northern Kentucky,Murray State,Northern Kentucky,6.718397956
+Northern Kentucky,Nevada,Nevada,53.55278268
+Northern Kentucky,New Mexico State,New Mexico State,36.80061967
+Northern Kentucky,North Carolina Central,Northern Kentucky,73.00749954
+Northern Kentucky,North Carolina,North Carolina,70.46951244
+Northern Kentucky,North Dakota State,Northern Kentucky,71.96849672
+Northern Kentucky,Northeastern,Northern Kentucky,40.43893688
+Northern Kentucky,Ohio State,Northern Kentucky,30.55453387
+Northern Kentucky,Oklahoma,Northern Kentucky,24.96359165
+Northern Kentucky,Old Dominion,Northern Kentucky,13.87802855
+Northern Kentucky,Oregon,Oregon,21.13440445
+Northern Kentucky,Purdue,Purdue,28.35766991
+Northern Kentucky,Saint Louis,Northern Kentucky,32.9016099
+Northern Kentucky,Saint Mary's (CA),Northern Kentucky,16.27123011
+Northern Kentucky,Seton Hall,Northern Kentucky,29.54815867
+Northern Kentucky,St. John's (NY),Northern Kentucky,29.16852772
+Northern Kentucky,Syracuse,Northern Kentucky,7.557450487
+Northern Kentucky,Tennessee,Tennessee,74.41875814
+Northern Kentucky,Texas Tech,Texas Tech,20.91509213
+Northern Kentucky,Utah State,Utah State,38.7025944
+Northern Kentucky,Vermont,Northern Kentucky,22.04728236
+Northern Kentucky,Villanova,Villanova,28.11686838
+Northern Kentucky,Virginia Commonwealth,Northern Kentucky,28.18808421
+Northern Kentucky,Virginia Tech,Virginia Tech,6.318812266
+Northern Kentucky,Virginia,Virginia,56.81255363
+Northern Kentucky,Washington,Washington,15.09466025
+Northern Kentucky,Wisconsin,Wisconsin,30.23126125
+Northern Kentucky,Wofford,Wofford,39.7932863
+Northern Kentucky,Yale,Northern Kentucky,80.58517998
+Ohio State,Abilene Christian,Abilene Christian,15.42781629
+Ohio State,Arizona State,Arizona State,2.30277919
+Ohio State,Auburn,Auburn,79.85184355
+Ohio State,Baylor,Ohio State,22.5128059
+Ohio State,Belmont,Belmont,9.402140257
+Ohio State,Bradley,Ohio State,35.29269261
+Ohio State,Buffalo,Buffalo,79.77436338
+Ohio State,UC-Irvine,UC-Irvine,45.42421126
+Ohio State,Central Florida,Ohio State,10.40354484
+Ohio State,Cincinnati,Cincinnati,37.47789334
+Ohio State,Colgate,Colgate,13.8234981
+Ohio State,Duke,Duke,87.39035183
+Ohio State,Fairleigh Dickinson,Ohio State,35.05062348
+Ohio State,Florida State,Florida State,81.68123884
+Ohio State,Florida,Florida,21.84682953
+Ohio State,Gardner-Webb,Gardner-Webb,11.91515292
+Ohio State,Georgia State,Ohio State,9.229512467
+Ohio State,Gonzaga,Gonzaga,74.59271583
+Ohio State,Houston,Houston,66.70018066
+Ohio State,Iona,Ohio State,45.20377851
+Ohio State,Iowa State,Iowa State,66.70537677
+Ohio State,Iowa,Iowa,53.9436123
+Ohio State,Kansas State,Kansas State,48.19801008
+Ohio State,Kansas,Kansas,76.58150157
+Ohio State,Kentucky,Kentucky,73.02068418
+Ohio State,Liberty,Liberty,32.01466755
+Ohio State,Louisiana State,Louisiana State,63.25225315
+Ohio State,Louisville,Louisville,44.05513091
+Ohio State,Marquette,Marquette,54.73804677
+Ohio State,Maryland,Maryland,40.50360525
+Ohio State,Michigan State,Michigan State,74.34496455
+Ohio State,Michigan,Michigan,71.18397267
+Ohio State,Minnesota,Minnesota,24.44017988
+Ohio State,Mississippi State,Mississippi State,61.15422325
+Ohio State,Mississippi,Ohio State,3.65654953
+Ohio State,Montana,Montana,25.47124
+Ohio State,Murray State,Murray State,16.97265478
+Ohio State,Nevada,Nevada,69.13923501
+Ohio State,New Mexico State,New Mexico State,53.74159743
+Ohio State,North Carolina Central,Ohio State,49.3257827
+Ohio State,North Carolina,North Carolina,80.51717239
+Ohio State,North Dakota State,Ohio State,44.55019996
+Ohio State,Northeastern,Ohio State,0.275538755
+Ohio State,Northern Kentucky,Northern Kentucky,30.55453387
+Ohio State,Oklahoma,Oklahoma,0.215486258
+Ohio State,Old Dominion,Old Dominion,16.59508412
+Ohio State,Oregon,Oregon,40.72860229
+Ohio State,Purdue,Purdue,49.45931574
+Ohio State,Saint Louis,Saint Louis,0.978288406
+Ohio State,Saint Mary's (CA),Saint Mary's (CA),22.76324092
+Ohio State,Seton Hall,Ohio State,1.147721946
+Ohio State,St. John's (NY),St. John's (NY),1.309281623
+Ohio State,Syracuse,Syracuse,23.97043912
+Ohio State,Tennessee,Tennessee,83.21496082
+Ohio State,Texas Tech,Texas Tech,41.4494831
+Ohio State,Utah State,Utah State,59.66576209
+Ohio State,Vermont,Vermont,10.65800261
+Ohio State,Villanova,Villanova,61.04039543
+Ohio State,Virginia Commonwealth,Virginia Commonwealth,7.138763601
+Ohio State,Virginia Tech,Virginia Tech,41.47546824
+Ohio State,Virginia,Virginia,63.26577242
+Ohio State,Washington,Washington,41.8713833
+Ohio State,Wisconsin,Wisconsin,53.35581671
+Ohio State,Wofford,Wofford,58.38050774
+Ohio State,Yale,Ohio State,64.21689034
+Oklahoma,Abilene Christian,Abilene Christian,7.420871742
+Oklahoma,Arizona State,Oklahoma,2.337017776
+Oklahoma,Auburn,Auburn,79.16185126
+Oklahoma,Baylor,Oklahoma,22.5595024
+Oklahoma,Belmont,Belmont,1.635253416
+Oklahoma,Bradley,Oklahoma,39.38921767
+Oklahoma,Buffalo,Buffalo,76.14923767
+Oklahoma,UC-Irvine,UC-Irvine,36.98772732
+Oklahoma,Central Florida,Oklahoma,15.01228418
+Oklahoma,Cincinnati,Cincinnati,30.21897452
+Oklahoma,Colgate,Colgate,7.297948592
+Oklahoma,Duke,Duke,85.98391386
+Oklahoma,Fairleigh Dickinson,Oklahoma,39.03104237
+Oklahoma,Florida State,Florida State,80.14471395
+Oklahoma,Florida,Florida,21.38161199
+Oklahoma,Gardner-Webb,Gardner-Webb,5.381290865
+Oklahoma,Georgia State,Oklahoma,13.81775865
+Oklahoma,Gonzaga,Gonzaga,68.89137805
+Oklahoma,Houston,Houston,61.67340663
+Oklahoma,Iona,Oklahoma,48.74745382
+Oklahoma,Iowa State,Iowa State,66.19748268
+Oklahoma,Iowa,Iowa,54.3387533
+Oklahoma,Kansas State,Kansas State,47.82818835
+Oklahoma,Kansas,Kansas,76.11561521
+Oklahoma,Kentucky,Kentucky,70.69021588
+Oklahoma,Liberty,Liberty,22.55549214
+Oklahoma,Louisiana State,Louisiana State,61.50601679
+Oklahoma,Louisville,Louisville,43.94336151
+Oklahoma,Marquette,Marquette,51.369824
+Oklahoma,Maryland,Maryland,39.91883235
+Oklahoma,Michigan State,Michigan State,71.20732756
+Oklahoma,Michigan,Michigan,69.22976384
+Oklahoma,Minnesota,Minnesota,24.55602689
+Oklahoma,Mississippi State,Mississippi State,60.12861706
+Oklahoma,Mississippi,Oklahoma,8.204517658
+Oklahoma,Montana,Montana,17.8703982
+Oklahoma,Murray State,Murray State,7.103116781
+Oklahoma,Nevada,Nevada,64.31004703
+Oklahoma,New Mexico State,New Mexico State,47.38138756
+Oklahoma,North Carolina Central,Oklahoma,52.71082068
+Oklahoma,North Carolina,North Carolina,78.27598972
+Oklahoma,North Dakota State,Oklahoma,51.19757192
+Oklahoma,Northeastern,Oklahoma,6.825845826
+Oklahoma,Northern Kentucky,Northern Kentucky,24.96359165
+Oklahoma,Ohio State,Oklahoma,0.215486258
+Oklahoma,Old Dominion,Old Dominion,10.68975005
+Oklahoma,Oregon,Oregon,35.04307711
+Oklahoma,Purdue,Purdue,48.70235012
+Oklahoma,Saint Louis,Oklahoma,3.669039448
+Oklahoma,Saint Mary's (CA),Saint Mary's (CA),14.13829763
+Oklahoma,Seton Hall,Oklahoma,1.363931543
+Oklahoma,St. John's (NY),Oklahoma,3.343299029
+Oklahoma,Syracuse,Syracuse,23.57862566
+Oklahoma,Tennessee,Tennessee,81.15456883
+Oklahoma,Texas Tech,Texas Tech,36.26502156
+Oklahoma,Utah State,Utah State,54.18084148
+Oklahoma,Vermont,Oklahoma,1.540634139
+Oklahoma,Villanova,Villanova,57.7568334
+Oklahoma,Virginia Commonwealth,Virginia Commonwealth,2.498526886
+Oklahoma,Virginia Tech,Virginia Tech,35.69123692
+Oklahoma,Virginia,Virginia,59.37953859
+Oklahoma,Washington,Washington,36.76889289
+Oklahoma,Wisconsin,Wisconsin,53.02691712
+Oklahoma,Wofford,Wofford,50.98060579
+Oklahoma,Yale,Oklahoma,67.98674566
+Old Dominion,Abilene Christian,Old Dominion,4.727345689
+Old Dominion,Arizona State,Old Dominion,13.24154993
+Old Dominion,Auburn,Auburn,73.27363942
+Old Dominion,Baylor,Old Dominion,33.99746882
+Old Dominion,Belmont,Old Dominion,2.40985995
+Old Dominion,Bradley,Old Dominion,54.16671235
+Old Dominion,Buffalo,Buffalo,73.66173709
+Old Dominion,UC-Irvine,UC-Irvine,41.3324005
+Old Dominion,Central Florida,Old Dominion,27.38015584
+Old Dominion,Cincinnati,Cincinnati,25.58371415
+Old Dominion,Colgate,Old Dominion,1.711436939
+Old Dominion,Duke,Duke,86.16962281
+Old Dominion,Fairleigh Dickinson,Old Dominion,52.73028796
+Old Dominion,Florida State,Florida State,78.96191039
+Old Dominion,Florida,Florida,8.943883244
+Old Dominion,Gardner-Webb,Old Dominion,5.45893532
+Old Dominion,Georgia State,Old Dominion,23.47977569
+Old Dominion,Gonzaga,Gonzaga,70.30445825
+Old Dominion,Houston,Houston,57.74342245
+Old Dominion,Iona,Old Dominion,62.64394624
+Old Dominion,Iowa State,Iowa State,61.14274654
+Old Dominion,Iowa,Iowa,40.89447142
+Old Dominion,Kansas State,Kansas State,34.29635453
+Old Dominion,Kansas,Kansas,73.87974502
+Old Dominion,Kentucky,Kentucky,66.63983935
+Old Dominion,Liberty,Liberty,15.85870891
+Old Dominion,Louisiana State,Louisiana State,59.78230185
+Old Dominion,Louisville,Louisville,34.85482659
+Old Dominion,Marquette,Marquette,39.2437432
+Old Dominion,Maryland,Maryland,30.38798069
+Old Dominion,Michigan State,Michigan State,73.26075563
+Old Dominion,Michigan,Michigan,63.91499001
+Old Dominion,Minnesota,Minnesota,17.82935756
+Old Dominion,Mississippi State,Mississippi State,53.83861977
+Old Dominion,Mississippi,Old Dominion,22.52166039
+Old Dominion,Montana,Montana,10.63985305
+Old Dominion,Murray State,Murray State,6.000003626
+Old Dominion,Nevada,Nevada,61.64875857
+Old Dominion,New Mexico State,New Mexico State,46.09546951
+Old Dominion,North Carolina Central,Old Dominion,65.50227229
+Old Dominion,North Carolina,North Carolina,77.45838527
+Old Dominion,North Dakota State,Old Dominion,64.30145308
+Old Dominion,Northeastern,Old Dominion,25.17064722
+Old Dominion,Northern Kentucky,Northern Kentucky,13.87802855
+Old Dominion,Ohio State,Old Dominion,16.59508412
+Old Dominion,Oklahoma,Old Dominion,10.68975005
+Old Dominion,Oregon,Oregon,36.63758875
+Old Dominion,Purdue,Purdue,41.99721545
+Old Dominion,Saint Louis,Old Dominion,16.89867282
+Old Dominion,Saint Mary's (CA),Saint Mary's (CA),2.52241654
+Old Dominion,Seton Hall,Old Dominion,14.06305427
+Old Dominion,St. John's (NY),Old Dominion,12.15692093
+Old Dominion,Syracuse,Syracuse,12.03258758
+Old Dominion,Tennessee,Tennessee,79.62819258
+Old Dominion,Texas Tech,Texas Tech,31.95231296
+Old Dominion,Utah State,Utah State,54.04321427
+Old Dominion,Vermont,Old Dominion,11.47562126
+Old Dominion,Villanova,Villanova,44.39428702
+Old Dominion,Virginia Commonwealth,Old Dominion,9.806594219
+Old Dominion,Virginia Tech,Virginia Tech,21.40968649
+Old Dominion,Virginia,Virginia,62.55454519
+Old Dominion,Washington,Washington,30.2337571
+Old Dominion,Wisconsin,Wisconsin,43.93387803
+Old Dominion,Wofford,Wofford,52.16256449
+Old Dominion,Yale,Old Dominion,76.46558317
+Oregon,Abilene Christian,Oregon,42.54612035
+Oregon,Arizona State,Oregon,48.77272708
+Oregon,Auburn,Auburn,62.61684887
+Oregon,Baylor,Oregon,53.58978265
+Oregon,Belmont,Oregon,39.80509497
+Oregon,Bradley,Oregon,73.27160863
+Oregon,Buffalo,Buffalo,58.59060212
+Oregon,UC-Irvine,UC-Irvine,14.03971745
+Oregon,Central Florida,Oregon,59.01188984
+Oregon,Cincinnati,Oregon,12.02346592
+Oregon,Colgate,Oregon,37.4632408
+Oregon,Duke,Duke,78.85312063
+Oregon,Fairleigh Dickinson,Oregon,73.1935721
+Oregon,Florida State,Florida State,66.97736259
+Oregon,Florida,Oregon,16.80733981
+Oregon,Gardner-Webb,Oregon,40.69122997
+Oregon,Georgia State,Oregon,56.251499
+Oregon,Gonzaga,Gonzaga,50.64826548
+Oregon,Houston,Houston,34.36794659
+Oregon,Iona,Oregon,78.08473665
+Oregon,Iowa State,Iowa State,41.33698956
+Oregon,Iowa,Iowa,8.541601798
+Oregon,Kansas State,Oregon,0.536063692
+Oregon,Kansas,Kansas,59.03234952
+Oregon,Kentucky,Kentucky,47.73065731
+Oregon,Liberty,Oregon,18.81548734
+Oregon,Louisiana State,Louisiana State,38.79663898
+Oregon,Louisville,Louisville,10.79876614
+Oregon,Marquette,Marquette,6.657412333
+Oregon,Maryland,Oregon,1.209805507
+Oregon,Michigan State,Michigan State,54.8496159
+Oregon,Michigan,Michigan,44.1727831
+Oregon,Minnesota,Oregon,11.87342608
+Oregon,Mississippi State,Mississippi State,27.04736912
+Oregon,Mississippi,Oregon,46.89911691
+Oregon,Montana,Oregon,25.8098211
+Oregon,Murray State,Oregon,32.47091209
+Oregon,Nevada,Nevada,36.31188717
+Oregon,New Mexico State,New Mexico State,17.3389115
+Oregon,North Carolina Central,Oregon,79.54497309
+Oregon,North Carolina,North Carolina,66.19771446
+Oregon,North Dakota State,Oregon,78.65592101
+Oregon,Northeastern,Oregon,55.86750798
+Oregon,Northern Kentucky,Oregon,21.13440445
+Oregon,Ohio State,Oregon,40.72860229
+Oregon,Oklahoma,Oregon,35.04307711
+Oregon,Old Dominion,Oregon,36.63758875
+Oregon,Purdue,Purdue,16.20033621
+Oregon,Saint Louis,Oregon,50.48571002
+Oregon,Saint Mary's (CA),Oregon,34.45585091
+Oregon,Seton Hall,Oregon,41.49003508
+Oregon,St. John's (NY),Oregon,39.31599444
+Oregon,Syracuse,Oregon,17.67894509
+Oregon,Tennessee,Tennessee,66.9495206
+Oregon,Texas Tech,Oregon,2.26822662
+Oregon,Utah State,Utah State,24.34447573
+Oregon,Vermont,Oregon,46.42347512
+Oregon,Villanova,Villanova,17.37419413
+Oregon,Virginia Commonwealth,Oregon,43.73162664
+Oregon,Virginia Tech,Oregon,3.873949015
+Oregon,Virginia,Virginia,35.52260969
+Oregon,Washington,Oregon,7.045725814
+Oregon,Wisconsin,Wisconsin,17.23605922
+Oregon,Wofford,Wofford,22.18578452
+Oregon,Yale,Oregon,87.5295402
+Purdue,Abilene Christian,Purdue,47.86841705
+Purdue,Arizona State,Purdue,54.74063109
+Purdue,Auburn,Auburn,53.68702802
+Purdue,Baylor,Purdue,64.17293328
+Purdue,Belmont,Purdue,47.961668
+Purdue,Bradley,Purdue,75.1408702
+Purdue,Buffalo,Buffalo,49.02108856
+Purdue,UC-Irvine,Purdue,3.147084527
+Purdue,Central Florida,Purdue,61.11075885
+Purdue,Cincinnati,Purdue,23.88574789
+Purdue,Colgate,Purdue,43.02830967
+Purdue,Duke,Duke,70.28889027
+Purdue,Fairleigh Dickinson,Purdue,76.47032315
+Purdue,Florida State,Florida State,51.21464279
+Purdue,Florida,Purdue,30.2875031
+Purdue,Gardner-Webb,Purdue,44.86558704
+Purdue,Georgia State,Purdue,58.67366055
+Purdue,Gonzaga,Gonzaga,37.50113429
+Purdue,Houston,Houston,21.59784949
+Purdue,Iona,Purdue,80.61586438
+Purdue,Iowa State,Iowa State,29.95551128
+Purdue,Iowa,Iowa,4.30773088
+Purdue,Kansas State,Purdue,1.835134004
+Purdue,Kansas,Kansas,48.25921413
+Purdue,Kentucky,Kentucky,33.47372882
+Purdue,Liberty,Purdue,25.34338441
+Purdue,Louisiana State,Louisiana State,23.8703301
+Purdue,Louisville,Purdue,7.00787875
+Purdue,Marquette,Purdue,3.014397886
+Purdue,Maryland,Purdue,11.03325553
+Purdue,Michigan State,Michigan State,38.61984383
+Purdue,Michigan,Michigan,38.25031913
+Purdue,Minnesota,Purdue,31.65344187
+Purdue,Mississippi State,Mississippi State,17.88484963
+Purdue,Mississippi,Purdue,57.30405081
+Purdue,Montana,Purdue,34.0784765
+Purdue,Murray State,Purdue,43.77720901
+Purdue,Nevada,Nevada,27.01323283
+Purdue,New Mexico State,New Mexico State,3.05561044
+Purdue,North Carolina Central,Purdue,81.36970368
+Purdue,North Carolina,North Carolina,53.67887052
+Purdue,North Dakota State,Purdue,81.70966774
+Purdue,Northeastern,Purdue,58.2563129
+Purdue,Northern Kentucky,Purdue,28.35766991
+Purdue,Ohio State,Purdue,49.45931574
+Purdue,Oklahoma,Purdue,48.70235012
+Purdue,Old Dominion,Purdue,41.99721545
+Purdue,Oregon,Purdue,16.20033621
+Purdue,Saint Louis,Purdue,53.50806207
+Purdue,Saint Mary's (CA),Purdue,41.96466811
+Purdue,Seton Hall,Purdue,53.13061592
+Purdue,St. John's (NY),Purdue,46.7993044
+Purdue,Syracuse,Purdue,28.55039218
+Purdue,Tennessee,Tennessee,60.401787
+Purdue,Texas Tech,Purdue,13.53428926
+Purdue,Utah State,Utah State,11.06697147
+Purdue,Vermont,Purdue,54.07827313
+Purdue,Villanova,Villanova,6.878799717
+Purdue,Virginia Commonwealth,Purdue,48.82063043
+Purdue,Virginia Tech,Purdue,14.36880457
+Purdue,Virginia,Virginia,23.27713062
+Purdue,Washington,Purdue,17.12743628
+Purdue,Wisconsin,Wisconsin,8.756950933
+Purdue,Wofford,Wofford,7.404585595
+Purdue,Yale,Purdue,88.20094456
+Saint Louis,Abilene Christian,Abilene Christian,12.32441875
+Saint Louis,Arizona State,Arizona State,2.447136031
+Saint Louis,Auburn,Auburn,80.88738024
+Saint Louis,Baylor,Saint Louis,19.27385641
+Saint Louis,Belmont,Belmont,13.60054046
+Saint Louis,Bradley,Saint Louis,41.58141387
+Saint Louis,Buffalo,Buffalo,81.24805697
+Saint Louis,UC-Irvine,UC-Irvine,55.51625702
+Saint Louis,Central Florida,Saint Louis,14.77235759
+Saint Louis,Cincinnati,Cincinnati,41.01634624
+Saint Louis,Colgate,Colgate,18.15434865
+Saint Louis,Duke,Duke,89.59299287
+Saint Louis,Fairleigh Dickinson,Saint Louis,39.61718914
+Saint Louis,Florida State,Florida State,85.24870926
+Saint Louis,Florida,Florida,24.39216255
+Saint Louis,Gardner-Webb,Gardner-Webb,14.52240841
+Saint Louis,Georgia State,Saint Louis,8.096485798
+Saint Louis,Gonzaga,Gonzaga,77.5164737
+Saint Louis,Houston,Houston,68.88040147
+Saint Louis,Iona,Saint Louis,52.83113723
+Saint Louis,Iowa State,Iowa State,71.44147824
+Saint Louis,Iowa,Iowa,54.01801968
+Saint Louis,Kansas State,Kansas State,47.29089708
+Saint Louis,Kansas,Kansas,81.28354008
+Saint Louis,Kentucky,Kentucky,75.95067356
+Saint Louis,Liberty,Liberty,34.67626995
+Saint Louis,Louisiana State,Louisiana State,69.90634607
+Saint Louis,Louisville,Louisville,47.37374876
+Saint Louis,Marquette,Marquette,54.69926037
+Saint Louis,Maryland,Maryland,42.94224741
+Saint Louis,Michigan State,Michigan State,79.75146726
+Saint Louis,Michigan,Michigan,72.1316732
+Saint Louis,Minnesota,Minnesota,31.88624455
+Saint Louis,Mississippi State,Mississippi State,65.83006121
+Saint Louis,Mississippi,Saint Louis,7.096941259
+Saint Louis,Montana,Montana,29.80256539
+Saint Louis,Murray State,Murray State,21.76703726
+Saint Louis,Nevada,Nevada,71.92480647
+Saint Louis,New Mexico State,New Mexico State,59.50725779
+Saint Louis,North Carolina Central,Saint Louis,55.66754589
+Saint Louis,North Carolina,North Carolina,83.4397289
+Saint Louis,North Dakota State,Saint Louis,53.98302004
+Saint Louis,Northeastern,Saint Louis,5.560577916
+Saint Louis,Northern Kentucky,Northern Kentucky,32.9016099
+Saint Louis,Ohio State,Saint Louis,0.978288406
+Saint Louis,Oklahoma,Oklahoma,3.669039448
+Saint Louis,Old Dominion,Old Dominion,16.89867282
+Saint Louis,Oregon,Oregon,50.48571002
+Saint Louis,Purdue,Purdue,53.50806207
+Saint Louis,Saint Mary's (CA),Saint Mary's (CA),19.45797933
+Saint Louis,Seton Hall,Seton Hall,1.566074071
+Saint Louis,St. John's (NY),St. John's (NY),7.860837258
+Saint Louis,Syracuse,Syracuse,27.16905274
+Saint Louis,Tennessee,Tennessee,84.86028126
+Saint Louis,Texas Tech,Texas Tech,41.88314543
+Saint Louis,Utah State,Utah State,66.7318462
+Saint Louis,Vermont,Vermont,5.222246175
+Saint Louis,Villanova,Villanova,59.29636075
+Saint Louis,Virginia Commonwealth,Virginia Commonwealth,5.95539275
+Saint Louis,Virginia Tech,Virginia Tech,35.82964561
+Saint Louis,Virginia,Virginia,65.69722943
+Saint Louis,Washington,Washington,45.10830908
+Saint Louis,Wisconsin,Wisconsin,55.6235651
+Saint Louis,Wofford,Wofford,61.53969184
+Saint Louis,Yale,Saint Louis,70.7500542
+Saint Mary's (CA),Abilene Christian,Saint Mary's (CA),7.306005163
+Saint Mary's (CA),Arizona State,Saint Mary's (CA),17.0956482
+Saint Mary's (CA),Auburn,Auburn,78.56526463
+Saint Mary's (CA),Baylor,Saint Mary's (CA),34.05623042
+Saint Mary's (CA),Belmont,Saint Mary's (CA),5.99095325
+Saint Mary's (CA),Bradley,Saint Mary's (CA),59.21319721
+Saint Mary's (CA),Buffalo,Buffalo,77.61180651
+Saint Mary's (CA),UC-Irvine,UC-Irvine,45.64581171
+Saint Mary's (CA),Central Florida,Saint Mary's (CA),36.90880863
+Saint Mary's (CA),Cincinnati,Cincinnati,23.31758311
+Saint Mary's (CA),Colgate,Saint Mary's (CA),1.330465312
+Saint Mary's (CA),Duke,Duke,88.13127185
+Saint Mary's (CA),Fairleigh Dickinson,Saint Mary's (CA),54.76247701
+Saint Mary's (CA),Florida State,Florida State,81.18140499
+Saint Mary's (CA),Florida,Florida,6.649357278
+Saint Mary's (CA),Gardner-Webb,Saint Mary's (CA),5.081487028
+Saint Mary's (CA),Georgia State,Saint Mary's (CA),27.17059532
+Saint Mary's (CA),Gonzaga,Gonzaga,72.33771969
+Saint Mary's (CA),Houston,Houston,60.94119333
+Saint Mary's (CA),Iona,Saint Mary's (CA),65.17992654
+Saint Mary's (CA),Iowa State,Iowa State,66.16141956
+Saint Mary's (CA),Iowa,Iowa,41.98621465
+Saint Mary's (CA),Kansas State,Kansas State,30.39163732
+Saint Mary's (CA),Kansas,Kansas,76.62501755
+Saint Mary's (CA),Kentucky,Kentucky,68.82091577
+Saint Mary's (CA),Liberty,Liberty,18.40504048
+Saint Mary's (CA),Louisiana State,Louisiana State,62.82314993
+Saint Mary's (CA),Louisville,Louisville,36.14373188
+Saint Mary's (CA),Marquette,Marquette,39.56833592
+Saint Mary's (CA),Maryland,Maryland,23.17396169
+Saint Mary's (CA),Michigan State,Michigan State,73.94649324
+Saint Mary's (CA),Michigan,Michigan,66.02061379
+Saint Mary's (CA),Minnesota,Minnesota,15.673184
+Saint Mary's (CA),Mississippi State,Mississippi State,53.90013904
+Saint Mary's (CA),Mississippi,Saint Mary's (CA),20.9975822
+Saint Mary's (CA),Montana,Montana,11.04351673
+Saint Mary's (CA),Murray State,Murray State,2.379756284
+Saint Mary's (CA),Nevada,Nevada,62.17857791
+Saint Mary's (CA),New Mexico State,New Mexico State,49.94095141
+Saint Mary's (CA),North Carolina Central,Saint Mary's (CA),67.34986514
+Saint Mary's (CA),North Carolina,North Carolina,80.36364581
+Saint Mary's (CA),North Dakota State,Saint Mary's (CA),68.6625678
+Saint Mary's (CA),Northeastern,Saint Mary's (CA),28.59430343
+Saint Mary's (CA),Northern Kentucky,Northern Kentucky,16.27123011
+Saint Mary's (CA),Ohio State,Saint Mary's (CA),22.76324092
+Saint Mary's (CA),Oklahoma,Saint Mary's (CA),14.13829763
+Saint Mary's (CA),Old Dominion,Saint Mary's (CA),2.52241654
+Saint Mary's (CA),Oregon,Oregon,34.45585091
+Saint Mary's (CA),Purdue,Purdue,41.96466811
+Saint Mary's (CA),Saint Louis,Saint Mary's (CA),19.45797933
+Saint Mary's (CA),Seton Hall,Saint Mary's (CA),14.32986101
+Saint Mary's (CA),St. John's (NY),Saint Mary's (CA),9.789826374
+Saint Mary's (CA),Syracuse,Syracuse,9.732750316
+Saint Mary's (CA),Tennessee,Tennessee,81.99246621
+Saint Mary's (CA),Texas Tech,Texas Tech,24.05275297
+Saint Mary's (CA),Utah State,Utah State,55.83455098
+Saint Mary's (CA),Vermont,Saint Mary's (CA),14.09093141
+Saint Mary's (CA),Villanova,Villanova,49.88743616
+Saint Mary's (CA),Virginia Commonwealth,Saint Mary's (CA),17.63641968
+Saint Mary's (CA),Virginia Tech,Virginia Tech,22.47911655
+Saint Mary's (CA),Virginia,Virginia,55.45389405
+Saint Mary's (CA),Washington,Washington,28.02570864
+Saint Mary's (CA),Wisconsin,Wisconsin,45.10664936
+Saint Mary's (CA),Wofford,Wofford,50.88224905
+Saint Mary's (CA),Yale,Saint Mary's (CA),80.7515094
+Seton Hall,Abilene Christian,Abilene Christian,10.82936594
+Seton Hall,Arizona State,Seton Hall,0.984883205
+Seton Hall,Auburn,Auburn,81.20120381
+Seton Hall,Baylor,Seton Hall,22.63640506
+Seton Hall,Belmont,Belmont,6.279062761
+Seton Hall,Bradley,Seton Hall,37.13067208
+Seton Hall,Buffalo,Buffalo,79.60856718
+Seton Hall,UC-Irvine,UC-Irvine,45.406045
+Seton Hall,Central Florida,Seton Hall,14.67474677
+Seton Hall,Cincinnati,Cincinnati,33.34972941
+Seton Hall,Colgate,Colgate,13.82879655
+Seton Hall,Duke,Duke,88.23713433
+Seton Hall,Fairleigh Dickinson,Seton Hall,37.60143774
+Seton Hall,Florida State,Florida State,84.24329566
+Seton Hall,Florida,Florida,24.71736992
+Seton Hall,Gardner-Webb,Gardner-Webb,11.81839505
+Seton Hall,Georgia State,Seton Hall,12.35454759
+Seton Hall,Gonzaga,Gonzaga,74.10265915
+Seton Hall,Houston,Houston,66.24005822
+Seton Hall,Iona,Seton Hall,46.53653033
+Seton Hall,Iowa State,Iowa State,70.33023696
+Seton Hall,Iowa,Iowa,54.48340748
+Seton Hall,Kansas State,Kansas State,47.20896972
+Seton Hall,Kansas,Kansas,80.24268655
+Seton Hall,Kentucky,Kentucky,74.24511934
+Seton Hall,Liberty,Liberty,27.85185021
+Seton Hall,Louisiana State,Louisiana State,66.68777261
+Seton Hall,Louisville,Louisville,48.75482876
+Seton Hall,Marquette,Marquette,51.9544435
+Seton Hall,Maryland,Maryland,39.44136369
+Seton Hall,Michigan State,Michigan State,76.47228739
+Seton Hall,Michigan,Michigan,71.29452993
+Seton Hall,Minnesota,Minnesota,28.69552582
+Seton Hall,Mississippi State,Mississippi State,61.30781522
+Seton Hall,Mississippi,Seton Hall,6.972915649
+Seton Hall,Montana,Montana,24.65836579
+Seton Hall,Murray State,Murray State,12.61913517
+Seton Hall,Nevada,Nevada,65.84526369
+Seton Hall,New Mexico State,New Mexico State,52.15076324
+Seton Hall,North Carolina Central,Seton Hall,52.49419224
+Seton Hall,North Carolina,North Carolina,82.53580129
+Seton Hall,North Dakota State,Seton Hall,49.14287183
+Seton Hall,Northeastern,Seton Hall,3.48158239
+Seton Hall,Northern Kentucky,Northern Kentucky,29.54815867
+Seton Hall,Ohio State,Ohio State,1.147721946
+Seton Hall,Oklahoma,Oklahoma,1.363931543
+Seton Hall,Old Dominion,Old Dominion,14.06305427
+Seton Hall,Oregon,Oregon,41.49003508
+Seton Hall,Purdue,Purdue,53.13061592
+Seton Hall,Saint Louis,Seton Hall,1.566074071
+Seton Hall,Saint Mary's (CA),Saint Mary's (CA),14.32986101
+Seton Hall,St. John's (NY),Seton Hall,0.759430234
+Seton Hall,Syracuse,Syracuse,25.02687791
+Seton Hall,Tennessee,Tennessee,83.67430751
+Seton Hall,Texas Tech,Texas Tech,40.99292506
+Seton Hall,Utah State,Utah State,57.22286329
+Seton Hall,Vermont,Vermont,1.949797686
+Seton Hall,Villanova,Villanova,60.60614301
+Seton Hall,Virginia Commonwealth,Virginia Commonwealth,2.522729521
+Seton Hall,Virginia Tech,Virginia Tech,40.59217141
+Seton Hall,Virginia,Virginia,63.45092684
+Seton Hall,Washington,Washington,39.62543897
+Seton Hall,Wisconsin,Wisconsin,56.74142606
+Seton Hall,Wofford,Wofford,56.96195189
+Seton Hall,Yale,Seton Hall,65.79417729
+St. John's (NY),Abilene Christian,Abilene Christian,10.71057451
+St. John's (NY),Arizona State,St. John's (NY),7.387988657
+St. John's (NY),Auburn,Auburn,77.40804843
+St. John's (NY),Baylor,St. John's (NY),23.4585167
+St. John's (NY),Belmont,Belmont,5.408800937
+St. John's (NY),Bradley,St. John's (NY),38.79084095
+St. John's (NY),Buffalo,Buffalo,80.2152692
+St. John's (NY),UC-Irvine,UC-Irvine,52.12894953
+St. John's (NY),Central Florida,St. John's (NY),21.85724752
+St. John's (NY),Cincinnati,Cincinnati,34.70458994
+St. John's (NY),Colgate,Colgate,9.148959556
+St. John's (NY),Duke,Duke,89.03896866
+St. John's (NY),Fairleigh Dickinson,St. John's (NY),37.80890352
+St. John's (NY),Florida State,Florida State,84.02787681
+St. John's (NY),Florida,Florida,23.62732886
+St. John's (NY),Gardner-Webb,Gardner-Webb,5.394083281
+St. John's (NY),Georgia State,St. John's (NY),22.00744731
+St. John's (NY),Gonzaga,Gonzaga,76.50017635
+St. John's (NY),Houston,Houston,69.25062197
+St. John's (NY),Iona,St. John's (NY),50.67988583
+St. John's (NY),Iowa State,Iowa State,68.22654614
+St. John's (NY),Iowa,Iowa,48.95536471
+St. John's (NY),Kansas State,Kansas State,38.45897213
+St. John's (NY),Kansas,Kansas,76.85440349
+St. John's (NY),Kentucky,Kentucky,73.09831139
+St. John's (NY),Liberty,Liberty,29.38461719
+St. John's (NY),Louisiana State,Louisiana State,64.23525231
+St. John's (NY),Louisville,Louisville,45.32152074
+St. John's (NY),Marquette,Marquette,46.7321254
+St. John's (NY),Maryland,Maryland,33.74873761
+St. John's (NY),Michigan State,Michigan State,75.36776543
+St. John's (NY),Michigan,Michigan,68.53060075
+St. John's (NY),Minnesota,Minnesota,31.04538392
+St. John's (NY),Mississippi State,Mississippi State,54.76637565
+St. John's (NY),Mississippi,St. John's (NY),9.175480196
+St. John's (NY),Montana,Montana,24.35515939
+St. John's (NY),Murray State,Murray State,13.72699705
+St. John's (NY),Nevada,Nevada,67.96857009
+St. John's (NY),New Mexico State,New Mexico State,58.51109375
+St. John's (NY),North Carolina Central,St. John's (NY),53.68663139
+St. John's (NY),North Carolina,North Carolina,81.40978016
+St. John's (NY),North Dakota State,St. John's (NY),51.83313323
+St. John's (NY),Northeastern,St. John's (NY),13.21409384
+St. John's (NY),Northern Kentucky,Northern Kentucky,29.16852772
+St. John's (NY),Ohio State,St. John's (NY),1.309281623
+St. John's (NY),Oklahoma,Oklahoma,3.343299029
+St. John's (NY),Old Dominion,Old Dominion,12.15692093
+St. John's (NY),Oregon,Oregon,39.31599444
+St. John's (NY),Purdue,Purdue,46.7993044
+St. John's (NY),Saint Louis,St. John's (NY),7.860837258
+St. John's (NY),Saint Mary's (CA),Saint Mary's (CA),9.789826374
+St. John's (NY),Seton Hall,Seton Hall,0.759430234
+St. John's (NY),Syracuse,Syracuse,21.27212221
+St. John's (NY),Tennessee,Tennessee,83.37468092
+St. John's (NY),Texas Tech,Texas Tech,40.30682795
+St. John's (NY),Utah State,Utah State,59.36256298
+St. John's (NY),Vermont,Vermont,3.7551755
+St. John's (NY),Villanova,Villanova,54.90515666
+St. John's (NY),Virginia Commonwealth,St. John's (NY),3.809534077
+St. John's (NY),Virginia Tech,Virginia Tech,34.2947502
+St. John's (NY),Virginia,Virginia,65.33588693
+St. John's (NY),Washington,Washington,38.91116121
+St. John's (NY),Wisconsin,Wisconsin,48.85172484
+St. John's (NY),Wofford,Wofford,60.61107471
+St. John's (NY),Yale,St. John's (NY),64.3152052
+Syracuse,Abilene Christian,Syracuse,13.25127109
+Syracuse,Arizona State,Syracuse,25.81033459
+Syracuse,Auburn,Auburn,71.29668543
+Syracuse,Baylor,Syracuse,43.83128708
+Syracuse,Belmont,Syracuse,14.24866155
+Syracuse,Bradley,Syracuse,57.74960647
+Syracuse,Buffalo,Buffalo,70.27355778
+Syracuse,UC-Irvine,UC-Irvine,27.77099707
+Syracuse,Central Florida,Syracuse,37.44332847
+Syracuse,Cincinnati,Cincinnati,10.44420006
+Syracuse,Colgate,Syracuse,8.888098704
+Syracuse,Duke,Duke,81.67788489
+Syracuse,Fairleigh Dickinson,Syracuse,57.44962545
+Syracuse,Florida State,Florida State,71.4492315
+Syracuse,Florida,Syracuse,2.172739272
+Syracuse,Gardner-Webb,Syracuse,10.88937164
+Syracuse,Georgia State,Syracuse,36.37508494
+Syracuse,Gonzaga,Gonzaga,61.91573688
+Syracuse,Houston,Houston,47.32882239
+Syracuse,Iona,Syracuse,64.28899199
+Syracuse,Iowa State,Iowa State,54.2057046
+Syracuse,Iowa,Iowa,36.17469767
+Syracuse,Kansas State,Kansas State,27.23778266
+Syracuse,Kansas,Kansas,67.73873297
+Syracuse,Kentucky,Kentucky,58.89983147
+Syracuse,Liberty,Liberty,9.156679073
+Syracuse,Louisiana State,Louisiana State,49.77363514
+Syracuse,Louisville,Louisville,22.53584305
+Syracuse,Marquette,Marquette,31.443385
+Syracuse,Maryland,Maryland,18.11582716
+Syracuse,Michigan State,Michigan State,64.08848118
+Syracuse,Michigan,Michigan,56.84221135
+Syracuse,Minnesota,Minnesota,0.891834901
+Syracuse,Mississippi State,Mississippi State,47.17575154
+Syracuse,Mississippi,Syracuse,31.02949419
+Syracuse,Montana,Montana,2.376347756
+Syracuse,Murray State,Syracuse,6.791945759
+Syracuse,Nevada,Nevada,54.57620012
+Syracuse,New Mexico State,New Mexico State,34.77012634
+Syracuse,North Carolina Central,Syracuse,67.94591544
+Syracuse,North Carolina,North Carolina,72.85026572
+Syracuse,North Dakota State,Syracuse,66.16505804
+Syracuse,Northeastern,Syracuse,28.35758836
+Syracuse,Northern Kentucky,Northern Kentucky,7.557450487
+Syracuse,Ohio State,Syracuse,23.97043912
+Syracuse,Oklahoma,Syracuse,23.57862566
+Syracuse,Old Dominion,Syracuse,12.03258758
+Syracuse,Oregon,Oregon,17.67894509
+Syracuse,Purdue,Purdue,28.55039218
+Syracuse,Saint Louis,Syracuse,27.16905274
+Syracuse,Saint Mary's (CA),Syracuse,9.732750316
+Syracuse,Seton Hall,Syracuse,25.02687791
+Syracuse,St. John's (NY),Syracuse,21.27212221
+Syracuse,Tennessee,Tennessee,76.060454
+Syracuse,Texas Tech,Texas Tech,15.18697166
+Syracuse,Utah State,Utah State,41.89559032
+Syracuse,Vermont,Syracuse,21.8210025
+Syracuse,Villanova,Villanova,39.6421614
+Syracuse,Virginia Commonwealth,Syracuse,21.40134909
+Syracuse,Virginia Tech,Virginia Tech,15.10067965
+Syracuse,Virginia,Virginia,46.06819333
+Syracuse,Washington,Washington,15.55880486
+Syracuse,Wisconsin,Wisconsin,33.54435273
+Syracuse,Wofford,Wofford,40.3973835
+Syracuse,Yale,Syracuse,76.20498956
+Tennessee,Abilene Christian,Tennessee,79.6498929
+Tennessee,Arizona State,Tennessee,84.82902909
+Tennessee,Auburn,Tennessee,22.88713907
+Tennessee,Baylor,Tennessee,89.39853535
+Tennessee,Belmont,Tennessee,79.59112838
+Tennessee,Bradley,Tennessee,92.02219636
+Tennessee,Buffalo,Tennessee,13.92136631
+Tennessee,UC-Irvine,Tennessee,49.15449474
+Tennessee,Central Florida,Tennessee,86.75681978
+Tennessee,Cincinnati,Tennessee,71.57748108
+Tennessee,Colgate,Tennessee,82.52958602
+Tennessee,Duke,Duke,17.04380824
+Tennessee,Fairleigh Dickinson,Tennessee,92.60968456
+Tennessee,Florida State,Tennessee,16.39008363
+Tennessee,Florida,Tennessee,74.639942
+Tennessee,Gardner-Webb,Tennessee,81.73503183
+Tennessee,Georgia State,Tennessee,85.56507905
+Tennessee,Gonzaga,Tennessee,22.5965365
+Tennessee,Houston,Tennessee,42.73978956
+Tennessee,Iona,Tennessee,93.41918619
+Tennessee,Iowa State,Tennessee,43.92518576
+Tennessee,Iowa,Tennessee,59.77673825
+Tennessee,Kansas State,Tennessee,62.61245481
+Tennessee,Kansas,Tennessee,29.96863789
+Tennessee,Kentucky,Tennessee,36.37856331
+Tennessee,Liberty,Tennessee,63.95202557
+Tennessee,Louisiana State,Tennessee,44.89249066
+Tennessee,Louisville,Tennessee,64.31095456
+Tennessee,Marquette,Tennessee,69.80097935
+Tennessee,Maryland,Tennessee,66.95921332
+Tennessee,Michigan State,Tennessee,30.68427222
+Tennessee,Michigan,Tennessee,29.05305388
+Tennessee,Minnesota,Tennessee,74.90289312
+Tennessee,Mississippi State,Tennessee,53.52933722
+Tennessee,Mississippi,Tennessee,85.34519976
+Tennessee,Montana,Tennessee,76.72834731
+Tennessee,Murray State,Tennessee,77.93580373
+Tennessee,Nevada,Tennessee,41.35932551
+Tennessee,New Mexico State,Tennessee,52.22160038
+Tennessee,North Carolina Central,Tennessee,94.39112704
+Tennessee,North Carolina,Tennessee,13.32050365
+Tennessee,North Dakota State,Tennessee,93.81293141
+Tennessee,Northeastern,Tennessee,85.94108154
+Tennessee,Northern Kentucky,Tennessee,74.41875814
+Tennessee,Ohio State,Tennessee,83.21496082
+Tennessee,Oklahoma,Tennessee,81.15456883
+Tennessee,Old Dominion,Tennessee,79.62819258
+Tennessee,Oregon,Tennessee,66.9495206
+Tennessee,Purdue,Tennessee,60.401787
+Tennessee,Saint Louis,Tennessee,84.86028126
+Tennessee,Saint Mary's (CA),Tennessee,81.99246621
+Tennessee,Seton Hall,Tennessee,83.67430751
+Tennessee,St. John's (NY),Tennessee,83.37468092
+Tennessee,Syracuse,Tennessee,76.060454
+Tennessee,Texas Tech,Tennessee,66.6761107
+Tennessee,Utah State,Tennessee,53.60091138
+Tennessee,Vermont,Tennessee,83.0061912
+Tennessee,Villanova,Tennessee,59.04075541
+Tennessee,Virginia Commonwealth,Tennessee,83.2534862
+Tennessee,Virginia Tech,Tennessee,69.01453818
+Tennessee,Virginia,Tennessee,28.88071646
+Tennessee,Washington,Tennessee,68.88794053
+Tennessee,Wisconsin,Tennessee,58.10937192
+Tennessee,Wofford,Tennessee,45.28060102
+Tennessee,Yale,Tennessee,95.45547421
+Texas Tech,Abilene Christian,Texas Tech,41.53589044
+Texas Tech,Arizona State,Texas Tech,41.88901858
+Texas Tech,Auburn,Auburn,60.663931
+Texas Tech,Baylor,Texas Tech,54.32490612
+Texas Tech,Belmont,Texas Tech,39.51111445
+Texas Tech,Bradley,Texas Tech,72.44757328
+Texas Tech,Buffalo,Buffalo,63.30821541
+Texas Tech,UC-Irvine,UC-Irvine,12.46273193
+Texas Tech,Central Florida,Texas Tech,47.7099333
+Texas Tech,Cincinnati,Texas Tech,5.728659801
+Texas Tech,Colgate,Texas Tech,36.53432678
+Texas Tech,Duke,Duke,79.32242487
+Texas Tech,Fairleigh Dickinson,Texas Tech,73.45715578
+Texas Tech,Florida State,Florida State,62.35919921
+Texas Tech,Florida,Texas Tech,17.29779932
+Texas Tech,Gardner-Webb,Texas Tech,39.85870154
+Texas Tech,Georgia State,Texas Tech,52.90362706
+Texas Tech,Gonzaga,Gonzaga,52.55856649
+Texas Tech,Houston,Houston,36.47109438
+Texas Tech,Iona,Texas Tech,80.51418773
+Texas Tech,Iowa State,Iowa State,41.12194867
+Texas Tech,Iowa,Iowa,10.63336548
+Texas Tech,Kansas State,Kansas State,10.02107916
+Texas Tech,Kansas,Kansas,57.38778301
+Texas Tech,Kentucky,Kentucky,41.62623389
+Texas Tech,Liberty,Texas Tech,17.05143797
+Texas Tech,Louisiana State,Louisiana State,35.52995252
+Texas Tech,Louisville,Louisville,4.95200841
+Texas Tech,Marquette,Marquette,10.10818346
+Texas Tech,Maryland,Maryland,3.756526454
+Texas Tech,Michigan State,Michigan State,50.21791096
+Texas Tech,Michigan,Michigan,46.85432936
+Texas Tech,Minnesota,Texas Tech,13.2613217
+Texas Tech,Mississippi State,Mississippi State,27.95174998
+Texas Tech,Mississippi,Texas Tech,46.67605152
+Texas Tech,Montana,Texas Tech,27.21776886
+Texas Tech,Murray State,Texas Tech,34.01218505
+Texas Tech,Nevada,Nevada,41.47773454
+Texas Tech,New Mexico State,New Mexico State,22.47986733
+Texas Tech,North Carolina Central,Texas Tech,79.83214193
+Texas Tech,North Carolina,North Carolina,61.54323163
+Texas Tech,North Dakota State,Texas Tech,79.41060214
+Texas Tech,Northeastern,Texas Tech,55.46487383
+Texas Tech,Northern Kentucky,Texas Tech,20.91509213
+Texas Tech,Ohio State,Texas Tech,41.4494831
+Texas Tech,Oklahoma,Texas Tech,36.26502156
+Texas Tech,Old Dominion,Texas Tech,31.95231296
+Texas Tech,Oregon,Oregon,2.26822662
+Texas Tech,Purdue,Purdue,13.53428926
+Texas Tech,Saint Louis,Texas Tech,41.88314543
+Texas Tech,Saint Mary's (CA),Texas Tech,24.05275297
+Texas Tech,Seton Hall,Texas Tech,40.99292506
+Texas Tech,St. John's (NY),Texas Tech,40.30682795
+Texas Tech,Syracuse,Texas Tech,15.18697166
+Texas Tech,Tennessee,Tennessee,66.6761107
+Texas Tech,Utah State,Utah State,27.75681872
+Texas Tech,Vermont,Texas Tech,43.79940006
+Texas Tech,Villanova,Villanova,23.5303365
+Texas Tech,Virginia Commonwealth,Texas Tech,35.63434911
+Texas Tech,Virginia Tech,Texas Tech,2.196226807
+Texas Tech,Virginia,Virginia,40.65402642
+Texas Tech,Washington,Washington,1.373035223
+Texas Tech,Wisconsin,Wisconsin,19.07714038
+Texas Tech,Wofford,Wofford,21.363429
+Texas Tech,Yale,Texas Tech,86.37148754
+Utah State,Abilene Christian,Utah State,54.82631438
+Utah State,Arizona State,Utah State,63.35359522
+Utah State,Auburn,Auburn,41.06709282
+Utah State,Baylor,Utah State,73.21857439
+Utah State,Belmont,Utah State,49.03794449
+Utah State,Bradley,Utah State,83.34543909
+Utah State,Buffalo,Buffalo,42.58960773
+Utah State,UC-Irvine,UC-Irvine,0.478024851
+Utah State,Central Florida,Utah State,71.84960696
+Utah State,Cincinnati,Utah State,34.59410489
+Utah State,Colgate,Utah State,56.2774451
+Utah State,Duke,Duke,69.91475987
+Utah State,Fairleigh Dickinson,Utah State,83.00881467
+Utah State,Florida State,Florida State,49.27559419
+Utah State,Florida,Utah State,39.82085776
+Utah State,Gardner-Webb,Utah State,57.3532765
+Utah State,Georgia State,Utah State,69.16817509
+Utah State,Gonzaga,Gonzaga,33.7265675
+Utah State,Houston,Houston,8.00059151
+Utah State,Iona,Utah State,86.87100494
+Utah State,Iowa State,Iowa State,15.84497378
+Utah State,Iowa,Utah State,9.383118641
+Utah State,Kansas State,Utah State,20.66091225
+Utah State,Kansas,Kansas,36.18428409
+Utah State,Kentucky,Kentucky,24.49241406
+Utah State,Liberty,Utah State,28.13426334
+Utah State,Louisiana State,Louisiana State,14.14407964
+Utah State,Louisville,Utah State,16.09335924
+Utah State,Marquette,Utah State,28.26918189
+Utah State,Maryland,Utah State,27.91816327
+Utah State,Michigan State,Michigan State,36.11016337
+Utah State,Michigan,Michigan,21.3959334
+Utah State,Minnesota,Utah State,32.42970712
+Utah State,Mississippi State,Utah State,1.986232169
+Utah State,Mississippi,Utah State,63.59651451
+Utah State,Montana,Utah State,43.04563803
+Utah State,Murray State,Utah State,45.22169582
+Utah State,Nevada,Nevada,10.17653102
+Utah State,New Mexico State,New Mexico State,3.792535729
+Utah State,North Carolina Central,Utah State,88.61370573
+Utah State,North Carolina,North Carolina,50.67460728
+Utah State,North Dakota State,Utah State,86.60731045
+Utah State,Northeastern,Utah State,69.1498187
+Utah State,Northern Kentucky,Utah State,38.7025944
+Utah State,Ohio State,Utah State,59.66576209
+Utah State,Oklahoma,Utah State,54.18084148
+Utah State,Old Dominion,Utah State,54.04321427
+Utah State,Oregon,Utah State,24.34447573
+Utah State,Purdue,Utah State,11.06697147
+Utah State,Saint Louis,Utah State,66.7318462
+Utah State,Saint Mary's (CA),Utah State,55.83455098
+Utah State,Seton Hall,Utah State,57.22286329
+Utah State,St. John's (NY),Utah State,59.36256298
+Utah State,Syracuse,Utah State,41.89559032
+Utah State,Tennessee,Tennessee,53.60091138
+Utah State,Texas Tech,Utah State,27.75681872
+Utah State,Vermont,Utah State,59.78125406
+Utah State,Villanova,Utah State,10.2514791
+Utah State,Virginia Commonwealth,Utah State,62.00530761
+Utah State,Virginia Tech,Utah State,36.11258763
+Utah State,Virginia,Virginia,25.79083496
+Utah State,Washington,Utah State,30.06932949
+Utah State,Wisconsin,Utah State,11.19956011
+Utah State,Wofford,Wofford,6.891457089
+Utah State,Yale,Utah State,91.60707902
+Vermont,Abilene Christian,Abilene Christian,7.008587661
+Vermont,Arizona State,Arizona State,0.612522671
+Vermont,Auburn,Auburn,77.85585607
+Vermont,Baylor,Vermont,22.64554235
+Vermont,Belmont,Belmont,14.94188001
+Vermont,Bradley,Vermont,48.77986086
+Vermont,Buffalo,Buffalo,77.49620212
+Vermont,UC-Irvine,UC-Irvine,48.22908945
+Vermont,Central Florida,Vermont,18.03432486
+Vermont,Cincinnati,Cincinnati,36.18984444
+Vermont,Colgate,Colgate,9.999389493
+Vermont,Duke,Duke,88.79693834
+Vermont,Fairleigh Dickinson,Vermont,43.60077841
+Vermont,Florida State,Florida State,82.77622155
+Vermont,Florida,Florida,18.49709571
+Vermont,Gardner-Webb,Gardner-Webb,6.341655917
+Vermont,Georgia State,Vermont,9.875345844
+Vermont,Gonzaga,Gonzaga,77.5821337
+Vermont,Houston,Houston,67.37316737
+Vermont,Iona,Vermont,53.15113302
+Vermont,Iowa State,Iowa State,68.29654611
+Vermont,Iowa,Iowa,49.15889515
+Vermont,Kansas State,Kansas State,41.25973756
+Vermont,Kansas,Kansas,78.33288926
+Vermont,Kentucky,Kentucky,73.72847963
+Vermont,Liberty,Liberty,29.76620927
+Vermont,Louisiana State,Louisiana State,70.18058698
+Vermont,Louisville,Louisville,46.45307528
+Vermont,Marquette,Marquette,48.82328712
+Vermont,Maryland,Maryland,37.54547379
+Vermont,Michigan State,Michigan State,79.11418382
+Vermont,Michigan,Michigan,71.46035467
+Vermont,Minnesota,Minnesota,27.53499999
+Vermont,Mississippi State,Mississippi State,60.56229607
+Vermont,Mississippi,Vermont,8.877337756
+Vermont,Montana,Montana,21.80258573
+Vermont,Murray State,Murray State,19.63335876
+Vermont,Nevada,Nevada,68.40256968
+Vermont,New Mexico State,New Mexico State,52.65891508
+Vermont,North Carolina Central,Vermont,58.17940318
+Vermont,North Carolina,North Carolina,81.57597647
+Vermont,North Dakota State,Vermont,59.91525329
+Vermont,Northeastern,Vermont,14.16891072
+Vermont,Northern Kentucky,Northern Kentucky,22.04728236
+Vermont,Ohio State,Vermont,10.65800261
+Vermont,Oklahoma,Oklahoma,1.540634139
+Vermont,Old Dominion,Old Dominion,11.47562126
+Vermont,Oregon,Oregon,46.42347512
+Vermont,Purdue,Purdue,54.07827313
+Vermont,Saint Louis,Vermont,5.222246175
+Vermont,Saint Mary's (CA),Saint Mary's (CA),14.09093141
+Vermont,Seton Hall,Vermont,1.949797686
+Vermont,St. John's (NY),Vermont,3.7551755
+Vermont,Syracuse,Syracuse,21.8210025
+Vermont,Tennessee,Tennessee,83.0061912
+Vermont,Texas Tech,Texas Tech,43.79940006
+Vermont,Utah State,Utah State,59.78125406
+Vermont,Villanova,Villanova,53.28259108
+Vermont,Virginia Commonwealth,Virginia Commonwealth,0.019308172
+Vermont,Virginia Tech,Virginia Tech,33.93541136
+Vermont,Virginia,Virginia,69.41372643
+Vermont,Washington,Washington,40.51247713
+Vermont,Wisconsin,Wisconsin,54.49678939
+Vermont,Wofford,Wofford,57.24136618
+Vermont,Yale,Vermont,72.15767771
+Villanova,Abilene Christian,Villanova,48.47175735
+Villanova,Arizona State,Villanova,62.02607517
+Villanova,Auburn,Auburn,48.80508085
+Villanova,Baylor,Villanova,71.95065742
+Villanova,Belmont,Villanova,49.68894923
+Villanova,Bradley,Villanova,80.76843385
+Villanova,Buffalo,Buffalo,48.95226348
+Villanova,UC-Irvine,UC-Irvine,8.335164559
+Villanova,Central Florida,Villanova,70.18654878
+Villanova,Cincinnati,Villanova,28.0186988
+Villanova,Colgate,Villanova,45.78446035
+Villanova,Duke,Duke,73.16235176
+Villanova,Fairleigh Dickinson,Villanova,80.05418048
+Villanova,Florida State,Florida State,56.41868315
+Villanova,Florida,Villanova,40.62146162
+Villanova,Gardner-Webb,Villanova,48.86407877
+Villanova,Georgia State,Villanova,64.38356909
+Villanova,Gonzaga,Gonzaga,40.87394838
+Villanova,Houston,Houston,19.71809289
+Villanova,Iona,Villanova,85.13816789
+Villanova,Iowa State,Iowa State,23.22517868
+Villanova,Iowa,Villanova,7.506953204
+Villanova,Kansas State,Villanova,18.56127699
+Villanova,Kansas,Kansas,44.97999259
+Villanova,Kentucky,Kentucky,33.82369821
+Villanova,Liberty,Villanova,25.80576262
+Villanova,Louisiana State,Louisiana State,20.86277084
+Villanova,Louisville,Villanova,14.56897194
+Villanova,Marquette,Villanova,13.75487322
+Villanova,Maryland,Villanova,23.6303918
+Villanova,Michigan State,Michigan State,44.72273854
+Villanova,Michigan,Michigan,28.88602515
+Villanova,Minnesota,Villanova,35.15612833
+Villanova,Mississippi State,Mississippi State,8.236806692
+Villanova,Mississippi,Villanova,65.22014157
+Villanova,Montana,Villanova,32.38219305
+Villanova,Murray State,Villanova,43.13550551
+Villanova,Nevada,Nevada,21.74266805
+Villanova,New Mexico State,New Mexico State,4.617116925
+Villanova,North Carolina Central,Villanova,86.15242496
+Villanova,North Carolina,North Carolina,56.57445651
+Villanova,North Dakota State,Villanova,85.60532743
+Villanova,Northeastern,Villanova,62.88077924
+Villanova,Northern Kentucky,Villanova,28.11686838
+Villanova,Ohio State,Villanova,61.04039543
+Villanova,Oklahoma,Villanova,57.7568334
+Villanova,Old Dominion,Villanova,44.39428702
+Villanova,Oregon,Villanova,17.37419413
+Villanova,Purdue,Villanova,6.878799717
+Villanova,Saint Louis,Villanova,59.29636075
+Villanova,Saint Mary's (CA),Villanova,49.88743616
+Villanova,Seton Hall,Villanova,60.60614301
+Villanova,St. John's (NY),Villanova,54.90515666
+Villanova,Syracuse,Villanova,39.6421614
+Villanova,Tennessee,Tennessee,59.04075541
+Villanova,Texas Tech,Villanova,23.5303365
+Villanova,Utah State,Utah State,10.2514791
+Villanova,Vermont,Villanova,53.28259108
+Villanova,Virginia Commonwealth,Villanova,60.08750062
+Villanova,Virginia Tech,Villanova,27.83767467
+Villanova,Virginia,Virginia,21.32889918
+Villanova,Washington,Villanova,23.38099151
+Villanova,Wisconsin,Villanova,3.845841938
+Villanova,Wofford,Wofford,5.305370424
+Villanova,Yale,Villanova,91.03338109
+Virginia Commonwealth,Abilene Christian,Abilene Christian,2.946589154
+Virginia Commonwealth,Arizona State,Virginia Commonwealth,3.52776597
+Virginia Commonwealth,Auburn,Auburn,81.71052428
+Virginia Commonwealth,Baylor,Virginia Commonwealth,23.27288383
+Virginia Commonwealth,Belmont,Belmont,4.456546941
+Virginia Commonwealth,Bradley,Virginia Commonwealth,46.4158964
+Virginia Commonwealth,Buffalo,Buffalo,82.68963308
+Virginia Commonwealth,UC-Irvine,UC-Irvine,53.90724687
+Virginia Commonwealth,Central Florida,Virginia Commonwealth,20.2942471
+Virginia Commonwealth,Cincinnati,Cincinnati,32.78302636
+Virginia Commonwealth,Colgate,Colgate,10.47175753
+Virginia Commonwealth,Duke,Duke,90.24653566
+Virginia Commonwealth,Fairleigh Dickinson,Virginia Commonwealth,44.38975434
+Virginia Commonwealth,Florida State,Florida State,82.96566951
+Virginia Commonwealth,Florida,Florida,18.4047675
+Virginia Commonwealth,Gardner-Webb,Gardner-Webb,6.724581222
+Virginia Commonwealth,Georgia State,Virginia Commonwealth,13.86909366
+Virginia Commonwealth,Gonzaga,Gonzaga,75.83878116
+Virginia Commonwealth,Houston,Houston,65.98434133
+Virginia Commonwealth,Iona,Virginia Commonwealth,57.19480152
+Virginia Commonwealth,Iowa State,Iowa State,70.36285083
+Virginia Commonwealth,Iowa,Iowa,50.2311291
+Virginia Commonwealth,Kansas State,Kansas State,44.08304077
+Virginia Commonwealth,Kansas,Kansas,79.84287434
+Virginia Commonwealth,Kentucky,Kentucky,71.49857714
+Virginia Commonwealth,Liberty,Liberty,26.66140658
+Virginia Commonwealth,Louisiana State,Louisiana State,66.98162709
+Virginia Commonwealth,Louisville,Louisville,42.775324
+Virginia Commonwealth,Marquette,Marquette,49.86073615
+Virginia Commonwealth,Maryland,Maryland,37.78483711
+Virginia Commonwealth,Michigan State,Michigan State,76.44627658
+Virginia Commonwealth,Michigan,Michigan,68.47956159
+Virginia Commonwealth,Minnesota,Minnesota,26.63506918
+Virginia Commonwealth,Mississippi State,Mississippi State,62.21238975
+Virginia Commonwealth,Mississippi,Virginia Commonwealth,9.507671872
+Virginia Commonwealth,Montana,Montana,21.513364
+Virginia Commonwealth,Murray State,Murray State,10.76543058
+Virginia Commonwealth,Nevada,Nevada,69.14412957
+Virginia Commonwealth,New Mexico State,New Mexico State,58.98869086
+Virginia Commonwealth,North Carolina Central,Virginia Commonwealth,59.92597602
+Virginia Commonwealth,North Carolina,North Carolina,83.09143609
+Virginia Commonwealth,North Dakota State,Virginia Commonwealth,55.32509841
+Virginia Commonwealth,Northeastern,Virginia Commonwealth,13.2402652
+Virginia Commonwealth,Northern Kentucky,Northern Kentucky,28.18808421
+Virginia Commonwealth,Ohio State,Virginia Commonwealth,7.138763601
+Virginia Commonwealth,Oklahoma,Virginia Commonwealth,2.498526886
+Virginia Commonwealth,Old Dominion,Old Dominion,9.806594219
+Virginia Commonwealth,Oregon,Oregon,43.73162664
+Virginia Commonwealth,Purdue,Purdue,48.82063043
+Virginia Commonwealth,Saint Louis,Virginia Commonwealth,5.95539275
+Virginia Commonwealth,Saint Mary's (CA),Saint Mary's (CA),17.63641968
+Virginia Commonwealth,Seton Hall,Virginia Commonwealth,2.522729521
+Virginia Commonwealth,St. John's (NY),St. John's (NY),3.809534077
+Virginia Commonwealth,Syracuse,Syracuse,21.40134909
+Virginia Commonwealth,Tennessee,Tennessee,83.2534862
+Virginia Commonwealth,Texas Tech,Texas Tech,35.63434911
+Virginia Commonwealth,Utah State,Utah State,62.00530761
+Virginia Commonwealth,Vermont,Virginia Commonwealth,0.019308172
+Virginia Commonwealth,Villanova,Villanova,60.08750062
+Virginia Commonwealth,Virginia Tech,Virginia Tech,33.68914187
+Virginia Commonwealth,Virginia,Virginia,62.97121906
+Virginia Commonwealth,Washington,Washington,38.81115158
+Virginia Commonwealth,Wisconsin,Wisconsin,51.36294055
+Virginia Commonwealth,Wofford,Wofford,58.04939418
+Virginia Commonwealth,Yale,Virginia Commonwealth,74.59381305
+Virginia Tech,Abilene Christian,Virginia Tech,31.21141529
+Virginia Tech,Arizona State,Virginia Tech,40.05324509
+Virginia Tech,Auburn,Auburn,62.77196198
+Virginia Tech,Baylor,Virginia Tech,52.77679273
+Virginia Tech,Belmont,Virginia Tech,31.15954527
+Virginia Tech,Bradley,Virginia Tech,67.4534874
+Virginia Tech,Buffalo,Buffalo,66.63207325
+Virginia Tech,UC-Irvine,UC-Irvine,26.70867849
+Virginia Tech,Central Florida,Virginia Tech,48.19878811
+Virginia Tech,Cincinnati,Virginia Tech,2.897754475
+Virginia Tech,Colgate,Virginia Tech,24.32667087
+Virginia Tech,Duke,Duke,80.14313925
+Virginia Tech,Fairleigh Dickinson,Virginia Tech,67.93971553
+Virginia Tech,Florida State,Florida State,65.02507551
+Virginia Tech,Florida,Virginia Tech,17.42263459
+Virginia Tech,Gardner-Webb,Virginia Tech,27.80200898
+Virginia Tech,Georgia State,Virginia Tech,43.89571686
+Virginia Tech,Gonzaga,Gonzaga,54.53514291
+Virginia Tech,Houston,Houston,41.39395092
+Virginia Tech,Iona,Virginia Tech,76.35664528
+Virginia Tech,Iowa State,Iowa State,43.73367528
+Virginia Tech,Iowa,Iowa,13.64492651
+Virginia Tech,Kansas State,Kansas State,10.32253522
+Virginia Tech,Kansas,Kansas,59.55109763
+Virginia Tech,Kentucky,Kentucky,45.22841567
+Virginia Tech,Liberty,Virginia Tech,2.499548623
+Virginia Tech,Louisiana State,Louisiana State,39.69532927
+Virginia Tech,Louisville,Louisville,5.189286189
+Virginia Tech,Marquette,Marquette,14.59481518
+Virginia Tech,Maryland,Maryland,4.55932948
+Virginia Tech,Michigan State,Michigan State,51.51753622
+Virginia Tech,Michigan,Michigan,48.0878713
+Virginia Tech,Minnesota,Virginia Tech,12.94934667
+Virginia Tech,Mississippi State,Mississippi State,30.93556059
+Virginia Tech,Mississippi,Virginia Tech,44.94574039
+Virginia Tech,Montana,Virginia Tech,13.3252066
+Virginia Tech,Murray State,Virginia Tech,25.30732855
+Virginia Tech,Nevada,Nevada,46.17017612
+Virginia Tech,New Mexico State,New Mexico State,31.31658325
+Virginia Tech,North Carolina Central,Virginia Tech,76.44997338
+Virginia Tech,North Carolina,North Carolina,62.86005965
+Virginia Tech,North Dakota State,Virginia Tech,75.07713578
+Virginia Tech,Northeastern,Virginia Tech,44.72420843
+Virginia Tech,Northern Kentucky,Virginia Tech,6.318812266
+Virginia Tech,Ohio State,Virginia Tech,41.47546824
+Virginia Tech,Oklahoma,Virginia Tech,35.69123692
+Virginia Tech,Old Dominion,Virginia Tech,21.40968649
+Virginia Tech,Oregon,Oregon,3.873949015
+Virginia Tech,Purdue,Purdue,14.36880457
+Virginia Tech,Saint Louis,Virginia Tech,35.82964561
+Virginia Tech,Saint Mary's (CA),Virginia Tech,22.47911655
+Virginia Tech,Seton Hall,Virginia Tech,40.59217141
+Virginia Tech,St. John's (NY),Virginia Tech,34.2947502
+Virginia Tech,Syracuse,Virginia Tech,15.10067965
+Virginia Tech,Tennessee,Tennessee,69.01453818
+Virginia Tech,Texas Tech,Texas Tech,2.196226807
+Virginia Tech,Utah State,Utah State,36.11258763
+Virginia Tech,Vermont,Virginia Tech,33.93541136
+Virginia Tech,Villanova,Villanova,27.83767467
+Virginia Tech,Virginia Commonwealth,Virginia Tech,33.68914187
+Virginia Tech,Virginia,Virginia,39.04851263
+Virginia Tech,Washington,Washington,4.217581308
+Virginia Tech,Wisconsin,Wisconsin,19.45529563
+Virginia Tech,Wofford,Wofford,30.19873689
+Virginia Tech,Yale,Virginia Tech,84.1848769
+Virginia,Abilene Christian,Virginia,66.8660636
+Virginia,Arizona State,Virginia,63.78895866
+Virginia,Auburn,Auburn,19.29154417
+Virginia,Baylor,Virginia,72.89920107
+Virginia,Belmont,Virginia,63.56827797
+Virginia,Bradley,Virginia,83.49928829
+Virginia,Buffalo,Buffalo,18.47692701
+Virginia,UC-Irvine,Virginia,31.80383698
+Virginia,Central Florida,Virginia,68.75512706
+Virginia,Cincinnati,Virginia,47.56498917
+Virginia,Colgate,Virginia,64.93932651
+Virginia,Duke,Duke,46.46072939
+Virginia,Fairleigh Dickinson,Virginia,84.44243696
+Virginia,Florida State,Florida State,18.4148644
+Virginia,Florida,Virginia,47.58501553
+Virginia,Gardner-Webb,Virginia,65.16260205
+Virginia,Georgia State,Virginia,68.90810935
+Virginia,Gonzaga,Gonzaga,4.831971586
+Virginia,Houston,Virginia,15.1421703
+Virginia,Iona,Virginia,86.45909404
+Virginia,Iowa State,Virginia,2.778484076
+Virginia,Iowa,Virginia,23.77164405
+Virginia,Kansas State,Virginia,25.97177246
+Virginia,Kansas,Kansas,11.77597866
+Virginia,Kentucky,Virginia,2.952376943
+Virginia,Liberty,Virginia,44.00604118
+Virginia,Louisiana State,Virginia,9.378317406
+Virginia,Louisville,Virginia,29.6557099
+Virginia,Marquette,Virginia,36.44406809
+Virginia,Maryland,Virginia,30.20243965
+Virginia,Michigan State,Michigan State,1.715543169
+Virginia,Michigan,Michigan,5.198693156
+Virginia,Minnesota,Virginia,48.16701342
+Virginia,Mississippi State,Virginia,9.992629728
+Virginia,Mississippi,Virginia,63.55227624
+Virginia,Montana,Virginia,60.71569531
+Virginia,Murray State,Virginia,63.03125707
+Virginia,Nevada,Virginia,9.321386249
+Virginia,New Mexico State,Virginia,29.23576679
+Virginia,North Carolina Central,Virginia,87.82688871
+Virginia,North Carolina,North Carolina,19.37789708
+Virginia,North Dakota State,Virginia,85.55001966
+Virginia,Northeastern,Virginia,70.96141565
+Virginia,Northern Kentucky,Virginia,56.81255363
+Virginia,Ohio State,Virginia,63.26577242
+Virginia,Oklahoma,Virginia,59.37953859
+Virginia,Old Dominion,Virginia,62.55454519
+Virginia,Oregon,Virginia,35.52260969
+Virginia,Purdue,Virginia,23.27713062
+Virginia,Saint Louis,Virginia,65.69722943
+Virginia,Saint Mary's (CA),Virginia,55.45389405
+Virginia,Seton Hall,Virginia,63.45092684
+Virginia,St. John's (NY),Virginia,65.33588693
+Virginia,Syracuse,Virginia,46.06819333
+Virginia,Tennessee,Tennessee,28.88071646
+Virginia,Texas Tech,Virginia,40.65402642
+Virginia,Utah State,Virginia,25.79083496
+Virginia,Vermont,Virginia,69.41372643
+Virginia,Villanova,Virginia,21.32889918
+Virginia,Virginia Commonwealth,Virginia,62.97121906
+Virginia,Virginia Tech,Virginia,39.04851263
+Virginia,Washington,Virginia,41.81201518
+Virginia,Wisconsin,Virginia,20.20057422
+Virginia,Wofford,Virginia,23.83276689
+Virginia,Yale,Virginia,91.11527374
+Washington,Abilene Christian,Washington,34.69403165
+Washington,Arizona State,Washington,42.02613205
+Washington,Auburn,Auburn,63.09985263
+Washington,Baylor,Washington,55.99336707
+Washington,Belmont,Washington,32.5795407
+Washington,Bradley,Washington,72.97681553
+Washington,Buffalo,Buffalo,63.79582621
+Washington,UC-Irvine,UC-Irvine,19.85466085
+Washington,Central Florida,Washington,52.99094213
+Washington,Cincinnati,Washington,5.018755528
+Washington,Colgate,Washington,31.97910642
+Washington,Duke,Duke,80.57036604
+Washington,Fairleigh Dickinson,Washington,71.87993522
+Washington,Florida State,Florida State,67.33597241
+Washington,Florida,Washington,17.98387987
+Washington,Gardner-Webb,Washington,35.33587077
+Washington,Georgia State,Washington,50.24733036
+Washington,Gonzaga,Gonzaga,54.08490188
+Washington,Houston,Houston,35.59550884
+Washington,Iona,Washington,78.58244083
+Washington,Iowa State,Iowa State,42.39332461
+Washington,Iowa,Iowa,15.90970335
+Washington,Kansas State,Kansas State,7.917187825
+Washington,Kansas,Kansas,59.81581704
+Washington,Kentucky,Kentucky,48.34848493
+Washington,Liberty,Washington,12.75196409
+Washington,Louisiana State,Louisiana State,39.04801795
+Washington,Louisville,Louisville,8.502789547
+Washington,Marquette,Marquette,9.93076914
+Washington,Maryland,Maryland,3.642195548
+Washington,Michigan State,Michigan State,57.62025945
+Washington,Michigan,Michigan,46.19779258
+Washington,Minnesota,Washington,9.695307863
+Washington,Mississippi State,Mississippi State,31.32148519
+Washington,Mississippi,Washington,46.82060423
+Washington,Montana,Washington,19.97233007
+Washington,Murray State,Washington,24.84087227
+Washington,Nevada,Nevada,40.64333115
+Washington,New Mexico State,New Mexico State,25.06115278
+Washington,North Carolina Central,Washington,80.48234365
+Washington,North Carolina,North Carolina,67.61428198
+Washington,North Dakota State,Washington,79.64919173
+Washington,Northeastern,Washington,51.35835061
+Washington,Northern Kentucky,Washington,15.09466025
+Washington,Ohio State,Washington,41.8713833
+Washington,Oklahoma,Washington,36.76889289
+Washington,Old Dominion,Washington,30.2337571
+Washington,Oregon,Oregon,7.045725814
+Washington,Purdue,Purdue,17.12743628
+Washington,Saint Louis,Washington,45.10830908
+Washington,Saint Mary's (CA),Washington,28.02570864
+Washington,Seton Hall,Washington,39.62543897
+Washington,St. John's (NY),Washington,38.91116121
+Washington,Syracuse,Washington,15.55880486
+Washington,Tennessee,Tennessee,68.88794053
+Washington,Texas Tech,Washington,1.373035223
+Washington,Utah State,Utah State,30.06932949
+Washington,Vermont,Washington,40.51247713
+Washington,Villanova,Villanova,23.38099151
+Washington,Virginia Commonwealth,Washington,38.81115158
+Washington,Virginia Tech,Washington,4.217581308
+Washington,Virginia,Virginia,41.81201518
+Washington,Wisconsin,Wisconsin,19.09576175
+Washington,Wofford,Wofford,25.64348918
+Washington,Yale,Washington,85.69443979
+Wisconsin,Abilene Christian,Wisconsin,47.86166903
+Wisconsin,Arizona State,Wisconsin,57.4164365
+Wisconsin,Auburn,Auburn,47.38946181
+Wisconsin,Baylor,Wisconsin,67.58748722
+Wisconsin,Belmont,Wisconsin,48.69395562
+Wisconsin,Bradley,Wisconsin,76.48385535
+Wisconsin,Buffalo,Buffalo,50.32937228
+Wisconsin,UC-Irvine,Wisconsin,0.941741571
+Wisconsin,Central Florida,Wisconsin,63.10384249
+Wisconsin,Cincinnati,Wisconsin,24.0423187
+Wisconsin,Colgate,Wisconsin,44.40675486
+Wisconsin,Duke,Duke,67.75584653
+Wisconsin,Fairleigh Dickinson,Wisconsin,77.89083887
+Wisconsin,Florida State,Florida State,47.3241436
+Wisconsin,Florida,Wisconsin,35.33547465
+Wisconsin,Gardner-Webb,Wisconsin,45.88064937
+Wisconsin,Georgia State,Wisconsin,60.59942952
+Wisconsin,Gonzaga,Gonzaga,37.27544151
+Wisconsin,Houston,Houston,18.4383796
+Wisconsin,Iona,Wisconsin,81.83880896
+Wisconsin,Iowa State,Iowa State,21.74883724
+Wisconsin,Iowa,Wisconsin,0.759761368
+Wisconsin,Kansas State,Wisconsin,6.928809485
+Wisconsin,Kansas,Kansas,41.23704934
+Wisconsin,Kentucky,Kentucky,28.88000533
+Wisconsin,Liberty,Wisconsin,23.65948531
+Wisconsin,Louisiana State,Louisiana State,16.89665415
+Wisconsin,Louisville,Wisconsin,15.71087284
+Wisconsin,Marquette,Wisconsin,6.223452424
+Wisconsin,Maryland,Wisconsin,16.19965346
+Wisconsin,Michigan State,Michigan State,35.71360595
+Wisconsin,Michigan,Michigan,33.70271218
+Wisconsin,Minnesota,Wisconsin,35.81635519
+Wisconsin,Mississippi State,Mississippi State,13.26263832
+Wisconsin,Mississippi,Wisconsin,61.15715785
+Wisconsin,Montana,Wisconsin,34.73376638
+Wisconsin,Murray State,Wisconsin,42.7150298
+Wisconsin,Nevada,Nevada,27.63778437
+Wisconsin,New Mexico State,New Mexico State,3.342150781
+Wisconsin,North Carolina Central,Wisconsin,82.73654992
+Wisconsin,North Carolina,North Carolina,50.20372261
+Wisconsin,North Dakota State,Wisconsin,82.91466513
+Wisconsin,Northeastern,Wisconsin,58.84643521
+Wisconsin,Northern Kentucky,Wisconsin,30.23126125
+Wisconsin,Ohio State,Wisconsin,53.35581671
+Wisconsin,Oklahoma,Wisconsin,53.02691712
+Wisconsin,Old Dominion,Wisconsin,43.93387803
+Wisconsin,Oregon,Wisconsin,17.23605922
+Wisconsin,Purdue,Wisconsin,8.756950933
+Wisconsin,Saint Louis,Wisconsin,55.6235651
+Wisconsin,Saint Mary's (CA),Wisconsin,45.10664936
+Wisconsin,Seton Hall,Wisconsin,56.74142606
+Wisconsin,St. John's (NY),Wisconsin,48.85172484
+Wisconsin,Syracuse,Wisconsin,33.54435273
+Wisconsin,Tennessee,Tennessee,58.10937192
+Wisconsin,Texas Tech,Wisconsin,19.07714038
+Wisconsin,Utah State,Utah State,11.19956011
+Wisconsin,Vermont,Wisconsin,54.49678939
+Wisconsin,Villanova,Villanova,3.845841938
+Wisconsin,Virginia Commonwealth,Wisconsin,51.36294055
+Wisconsin,Virginia Tech,Wisconsin,19.45529563
+Wisconsin,Virginia,Virginia,20.20057422
+Wisconsin,Washington,Wisconsin,19.09576175
+Wisconsin,Wofford,Wofford,9.61141417
+Wisconsin,Yale,Wisconsin,87.36201229
+Wofford,Abilene Christian,Wofford,52.6603568
+Wofford,Arizona State,Wofford,57.78414154
+Wofford,Auburn,Auburn,34.07385248
+Wofford,Baylor,Wofford,69.81078838
+Wofford,Belmont,Wofford,50.08304362
+Wofford,Bradley,Wofford,80.02427594
+Wofford,Buffalo,Buffalo,36.60013608
+Wofford,UC-Irvine,Wofford,0.670975582
+Wofford,Central Florida,Wofford,67.94822892
+Wofford,Cincinnati,Wofford,33.62301378
+Wofford,Colgate,Wofford,52.55967425
+Wofford,Duke,Duke,64.01900959
+Wofford,Fairleigh Dickinson,Wofford,80.16535786
+Wofford,Florida State,Florida State,43.05371221
+Wofford,Florida,Wofford,37.45340526
+Wofford,Gardner-Webb,Wofford,54.01137886
+Wofford,Georgia State,Wofford,63.25739972
+Wofford,Gonzaga,Gonzaga,27.48086536
+Wofford,Houston,Houston,4.913411455
+Wofford,Iona,Wofford,83.67309614
+Wofford,Iowa State,Iowa State,14.7250198
+Wofford,Iowa,Wofford,9.760149359
+Wofford,Kansas State,Wofford,18.85784436
+Wofford,Kansas,Kansas,29.10285489
+Wofford,Kentucky,Kentucky,21.07229461
+Wofford,Liberty,Wofford,24.60875182
+Wofford,Louisiana State,Louisiana State,11.2284547
+Wofford,Louisville,Wofford,14.55531902
+Wofford,Marquette,Wofford,27.63206294
+Wofford,Maryland,Wofford,24.33697515
+Wofford,Michigan State,Michigan State,29.48382234
+Wofford,Michigan,Michigan,18.22165505
+Wofford,Minnesota,Wofford,31.18517984
+Wofford,Mississippi State,Wofford,0.288838164
+Wofford,Mississippi,Wofford,57.68431977
+Wofford,Montana,Wofford,40.11122365
+Wofford,Murray State,Wofford,45.84679834
+Wofford,Nevada,Nevada,3.295282332
+Wofford,New Mexico State,Wofford,3.147537951
+Wofford,North Carolina Central,Wofford,86.35212475
+Wofford,North Carolina,North Carolina,40.9452078
+Wofford,North Dakota State,Wofford,83.85743212
+Wofford,Northeastern,Wofford,64.54942496
+Wofford,Northern Kentucky,Wofford,39.7932863
+Wofford,Ohio State,Wofford,58.38050774
+Wofford,Oklahoma,Wofford,50.98060579
+Wofford,Old Dominion,Wofford,52.16256449
+Wofford,Oregon,Wofford,22.18578452
+Wofford,Purdue,Wofford,7.404585595
+Wofford,Saint Louis,Wofford,61.53969184
+Wofford,Saint Mary's (CA),Wofford,50.88224905
+Wofford,Seton Hall,Wofford,56.96195189
+Wofford,St. John's (NY),Wofford,60.61107471
+Wofford,Syracuse,Wofford,40.3973835
+Wofford,Tennessee,Tennessee,45.28060102
+Wofford,Texas Tech,Wofford,21.363429
+Wofford,Utah State,Wofford,6.891457089
+Wofford,Vermont,Wofford,57.24136618
+Wofford,Villanova,Wofford,5.305370424
+Wofford,Virginia Commonwealth,Wofford,58.04939418
+Wofford,Virginia Tech,Wofford,30.19873689
+Wofford,Virginia,Virginia,23.83276689
+Wofford,Washington,Wofford,25.64348918
+Wofford,Wisconsin,Wofford,9.61141417
+Wofford,Yale,Wofford,89.50984867
+Yale,Abilene Christian,Abilene Christian,73.71427945
+Yale,Arizona State,Arizona State,72.75426123
+Yale,Auburn,Auburn,94.47695907
+Yale,Baylor,Baylor,57.67928046
+Yale,Belmont,Belmont,73.62795514
+Yale,Bradley,Bradley,41.14040344
+Yale,Buffalo,Buffalo,95.30556814
+Yale,UC-Irvine,UC-Irvine,85.56517451
+Yale,Central Florida,Central Florida,63.75802376
+Yale,Cincinnati,Cincinnati,85.02413715
+Yale,Colgate,Colgate,76.41070951
+Yale,Duke,Duke,97.02583588
+Yale,Fairleigh Dickinson,Fairleigh Dickinson,39.44994184
+Yale,Florida State,Florida State,95.98074985
+Yale,Florida,Florida,74.99979874
+Yale,Gardner-Webb,Gardner-Webb,72.92060591
+Yale,Georgia State,Georgia State,61.00762331
+Yale,Gonzaga,Gonzaga,94.1956838
+Yale,Houston,Houston,93.03133619
+Yale,Iona,Iona,23.83836723
+Yale,Iowa State,Iowa State,93.11292105
+Yale,Iowa,Iowa,87.29992884
+Yale,Kansas State,Kansas State,87.40828365
+Yale,Kansas,Kansas,95.10922134
+Yale,Kentucky,Kentucky,93.62738189
+Yale,Liberty,Liberty,80.73712074
+Yale,Louisiana State,Louisiana State,92.78200121
+Yale,Louisville,Louisville,85.85461687
+Yale,Marquette,Marquette,89.90519841
+Yale,Maryland,Maryland,84.85597691
+Yale,Michigan State,Michigan State,94.10622787
+Yale,Michigan,Michigan,92.49842917
+Yale,Minnesota,Minnesota,79.98161331
+Yale,Mississippi State,Mississippi State,90.97492516
+Yale,Mississippi,Mississippi,66.37349264
+Yale,Montana,Montana,79.6205576
+Yale,Murray State,Murray State,76.31056463
+Yale,Nevada,Nevada,93.43943227
+Yale,New Mexico State,New Mexico State,89.10414568
+Yale,North Carolina Central,North Carolina Central,24.21212142
+Yale,North Carolina,North Carolina,94.97031746
+Yale,North Dakota State,North Dakota State,26.50329886
+Yale,Northeastern,Northeastern,66.93250416
+Yale,Northern Kentucky,Northern Kentucky,80.58517998
+Yale,Ohio State,Ohio State,64.21689034
+Yale,Oklahoma,Oklahoma,67.98674566
+Yale,Old Dominion,Old Dominion,76.46558317
+Yale,Oregon,Oregon,87.5295402
+Yale,Purdue,Purdue,88.20094456
+Yale,Saint Louis,Saint Louis,70.7500542
+Yale,Saint Mary's (CA),Saint Mary's (CA),80.7515094
+Yale,Seton Hall,Seton Hall,65.79417729
+Yale,St. John's (NY),St. John's (NY),64.3152052
+Yale,Syracuse,Syracuse,76.20498956
+Yale,Tennessee,Tennessee,95.45547421
+Yale,Texas Tech,Texas Tech,86.37148754
+Yale,Utah State,Utah State,91.60707902
+Yale,Vermont,Vermont,72.15767771
+Yale,Villanova,Villanova,91.03338109
+Yale,Virginia Commonwealth,Virginia Commonwealth,74.59381305
+Yale,Virginia Tech,Virginia Tech,84.1848769
+Yale,Virginia,Virginia,91.11527374
+Yale,Washington,Washington,85.69443979
+Yale,Wisconsin,Wisconsin,87.36201229
+Yale,Wofford,Wofford,89.50984867
