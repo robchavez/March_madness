@@ -1,0 +1,1513 @@
+"","team1","team2","winner","season","team1_seed","team2_seed"
+"1","UMass","UCF","UMass",1996,1,16
+"2","Bradley","Stanford","Stanford",1996,8,9
+"3","Penn State","Arkansas","Arkansas",1996,5,12
+"4","Marquette","Monmouth","Marquette",1996,4,13
+"5","UNC","New Orleans","UNC",1996,6,11
+"6","Texas Tech","Northern Illinois","Texas Tech",1996,3,14
+"7","New Mexico","Kansas State","New Mexico",1996,7,10
+"8","Georgetown","Mississippi Valley State","Georgetown",1996,2,15
+"9","UMass","Stanford","UMass",1996,1,9
+"10","Arkansas","Marquette","Arkansas",1996,12,4
+"11","UNC","Texas Tech","Texas Tech",1996,6,3
+"12","New Mexico","Georgetown","Georgetown",1996,7,2
+"13","UMass","Arkansas","UMass",1996,1,12
+"14","Texas Tech","Georgetown","Georgetown",1996,3,2
+"15","UMass","Georgetown","UMass",1996,1,2
+"16","Kentucky","San Jose State","Kentucky",1996,1,16
+"17","Green Bay","Virginia Tech","Virginia Tech",1996,8,9
+"18","Iowa State","California","Iowa State",1996,5,12
+"19","Utah","Canisius","Utah",1996,4,13
+"20","Louisville","Tulsa","Louisville",1996,6,11
+"21","Villanova","Portland","Villanova",1996,3,14
+"22","Michigan","Texas","Texas",1996,7,10
+"23","Wake Forest","Louisiana-Monroe","Wake Forest",1996,2,15
+"24","Kentucky","Virginia Tech","Kentucky",1996,1,9
+"25","Iowa State","Utah","Utah",1996,5,4
+"26","Louisville","Villanova","Louisville",1996,6,3
+"27","Texas","Wake Forest","Wake Forest",1996,10,2
+"28","Kentucky","Utah","Kentucky",1996,1,4
+"29","Louisville","Wake Forest","Wake Forest",1996,6,2
+"30","Kentucky","Wake Forest","Kentucky",1996,1,2
+"31","UConn","Colgate","UConn",1996,1,16
+"32","Duke","Eastern Michigan","Eastern Michigan",1996,8,9
+"33","Mississippi State","VCU","Mississippi State",1996,5,12
+"34","UCLA","Princeton","Princeton",1996,4,13
+"35","Indiana","Boston College","Boston College",1996,6,11
+"36","Georgia Tech","Austin Peay","Georgia Tech",1996,3,14
+"37","Temple","Oklahoma","Temple",1996,7,10
+"38","Cincinnati","UNC Greensboro","Cincinnati",1996,2,15
+"39","UConn","Eastern Michigan","UConn",1996,1,9
+"40","Mississippi State","Princeton","Mississippi State",1996,5,13
+"41","Boston College","Georgia Tech","Georgia Tech",1996,11,3
+"42","Temple","Cincinnati","Cincinnati",1996,7,2
+"43","UConn","Mississippi State","Mississippi State",1996,1,5
+"44","Georgia Tech","Cincinnati","Cincinnati",1996,3,2
+"45","Mississippi State","Cincinnati","Mississippi State",1996,5,2
+"46","Purdue","Western Carolina","Purdue",1996,1,16
+"47","Georgia","Clemson","Georgia",1996,8,9
+"48","Memphis","Drexel","Drexel",1996,5,12
+"49","Syracuse","Montana State","Syracuse",1996,4,13
+"50","Iowa","George Washington","Iowa",1996,6,11
+"51","Arizona","Valparaiso","Arizona",1996,3,14
+"52","Maryland","Santa Clara","Santa Clara",1996,7,10
+"53","Kansas","South Carolina State","Kansas",1996,2,15
+"54","Purdue","Georgia","Georgia",1996,1,8
+"55","Drexel","Syracuse","Syracuse",1996,12,4
+"56","Iowa","Arizona","Arizona",1996,6,3
+"57","Santa Clara","Kansas","Kansas",1996,10,2
+"58","Georgia","Syracuse","Syracuse",1996,8,4
+"59","Arizona","Kansas","Kansas",1996,3,2
+"60","Syracuse","Kansas","Syracuse",1996,4,2
+"61","Kentucky","UMass","Kentucky",1996,1,1
+"62","Mississippi State","Syracuse","Syracuse",1996,5,4
+"63","Kentucky","Syracuse","Kentucky",1996,1,4
+"64","UNC","Fairfield","UNC",1997,1,16
+"65","Indiana","Colorado","Colorado",1997,8,9
+"66","California","Princeton","California",1997,5,12
+"67","Villanova","LIU","Villanova",1997,4,13
+"68","Louisville","UMass","Louisville",1997,6,11
+"69","New Mexico","Old Dominion","New Mexico",1997,3,14
+"70","Wisconsin","Texas","Texas",1997,7,10
+"71","South Carolina","Coppin State","Coppin State",1997,2,15
+"72","UNC","Colorado","UNC",1997,1,9
+"73","California","Villanova","California",1997,5,4
+"74","Louisville","New Mexico","Louisville",1997,6,3
+"75","Texas","Coppin State","Texas",1997,10,15
+"76","UNC","California","UNC",1997,1,5
+"77","Louisville","Texas","Louisville",1997,6,10
+"78","UNC","Louisville","UNC",1997,1,6
+"79","Minnesota","Texas State","Minnesota",1997,1,16
+"80","Ole Miss","Temple","Temple",1997,8,9
+"81","Tulsa","Boston University","Tulsa",1997,5,12
+"82","Clemson","Miami (OH)","Clemson",1997,4,13
+"83","Iowa State","Illinois State","Iowa State",1997,6,11
+"84","Cincinnati","Butler","Cincinnati",1997,3,14
+"85","Xavier","Vanderbilt","Xavier",1997,7,10
+"86","UCLA","Charleston Southern","UCLA",1997,2,15
+"87","Minnesota","Temple","Minnesota",1997,1,9
+"88","Tulsa","Clemson","Clemson",1997,5,4
+"89","Iowa State","Cincinnati","Iowa State",1997,6,3
+"90","Xavier","UCLA","UCLA",1997,7,2
+"91","Minnesota","Clemson","Minnesota",1997,1,4
+"92","Iowa State","UCLA","UCLA",1997,6,2
+"93","Minnesota","UCLA","Minnesota",1997,1,2
+"94","Kansas","Jackson State","Kansas",1997,1,16
+"95","Purdue","Rhode Island","Purdue",1997,8,9
+"96","Maryland","College of Charleston","College of Charleston",1997,5,12
+"97","Arizona","South Alabama","Arizona",1997,4,13
+"98","Illinois","USC","Illinois",1997,6,11
+"99","Georgia","Chattanooga","Chattanooga",1997,3,14
+"100","Marquette","Providence","Providence",1997,7,10
+"101","Duke","Murray State","Duke",1997,2,15
+"102","Kansas","Purdue","Kansas",1997,1,8
+"103","College of Charleston","Arizona","Arizona",1997,12,4
+"104","Illinois","Chattanooga","Chattanooga",1997,6,14
+"105","Providence","Duke","Providence",1997,10,2
+"106","Kansas","Arizona","Arizona",1997,1,4
+"107","Chattanooga","Providence","Providence",1997,14,10
+"108","Arizona","Providence","Arizona",1997,4,10
+"109","Kentucky","Montana","Kentucky",1997,1,16
+"110","Iowa","Virginia","Iowa",1997,8,9
+"111","Boston College","Valparaiso","Boston College",1997,5,12
+"112","St. Joseph's","Pacific","St. Joseph's",1997,4,13
+"113","Stanford","Oklahoma","Stanford",1997,6,11
+"114","Wake Forest","Saint Mary's","Wake Forest",1997,3,14
+"115","Charlotte","Georgetown","Charlotte",1997,7,10
+"116","Utah","Navy","Utah",1997,2,15
+"117","Kentucky","Iowa","Kentucky",1997,1,8
+"118","Boston College","St. Joseph's","St. Joseph's",1997,5,4
+"119","Stanford","Wake Forest","Stanford",1997,6,3
+"120","Charlotte","Utah","Utah",1997,7,2
+"121","Kentucky","St. Joseph's","Kentucky",1997,1,4
+"122","Stanford","Utah","Utah",1997,6,2
+"123","Kentucky","Utah","Kentucky",1997,1,2
+"124","Arizona","UNC","Arizona",1997,4,1
+"125","Minnesota","Kentucky","Kentucky",1997,1,1
+"126","Arizona","Kentucky","Arizona",1997,4,1
+"127","UNC","Navy","UNC",1998,1,16
+"128","Charlotte","UIC","Charlotte",1998,8,9
+"129","Princeton","UNLV","Princeton",1998,5,12
+"130","Michigan State","Eastern Michigan","Michigan State",1998,4,13
+"131","Xavier","Washington","Washington",1998,6,11
+"132","South Carolina","Richmond","Richmond",1998,3,14
+"133","Indiana","Oklahoma","Indiana",1998,7,10
+"134","UConn","Fairleigh Dickinson","UConn",1998,2,15
+"135","UNC","Charlotte","UNC",1998,1,8
+"136","Princeton","Michigan State","Michigan State",1998,5,4
+"137","Washington","Richmond","Washington",1998,11,14
+"138","Indiana","UConn","UConn",1998,7,2
+"139","UNC","Michigan State","UNC",1998,1,4
+"140","Washington","UConn","UConn",1998,11,2
+"141","UNC","UConn","UNC",1998,1,2
+"142","Kansas","Prairie View","Kansas",1998,1,16
+"143","Rhode Island","Murray State","Rhode Island",1998,8,9
+"144","TCU","Florida State","Florida State",1998,5,12
+"145","Ole Miss","Valparaiso","Valparaiso",1998,4,13
+"146","Clemson","Western Michigan","Western Michigan",1998,6,11
+"147","Stanford","College of Charleston","Stanford",1998,3,14
+"148","St. John's (NY)","Detroit","Detroit",1998,7,10
+"149","Purdue","Delaware","Purdue",1998,2,15
+"150","Kansas","Rhode Island","Rhode Island",1998,1,8
+"151","Florida State","Valparaiso","Valparaiso",1998,12,13
+"152","Western Michigan","Stanford","Stanford",1998,11,3
+"153","Detroit","Purdue","Purdue",1998,10,2
+"154","Rhode Island","Valparaiso","Rhode Island",1998,8,13
+"155","Stanford","Purdue","Stanford",1998,3,2
+"156","Rhode Island","Stanford","Stanford",1998,8,3
+"157","Duke","Radford","Duke",1998,1,16
+"158","Oklahoma State","George Washington","Oklahoma State",1998,8,9
+"159","Syracuse","Iona","Syracuse",1998,5,12
+"160","New Mexico","Butler","New Mexico",1998,4,13
+"161","UCLA","Miami (FL)","UCLA",1998,6,11
+"162","Michigan","Davidson","Michigan",1998,3,14
+"163","UMass","Saint Louis","Saint Louis",1998,7,10
+"164","Kentucky","South Carolina State","Kentucky",1998,2,15
+"165","Duke","Oklahoma State","Duke",1998,1,8
+"166","Syracuse","New Mexico","Syracuse",1998,5,4
+"167","UCLA","Michigan","UCLA",1998,6,3
+"168","Saint Louis","Kentucky","Kentucky",1998,10,2
+"169","Duke","Syracuse","Duke",1998,1,5
+"170","UCLA","Kentucky","Kentucky",1998,6,2
+"171","Duke","Kentucky","Kentucky",1998,1,2
+"172","Arizona","Nicholls State","Arizona",1998,1,16
+"173","Tennessee","Illinois State","Illinois State",1998,8,9
+"174","Illinois","South Alabama","Illinois",1998,5,12
+"175","Maryland","Utah State","Maryland",1998,4,13
+"176","Arkansas","Nebraska","Arkansas",1998,6,11
+"177","Utah","San Francisco","Utah",1998,3,14
+"178","Temple","West Virginia","West Virginia",1998,7,10
+"179","Cincinnati","Northern Arizona","Cincinnati",1998,2,15
+"180","Arizona","Illinois State","Arizona",1998,1,9
+"181","Illinois","Maryland","Maryland",1998,5,4
+"182","Arkansas","Utah","Utah",1998,6,3
+"183","West Virginia","Cincinnati","West Virginia",1998,10,2
+"184","Arizona","Maryland","Arizona",1998,1,4
+"185","Utah","West Virginia","Utah",1998,3,10
+"186","Arizona","Utah","Utah",1998,1,3
+"187","Kentucky","Stanford","Kentucky",1998,2,3
+"188","UNC","Utah","Utah",1998,1,3
+"189","Kentucky","Utah","Kentucky",1998,2,3
+"190","Duke","Florida A&M","Duke",1999,1,16
+"191","College of Charleston","Tulsa","Tulsa",1999,8,9
+"192","Wisconsin","Missouri State","Missouri State",1999,5,12
+"193","Tennessee","Delaware","Tennessee",1999,4,13
+"194","Temple","Kent State","Temple",1999,6,11
+"195","Cincinnati","George Mason","Cincinnati",1999,3,14
+"196","Texas","Purdue","Purdue",1999,7,10
+"197","Miami (FL)","Lafayette","Miami (FL)",1999,2,15
+"198","Duke","Tulsa","Duke",1999,1,9
+"199","Missouri State","Tennessee","Missouri State",1999,12,4
+"200","Temple","Cincinnati","Temple",1999,6,3
+"201","Purdue","Miami (FL)","Purdue",1999,10,2
+"202","Duke","Missouri State","Duke",1999,1,12
+"203","Temple","Purdue","Temple",1999,6,10
+"204","Duke","Temple","Duke",1999,1,6
+"205","Michigan State","Mount St. Mary's","Michigan State",1999,1,16
+"206","Villanova","Ole Miss","Ole Miss",1999,8,9
+"207","Charlotte","Rhode Island","Charlotte",1999,5,12
+"208","Arizona","Oklahoma","Oklahoma",1999,4,13
+"209","Kansas","Evansville","Kansas",1999,6,11
+"210","Kentucky","New Mexico State","Kentucky",1999,3,14
+"211","Washington","Miami (OH)","Miami (OH)",1999,7,10
+"212","Utah","Arkansas State","Utah",1999,2,15
+"213","Michigan State","Ole Miss","Michigan State",1999,1,9
+"214","Charlotte","Oklahoma","Oklahoma",1999,5,13
+"215","Kansas","Kentucky","Kentucky",1999,6,3
+"216","Miami (OH)","Utah","Miami (OH)",1999,10,2
+"217","Michigan State","Oklahoma","Michigan State",1999,1,13
+"218","Kentucky","Miami (OH)","Kentucky",1999,3,10
+"219","Michigan State","Kentucky","Michigan State",1999,1,3
+"220","Auburn","Winthrop","Auburn",1999,1,16
+"221","Syracuse","Oklahoma State","Oklahoma State",1999,8,9
+"222","UCLA","Detroit","Detroit",1999,5,12
+"223","Ohio State","Murray State","Ohio State",1999,4,13
+"224","Indiana","George Washington","Indiana",1999,6,11
+"225","St. John's (NY)","Samford","St. John's (NY)",1999,3,14
+"226","Louisville","Creighton","Creighton",1999,7,10
+"227","Maryland","Valparaiso","Maryland",1999,2,15
+"228","Auburn","Oklahoma State","Auburn",1999,1,9
+"229","Detroit","Ohio State","Ohio State",1999,12,4
+"230","Indiana","St. John's (NY)","St. John's (NY)",1999,6,3
+"231","Creighton","Maryland","Maryland",1999,10,2
+"232","Auburn","Ohio State","Ohio State",1999,1,4
+"233","St. John's (NY)","Maryland","St. John's (NY)",1999,3,2
+"234","Ohio State","St. John's (NY)","Ohio State",1999,4,3
+"235","UConn","UTSA","UConn",1999,1,16
+"236","Missouri","New Mexico","New Mexico",1999,8,9
+"237","Iowa","Alabama-Birmingham","Iowa",1999,5,12
+"238","Arkansas","Siena","Arkansas",1999,4,13
+"239","Florida","Penn","Florida",1999,6,11
+"240","UNC","Weber State","Weber State",1999,3,14
+"241","Minnesota","Gonzaga","Gonzaga",1999,7,10
+"242","Stanford","Alcorn State","Stanford",1999,2,15
+"243","UConn","New Mexico","UConn",1999,1,9
+"244","Iowa","Arkansas","Iowa",1999,5,4
+"245","Florida","Weber State","Florida",1999,6,14
+"246","Gonzaga","Stanford","Gonzaga",1999,10,2
+"247","UConn","Iowa","UConn",1999,1,5
+"248","Florida","Gonzaga","Gonzaga",1999,6,10
+"249","UConn","Gonzaga","UConn",1999,1,10
+"250","UConn","Ohio State","UConn",1999,1,4
+"251","Michigan State","Duke","Duke",1999,1,1
+"252","UConn","Duke","UConn",1999,1,1
+"253","Duke","Lamar","Duke",2000,1,16
+"254","Kansas","DePaul","Kansas",2000,8,9
+"255","Florida","Butler","Florida",2000,5,12
+"256","Illinois","Penn","Illinois",2000,4,13
+"257","Indiana","Pepperdine","Pepperdine",2000,6,11
+"258","Oklahoma State","Hofstra","Oklahoma State",2000,3,14
+"259","Oregon","Seton Hall","Seton Hall",2000,7,10
+"260","Temple","Lafayette","Temple",2000,2,15
+"261","Duke","Kansas","Duke",2000,1,8
+"262","Florida","Illinois","Florida",2000,5,4
+"263","Pepperdine","Oklahoma State","Oklahoma State",2000,11,3
+"264","Seton Hall","Temple","Seton Hall",2000,10,2
+"265","Duke","Florida","Florida",2000,1,5
+"266","Oklahoma State","Seton Hall","Oklahoma State",2000,3,10
+"267","Florida","Oklahoma State","Florida",2000,5,3
+"268","Michigan State","Valparaiso","Michigan State",2000,1,16
+"269","Utah","Saint Louis","Utah",2000,8,9
+"270","Kentucky","St. Bonaventure","Kentucky",2000,5,12
+"271","Syracuse","Samford","Syracuse",2000,4,13
+"272","UCLA","Ball State","UCLA",2000,6,11
+"273","Maryland","Iona","Maryland",2000,3,14
+"274","Auburn","Creighton","Auburn",2000,7,10
+"275","Iowa State","Central Connecticut","Iowa State",2000,2,15
+"276","Michigan State","Utah","Michigan State",2000,1,8
+"277","Kentucky","Syracuse","Syracuse",2000,5,4
+"278","UCLA","Maryland","UCLA",2000,6,3
+"279","Auburn","Iowa State","Iowa State",2000,7,2
+"280","Michigan State","Syracuse","Michigan State",2000,1,4
+"281","UCLA","Iowa State","Iowa State",2000,6,2
+"282","Michigan State","Iowa State","Michigan State",2000,1,2
+"283","Stanford","South Carolina State","Stanford",2000,1,16
+"284","UNC","Missouri","UNC",2000,8,9
+"285","UConn","Utah State","UConn",2000,5,12
+"286","Tennessee","Louisiana","Tennessee",2000,4,13
+"287","Miami (FL)","Arkansas","Miami (FL)",2000,6,11
+"288","Ohio State","Appalachian State","Ohio State",2000,3,14
+"289","Tulsa","UNLV","Tulsa",2000,7,10
+"290","Cincinnati","UNC Wilmington","Cincinnati",2000,2,15
+"291","Stanford","UNC","UNC",2000,1,8
+"292","UConn","Tennessee","Tennessee",2000,5,4
+"293","Miami (FL)","Ohio State","Miami (FL)",2000,6,3
+"294","Tulsa","Cincinnati","Tulsa",2000,7,2
+"295","UNC","Tennessee","UNC",2000,8,4
+"296","Miami (FL)","Tulsa","Tulsa",2000,6,7
+"297","UNC","Tulsa","UNC",2000,8,7
+"298","Arizona","Jackson State","Arizona",2000,1,16
+"299","Wisconsin","Fresno State","Wisconsin",2000,8,9
+"300","Texas","Indiana State","Texas",2000,5,12
+"301","LSU","Southeast Missouri State","LSU",2000,4,13
+"302","Purdue","Dayton","Purdue",2000,6,11
+"303","Oklahoma","Winthrop","Oklahoma",2000,3,14
+"304","Louisville","Gonzaga","Gonzaga",2000,7,10
+"305","St. John's (NY)","Northern Arizona","St. John's (NY)",2000,2,15
+"306","Arizona","Wisconsin","Wisconsin",2000,1,8
+"307","Texas","LSU","LSU",2000,5,4
+"308","Purdue","Oklahoma","Purdue",2000,6,3
+"309","Gonzaga","St. John's (NY)","Gonzaga",2000,10,2
+"310","Wisconsin","LSU","Wisconsin",2000,8,4
+"311","Purdue","Gonzaga","Purdue",2000,6,10
+"312","Wisconsin","Purdue","Wisconsin",2000,8,6
+"313","Michigan State","Wisconsin","Michigan State",2000,1,8
+"314","UNC","Florida","Florida",2000,8,5
+"315","Michigan State","Florida","Michigan State",2000,1,5
+"316","Illinois","Northwestern State","Illinois",2001,1,16
+"317","Tennessee","Charlotte","Charlotte",2001,8,9
+"318","Syracuse","Hawaii","Syracuse",2001,5,12
+"319","Kansas","Cal State Northridge","Kansas",2001,4,13
+"320","Notre Dame","Xavier","Notre Dame",2001,6,11
+"321","Ole Miss","Iona","Ole Miss",2001,3,14
+"322","Wake Forest","Butler","Butler",2001,7,10
+"323","Arizona","Eastern Illinois","Arizona",2001,2,15
+"324","Illinois","Charlotte","Illinois",2001,1,9
+"325","Syracuse","Kansas","Kansas",2001,5,4
+"326","Notre Dame","Ole Miss","Ole Miss",2001,6,3
+"327","Butler","Arizona","Arizona",2001,10,2
+"328","Illinois","Kansas","Illinois",2001,1,4
+"329","Ole Miss","Arizona","Arizona",2001,3,2
+"330","Illinois","Arizona","Arizona",2001,1,2
+"331","Duke","Monmouth","Duke",2001,1,16
+"332","Georgia","Missouri","Missouri",2001,8,9
+"333","Ohio State","Utah State","Utah State",2001,5,12
+"334","UCLA","Hofstra","UCLA",2001,4,13
+"335","USC","Oklahoma State","USC",2001,6,11
+"336","Boston College","Southern Utah","Boston College",2001,3,14
+"337","Iowa","Creighton","Iowa",2001,7,10
+"338","Kentucky","Holy Cross","Kentucky",2001,2,15
+"339","Duke","Missouri","Duke",2001,1,9
+"340","Utah State","UCLA","UCLA",2001,12,4
+"341","USC","Boston College","USC",2001,6,3
+"342","Iowa","Kentucky","Kentucky",2001,7,2
+"343","Duke","UCLA","Duke",2001,1,4
+"344","USC","Kentucky","USC",2001,6,2
+"345","Duke","USC","Duke",2001,1,6
+"346","Michigan State","Alabama State","Michigan State",2001,1,16
+"347","California","Fresno State","Fresno State",2001,8,9
+"348","Virginia","Gonzaga","Gonzaga",2001,5,12
+"349","Oklahoma","Indiana State","Indiana State",2001,4,13
+"350","Texas","Temple","Temple",2001,6,11
+"351","Florida","Western Kentucky","Florida",2001,3,14
+"352","Penn State","Providence","Penn State",2001,7,10
+"353","UNC","Princeton","UNC",2001,2,15
+"354","Michigan State","Fresno State","Michigan State",2001,1,9
+"355","Gonzaga","Indiana State","Gonzaga",2001,12,13
+"356","Temple","Florida","Temple",2001,11,3
+"357","Penn State","UNC","Penn State",2001,7,2
+"358","Michigan State","Gonzaga","Michigan State",2001,1,12
+"359","Temple","Penn State","Temple",2001,11,7
+"360","Michigan State","Temple","Michigan State",2001,1,11
+"361","Stanford","UNC Greensboro","Stanford",2001,1,16
+"362","Georgia Tech","St. Joseph's","St. Joseph's",2001,8,9
+"363","Cincinnati","BYU","Cincinnati",2001,5,12
+"364","Indiana","Kent State","Kent State",2001,4,13
+"365","Wisconsin","Georgia State","Georgia State",2001,6,11
+"366","Maryland","George Mason","Maryland",2001,3,14
+"367","Arkansas","Georgetown","Georgetown",2001,7,10
+"368","Iowa State","Hampton","Hampton",2001,2,15
+"369","Stanford","St. Joseph's","Stanford",2001,1,9
+"370","Cincinnati","Kent State","Cincinnati",2001,5,13
+"371","Georgia State","Maryland","Maryland",2001,11,3
+"372","Georgetown","Hampton","Georgetown",2001,10,15
+"373","Stanford","Cincinnati","Stanford",2001,1,5
+"374","Maryland","Georgetown","Maryland",2001,3,10
+"375","Stanford","Maryland","Maryland",2001,1,3
+"376","Duke","Maryland","Duke",2001,1,3
+"377","Michigan State","Arizona","Arizona",2001,1,2
+"378","Duke","Arizona","Duke",2001,1,2
+"379","Maryland","Siena","Maryland",2002,1,16
+"380","Wisconsin","St. John's (NY)","Wisconsin",2002,8,9
+"381","Marquette","Tulsa","Tulsa",2002,5,12
+"382","Kentucky","Valparaiso","Kentucky",2002,4,13
+"383","Texas Tech","Southern Illinois","Southern Illinois",2002,6,11
+"384","Georgia","Murray State","Georgia",2002,3,14
+"385","NC State","Michigan State","NC State",2002,7,10
+"386","UConn","Hampton","UConn",2002,2,15
+"387","Maryland","Wisconsin","Maryland",2002,1,8
+"388","Tulsa","Kentucky","Kentucky",2002,12,4
+"389","Southern Illinois","Georgia","Southern Illinois",2002,11,3
+"390","NC State","UConn","UConn",2002,7,2
+"391","Maryland","Kentucky","Maryland",2002,1,4
+"392","Southern Illinois","UConn","UConn",2002,11,2
+"393","Maryland","UConn","Maryland",2002,1,2
+"394","Kansas","Holy Cross","Kansas",2002,1,16
+"395","Stanford","Western Kentucky","Stanford",2002,8,9
+"396","Florida","Creighton","Creighton",2002,5,12
+"397","Illinois","San Diego State","Illinois",2002,4,13
+"398","Texas","Boston College","Texas",2002,6,11
+"399","Mississippi State","McNeese State","Mississippi State",2002,3,14
+"400","Wake Forest","Pepperdine","Wake Forest",2002,7,10
+"401","Oregon","Montana","Oregon",2002,2,15
+"402","Kansas","Stanford","Kansas",2002,1,8
+"403","Creighton","Illinois","Illinois",2002,12,4
+"404","Texas","Mississippi State","Texas",2002,6,3
+"405","Wake Forest","Oregon","Oregon",2002,7,2
+"406","Kansas","Illinois","Kansas",2002,1,4
+"407","Texas","Oregon","Oregon",2002,6,2
+"408","Kansas","Oregon","Kansas",2002,1,2
+"409","Duke","Winthrop","Duke",2002,1,16
+"410","Notre Dame","Charlotte","Notre Dame",2002,8,9
+"411","Indiana","Utah","Indiana",2002,5,12
+"412","USC","UNC Wilmington","UNC Wilmington",2002,4,13
+"413","California","Penn","California",2002,6,11
+"414","Pitt","Central Connecticut","Pitt",2002,3,14
+"415","Oklahoma State","Kent State","Kent State",2002,7,10
+"416","Alabama","Florida Atlantic","Alabama",2002,2,15
+"417","Duke","Notre Dame","Duke",2002,1,8
+"418","Indiana","UNC Wilmington","Indiana",2002,5,13
+"419","California","Pitt","Pitt",2002,6,3
+"420","Kent State","Alabama","Kent State",2002,10,2
+"421","Duke","Indiana","Indiana",2002,1,5
+"422","Pitt","Kent State","Kent State",2002,3,10
+"423","Indiana","Kent State","Indiana",2002,5,10
+"424","Cincinnati","Boston University","Cincinnati",2002,1,16
+"425","UCLA","Ole Miss","UCLA",2002,8,9
+"426","Miami (FL)","Missouri","Missouri",2002,5,12
+"427","Ohio State","Davidson","Ohio State",2002,4,13
+"428","Gonzaga","Wyoming","Wyoming",2002,6,11
+"429","Arizona","UCSB","Arizona",2002,3,14
+"430","Xavier","Hawaii","Xavier",2002,7,10
+"431","Oklahoma","UIC","Oklahoma",2002,2,15
+"432","Cincinnati","UCLA","UCLA",2002,1,8
+"433","Missouri","Ohio State","Missouri",2002,12,4
+"434","Wyoming","Arizona","Arizona",2002,11,3
+"435","Xavier","Oklahoma","Oklahoma",2002,7,2
+"436","UCLA","Missouri","Missouri",2002,8,12
+"437","Arizona","Oklahoma","Oklahoma",2002,3,2
+"438","Missouri","Oklahoma","Oklahoma",2002,12,2
+"439","Maryland","Kansas","Maryland",2002,1,1
+"440","Oklahoma","Indiana","Indiana",2002,2,5
+"441","Maryland","Indiana","Maryland",2002,1,5
+"442","Texas","UNC Asheville","Texas",2003,1,16
+"443","LSU","Purdue","Purdue",2003,8,9
+"444","UConn","BYU","UConn",2003,5,12
+"445","Stanford","San Diego","Stanford",2003,4,13
+"446","Maryland","UNC Wilmington","Maryland",2003,6,11
+"447","Xavier","Troy","Xavier",2003,3,14
+"448","Michigan State","Colorado","Michigan State",2003,7,10
+"449","Florida","Sam Houston State","Florida",2003,2,15
+"450","Texas","Purdue","Texas",2003,1,9
+"451","UConn","Stanford","UConn",2003,5,4
+"452","Maryland","Xavier","Maryland",2003,6,3
+"453","Michigan State","Florida","Michigan State",2003,7,2
+"454","Texas","UConn","Texas",2003,1,5
+"455","Maryland","Michigan State","Michigan State",2003,6,7
+"456","Texas","Michigan State","Texas",2003,1,7
+"457","Oklahoma","South Carolina State","Oklahoma",2003,1,16
+"458","California","NC State","California",2003,8,9
+"459","Mississippi State","Butler","Butler",2003,5,12
+"460","Louisville","Austin Peay","Louisville",2003,4,13
+"461","Oklahoma State","Penn","Oklahoma State",2003,6,11
+"462","Syracuse","Manhattan","Syracuse",2003,3,14
+"463","St. Joseph's","Auburn","Auburn",2003,7,10
+"464","Wake Forest","ETSU","Wake Forest",2003,2,15
+"465","Oklahoma","California","Oklahoma",2003,1,8
+"466","Butler","Louisville","Butler",2003,12,4
+"467","Oklahoma State","Syracuse","Syracuse",2003,6,3
+"468","Auburn","Wake Forest","Auburn",2003,10,2
+"469","Oklahoma","Butler","Oklahoma",2003,1,12
+"470","Syracuse","Auburn","Syracuse",2003,3,10
+"471","Oklahoma","Syracuse","Syracuse",2003,1,3
+"472","Kentucky","IUPUI","Kentucky",2003,1,16
+"473","Oregon","Utah","Utah",2003,8,9
+"474","Wisconsin","Weber State","Wisconsin",2003,5,12
+"475","Dayton","Tulsa","Tulsa",2003,4,13
+"476","Missouri","Southern Illinois","Missouri",2003,6,11
+"477","Marquette","Holy Cross","Marquette",2003,3,14
+"478","Indiana","Alabama","Indiana",2003,7,10
+"479","Pitt","Wagner","Pitt",2003,2,15
+"480","Kentucky","Utah","Kentucky",2003,1,9
+"481","Wisconsin","Tulsa","Wisconsin",2003,5,13
+"482","Missouri","Marquette","Marquette",2003,6,3
+"483","Indiana","Pitt","Pitt",2003,7,2
+"484","Kentucky","Wisconsin","Kentucky",2003,1,5
+"485","Marquette","Pitt","Marquette",2003,3,2
+"486","Kentucky","Marquette","Marquette",2003,1,3
+"487","Arizona","Vermont","Arizona",2003,1,16
+"488","Cincinnati","Gonzaga","Gonzaga",2003,8,9
+"489","Notre Dame","Milwaukee","Notre Dame",2003,5,12
+"490","Illinois","Western Kentucky","Illinois",2003,4,13
+"491","Creighton","Central Michigan","Central Michigan",2003,6,11
+"492","Duke","Colorado State","Duke",2003,3,14
+"493","Memphis","Arizona State","Arizona State",2003,7,10
+"494","Kansas","Utah State","Kansas",2003,2,15
+"495","Arizona","Gonzaga","Arizona",2003,1,9
+"496","Notre Dame","Illinois","Notre Dame",2003,5,4
+"497","Central Michigan","Duke","Duke",2003,11,3
+"498","Arizona State","Kansas","Kansas",2003,10,2
+"499","Arizona","Notre Dame","Arizona",2003,1,5
+"500","Duke","Kansas","Kansas",2003,3,2
+"501","Arizona","Kansas","Kansas",2003,1,2
+"502","Syracuse","Texas","Syracuse",2003,3,1
+"503","Marquette","Kansas","Kansas",2003,3,2
+"504","Syracuse","Kansas","Syracuse",2003,3,2
+"505","Kentucky","Florida A&M","Kentucky",2004,1,16
+"506","Washington","Alabama-Birmingham","Alabama-Birmingham",2004,8,9
+"507","Providence","Pacific","Pacific",2004,5,12
+"508","Kansas","UIC","Kansas",2004,4,13
+"509","Boston College","Utah","Boston College",2004,6,11
+"510","Georgia Tech","Northern Iowa","Georgia Tech",2004,3,14
+"511","Michigan State","Nevada","Nevada",2004,7,10
+"512","Gonzaga","Valparaiso","Gonzaga",2004,2,15
+"513","Kentucky","Alabama-Birmingham","Alabama-Birmingham",2004,1,9
+"514","Pacific","Kansas","Kansas",2004,12,4
+"515","Boston College","Georgia Tech","Georgia Tech",2004,6,3
+"516","Nevada","Gonzaga","Nevada",2004,10,2
+"517","Alabama-Birmingham","Kansas","Kansas",2004,9,4
+"518","Georgia Tech","Nevada","Georgia Tech",2004,3,10
+"519","Kansas","Georgia Tech","Georgia Tech",2004,4,3
+"520","Duke","Alabama State","Duke",2004,1,16
+"521","Seton Hall","Arizona","Seton Hall",2004,8,9
+"522","Illinois","Murray State","Illinois",2004,5,12
+"523","Cincinnati","ETSU","Cincinnati",2004,4,13
+"524","UNC","Air Force","UNC",2004,6,11
+"525","Texas","Princeton","Texas",2004,3,14
+"526","Xavier","Louisville","Xavier",2004,7,10
+"527","Mississippi State","Monmouth","Mississippi State",2004,2,15
+"528","Duke","Seton Hall","Duke",2004,1,8
+"529","Illinois","Cincinnati","Illinois",2004,5,4
+"530","UNC","Texas","Texas",2004,6,3
+"531","Xavier","Mississippi State","Xavier",2004,7,2
+"532","Duke","Illinois","Duke",2004,1,5
+"533","Texas","Xavier","Xavier",2004,3,7
+"534","Duke","Xavier","Duke",2004,1,7
+"535","St. Joseph's","Liberty","St. Joseph's",2004,1,16
+"536","Texas Tech","Charlotte","Texas Tech",2004,8,9
+"537","Florida","Manhattan","Manhattan",2004,5,12
+"538","Wake Forest","VCU","Wake Forest",2004,4,13
+"539","Wisconsin","Richmond","Wisconsin",2004,6,11
+"540","Pitt","UCF","Pitt",2004,3,14
+"541","Memphis","South Carolina","Memphis",2004,7,10
+"542","Oklahoma State","Eastern Washington","Oklahoma State",2004,2,15
+"543","St. Joseph's","Texas Tech","St. Joseph's",2004,1,8
+"544","Manhattan","Wake Forest","Wake Forest",2004,12,4
+"545","Wisconsin","Pitt","Pitt",2004,6,3
+"546","Memphis","Oklahoma State","Oklahoma State",2004,7,2
+"547","St. Joseph's","Wake Forest","St. Joseph's",2004,1,4
+"548","Pitt","Oklahoma State","Oklahoma State",2004,3,2
+"549","St. Joseph's","Oklahoma State","Oklahoma State",2004,1,2
+"550","Stanford","UTSA","Stanford",2004,1,16
+"551","Alabama","Southern Illinois","Alabama",2004,8,9
+"552","Syracuse","BYU","Syracuse",2004,5,12
+"553","Maryland","UTEP","Maryland",2004,4,13
+"554","Vanderbilt","Western Michigan","Vanderbilt",2004,6,11
+"555","NC State","Louisiana","NC State",2004,3,14
+"556","DePaul","Dayton","DePaul",2004,7,10
+"557","UConn","Vermont","UConn",2004,2,15
+"558","Stanford","Alabama","Alabama",2004,1,8
+"559","Syracuse","Maryland","Syracuse",2004,5,4
+"560","Vanderbilt","NC State","Vanderbilt",2004,6,3
+"561","DePaul","UConn","UConn",2004,7,2
+"562","Alabama","Syracuse","Alabama",2004,8,5
+"563","Vanderbilt","UConn","UConn",2004,6,2
+"564","Alabama","UConn","UConn",2004,8,2
+"565","UConn","Duke","UConn",2004,2,1
+"566","Oklahoma State","Georgia Tech","Georgia Tech",2004,2,3
+"567","UConn","Georgia Tech","UConn",2004,2,3
+"568","UNC","Oakland","UNC",2005,1,16
+"569","Minnesota","Iowa State","Iowa State",2005,8,9
+"570","Villanova","New Mexico","Villanova",2005,5,12
+"571","Florida","Ohio","Florida",2005,4,13
+"572","Wisconsin","Northern Iowa","Wisconsin",2005,6,11
+"573","Kansas","Bucknell","Bucknell",2005,3,14
+"574","Charlotte","NC State","NC State",2005,7,10
+"575","UConn","UCF","UConn",2005,2,15
+"576","UNC","Iowa State","UNC",2005,1,9
+"577","Villanova","Florida","Villanova",2005,5,4
+"578","Wisconsin","Bucknell","Wisconsin",2005,6,14
+"579","NC State","UConn","NC State",2005,10,2
+"580","UNC","Villanova","UNC",2005,1,5
+"581","Wisconsin","NC State","Wisconsin",2005,6,10
+"582","UNC","Wisconsin","UNC",2005,1,6
+"583","Washington","Montana","Washington",2005,1,16
+"584","Pacific","Pitt","Pacific",2005,8,9
+"585","Georgia Tech","George Washington","Georgia Tech",2005,5,12
+"586","Louisville","Louisiana","Louisville",2005,4,13
+"587","Texas Tech","UCLA","Texas Tech",2005,6,11
+"588","Gonzaga","Winthrop","Gonzaga",2005,3,14
+"589","West Virginia","Creighton","West Virginia",2005,7,10
+"590","Wake Forest","Chattanooga","Wake Forest",2005,2,15
+"591","Washington","Pacific","Washington",2005,1,8
+"592","Georgia Tech","Louisville","Louisville",2005,5,4
+"593","Texas Tech","Gonzaga","Texas Tech",2005,6,3
+"594","West Virginia","Wake Forest","West Virginia",2005,7,2
+"595","Washington","Louisville","Louisville",2005,1,4
+"596","Texas Tech","West Virginia","West Virginia",2005,6,7
+"597","Louisville","West Virginia","Louisville",2005,4,7
+"598","Duke","Delaware State","Duke",2005,1,16
+"599","Stanford","Mississippi State","Mississippi State",2005,8,9
+"600","Michigan State","Old Dominion","Michigan State",2005,5,12
+"601","Syracuse","Vermont","Vermont",2005,4,13
+"602","Utah","UTEP","Utah",2005,6,11
+"603","Oklahoma","Niagara","Oklahoma",2005,3,14
+"604","Cincinnati","Iowa","Cincinnati",2005,7,10
+"605","Kentucky","Eastern Kentucky","Kentucky",2005,2,15
+"606","Duke","Mississippi State","Duke",2005,1,9
+"607","Michigan State","Vermont","Michigan State",2005,5,13
+"608","Utah","Oklahoma","Utah",2005,6,3
+"609","Cincinnati","Kentucky","Kentucky",2005,7,2
+"610","Duke","Michigan State","Michigan State",2005,1,5
+"611","Utah","Kentucky","Kentucky",2005,6,2
+"612","Michigan State","Kentucky","Michigan State",2005,5,2
+"613","Illinois","Fairleigh Dickinson","Illinois",2005,1,16
+"614","Texas","Nevada","Nevada",2005,8,9
+"615","Alabama","Milwaukee","Milwaukee",2005,5,12
+"616","Boston College","Penn","Boston College",2005,4,13
+"617","LSU","Alabama-Birmingham","Alabama-Birmingham",2005,6,11
+"618","Arizona","Utah State","Arizona",2005,3,14
+"619","Southern Illinois","Saint Mary's","Southern Illinois",2005,7,10
+"620","Oklahoma State","Southeastern Louisiana","Oklahoma State",2005,2,15
+"621","Illinois","Nevada","Illinois",2005,1,9
+"622","Milwaukee","Boston College","Milwaukee",2005,12,4
+"623","Alabama-Birmingham","Arizona","Arizona",2005,11,3
+"624","Southern Illinois","Oklahoma State","Oklahoma State",2005,7,2
+"625","Illinois","Milwaukee","Illinois",2005,1,12
+"626","Arizona","Oklahoma State","Arizona",2005,3,2
+"627","Illinois","Arizona","Illinois",2005,1,3
+"628","UNC","Michigan State","UNC",2005,1,5
+"629","Louisville","Illinois","Illinois",2005,4,1
+"630","UNC","Illinois","UNC",2005,1,1
+"631","Villanova","Monmouth","Villanova",2006,1,16
+"632","Arizona","Wisconsin","Arizona",2006,8,9
+"633","Nevada","Montana","Montana",2006,5,12
+"634","Boston College","Pacific","Boston College",2006,4,13
+"635","Oklahoma","Milwaukee","Milwaukee",2006,6,11
+"636","Florida","South Alabama","Florida",2006,3,14
+"637","Georgetown","Northern Iowa","Georgetown",2006,7,10
+"638","Ohio State","Davidson","Ohio State",2006,2,15
+"639","Villanova","Arizona","Villanova",2006,1,8
+"640","Montana","Boston College","Boston College",2006,12,4
+"641","Milwaukee","Florida","Florida",2006,11,3
+"642","Georgetown","Ohio State","Georgetown",2006,7,2
+"643","Villanova","Boston College","Villanova",2006,1,4
+"644","Florida","Georgetown","Florida",2006,3,7
+"645","Villanova","Florida","Florida",2006,1,3
+"646","Duke","Southern","Duke",2006,1,16
+"647","George Washington","UNC Wilmington","George Washington",2006,8,9
+"648","Syracuse","Texas A&M","Texas A&M",2006,5,12
+"649","LSU","Iona","LSU",2006,4,13
+"650","West Virginia","Southern Illinois","West Virginia",2006,6,11
+"651","Iowa","Northwestern State","Northwestern State",2006,3,14
+"652","California","NC State","NC State",2006,7,10
+"653","Texas","Penn","Texas",2006,2,15
+"654","Duke","George Washington","Duke",2006,1,8
+"655","Texas A&M","LSU","LSU",2006,12,4
+"656","West Virginia","Northwestern State","West Virginia",2006,6,14
+"657","NC State","Texas","Texas",2006,10,2
+"658","Duke","LSU","LSU",2006,1,4
+"659","West Virginia","Texas","Texas",2006,6,2
+"660","LSU","Texas","LSU",2006,4,2
+"661","Memphis","Oral Roberts","Memphis",2006,1,16
+"662","Arkansas","Bucknell","Bucknell",2006,8,9
+"663","Pitt","Kent State","Pitt",2006,5,12
+"664","Kansas","Bradley","Bradley",2006,4,13
+"665","Indiana","San Diego State","Indiana",2006,6,11
+"666","Gonzaga","Xavier","Gonzaga",2006,3,14
+"667","Marquette","Alabama","Alabama",2006,7,10
+"668","UCLA","Belmont","UCLA",2006,2,15
+"669","Memphis","Bucknell","Memphis",2006,1,9
+"670","Pitt","Bradley","Bradley",2006,5,13
+"671","Indiana","Gonzaga","Gonzaga",2006,6,3
+"672","Alabama","UCLA","UCLA",2006,10,2
+"673","Memphis","Bradley","Memphis",2006,1,13
+"674","Gonzaga","UCLA","UCLA",2006,3,2
+"675","Memphis","UCLA","UCLA",2006,1,2
+"676","UConn","Albany (NY)","UConn",2006,1,16
+"677","Kentucky","Alabama-Birmingham","Kentucky",2006,8,9
+"678","Washington","Utah State","Washington",2006,5,12
+"679","Illinois","Air Force","Illinois",2006,4,13
+"680","Michigan State","George Mason","George Mason",2006,6,11
+"681","UNC","Murray State","UNC",2006,3,14
+"682","Wichita State","Seton Hall","Wichita State",2006,7,10
+"683","Tennessee","Winthrop","Tennessee",2006,2,15
+"684","UConn","Kentucky","UConn",2006,1,8
+"685","Washington","Illinois","Washington",2006,5,4
+"686","George Mason","UNC","George Mason",2006,11,3
+"687","Wichita State","Tennessee","Wichita State",2006,7,2
+"688","UConn","Washington","UConn",2006,1,5
+"689","George Mason","Wichita State","George Mason",2006,11,7
+"690","UConn","George Mason","George Mason",2006,1,11
+"691","Florida","George Mason","Florida",2006,3,11
+"692","LSU","UCLA","UCLA",2006,4,2
+"693","Florida","UCLA","Florida",2006,3,2
+"694","Kansas","Niagara","Kansas",2007,1,16
+"695","Kentucky","Villanova","Kentucky",2007,8,9
+"696","Virginia Tech","Illinois","Virginia Tech",2007,5,12
+"697","Southern Illinois","Holy Cross","Southern Illinois",2007,4,13
+"698","Duke","VCU","VCU",2007,6,11
+"699","Pitt","Wright State","Pitt",2007,3,14
+"700","Indiana","Gonzaga","Indiana",2007,7,10
+"701","UCLA","Weber State","UCLA",2007,2,15
+"702","Kansas","Kentucky","Kansas",2007,1,8
+"703","Virginia Tech","Southern Illinois","Southern Illinois",2007,5,4
+"704","VCU","Pitt","Pitt",2007,11,3
+"705","Indiana","UCLA","UCLA",2007,7,2
+"706","Kansas","Southern Illinois","Kansas",2007,1,4
+"707","Pitt","UCLA","UCLA",2007,3,2
+"708","Kansas","UCLA","UCLA",2007,1,2
+"709","UNC","Eastern Kentucky","UNC",2007,1,16
+"710","Marquette","Michigan State","Michigan State",2007,8,9
+"711","USC","Arkansas","USC",2007,5,12
+"712","Texas","New Mexico State","Texas",2007,4,13
+"713","Vanderbilt","George Washington","Vanderbilt",2007,6,11
+"714","Washington State","Oral Roberts","Washington State",2007,3,14
+"715","Boston College","Texas Tech","Boston College",2007,7,10
+"716","Georgetown","Belmont","Georgetown",2007,2,15
+"717","UNC","Michigan State","UNC",2007,1,9
+"718","USC","Texas","USC",2007,5,4
+"719","Vanderbilt","Washington State","Vanderbilt",2007,6,3
+"720","Boston College","Georgetown","Georgetown",2007,7,2
+"721","UNC","USC","UNC",2007,1,5
+"722","Vanderbilt","Georgetown","Georgetown",2007,6,2
+"723","UNC","Georgetown","Georgetown",2007,1,2
+"724","Florida","Jackson State","Florida",2007,1,16
+"725","Arizona","Purdue","Purdue",2007,8,9
+"726","Butler","Old Dominion","Butler",2007,5,12
+"727","Maryland","Davidson","Maryland",2007,4,13
+"728","Notre Dame","Winthrop","Winthrop",2007,6,11
+"729","Oregon","Miami (OH)","Oregon",2007,3,14
+"730","UNLV","Georgia Tech","UNLV",2007,7,10
+"731","Wisconsin","Texas A&M-Corpus Christi","Wisconsin",2007,2,15
+"732","Florida","Purdue","Florida",2007,1,9
+"733","Butler","Maryland","Butler",2007,5,4
+"734","Winthrop","Oregon","Oregon",2007,11,3
+"735","UNLV","Wisconsin","UNLV",2007,7,2
+"736","Florida","Butler","Florida",2007,1,5
+"737","Oregon","UNLV","Oregon",2007,3,7
+"738","Florida","Oregon","Florida",2007,1,3
+"739","Ohio State","Central Connecticut","Ohio State",2007,1,16
+"740","BYU","Xavier","Xavier",2007,8,9
+"741","Tennessee","Long Beach State","Tennessee",2007,5,12
+"742","Virginia","Albany (NY)","Virginia",2007,4,13
+"743","Louisville","Stanford","Louisville",2007,6,11
+"744","Texas A&M","Penn","Texas A&M",2007,3,14
+"745","Nevada","Creighton","Nevada",2007,7,10
+"746","Memphis","North Texas","Memphis",2007,2,15
+"747","Ohio State","Xavier","Ohio State",2007,1,9
+"748","Tennessee","Virginia","Tennessee",2007,5,4
+"749","Louisville","Texas A&M","Texas A&M",2007,6,3
+"750","Nevada","Memphis","Memphis",2007,7,2
+"751","Ohio State","Tennessee","Ohio State",2007,1,5
+"752","Texas A&M","Memphis","Memphis",2007,3,2
+"753","Ohio State","Memphis","Ohio State",2007,1,2
+"754","Florida","UCLA","Florida",2007,1,2
+"755","Georgetown","Ohio State","Ohio State",2007,2,1
+"756","Florida","Ohio State","Florida",2007,1,1
+"757","UNC","Mount St. Mary's","UNC",2008,1,16
+"758","Indiana","Arkansas","Arkansas",2008,8,9
+"759","Notre Dame","George Mason","Notre Dame",2008,5,12
+"760","Washington State","Winthrop","Washington State",2008,4,13
+"761","Oklahoma","St. Joseph's","Oklahoma",2008,6,11
+"762","Louisville","Boise State","Louisville",2008,3,14
+"763","Butler","South Alabama","Butler",2008,7,10
+"764","Tennessee","American","Tennessee",2008,2,15
+"765","UNC","Arkansas","UNC",2008,1,9
+"766","Notre Dame","Washington State","Washington State",2008,5,4
+"767","Oklahoma","Louisville","Louisville",2008,6,3
+"768","Butler","Tennessee","Tennessee",2008,7,2
+"769","UNC","Washington State","UNC",2008,1,4
+"770","Louisville","Tennessee","Louisville",2008,3,2
+"771","UNC","Louisville","UNC",2008,1,3
+"772","Kansas","Portland State","Kansas",2008,1,16
+"773","UNLV","Kent State","UNLV",2008,8,9
+"774","Clemson","Villanova","Villanova",2008,5,12
+"775","Vanderbilt","Siena","Siena",2008,4,13
+"776","USC","Kansas State","Kansas State",2008,6,11
+"777","Wisconsin","Cal State Fullerton","Wisconsin",2008,3,14
+"778","Gonzaga","Davidson","Davidson",2008,7,10
+"779","Georgetown","UMBC","Georgetown",2008,2,15
+"780","Kansas","UNLV","Kansas",2008,1,8
+"781","Villanova","Siena","Villanova",2008,12,13
+"782","Kansas State","Wisconsin","Wisconsin",2008,11,3
+"783","Davidson","Georgetown","Davidson",2008,10,2
+"784","Kansas","Villanova","Kansas",2008,1,12
+"785","Wisconsin","Davidson","Davidson",2008,3,10
+"786","Kansas","Davidson","Kansas",2008,1,10
+"787","Memphis","Texas-Arlington","Memphis",2008,1,16
+"788","Mississippi State","Oregon","Mississippi State",2008,8,9
+"789","Michigan State","Temple","Michigan State",2008,5,12
+"790","Pitt","Oral Roberts","Pitt",2008,4,13
+"791","Marquette","Kentucky","Marquette",2008,6,11
+"792","Stanford","Cornell","Stanford",2008,3,14
+"793","Miami (FL)","Saint Mary's","Miami (FL)",2008,7,10
+"794","Texas","Austin Peay","Texas",2008,2,15
+"795","Memphis","Mississippi State","Memphis",2008,1,8
+"796","Michigan State","Pitt","Michigan State",2008,5,4
+"797","Marquette","Stanford","Stanford",2008,6,3
+"798","Miami (FL)","Texas","Texas",2008,7,2
+"799","Memphis","Michigan State","Memphis",2008,1,5
+"800","Stanford","Texas","Texas",2008,3,2
+"801","Memphis","Texas","Memphis",2008,1,2
+"802","UCLA","Mississippi Valley State","UCLA",2008,1,16
+"803","BYU","Texas A&M","Texas A&M",2008,8,9
+"804","Drake","Western Kentucky","Western Kentucky",2008,5,12
+"805","UConn","San Diego","San Diego",2008,4,13
+"806","Purdue","Baylor","Purdue",2008,6,11
+"807","Xavier","Georgia","Xavier",2008,3,14
+"808","West Virginia","Arizona","West Virginia",2008,7,10
+"809","Duke","Belmont","Duke",2008,2,15
+"810","UCLA","Texas A&M","UCLA",2008,1,9
+"811","Western Kentucky","San Diego","Western Kentucky",2008,12,13
+"812","Purdue","Xavier","Xavier",2008,6,3
+"813","West Virginia","Duke","West Virginia",2008,7,2
+"814","UCLA","Western Kentucky","UCLA",2008,1,12
+"815","Xavier","West Virginia","Xavier",2008,3,7
+"816","UCLA","Xavier","UCLA",2008,1,3
+"817","Kansas","UNC","Kansas",2008,1,1
+"818","UCLA","Memphis","Memphis",2008,1,1
+"819","Kansas","Memphis","Kansas",2008,1,1
+"820","Louisville","Morehead State","Louisville",2009,1,16
+"821","Ohio State","Siena","Siena",2009,8,9
+"822","Utah","Arizona","Arizona",2009,5,12
+"823","Wake Forest","Cleveland State","Cleveland State",2009,4,13
+"824","West Virginia","Dayton","Dayton",2009,6,11
+"825","Kansas","North Dakota State","Kansas",2009,3,14
+"826","Boston College","USC","USC",2009,7,10
+"827","Michigan State","Robert Morris","Michigan State",2009,2,15
+"828","Louisville","Siena","Louisville",2009,1,9
+"829","Arizona","Cleveland State","Arizona",2009,12,13
+"830","Dayton","Kansas","Kansas",2009,11,3
+"831","USC","Michigan State","Michigan State",2009,10,2
+"832","Louisville","Arizona","Louisville",2009,1,12
+"833","Kansas","Michigan State","Michigan State",2009,3,2
+"834","Louisville","Michigan State","Michigan State",2009,1,2
+"835","Pitt","ETSU","Pitt",2009,1,16
+"836","Oklahoma State","Tennessee","Oklahoma State",2009,8,9
+"837","Florida State","Wisconsin","Wisconsin",2009,5,12
+"838","Xavier","Portland State","Xavier",2009,4,13
+"839","UCLA","VCU","UCLA",2009,6,11
+"840","Villanova","American","Villanova",2009,3,14
+"841","Texas","Minnesota","Texas",2009,7,10
+"842","Duke","Binghamton","Duke",2009,2,15
+"843","Pitt","Oklahoma State","Pitt",2009,1,8
+"844","Wisconsin","Xavier","Xavier",2009,12,4
+"845","UCLA","Villanova","Villanova",2009,6,3
+"846","Texas","Duke","Duke",2009,7,2
+"847","Pitt","Xavier","Pitt",2009,1,4
+"848","Villanova","Duke","Villanova",2009,3,2
+"849","Pitt","Villanova","Villanova",2009,1,3
+"850","UNC","Radford","UNC",2009,1,16
+"851","LSU","Butler","LSU",2009,8,9
+"852","Illinois","Western Kentucky","Western Kentucky",2009,5,12
+"853","Gonzaga","Akron","Gonzaga",2009,4,13
+"854","Arizona State","Temple","Arizona State",2009,6,11
+"855","Syracuse","Stephen F. Austin","Syracuse",2009,3,14
+"856","Clemson","Michigan","Michigan",2009,7,10
+"857","Oklahoma","Morgan State","Oklahoma",2009,2,15
+"858","UNC","LSU","UNC",2009,1,8
+"859","Western Kentucky","Gonzaga","Gonzaga",2009,12,4
+"860","Arizona State","Syracuse","Syracuse",2009,6,3
+"861","Michigan","Oklahoma","Oklahoma",2009,10,2
+"862","UNC","Gonzaga","UNC",2009,1,4
+"863","Syracuse","Oklahoma","Oklahoma",2009,3,2
+"864","UNC","Oklahoma","UNC",2009,1,2
+"865","UConn","Chattanooga","UConn",2009,1,16
+"866","BYU","Texas A&M","Texas A&M",2009,8,9
+"867","Purdue","Northern Iowa","Purdue",2009,5,12
+"868","Washington","Mississippi State","Washington",2009,4,13
+"869","Marquette","Utah State","Marquette",2009,6,11
+"870","Missouri","Cornell","Missouri",2009,3,14
+"871","California","Maryland","Maryland",2009,7,10
+"872","Memphis","Cal State Northridge","Memphis",2009,2,15
+"873","UConn","Texas A&M","UConn",2009,1,9
+"874","Purdue","Washington","Purdue",2009,5,4
+"875","Marquette","Missouri","Missouri",2009,6,3
+"876","Maryland","Memphis","Memphis",2009,10,2
+"877","UConn","Purdue","UConn",2009,1,5
+"878","Missouri","Memphis","Missouri",2009,3,2
+"879","UConn","Missouri","UConn",2009,1,3
+"880","UNC","Villanova","UNC",2009,1,3
+"881","UConn","Michigan State","Michigan State",2009,1,2
+"882","UNC","Michigan State","UNC",2009,1,2
+"883","Duke","Arkansas-Pine Bluff","Duke",2010,1,16
+"884","California","Louisville","California",2010,8,9
+"885","Texas A&M","Utah State","Texas A&M",2010,5,12
+"886","Purdue","Siena","Purdue",2010,4,13
+"887","Notre Dame","Old Dominion","Old Dominion",2010,6,11
+"888","Baylor","Sam Houston State","Baylor",2010,3,14
+"889","Richmond","Saint Mary's","Saint Mary's",2010,7,10
+"890","Villanova","Robert Morris","Villanova",2010,2,15
+"891","Duke","California","Duke",2010,1,8
+"892","Texas A&M","Purdue","Purdue",2010,5,4
+"893","Old Dominion","Baylor","Baylor",2010,11,3
+"894","Saint Mary's","Villanova","Saint Mary's",2010,10,2
+"895","Duke","Purdue","Duke",2010,1,4
+"896","Baylor","Saint Mary's","Baylor",2010,3,10
+"897","Duke","Baylor","Duke",2010,1,3
+"898","Kentucky","ETSU","Kentucky",2010,1,16
+"899","Texas","Wake Forest","Wake Forest",2010,8,9
+"900","Temple","Cornell","Cornell",2010,5,12
+"901","Wisconsin","Wofford","Wisconsin",2010,4,13
+"902","Marquette","Washington","Washington",2010,6,11
+"903","New Mexico","Montana","New Mexico",2010,3,14
+"904","Clemson","Missouri","Missouri",2010,7,10
+"905","West Virginia","Morgan State","West Virginia",2010,2,15
+"906","Kentucky","Wake Forest","Kentucky",2010,1,9
+"907","Cornell","Wisconsin","Cornell",2010,12,4
+"908","Washington","New Mexico","Washington",2010,11,3
+"909","Missouri","West Virginia","West Virginia",2010,10,2
+"910","Kentucky","Cornell","Kentucky",2010,1,12
+"911","Washington","West Virginia","West Virginia",2010,11,2
+"912","Kentucky","West Virginia","West Virginia",2010,1,2
+"913","Kansas","Lehigh","Kansas",2010,1,16
+"914","UNLV","Northern Iowa","Northern Iowa",2010,8,9
+"915","Michigan State","New Mexico State","Michigan State",2010,5,12
+"916","Maryland","Houston","Maryland",2010,4,13
+"917","Tennessee","San Diego State","Tennessee",2010,6,11
+"918","Georgetown","Ohio","Ohio",2010,3,14
+"919","Oklahoma State","Georgia Tech","Georgia Tech",2010,7,10
+"920","Ohio State","UCSB","Ohio State",2010,2,15
+"921","Kansas","Northern Iowa","Northern Iowa",2010,1,9
+"922","Michigan State","Maryland","Michigan State",2010,5,4
+"923","Tennessee","Ohio","Tennessee",2010,6,14
+"924","Georgia Tech","Ohio State","Ohio State",2010,10,2
+"925","Northern Iowa","Michigan State","Michigan State",2010,9,5
+"926","Tennessee","Ohio State","Tennessee",2010,6,2
+"927","Michigan State","Tennessee","Michigan State",2010,5,6
+"928","Syracuse","Vermont","Syracuse",2010,1,16
+"929","Gonzaga","Florida State","Gonzaga",2010,8,9
+"930","Butler","UTEP","Butler",2010,5,12
+"931","Vanderbilt","Murray State","Murray State",2010,4,13
+"932","Xavier","Minnesota","Xavier",2010,6,11
+"933","Pitt","Oakland","Pitt",2010,3,14
+"934","BYU","Florida","BYU",2010,7,10
+"935","Kansas State","North Texas","Kansas State",2010,2,15
+"936","Syracuse","Gonzaga","Syracuse",2010,1,8
+"937","Butler","Murray State","Butler",2010,5,13
+"938","Xavier","Pitt","Xavier",2010,6,3
+"939","BYU","Kansas State","Kansas State",2010,7,2
+"940","Syracuse","Butler","Butler",2010,1,5
+"941","Xavier","Kansas State","Kansas State",2010,6,2
+"942","Butler","Kansas State","Butler",2010,5,2
+"943","Duke","West Virginia","Duke",2010,1,2
+"944","Michigan State","Butler","Butler",2010,5,5
+"945","Duke","Butler","Duke",2010,1,5
+"946","Ohio State","UTSA","Ohio State",2011,1,16
+"947","George Mason","Villanova","George Mason",2011,8,9
+"948","West Virginia","Clemson","West Virginia",2011,5,12
+"949","Kentucky","Princeton","Kentucky",2011,4,13
+"950","Xavier","Marquette","Marquette",2011,6,11
+"951","Syracuse","Indiana State","Syracuse",2011,3,14
+"952","Washington","Georgia","Washington",2011,7,10
+"953","UNC","LIU","UNC",2011,2,15
+"954","Ohio State","George Mason","Ohio State",2011,1,8
+"955","West Virginia","Kentucky","Kentucky",2011,5,4
+"956","Marquette","Syracuse","Marquette",2011,11,3
+"957","Washington","UNC","UNC",2011,7,2
+"958","Ohio State","Kentucky","Kentucky",2011,1,4
+"959","Marquette","UNC","UNC",2011,11,2
+"960","Kentucky","UNC","Kentucky",2011,4,2
+"961","Pitt","UNC Asheville","Pitt",2011,1,16
+"962","Butler","Old Dominion","Butler",2011,8,9
+"963","Kansas State","Utah State","Kansas State",2011,5,12
+"964","Wisconsin","Belmont","Wisconsin",2011,4,13
+"965","St. John's (NY)","Gonzaga","Gonzaga",2011,6,11
+"966","BYU","Wofford","BYU",2011,3,14
+"967","UCLA","Michigan State","UCLA",2011,7,10
+"968","Florida","UCSB","Florida",2011,2,15
+"969","Pitt","Butler","Butler",2011,1,8
+"970","Kansas State","Wisconsin","Wisconsin",2011,5,4
+"971","Gonzaga","BYU","BYU",2011,11,3
+"972","UCLA","Florida","Florida",2011,7,2
+"973","Butler","Wisconsin","Butler",2011,8,4
+"974","BYU","Florida","Florida",2011,3,2
+"975","Butler","Florida","Butler",2011,8,2
+"976","Kansas","Boston University","Kansas",2011,1,16
+"977","UNLV","Illinois","Illinois",2011,8,9
+"978","Vanderbilt","Richmond","Richmond",2011,5,12
+"979","Louisville","Morehead State","Morehead State",2011,4,13
+"980","Georgetown","VCU","VCU",2011,6,11
+"981","Purdue","St. Peter's","Purdue",2011,3,14
+"982","Texas A&M","Florida State","Florida State",2011,7,10
+"983","Notre Dame","Akron","Notre Dame",2011,2,15
+"984","Kansas","Illinois","Kansas",2011,1,9
+"985","Richmond","Morehead State","Richmond",2011,12,13
+"986","VCU","Purdue","VCU",2011,11,3
+"987","Florida State","Notre Dame","Florida State",2011,10,2
+"988","Kansas","Richmond","Kansas",2011,1,12
+"989","VCU","Florida State","VCU",2011,11,10
+"990","Kansas","VCU","VCU",2011,1,11
+"991","Duke","Hampton","Duke",2011,1,16
+"992","Michigan","Tennessee","Michigan",2011,8,9
+"993","Arizona","Memphis","Arizona",2011,5,12
+"994","Texas","Oakland","Texas",2011,4,13
+"995","Cincinnati","Missouri","Cincinnati",2011,6,11
+"996","UConn","Bucknell","UConn",2011,3,14
+"997","Temple","Penn State","Temple",2011,7,10
+"998","San Diego State","Northern Colorado","San Diego State",2011,2,15
+"999","Duke","Michigan","Duke",2011,1,8
+"1000","Arizona","Texas","Arizona",2011,5,4
+"1001","Cincinnati","UConn","UConn",2011,6,3
+"1002","Temple","San Diego State","San Diego State",2011,7,2
+"1003","Duke","Arizona","Arizona",2011,1,5
+"1004","UConn","San Diego State","UConn",2011,3,2
+"1005","Arizona","UConn","UConn",2011,5,3
+"1006","UConn","Kentucky","UConn",2011,3,4
+"1007","VCU","Butler","Butler",2011,11,8
+"1008","UConn","Butler","UConn",2011,3,8
+"1009","UNC","Vermont","UNC",2012,1,16
+"1010","Creighton","Alabama","Creighton",2012,8,9
+"1011","Temple","South Florida","South Florida",2012,5,12
+"1012","Michigan","Ohio","Ohio",2012,4,13
+"1013","San Diego State","NC State","NC State",2012,6,11
+"1014","Georgetown","Belmont","Georgetown",2012,3,14
+"1015","Saint Mary's","Purdue","Purdue",2012,7,10
+"1016","Kansas","Detroit","Kansas",2012,2,15
+"1017","UNC","Creighton","UNC",2012,1,8
+"1018","South Florida","Ohio","Ohio",2012,12,13
+"1019","NC State","Georgetown","NC State",2012,11,3
+"1020","Purdue","Kansas","Kansas",2012,10,2
+"1021","UNC","Ohio","UNC",2012,1,13
+"1022","NC State","Kansas","Kansas",2012,11,2
+"1023","UNC","Kansas","Kansas",2012,1,2
+"1024","Kentucky","Western Kentucky","Kentucky",2012,1,16
+"1025","Iowa State","UConn","Iowa State",2012,8,9
+"1026","Wichita State","VCU","VCU",2012,5,12
+"1027","Indiana","New Mexico State","Indiana",2012,4,13
+"1028","UNLV","Colorado","Colorado",2012,6,11
+"1029","Baylor","South Dakota State","Baylor",2012,3,14
+"1030","Notre Dame","Xavier","Xavier",2012,7,10
+"1031","Duke","Lehigh","Lehigh",2012,2,15
+"1032","Kentucky","Iowa State","Kentucky",2012,1,8
+"1033","VCU","Indiana","Indiana",2012,12,4
+"1034","Colorado","Baylor","Baylor",2012,11,3
+"1035","Xavier","Lehigh","Xavier",2012,10,15
+"1036","Kentucky","Indiana","Kentucky",2012,1,4
+"1037","Baylor","Xavier","Baylor",2012,3,10
+"1038","Kentucky","Baylor","Kentucky",2012,1,3
+"1039","Michigan State","LIU","Michigan State",2012,1,16
+"1040","Memphis","Saint Louis","Saint Louis",2012,8,9
+"1041","New Mexico","Long Beach State","New Mexico",2012,5,12
+"1042","Louisville","Davidson","Louisville",2012,4,13
+"1043","Murray State","Colorado State","Murray State",2012,6,11
+"1044","Marquette","BYU","Marquette",2012,3,14
+"1045","Florida","Virginia","Florida",2012,7,10
+"1046","Missouri","Norfolk State","Norfolk State",2012,2,15
+"1047","Michigan State","Saint Louis","Michigan State",2012,1,9
+"1048","New Mexico","Louisville","Louisville",2012,5,4
+"1049","Murray State","Marquette","Marquette",2012,6,3
+"1050","Florida","Norfolk State","Florida",2012,7,15
+"1051","Michigan State","Louisville","Louisville",2012,1,4
+"1052","Marquette","Florida","Florida",2012,3,7
+"1053","Louisville","Florida","Louisville",2012,4,7
+"1054","Syracuse","UNC Asheville","Syracuse",2012,1,16
+"1055","Kansas State","Southern Miss","Kansas State",2012,8,9
+"1056","Vanderbilt","Harvard","Vanderbilt",2012,5,12
+"1057","Wisconsin","Montana","Wisconsin",2012,4,13
+"1058","Cincinnati","Texas","Cincinnati",2012,6,11
+"1059","Florida State","St. Bonaventure","Florida State",2012,3,14
+"1060","Gonzaga","West Virginia","Gonzaga",2012,7,10
+"1061","Ohio State","Loyola (MD)","Ohio State",2012,2,15
+"1062","Syracuse","Kansas State","Syracuse",2012,1,8
+"1063","Vanderbilt","Wisconsin","Wisconsin",2012,5,4
+"1064","Cincinnati","Florida State","Cincinnati",2012,6,3
+"1065","Gonzaga","Ohio State","Ohio State",2012,7,2
+"1066","Syracuse","Wisconsin","Syracuse",2012,1,4
+"1067","Cincinnati","Ohio State","Ohio State",2012,6,2
+"1068","Syracuse","Ohio State","Ohio State",2012,1,2
+"1069","Kentucky","Louisville","Kentucky",2012,1,4
+"1070","Ohio State","Kansas","Kansas",2012,2,2
+"1071","Kentucky","Kansas","Kentucky",2012,1,2
+"1072","Indiana","James Madison","Indiana",2013,1,16
+"1073","NC State","Temple","Temple",2013,8,9
+"1074","UNLV","California","California",2013,5,12
+"1075","Syracuse","Montana","Syracuse",2013,4,13
+"1076","Butler","Bucknell","Butler",2013,6,11
+"1077","Marquette","Davidson","Marquette",2013,3,14
+"1078","Illinois","Colorado","Illinois",2013,7,10
+"1079","Miami (FL)","Pacific","Miami (FL)",2013,2,15
+"1080","Indiana","Temple","Indiana",2013,1,9
+"1081","California","Syracuse","Syracuse",2013,12,4
+"1082","Butler","Marquette","Marquette",2013,6,3
+"1083","Illinois","Miami (FL)","Miami (FL)",2013,7,2
+"1084","Indiana","Syracuse","Syracuse",2013,1,4
+"1085","Marquette","Miami (FL)","Marquette",2013,3,2
+"1086","Syracuse","Marquette","Syracuse",2013,4,3
+"1087","Louisville","North Carolina A&T","Louisville",2013,1,16
+"1088","Colorado State","Missouri","Colorado State",2013,8,9
+"1089","Oklahoma State","Oregon","Oregon",2013,5,12
+"1090","Saint Louis","New Mexico State","Saint Louis",2013,4,13
+"1091","Memphis","Saint Mary's","Memphis",2013,6,11
+"1092","Michigan State","Valparaiso","Michigan State",2013,3,14
+"1093","Creighton","Cincinnati","Creighton",2013,7,10
+"1094","Duke","Albany (NY)","Duke",2013,2,15
+"1095","Louisville","Colorado State","Louisville",2013,1,8
+"1096","Oregon","Saint Louis","Oregon",2013,12,4
+"1097","Memphis","Michigan State","Michigan State",2013,6,3
+"1098","Creighton","Duke","Duke",2013,7,2
+"1099","Louisville","Oregon","Louisville",2013,1,12
+"1100","Michigan State","Duke","Duke",2013,3,2
+"1101","Louisville","Duke","Louisville",2013,1,2
+"1102","Gonzaga","Southern","Gonzaga",2013,1,16
+"1103","Pitt","Wichita State","Wichita State",2013,8,9
+"1104","Wisconsin","Ole Miss","Ole Miss",2013,5,12
+"1105","Kansas State","La Salle","La Salle",2013,4,13
+"1106","Arizona","Belmont","Arizona",2013,6,11
+"1107","New Mexico","Harvard","Harvard",2013,3,14
+"1108","Notre Dame","Iowa State","Iowa State",2013,7,10
+"1109","Ohio State","Iona","Ohio State",2013,2,15
+"1110","Gonzaga","Wichita State","Wichita State",2013,1,9
+"1111","Ole Miss","La Salle","La Salle",2013,12,13
+"1112","Arizona","Harvard","Arizona",2013,6,14
+"1113","Iowa State","Ohio State","Ohio State",2013,10,2
+"1114","Wichita State","La Salle","Wichita State",2013,9,13
+"1115","Arizona","Ohio State","Ohio State",2013,6,2
+"1116","Wichita State","Ohio State","Wichita State",2013,9,2
+"1117","Kansas","Western Kentucky","Kansas",2013,1,16
+"1118","UNC","Villanova","UNC",2013,8,9
+"1119","VCU","Akron","VCU",2013,5,12
+"1120","Michigan","South Dakota State","Michigan",2013,4,13
+"1121","UCLA","Minnesota","Minnesota",2013,6,11
+"1122","Florida","Northwestern State","Florida",2013,3,14
+"1123","San Diego State","Oklahoma","San Diego State",2013,7,10
+"1124","Georgetown","Florida Gulf Coast","Florida Gulf Coast",2013,2,15
+"1125","Kansas","UNC","Kansas",2013,1,8
+"1126","VCU","Michigan","Michigan",2013,5,4
+"1127","Minnesota","Florida","Florida",2013,11,3
+"1128","San Diego State","Florida Gulf Coast","Florida Gulf Coast",2013,7,15
+"1129","Kansas","Michigan","Michigan",2013,1,4
+"1130","Florida","Florida Gulf Coast","Florida",2013,3,15
+"1131","Michigan","Florida","Michigan",2013,4,3
+"1132","Louisville","Wichita State","Louisville",2013,1,9
+"1133","Syracuse","Michigan","Michigan",2013,4,4
+"1134","Louisville","Michigan","Louisville",2013,1,4
+"1135","Wichita State","Cal Poly","Wichita State",2014,1,16
+"1136","Kentucky","Kansas State","Kentucky",2014,8,9
+"1137","Saint Louis","NC State","Saint Louis",2014,5,12
+"1138","Louisville","Manhattan","Louisville",2014,4,13
+"1139","UMass","Tennessee","Tennessee",2014,6,11
+"1140","Duke","Mercer","Mercer",2014,3,14
+"1141","Texas","Arizona State","Texas",2014,7,10
+"1142","Michigan","Wofford","Michigan",2014,2,15
+"1143","Wichita State","Kentucky","Kentucky",2014,1,8
+"1144","Saint Louis","Louisville","Louisville",2014,5,4
+"1145","Tennessee","Mercer","Tennessee",2014,11,14
+"1146","Texas","Michigan","Michigan",2014,7,2
+"1147","Kentucky","Louisville","Kentucky",2014,8,4
+"1148","Tennessee","Michigan","Michigan",2014,11,2
+"1149","Kentucky","Michigan","Kentucky",2014,8,2
+"1150","Florida","Albany (NY)","Florida",2014,1,16
+"1151","Colorado","Pitt","Pitt",2014,8,9
+"1152","VCU","Stephen F. Austin","Stephen F. Austin",2014,5,12
+"1153","UCLA","Tulsa","UCLA",2014,4,13
+"1154","Ohio State","Dayton","Dayton",2014,6,11
+"1155","Syracuse","Western Michigan","Syracuse",2014,3,14
+"1156","New Mexico","Stanford","Stanford",2014,7,10
+"1157","Kansas","Eastern Kentucky","Kansas",2014,2,15
+"1158","Florida","Pitt","Florida",2014,1,9
+"1159","Stephen F. Austin","UCLA","UCLA",2014,12,4
+"1160","Dayton","Syracuse","Dayton",2014,11,3
+"1161","Stanford","Kansas","Stanford",2014,10,2
+"1162","Florida","UCLA","Florida",2014,1,4
+"1163","Dayton","Stanford","Dayton",2014,11,10
+"1164","Florida","Dayton","Florida",2014,1,11
+"1165","Virginia","Coastal Carolina","Virginia",2014,1,16
+"1166","Memphis","George Washington","Memphis",2014,8,9
+"1167","Cincinnati","Harvard","Harvard",2014,5,12
+"1168","Michigan State","Delaware","Michigan State",2014,4,13
+"1169","UNC","Providence","UNC",2014,6,11
+"1170","Iowa State","North Carolina Central","Iowa State",2014,3,14
+"1171","UConn","St. Joseph's","UConn",2014,7,10
+"1172","Villanova","Milwaukee","Villanova",2014,2,15
+"1173","Virginia","Memphis","Virginia",2014,1,8
+"1174","Harvard","Michigan State","Michigan State",2014,12,4
+"1175","UNC","Iowa State","Iowa State",2014,6,3
+"1176","UConn","Villanova","UConn",2014,7,2
+"1177","Virginia","Michigan State","Michigan State",2014,1,4
+"1178","Iowa State","UConn","UConn",2014,3,7
+"1179","Michigan State","UConn","UConn",2014,4,7
+"1180","Arizona","Weber State","Arizona",2014,1,16
+"1181","Gonzaga","Oklahoma State","Gonzaga",2014,8,9
+"1182","Oklahoma","North Dakota State","North Dakota State",2014,5,12
+"1183","San Diego State","New Mexico State","San Diego State",2014,4,13
+"1184","Baylor","Nebraska","Baylor",2014,6,11
+"1185","Creighton","Louisiana","Creighton",2014,3,14
+"1186","Oregon","BYU","Oregon",2014,7,10
+"1187","Wisconsin","American","Wisconsin",2014,2,15
+"1188","Arizona","Gonzaga","Arizona",2014,1,8
+"1189","North Dakota State","San Diego State","San Diego State",2014,12,4
+"1190","Baylor","Creighton","Baylor",2014,6,3
+"1191","Oregon","Wisconsin","Wisconsin",2014,7,2
+"1192","Arizona","San Diego State","Arizona",2014,1,4
+"1193","Baylor","Wisconsin","Wisconsin",2014,6,2
+"1194","Arizona","Wisconsin","Wisconsin",2014,1,2
+"1195","UConn","Florida","UConn",2014,7,1
+"1196","Wisconsin","Kentucky","Kentucky",2014,2,8
+"1197","UConn","Kentucky","UConn",2014,7,8
+"1198","Villanova","Lafayette","Villanova",2015,1,16
+"1199","NC State","LSU","NC State",2015,8,9
+"1200","Northern Iowa","Wyoming","Northern Iowa",2015,5,12
+"1201","Louisville","UC-Irvine","Louisville",2015,4,13
+"1202","Providence","Dayton","Dayton",2015,6,11
+"1203","Oklahoma","Albany (NY)","Oklahoma",2015,3,14
+"1204","Michigan State","Georgia","Michigan State",2015,7,10
+"1205","Virginia","Belmont","Virginia",2015,2,15
+"1206","Villanova","NC State","NC State",2015,1,8
+"1207","Northern Iowa","Louisville","Louisville",2015,5,4
+"1208","Dayton","Oklahoma","Oklahoma",2015,11,3
+"1209","Michigan State","Virginia","Michigan State",2015,7,2
+"1210","NC State","Louisville","Louisville",2015,8,4
+"1211","Oklahoma","Michigan State","Michigan State",2015,3,7
+"1212","Louisville","Michigan State","Michigan State",2015,4,7
+"1213","Kentucky","Hampton","Kentucky",2015,1,16
+"1214","Cincinnati","Purdue","Cincinnati",2015,8,9
+"1215","West Virginia","Buffalo","West Virginia",2015,5,12
+"1216","Maryland","Valparaiso","Maryland",2015,4,13
+"1217","Butler","Texas","Butler",2015,6,11
+"1218","Notre Dame","Northeastern","Notre Dame",2015,3,14
+"1219","Wichita State","Indiana","Wichita State",2015,7,10
+"1220","Kansas","New Mexico State","Kansas",2015,2,15
+"1221","Kentucky","Cincinnati","Kentucky",2015,1,8
+"1222","West Virginia","Maryland","West Virginia",2015,5,4
+"1223","Butler","Notre Dame","Notre Dame",2015,6,3
+"1224","Wichita State","Kansas","Wichita State",2015,7,2
+"1225","Kentucky","West Virginia","Kentucky",2015,1,5
+"1226","Notre Dame","Wichita State","Notre Dame",2015,3,7
+"1227","Kentucky","Notre Dame","Kentucky",2015,1,3
+"1228","Duke","Robert Morris","Duke",2015,1,16
+"1229","San Diego State","St. John's (NY)","San Diego State",2015,8,9
+"1230","Utah","Stephen F. Austin","Utah",2015,5,12
+"1231","Georgetown","Eastern Washington","Georgetown",2015,4,13
+"1232","SMU","UCLA","UCLA",2015,6,11
+"1233","Iowa State","Alabama-Birmingham","Alabama-Birmingham",2015,3,14
+"1234","Iowa","Davidson","Iowa",2015,7,10
+"1235","Gonzaga","North Dakota State","Gonzaga",2015,2,15
+"1236","Duke","San Diego State","Duke",2015,1,8
+"1237","Utah","Georgetown","Utah",2015,5,4
+"1238","UCLA","Alabama-Birmingham","UCLA",2015,11,14
+"1239","Iowa","Gonzaga","Gonzaga",2015,7,2
+"1240","Duke","Utah","Duke",2015,1,5
+"1241","UCLA","Gonzaga","Gonzaga",2015,11,2
+"1242","Duke","Gonzaga","Duke",2015,1,2
+"1243","Wisconsin","Coastal Carolina","Wisconsin",2015,1,16
+"1244","Oregon","Oklahoma State","Oregon",2015,8,9
+"1245","Arkansas","Wofford","Arkansas",2015,5,12
+"1246","UNC","Harvard","UNC",2015,4,13
+"1247","Xavier","Ole Miss","Xavier",2015,6,11
+"1248","Baylor","Georgia State","Georgia State",2015,3,14
+"1249","VCU","Ohio State","Ohio State",2015,7,10
+"1250","Arizona","Texas Southern","Arizona",2015,2,15
+"1251","Wisconsin","Oregon","Wisconsin",2015,1,8
+"1252","Arkansas","UNC","UNC",2015,5,4
+"1253","Xavier","Georgia State","Xavier",2015,6,14
+"1254","Ohio State","Arizona","Arizona",2015,10,2
+"1255","Wisconsin","UNC","Wisconsin",2015,1,4
+"1256","Xavier","Arizona","Arizona",2015,6,2
+"1257","Wisconsin","Arizona","Wisconsin",2015,1,2
+"1258","Duke","Michigan State","Duke",2015,1,7
+"1259","Kentucky","Wisconsin","Wisconsin",2015,1,1
+"1260","Duke","Wisconsin","Duke",2015,1,1
+"1261","UNC","Florida Gulf Coast","UNC",2016,1,16
+"1262","USC","Providence","Providence",2016,8,9
+"1263","Indiana","Chattanooga","Indiana",2016,5,12
+"1264","Kentucky","Stony Brook","Kentucky",2016,4,13
+"1265","Notre Dame","Michigan","Notre Dame",2016,6,11
+"1266","West Virginia","Stephen F. Austin","Stephen F. Austin",2016,3,14
+"1267","Wisconsin","Pitt","Wisconsin",2016,7,10
+"1268","Xavier","Weber State","Xavier",2016,2,15
+"1269","UNC","Providence","UNC",2016,1,9
+"1270","Indiana","Kentucky","Indiana",2016,5,4
+"1271","Notre Dame","Stephen F. Austin","Notre Dame",2016,6,14
+"1272","Wisconsin","Xavier","Wisconsin",2016,7,2
+"1273","UNC","Indiana","UNC",2016,1,5
+"1274","Notre Dame","Wisconsin","Notre Dame",2016,6,7
+"1275","UNC","Notre Dame","UNC",2016,1,6
+"1276","Kansas","Austin Peay","Kansas",2016,1,16
+"1277","Colorado","UConn","UConn",2016,8,9
+"1278","Maryland","South Dakota State","Maryland",2016,5,12
+"1279","California","Hawaii","Hawaii",2016,4,13
+"1280","Arizona","Wichita State","Wichita State",2016,6,11
+"1281","Miami (FL)","Buffalo","Miami (FL)",2016,3,14
+"1282","Iowa","Temple","Iowa",2016,7,10
+"1283","Villanova","UNC Asheville","Villanova",2016,2,15
+"1284","Kansas","UConn","Kansas",2016,1,9
+"1285","Maryland","Hawaii","Maryland",2016,5,13
+"1286","Wichita State","Miami (FL)","Miami (FL)",2016,11,3
+"1287","Iowa","Villanova","Villanova",2016,7,2
+"1288","Kansas","Maryland","Kansas",2016,1,5
+"1289","Miami (FL)","Villanova","Villanova",2016,3,2
+"1290","Kansas","Villanova","Villanova",2016,1,2
+"1291","Oregon","Holy Cross","Oregon",2016,1,16
+"1292","St. Joseph's","Cincinnati","St. Joseph's",2016,8,9
+"1293","Baylor","Yale","Yale",2016,5,12
+"1294","Duke","UNC Wilmington","Duke",2016,4,13
+"1295","Texas","Northern Iowa","Northern Iowa",2016,6,11
+"1296","Texas A&M","Green Bay","Texas A&M",2016,3,14
+"1297","Oregon State","VCU","VCU",2016,7,10
+"1298","Oklahoma","Cal State Bakersfield","Oklahoma",2016,2,15
+"1299","Oregon","St. Joseph's","Oregon",2016,1,8
+"1300","Yale","Duke","Duke",2016,12,4
+"1301","Northern Iowa","Texas A&M","Texas A&M",2016,11,3
+"1302","VCU","Oklahoma","Oklahoma",2016,10,2
+"1303","Oregon","Duke","Oregon",2016,1,4
+"1304","Texas A&M","Oklahoma","Oklahoma",2016,3,2
+"1305","Oregon","Oklahoma","Oklahoma",2016,1,2
+"1306","Virginia","Hampton","Virginia",2016,1,16
+"1307","Texas Tech","Butler","Butler",2016,8,9
+"1308","Purdue","Little Rock","Little Rock",2016,5,12
+"1309","Iowa State","Iona","Iowa State",2016,4,13
+"1310","Seton Hall","Gonzaga","Gonzaga",2016,6,11
+"1311","Utah","Fresno State","Utah",2016,3,14
+"1312","Dayton","Syracuse","Syracuse",2016,7,10
+"1313","Michigan State","Middle Tennessee","Middle Tennessee",2016,2,15
+"1314","Virginia","Butler","Virginia",2016,1,9
+"1315","Little Rock","Iowa State","Iowa State",2016,12,4
+"1316","Gonzaga","Utah","Gonzaga",2016,11,3
+"1317","Syracuse","Middle Tennessee","Syracuse",2016,10,15
+"1318","Virginia","Iowa State","Virginia",2016,1,4
+"1319","Gonzaga","Syracuse","Syracuse",2016,11,10
+"1320","Virginia","Syracuse","Syracuse",2016,1,10
+"1321","Villanova","Oklahoma","Villanova",2016,2,2
+"1322","Syracuse","UNC","UNC",2016,10,1
+"1323","Villanova","UNC","Villanova",2016,2,1
+"1324","Villanova","Mount St. Mary's","Villanova",2017,1,16
+"1325","Wisconsin","Virginia Tech","Wisconsin",2017,8,9
+"1326","Virginia","UNC Wilmington","Virginia",2017,5,12
+"1327","Florida","ETSU","Florida",2017,4,13
+"1328","SMU","USC","USC",2017,6,11
+"1329","Baylor","New Mexico State","Baylor",2017,3,14
+"1330","South Carolina","Marquette","South Carolina",2017,7,10
+"1331","Duke","Troy","Duke",2017,2,15
+"1332","Villanova","Wisconsin","Wisconsin",2017,1,8
+"1333","Virginia","Florida","Florida",2017,5,4
+"1334","USC","Baylor","Baylor",2017,11,3
+"1335","South Carolina","Duke","South Carolina",2017,7,2
+"1336","Wisconsin","Florida","Florida",2017,8,4
+"1337","Baylor","South Carolina","South Carolina",2017,3,7
+"1338","Florida","South Carolina","South Carolina",2017,4,7
+"1339","Kansas","UC-Davis","Kansas",2017,1,16
+"1340","Miami (FL)","Michigan State","Michigan State",2017,8,9
+"1341","Iowa State","Nevada","Iowa State",2017,5,12
+"1342","Purdue","Vermont","Purdue",2017,4,13
+"1343","Creighton","Rhode Island","Rhode Island",2017,6,11
+"1344","Oregon","Iona","Oregon",2017,3,14
+"1345","Michigan","Oklahoma State","Michigan",2017,7,10
+"1346","Louisville","Jacksonville State","Louisville",2017,2,15
+"1347","Kansas","Michigan State","Kansas",2017,1,9
+"1348","Iowa State","Purdue","Purdue",2017,5,4
+"1349","Rhode Island","Oregon","Oregon",2017,11,3
+"1350","Michigan","Louisville","Michigan",2017,7,2
+"1351","Kansas","Purdue","Kansas",2017,1,4
+"1352","Oregon","Michigan","Oregon",2017,3,7
+"1353","Kansas","Oregon","Oregon",2017,1,3
+"1354","UNC","Texas Southern","UNC",2017,1,16
+"1355","Arkansas","Seton Hall","Arkansas",2017,8,9
+"1356","Minnesota","Middle Tennessee","Middle Tennessee",2017,5,12
+"1357","Butler","Winthrop","Butler",2017,4,13
+"1358","Cincinnati","Kansas State","Cincinnati",2017,6,11
+"1359","UCLA","Kent State","UCLA",2017,3,14
+"1360","Dayton","Wichita State","Wichita State",2017,7,10
+"1361","Kentucky","Northern Kentucky","Kentucky",2017,2,15
+"1362","UNC","Arkansas","UNC",2017,1,8
+"1363","Middle Tennessee","Butler","Butler",2017,12,4
+"1364","Cincinnati","UCLA","UCLA",2017,6,3
+"1365","Wichita State","Kentucky","Kentucky",2017,10,2
+"1366","UNC","Butler","UNC",2017,1,4
+"1367","UCLA","Kentucky","Kentucky",2017,3,2
+"1368","UNC","Kentucky","UNC",2017,1,2
+"1369","Gonzaga","South Dakota State","Gonzaga",2017,1,16
+"1370","Northwestern","Vanderbilt","Northwestern",2017,8,9
+"1371","Notre Dame","Princeton","Notre Dame",2017,5,12
+"1372","West Virginia","Bucknell","West Virginia",2017,4,13
+"1373","Maryland","Xavier","Xavier",2017,6,11
+"1374","Florida State","Florida Gulf Coast","Florida State",2017,3,14
+"1375","Saint Mary's","VCU","Saint Mary's",2017,7,10
+"1376","Arizona","North Dakota","Arizona",2017,2,15
+"1377","Gonzaga","Northwestern","Gonzaga",2017,1,8
+"1378","Notre Dame","West Virginia","West Virginia",2017,5,4
+"1379","Xavier","Florida State","Xavier",2017,11,3
+"1380","Saint Mary's","Arizona","Arizona",2017,7,2
+"1381","Gonzaga","West Virginia","Gonzaga",2017,1,4
+"1382","Xavier","Arizona","Xavier",2017,11,2
+"1383","Gonzaga","Xavier","Gonzaga",2017,1,11
+"1384","Oregon","UNC","UNC",2017,3,1
+"1385","South Carolina","Gonzaga","Gonzaga",2017,7,1
+"1386","UNC","Gonzaga","UNC",2017,1,1
+"1387","Villanova","Radford","Villanova",2018,1,16
+"1388","Virginia Tech","Alabama","Alabama",2018,8,9
+"1389","West Virginia","Murray State","West Virginia",2018,5,12
+"1390","Wichita State","Marshall","Marshall",2018,4,13
+"1391","Florida","St. Bonaventure","Florida",2018,6,11
+"1392","Texas Tech","Stephen F. Austin","Texas Tech",2018,3,14
+"1393","Arkansas","Butler","Butler",2018,7,10
+"1394","Purdue","Cal State Fullerton","Purdue",2018,2,15
+"1395","Villanova","Alabama","Villanova",2018,1,9
+"1396","West Virginia","Marshall","West Virginia",2018,5,13
+"1397","Florida","Texas Tech","Texas Tech",2018,6,3
+"1398","Butler","Purdue","Purdue",2018,10,2
+"1399","Villanova","West Virginia","Villanova",2018,1,5
+"1400","Texas Tech","Purdue","Texas Tech",2018,3,2
+"1401","Villanova","Texas Tech","Villanova",2018,1,3
+"1402","Kansas","Penn","Kansas",2018,1,16
+"1403","Seton Hall","NC State","Seton Hall",2018,8,9
+"1404","Clemson","New Mexico State","Clemson",2018,5,12
+"1405","Auburn","College of Charleston","Auburn",2018,4,13
+"1406","TCU","Syracuse","Syracuse",2018,6,11
+"1407","Michigan State","Bucknell","Michigan State",2018,3,14
+"1408","Rhode Island","Oklahoma","Rhode Island",2018,7,10
+"1409","Duke","Iona","Duke",2018,2,15
+"1410","Kansas","Seton Hall","Kansas",2018,1,8
+"1411","Clemson","Auburn","Clemson",2018,5,4
+"1412","Syracuse","Michigan State","Syracuse",2018,11,3
+"1413","Rhode Island","Duke","Duke",2018,7,2
+"1414","Kansas","Clemson","Kansas",2018,1,5
+"1415","Syracuse","Duke","Duke",2018,11,2
+"1416","Kansas","Duke","Kansas",2018,1,2
+"1417","Xavier","Texas Southern","Xavier",2018,1,16
+"1418","Missouri","Florida State","Florida State",2018,8,9
+"1419","Ohio State","South Dakota State","Ohio State",2018,5,12
+"1420","Gonzaga","UNC Greensboro","Gonzaga",2018,4,13
+"1421","Houston","San Diego State","Houston",2018,6,11
+"1422","Michigan","Montana","Michigan",2018,3,14
+"1423","Texas A&M","Providence","Texas A&M",2018,7,10
+"1424","UNC","Lipscomb","UNC",2018,2,15
+"1425","Xavier","Florida State","Florida State",2018,1,9
+"1426","Ohio State","Gonzaga","Gonzaga",2018,5,4
+"1427","Houston","Michigan","Michigan",2018,6,3
+"1428","Texas A&M","UNC","Texas A&M",2018,7,2
+"1429","Florida State","Gonzaga","Florida State",2018,9,4
+"1430","Michigan","Texas A&M","Michigan",2018,3,7
+"1431","Florida State","Michigan","Michigan",2018,9,3
+"1432","Virginia","UMBC","UMBC",2018,1,16
+"1433","Creighton","Kansas State","Kansas State",2018,8,9
+"1434","Kentucky","Davidson","Kentucky",2018,5,12
+"1435","Arizona","Buffalo","Buffalo",2018,4,13
+"1436","Miami (FL)","Loyola (IL)","Loyola (IL)",2018,6,11
+"1437","Tennessee","Wright State","Tennessee",2018,3,14
+"1438","Nevada","Texas","Nevada",2018,7,10
+"1439","Cincinnati","Georgia State","Cincinnati",2018,2,15
+"1440","UMBC","Kansas State","Kansas State",2018,16,9
+"1441","Kentucky","Buffalo","Kentucky",2018,5,13
+"1442","Loyola (IL)","Tennessee","Loyola (IL)",2018,11,3
+"1443","Nevada","Cincinnati","Nevada",2018,7,2
+"1444","Kansas State","Kentucky","Kansas State",2018,9,5
+"1445","Loyola (IL)","Nevada","Loyola (IL)",2018,11,7
+"1446","Kansas State","Loyola (IL)","Loyola (IL)",2018,9,11
+"1447","Villanova","Kansas","Villanova",2018,1,1
+"1448","Loyola (IL)","Michigan","Michigan",2018,11,3
+"1449","Villanova","Michigan","Villanova",2018,1,3
+"1450","Duke","North Dakota State","Duke",2019,1,16
+"1451","VCU","UCF","UCF",2019,8,9
+"1452","Mississippi State","Liberty","Liberty",2019,5,12
+"1453","Virginia Tech","Saint Louis","Virginia Tech",2019,4,13
+"1454","Maryland","Belmont","Maryland",2019,6,11
+"1455","LSU","Yale","LSU",2019,3,14
+"1456","Louisville","Minnesota","Minnesota",2019,7,10
+"1457","Michigan State","Bradley","Michigan State",2019,2,15
+"1458","Duke","UCF","Duke",2019,1,9
+"1459","Liberty","Virginia Tech","Virginia Tech",2019,12,4
+"1460","Maryland","LSU","LSU",2019,6,3
+"1461","Minnesota","Michigan State","Michigan State",2019,10,2
+"1462","Duke","Virginia Tech","Duke",2019,1,4
+"1463","LSU","Michigan State","Michigan State",2019,3,2
+"1464","Duke","Michigan State","Michigan State",2019,1,2
+"1465","Gonzaga","Fairleigh Dickinson","Gonzaga",2019,1,16
+"1466","Syracuse","Baylor","Baylor",2019,8,9
+"1467","Marquette","Murray State","Murray State",2019,5,12
+"1468","Florida State","Vermont","Florida State",2019,4,13
+"1469","Buffalo","Arizona State","Buffalo",2019,6,11
+"1470","Texas Tech","Northern Kentucky","Texas Tech",2019,3,14
+"1471","Nevada","Florida","Florida",2019,7,10
+"1472","Michigan","Montana","Michigan",2019,2,15
+"1473","Gonzaga","Baylor","Gonzaga",2019,1,9
+"1474","Murray State","Florida State","Florida State",2019,12,4
+"1475","Buffalo","Texas Tech","Texas Tech",2019,6,3
+"1476","Florida","Michigan","Michigan",2019,10,2
+"1477","Gonzaga","Florida State","Gonzaga",2019,1,4
+"1478","Texas Tech","Michigan","Texas Tech",2019,3,2
+"1479","Gonzaga","Texas Tech","Texas Tech",2019,1,3
+"1480","UNC","Iona","UNC",2019,1,16
+"1481","Utah State","Washington","Washington",2019,8,9
+"1482","Auburn","New Mexico State","Auburn",2019,5,12
+"1483","Kansas","Northeastern","Kansas",2019,4,13
+"1484","Iowa State","Ohio State","Ohio State",2019,6,11
+"1485","Houston","Georgia State","Houston",2019,3,14
+"1486","Wofford","Seton Hall","Wofford",2019,7,10
+"1487","Kentucky","Abilene Christian","Kentucky",2019,2,15
+"1488","UNC","Washington","UNC",2019,1,9
+"1489","Auburn","Kansas","Auburn",2019,5,4
+"1490","Ohio State","Houston","Houston",2019,11,3
+"1491","Wofford","Kentucky","Kentucky",2019,7,2
+"1492","UNC","Auburn","Auburn",2019,1,5
+"1493","Houston","Kentucky","Kentucky",2019,3,2
+"1494","Auburn","Kentucky","Auburn",2019,5,2
+"1495","Virginia","Gardner-Webb","Virginia",2019,1,16
+"1496","Ole Miss","Oklahoma","Oklahoma",2019,8,9
+"1497","Wisconsin","Oregon","Oregon",2019,5,12
+"1498","Kansas State","UC-Irvine","UC-Irvine",2019,4,13
+"1499","Villanova","Saint Mary's","Villanova",2019,6,11
+"1500","Purdue","Old Dominion","Purdue",2019,3,14
+"1501","Cincinnati","Iowa","Iowa",2019,7,10
+"1502","Tennessee","Colgate","Tennessee",2019,2,15
+"1503","Virginia","Oklahoma","Virginia",2019,1,9
+"1504","Oregon","UC-Irvine","Oregon",2019,12,13
+"1505","Villanova","Purdue","Purdue",2019,6,3
+"1506","Iowa","Tennessee","Tennessee",2019,10,2
+"1507","Virginia","Oregon","Virginia",2019,1,12
+"1508","Purdue","Tennessee","Purdue",2019,3,2
+"1509","Virginia","Purdue","Virginia",2019,1,3
+"1510","Virginia","Auburn","Virginia",2019,1,5
+"1511","Texas Tech","Michigan State","Texas Tech",2019,3,2
+"1512","Virginia","Texas Tech","Virginia",2019,1,3
