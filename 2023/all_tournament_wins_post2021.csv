@@ -1,0 +1,127 @@
+"","team1","team2","winner","season","team1_seed","team2_seed"
+"1","Michigan","Texas Southern","Michigan",2021,1,16
+"2","LSU","St. Bonaventure","LSU",2021,8,9
+"3","Colorado","Georgetown","Colorado",2021,5,12
+"4","Florida State","UNC Greensboro","Florida State",2021,4,13
+"5","BYU","UCLA","UCLA",2021,6,11
+"6","Texas","Abilene Christian","Abilene Christian",2021,3,14
+"7","UConn","Maryland","Maryland",2021,7,10
+"8","Alabama","Iona","Alabama",2021,2,15
+"9","Michigan","LSU","Michigan",2021,1,8
+"10","Colorado","Florida State","Florida State",2021,5,4
+"11","UCLA","Abilene Christian","UCLA",2021,11,14
+"12","Maryland","Alabama","Alabama",2021,10,2
+"13","Michigan","Florida State","Michigan",2021,1,4
+"14","UCLA","Alabama","UCLA",2021,11,2
+"15","Michigan","UCLA","UCLA",2021,1,11
+"16","Illinois","Drexel","Illinois",2021,1,16
+"17","Loyola (IL)","Georgia Tech","Loyola (IL)",2021,8,9
+"18","Tennessee","Oregon State","Oregon State",2021,5,12
+"19","Oklahoma State","Liberty","Oklahoma State",2021,4,13
+"20","San Diego State","Syracuse","Syracuse",2021,6,11
+"21","West Virginia","Morehead State","West Virginia",2021,3,14
+"22","Clemson","56","Clemson",2021,7,10
+"23","Rutgers","Houston","Houston",2021,2,15
+"24","Cleveland State","Illinois","Illinois",2021,NA,1
+"25","Loyola (IL)","Oregon State","Oregon State",2021,8,12
+"26","Oklahoma State","Syracuse","Syracuse",2021,4,11
+"27","West Virginia","Rutgers","West Virginia",2021,3,2
+"28","Houston","Loyola (IL)","Houston",2021,15,8
+"29","Oregon State","Syracuse","Oregon State",2021,12,11
+"30","Houston","Oregon State","Houston",2021,15,12
+"31","67","Baylor",NA,2021,1,16
+"32","Hartford","UNC","UNC",2021,8,9
+"33","Wisconsin","Villanova","Wisconsin",2021,5,12
+"34","Winthrop","Purdue","Purdue",2021,4,13
+"35","North Texas","Texas Tech","North Texas",2021,6,11
+"36","Utah State","Arkansas","Arkansas",2021,3,14
+"37","Colgate","Florida","Florida",2021,7,10
+"38","Virginia Tech","Ohio State","Ohio State",2021,2,15
+"39","Oral Roberts","Baylor","Baylor",2021,NA,16
+"40","Wisconsin","Villanova","Villanova",2021,5,12
+"41","North Texas","Texas Tech","Texas Tech",2021,6,11
+"42","Arkansas","Florida","Florida",2021,14,10
+"43","Oral Roberts","Baylor","Oral Roberts",2021,NA,16
+"44","Villanova","Arkansas","Arkansas",2021,12,14
+"45","Oral Roberts","Baylor","Baylor",2021,NA,16
+"46","72","Gonzaga",NA,2021,1,16
+"47","Norfolk State","Oklahoma","Oklahoma",2021,8,9
+"48","Missouri","Creighton","Missouri",2021,5,12
+"49","UCSB","Virginia","UCSB",2021,4,13
+"50","Ohio","USC","USC",2021,6,11
+"51","Drake","Kansas","Kansas",2021,3,14
+"52","Eastern Washington","Oregon",NA,2021,7,10
+"53","Iowa","Grand Canyon","Iowa",2021,2,15
+"54","Gonzaga","Oklahoma","Gonzaga",2021,16,9
+"55","Creighton","Ohio","Creighton",2021,12,6
+"56","USC","Kansas","USC",2021,11,14
+"57","Oregon","Iowa","Oregon",2021,10,2
+"58","Gonzaga","Creighton","Gonzaga",2021,16,12
+"59","USC","Oregon","USC",2021,11,10
+"60","Gonzaga","USC","Gonzaga",2021,16,11
+"61","Baylor","Houston","Baylor",2021,16,15
+"62","Gonzaga","UCLA","Gonzaga",2021,16,11
+"63","Baylor","Gonzaga","Baylor",2021,16,16
+"64","Baylor","Norfolk State","Baylor",2022,1,16
+"65","UNC","Marquette","UNC",2022,8,9
+"66","Saint Mary's","Indiana","Saint Mary's",2022,5,12
+"67","UCLA","Akron","UCLA",2022,4,13
+"68","Texas","Virginia Tech","Texas",2022,6,11
+"69","Purdue","Yale","Purdue",2022,3,14
+"70","Murray State","San Francisco","Murray State",2022,7,10
+"71","Kentucky","St. Peter's","St. Peter's",2022,2,15
+"72","Baylor","UNC","UNC",2022,1,8
+"73","Saint Mary's","UCLA","UCLA",2022,5,4
+"74","Texas","Purdue","Purdue",2022,6,3
+"75","Murray State","St. Peter's","St. Peter's",2022,7,15
+"76","UNC","UCLA","UNC",2022,8,4
+"77","Purdue","St. Peter's","St. Peter's",2022,3,15
+"78","UNC","St. Peter's","UNC",2022,8,15
+"79","Kansas","Texas Southern","Kansas",2022,1,16
+"80","San Diego State","Creighton","Creighton",2022,8,9
+"81","Iowa","Richmond","Richmond",2022,5,12
+"82","Providence","South Dakota State","Providence",2022,4,13
+"83","LSU","Iowa State","Iowa State",2022,6,11
+"84","Wisconsin","Colgate","Wisconsin",2022,3,14
+"85","USC","66","USC",2022,7,10
+"86","Miami (FL)","Auburn","Auburn",2022,2,15
+"87","Jacksonville State","Kansas","Kansas",2022,NA,1
+"88","Creighton","Richmond","Creighton",2022,9,12
+"89","Providence","Iowa State","Providence",2022,4,11
+"90","Wisconsin","Miami (FL)","Miami (FL)",2022,3,2
+"91","Auburn","Kansas","Kansas",2022,15,1
+"92","Providence","Iowa State","Providence",2022,4,11
+"93","Miami (FL)","Kansas","Kansas",2022,2,1
+"94","50","Arizona",NA,2022,1,16
+"95","Wright State","Seton Hall","Wright State",2022,8,9
+"96","TCU","Houston","Houston",2022,5,12
+"97","UAB","Illinois","UAB",2022,4,13
+"98","Chattanooga","Colorado State","Colorado State",2022,6,11
+"99","Michigan","Tennessee","Tennessee",2022,3,14
+"100","Longwood","Ohio State","Longwood",2022,7,10
+"101","Loyola (IL)","Villanova","Villanova",2022,2,15
+"102","Delaware","Arizona","Arizona",2022,NA,16
+"103","TCU","Houston","TCU",2022,5,12
+"104","Illinois","Michigan","Michigan",2022,13,3
+"105","Tennessee","Ohio State","Tennessee",2022,14,10
+"106","Villanova","Arizona","Villanova",2022,15,16
+"107","Houston","Michigan","Houston",2022,12,3
+"108","Villanova","Houston","Villanova",2022,15,12
+"109","50","Gonzaga",NA,2022,1,16
+"110","Georgia State","Boise State","Georgia State",2022,8,9
+"111","Memphis","UConn","Memphis",2022,5,12
+"112","New Mexico State","Arkansas","Arkansas",2022,4,13
+"113","Vermont","Alabama","Vermont",2022,6,11
+"114","Notre Dame","Texas Tech","Texas Tech",2022,3,14
+"115","Montana State","Michigan State","Michigan State",2022,7,10
+"116","Davidson","Duke","Duke",2022,2,15
+"117","Cal State Fullerton","Gonzaga","Gonzaga",2022,NA,16
+"118","Memphis","New Mexico State","Memphis",2022,5,4
+"119","Arkansas","Notre Dame","Notre Dame",2022,13,3
+"120","Texas Tech","Michigan State","Michigan State",2022,14,10
+"121","Duke","Gonzaga","Duke",2022,15,16
+"122","Arkansas","Texas Tech","Arkansas",2022,13,14
+"123","Duke","Arkansas","Duke",2022,15,13
+"124","78","Villanova",NA,2022,NA,15
+"125","Kansas","Duke","Kansas",2022,1,15
+"126","UNC","Kansas","UNC",2022,8,1
