@@ -19,20 +19,20 @@ Dataset_test <- both_data %>%
 
 
 # Fit a stochastic gradient boosting machine
-tunegrid <- expand.grid(n.trees= c(100), interaction.depth = c(3), shrinkage = c(.1), n.minobsinnode = c(20))
-tunegrid <- expand.grid(n.trees= c(100), interaction.depth = c(1), shrinkage = c(.1), n.minobsinnode = c(20))
+#tunegrid <- expand.grid(n.trees= c(100), interaction.depth = c(3), shrinkage = c(.1), n.minobsinnode = c(20)) #gbm
+tunegrid <- expand.grid(mtry = 2,3,6,10,20) #rf
 
 model <- train(variable~.,Dataset_test,
-               method='gbm', 
+               method='rf', 
                preProcess = c("center"),
                tuneGrid=tunegrid,
                trControl=trainControl(
-                 method='repeatedcv',number=5, repeats = 10,
+                 method='cv',number=5, 
                  verbose = F,
                  classProbs = TRUE))
 model$results
 model
-library(gbm)
+library(randomForest)
 plot(varImp(model))
 
 # -------------------------------------------------------------------------
